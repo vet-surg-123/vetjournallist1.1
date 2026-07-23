@@ -36,9 +36,25 @@ SMALL_ANIMAL_TERMS = ["dogs", "dog", "cats", "cat", "feline", "canine", "small a
 JOURNAL_EXCLUDE = [
 ]
 
-# 🔧(6) '이 저널만 보기'로 바꾸고 싶을 때: 아래에 저널을 넣고 USE_WHITELIST = True
-JOURNAL_WHITELIST = []
-USE_WHITELIST = False
+# 🔧(6) '이 저널만 보기' 화이트리스트.  USE_WHITELIST = True 이면 아래 저널만 수집.
+#      한 줄에 하나씩. 빼려면 그 줄 맨 앞에 #, 추가하려면 새 줄에 "저널약어" 추가.
+JOURNAL_WHITELIST = [
+    "J Vet Intern Med",            # 1 내과 (JVIM)
+    "J Small Anim Pract",          # 2 소동물 임상 (JSAP)
+    "J Am Vet Med Assoc",          # 3 JAVMA
+    "J Feline Med Surg",           # 4 고양이
+    "Vet Surg",                    # 5 외과
+    "Vet Comp Orthop Traumatol",   # 6 정형 (VCOT)
+    "Vet Radiol Ultrasound",       # 7 영상 (VRU)
+    "J Vet Cardiol",               # 8 심장
+    "Vet Comp Oncol",              # 9 종양
+    "Am J Vet Res",                # 10 AJVR
+    "Vet J",                       # 11 The Veterinary Journal
+    "BMC Vet Res",                 # 12 BMC
+    "Animals (Basel)",             # 13 Animals (MDPI)
+    "Front Vet Sci",               # 14 Frontiers
+]
+USE_WHITELIST = True   # ← True: 위 목록만 수집 / False: 소동물 전체 수집
 
 # 🔧(8) 분야 우선순위 = 아래 딕셔너리의 '순서'.  위에서부터 먼저 확정됩니다.
 #      한 논문은 한 분야로만 분류됩니다(위에서 처음 걸리는 분야).
@@ -165,12 +181,20 @@ def load_previous_summaries():
     return cache
 
 
+def build_journal_clause():
+    # 화이트리스트가 켜져 있으면 검색 자체를 그 저널들로 한정
+    if USE_WHITELIST and JOURNAL_WHITELIST:
+        ors = " OR ".join(f'"{j}"[jour]' for j in JOURNAL_WHITELIST)
+        return f" AND ({ors})"
+    return ""
+
+
 def get_papers():
     date_from = (datetime.now() - timedelta(days=LOOKBACK_DAYS)).strftime("%Y/%m/%d")
     date_to = datetime.now().strftime("%Y/%m/%d")
     sa = " OR ".join(f'"{t}"[tiab]' for t in SMALL_ANIMAL_TERMS)
     term = urllib.parse.quote(
-        f'({sa}) AND ("{date_from}"[PDAT] : "{date_to}"[PDAT])'
+        f'({sa}){build_journal_clause()} AND ("{date_from}"[PDAT] : "{date_to}"[PDAT])'
     )
     search = fetch_json(
         f"{BASE}esearch.fcgi?db=pubmed&term={term}&retmax={MAX_RESULTS}&sort=date&retmode=json"
