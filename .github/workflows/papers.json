@@ -1,0 +1,13 @@
+{
+  "updated": "(첫 자동 실행 전)",
+  "total": 0,
+  "categories": {
+    "neurosurgery": "신경외과",
+    "orthopedics": "정형외과",
+    "imaging": "영상",
+    "internal": "내과",
+    "oncology": "종양",
+    "other": "기타"
+  },
+  "papers": []
+}
