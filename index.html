@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- 🔧(1) 헤더 제목/부제는 아래 <header> 안에서 수정 -->
+<title>Veterinary Journal List</title>
+<style>
+  /* 🔧(2) 색/폰트/디자인 — 이 :root 값만 바꾸면 전체 톤이 바뀝니다 */
+  :root{
+    --bg:#f5f7fa; --card:#ffffff; --ink:#1b2733; --mut:#7b8794;
+    --line:#e3e8ef; --brand:#15616d; --brand2:#1f7a8c; --accent:#e8f2f4;
+    --new:#e8f7f0; --newink:#2a9d6e;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:'Apple SD Gothic Neo','Malgun Gothic',system-ui,sans-serif;
+       background:var(--bg);color:var(--ink);line-height:1.6}
+
+  header{background:var(--brand);color:#fff;padding:34px 22px 26px}
+  .head-inner{max-width:900px;margin:0 auto}
+  header .eyebrow{font-size:11px;letter-spacing:2px;color:#9fd3dc;margin-bottom:8px}
+  header h1{font-size:24px;font-weight:800;margin-bottom:6px;letter-spacing:.3px}
+  header p{font-size:13px;color:#bfe0e6}
+
+  .tabs{background:#fff;border-bottom:1px solid var(--line)}
+  .tabs-inner{max-width:900px;margin:0 auto;display:flex}
+  .tab{flex:1;padding:13px;font-size:13px;font-weight:700;color:var(--mut);
+       background:none;border:none;cursor:pointer;border-bottom:2px solid transparent}
+  .tab.active{color:var(--brand2);border-bottom-color:var(--brand2)}
+
+  .filter{background:#fff;border-bottom:1px solid var(--line);padding:13px 22px}
+  .filter-inner{max-width:900px;margin:0 auto;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  .filter.hidden{display:none}
+  .flabel{font-size:12px;color:var(--mut);margin-right:2px}
+  .chip{font-size:12px;padding:5px 14px;border-radius:20px;border:1px solid var(--line);
+        background:#fff;color:var(--brand2);cursor:pointer;transition:.15s}
+  .chip.active,.chip:hover{background:var(--brand2);color:#fff;border-color:var(--brand2)}
+
+  .wrap{max-width:900px;margin:26px auto;padding:0 22px}
+  .status{font-size:12px;color:var(--mut);margin-bottom:16px;display:flex;align-items:center;gap:6px}
+  .dot{width:7px;height:7px;border-radius:50%;background:var(--newink);display:inline-block}
+
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;
+        padding:20px 22px;margin-bottom:13px;transition:box-shadow .15s}
+  .card:hover{box-shadow:0 4px 18px rgba(21,97,109,.08)}
+  .card.read{opacity:.55}
+  .meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:9px}
+  .badge{font-size:10px;font-weight:800;padding:3px 9px;border-radius:4px;background:var(--accent);color:var(--brand)}
+  .cat{font-size:10px;font-weight:800;padding:3px 9px;border-radius:4px;background:#eef1f5;color:#556}
+  .date{font-size:11px;color:#aab}
+  .new{font-size:10px;font-weight:800;padding:2px 8px;border-radius:4px;background:var(--new);color:var(--newink)}
+  .title{font-size:15px;font-weight:700;color:var(--brand);line-height:1.5;margin-bottom:7px}
+  .title a{color:inherit;text-decoration:none}
+  .title a:hover{text-decoration:underline}
+  .summary{font-size:13px;color:#2c3e50;background:#f0f6f7;border-radius:8px;
+           padding:10px 14px;margin:8px 0;line-height:1.75}
+  .trans{font-size:13px;color:var(--brand2);margin-top:6px;line-height:1.6;display:none}
+  .trans.show{display:block}
+  .authors{font-size:12px;color:var(--mut);margin-top:6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .foot{display:flex;justify-content:space-between;align-items:center;margin-top:13px;gap:8px;flex-wrap:wrap}
+  .btns{display:flex;gap:6px}
+  .btn{font-size:11px;padding:4px 11px;border-radius:6px;border:1px solid var(--line);
+       background:#fff;color:var(--mut);cursor:pointer}
+  .btn:hover{color:var(--brand2);border-color:#bcd}
+  .btn.done{color:var(--newink);border-color:#bce8d3;background:#f2fbf6}
+  .pubmed{font-size:12px;color:var(--brand2);text-decoration:none;border:1px solid #cfe2e6;border-radius:6px;padding:4px 12px}
+  .pubmed:hover{background:var(--accent)}
+
+  .empty,.loading{text-align:center;padding:56px 0;color:var(--mut);font-size:14px}
+  .spinner{width:30px;height:30px;border:3px solid var(--line);border-top-color:var(--brand2);
+           border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 14px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  footer{text-align:center;padding:30px;font-size:12px;color:#b7c0ca}
+  @media(max-width:520px){header h1{font-size:20px}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="head-inner">
+    <!-- 🔧(1) 제목/부제 -->
+    <div class="eyebrow">VETERINARY · SMALL ANIMAL · PUBMED</div>
+    <h1>Veterinary Journal List</h1>
+    <p>소동물 최신 논문 · 매일 아침 자동 업데이트</p>
+  </div>
+</header>
+
+<div class="tabs">
+  <div class="tabs-inner">
+    <button class="tab active" onclick="switchTab(this,'category')">분야별</button>
+    <button class="tab" onclick="switchTab(this,'journal')">저널별</button>
+  </div>
+</div>
+
+<div class="filter" id="filter-category">
+  <div class="filter-inner" id="cat-buttons">
+    <span class="flabel">분야</span>
+    <!-- 버튼은 자동 생성 -->
+  </div>
+</div>
+
+<div class="filter hidden" id="filter-journal">
+  <div class="filter-inner" id="jour-buttons">
+    <span class="flabel">저널</span>
+    <!-- 버튼은 데이터에서 자동 생성 -->
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="status"><span class="dot"></span><span id="status">논문을 불러오는 중...</span></div>
+  <div id="list">
+    <div class="loading"><div class="spinner"></div>논문 목록을 불러오는 중입니다...</div>
+  </div>
+</div>
+
+<footer>데이터 출처: PubMed (NCBI) · 자동 수집</footer>
+
+<script>
+// 화면 표시용 분야 순서 & 이름 (수집기와 동일)
+const CAT_ORDER = ["neurosurgery","orthopedics","imaging","internal","oncology"];
+let CAT_LABELS = {neurosurgery:"신경외과",orthopedics:"정형외과",imaging:"영상",internal:"내과",oncology:"종양",other:"기타"};
+
+// 🔧(17) NEW 뱃지 기준 일수
+const NEW_DAYS = 14;
+
+let allPapers = [];
+let curTab = "category";
+let curCat = "all";
+let curJournal = "all";
+let readSet = new Set(JSON.parse(localStorage.getItem("vjl_read") || "[]"));
+
+function isNew(dateStr){
+  if(!dateStr) return false;
+  const d = new Date(dateStr);
+  return (Date.now() - d) < NEW_DAYS*24*60*60*1000;
+}
+
+function markRead(id, idx){
+  if(readSet.has(id)) return;
+  readSet.add(id);
+  localStorage.setItem("vjl_read", JSON.stringify([...readSet]));
+  const c=document.getElementById("card-"+idx), b=document.getElementById("rb-"+idx);
+  if(c) c.classList.add("read");
+  if(b){b.textContent="✓ 읽음";b.classList.add("done");}
+}
+
+function buildCatButtons(){
+  const box=document.getElementById("cat-buttons");
+  let html='<span class="flabel">분야</span>';
+  html+=`<button class="chip active" onclick="filterCat(this,'all')">전체</button>`;
+  CAT_ORDER.forEach(c=>{
+    html+=`<button class="chip" onclick="filterCat(this,'${c}')">${CAT_LABELS[c]||c}</button>`;
+  });
+  box.innerHTML=html;
+}
+function buildJournalButtons(){
+  const box=document.getElementById("jour-buttons");
+  const set=[...new Set(allPapers.map(p=>p.journal).filter(Boolean))].sort();
+  let html='<span class="flabel">저널</span>';
+  html+=`<button class="chip active" onclick="filterJournal(this,'all')">전체</button>`;
+  set.forEach(j=>{
+    const safe=j.replace(/'/g,"\\'");
+    html+=`<button class="chip" onclick="filterJournal(this,'${safe}')">${j}</button>`;
+  });
+  box.innerHTML=html;
+}
+
+function switchTab(btn,tab){
+  curTab=tab;
+  document.querySelectorAll(".tab").forEach(b=>b.classList.remove("active"));
+  btn.classList.add("active");
+  document.getElementById("filter-category").classList.toggle("hidden",tab!=="category");
+  document.getElementById("filter-journal").classList.toggle("hidden",tab!=="journal");
+  render();
+}
+function filterCat(btn,cat){
+  curCat=cat;
+  document.querySelectorAll("#cat-buttons .chip").forEach(b=>b.classList.remove("active"));
+  btn.classList.add("active");
+  render();
+}
+function filterJournal(btn,j){
+  curJournal=j;
+  document.querySelectorAll("#jour-buttons .chip").forEach(b=>b.classList.remove("active"));
+  btn.classList.add("active");
+  render();
+}
+
+function render(){
+  const list=document.getElementById("list");
+  let items = curTab==="journal"
+    ? (curJournal==="all"?allPapers:allPapers.filter(p=>p.journal===curJournal))
+    : (curCat==="all"?allPapers:allPapers.filter(p=>p.category===curCat));
+
+  if(!items.length){
+    list.innerHTML='<div class="empty">해당 조건의 논문이 없습니다.</div>';
+    return;
+  }
+  list.innerHTML=items.map((p,i)=>{
+    const r=readSet.has(p.id);
+    const catLabel=CAT_LABELS[p.category]||"기타";
+    return `
+    <div class="card ${r?'read':''}" id="card-${i}">
+      <div class="meta">
+        <span class="badge">${p.journal||'—'}</span>
+        <span class="cat">${catLabel}</span>
+        <span class="date">${p.date||''}</span>
+        ${isNew(p.date)?'<span class="new">NEW</span>':''}
+      </div>
+      <div class="title"><a href="${p.url}" target="_blank" rel="noopener" onclick="markRead('${p.id}',${i})">${p.title}</a></div>
+      ${p.summary_ko?`<div class="summary">📋 ${p.summary_ko}</div>`:''}
+      <div class="trans" id="tr-${i}"></div>
+      <div class="authors">${p.authors||''}</div>
+      <div class="foot">
+        <div class="btns">
+          <button class="btn ${r?'done':''}" id="rb-${i}" onclick="markRead('${p.id}',${i})">${r?'✓ 읽음':'읽음 표시'}</button>
+          <button class="btn" onclick="translate(${i},this)">🇰🇷 제목 번역</button>
+        </div>
+        <a class="pubmed" href="${p.url}" target="_blank" rel="noopener">PubMed →</a>
+      </div>
+    </div>`;
+  }).join("");
+  window._view=items;
+}
+
+async function translate(idx,btn){
+  const box=document.getElementById("tr-"+idx);
+  if(box.classList.contains("show")){box.classList.remove("show");btn.textContent="🇰🇷 제목 번역";return;}
+  if(box.textContent){box.classList.add("show");btn.textContent="번역 닫기";return;}
+  const title=(window._view&&window._view[idx])?window._view[idx].title:"";
+  btn.textContent="번역 중...";
+  try{
+    const url=`https://api.mymemory.translated.net/get?q=${encodeURIComponent(title)}&langpair=en|ko`;
+    const d=await (await fetch(url)).json();
+    box.textContent="🇰🇷 "+(d.responseData?.translatedText||"번역 실패");
+  }catch(e){box.textContent="번역 중 오류가 발생했습니다.";}
+  box.classList.add("show");btn.textContent="번역 닫기";
+}
+
+async function init(){
+  buildCatButtons();
+  try{
+    const res=await fetch("papers.json?v="+Date.now());
+    if(!res.ok) throw new Error("no papers.json");
+    const data=await res.json();
+    if(data.categories) CAT_LABELS=Object.assign(CAT_LABELS,data.categories);
+    allPapers=data.papers||[];
+    buildCatButtons();
+    buildJournalButtons();
+    if(!allPapers.length){
+      document.getElementById("status").textContent="아직 논문이 없습니다 — 첫 자동 실행 후 채워집니다.";
+    }else{
+      document.getElementById("status").textContent=`마지막 업데이트: ${data.updated} · 총 ${data.total}편`;
+    }
+    render();
+  }catch(e){
+    document.getElementById("list").innerHTML=
+      '<div class="empty">논문 데이터를 불러올 수 없습니다.<br>papers.json 파일이 있는지 확인해주세요.</div>';
+    document.getElementById("status").textContent="업데이트 정보 없음";
+  }
+}
+init();
+</script>
+</body>
+</html>
