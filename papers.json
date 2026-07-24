@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23 08:09 UTC",
+  "updated": "2026-07-24 07:42 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -176,17 +176,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42450663",
-      "title": "Prevalence of rs850683722 Variant and Its Influence on the Course of Myxomatous Mitral Valve Disease in 105 Cavalier King Charles Spaniel Dogs in the Polish Population.",
-      "authors": "Lewicki M, Górczyńska-Kosiorz SB, Gach J, Frydrychowski P, Wojtczak Z",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jun 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450663/",
-      "abstract": "Myxomatous mitral valve disease (MMVD) is the most common acquired cardiac disease in small-breed dogs and shows particularly high prevalence and early onset in Cavalier King Charles Spaniels (CKCS). Although MMVD is considered a complex, polygenic disease, the clinical relevance of individual genetic variants remains incompletely understood. The angiotensin-converting enzyme (ACE) gene variant rs850683722 has previously been associated with altered ACE activity and differences in renin-angioten",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42485707",
       "title": "Association of component measurement variability and disease severity with variability of calculated mitral regurgitant fraction in dogs with myxomatous mitral valve disease.",
       "authors": "McAulay G, Singleton D, Rishniw M",
@@ -195,28 +184,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42485707/",
       "abstract": "Echocardiographic calculation of mitral regurgitant fraction (MR%) may complement variables used to assess myxomatous mitral valve disease (MMVD) severity. The geometric technique of calculating MR% uses four component variable measurements. Calculations using multiple measurements necessarily influence variability. The influence of disease severity on component measurements and MR% variability has not been explored. This study explored the contribution of component measurement variability and t",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42450650",
-      "title": "Effects of Sodium Butyrate on Digestive Metabolism, Blood Gas Parameters and Blood Biochemical Indices in Tumbler Pigeons Based on Untargeted Metabolomics.",
-      "authors": "Liao K, Li H, Li X, Guo X, Zhao X",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jun 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450650/",
-      "abstract": "This study investigated the effects of dietary sodium butyrate supplementation on blood gas profiles, biochemical parameters, and untargeted plasma metabolomics in tumbler pigeons. Eighty tumbler pigeons of similar age, body weight, and training intensity were randomly allocated into four groups: a control group without sodium butyrate supplementation (CON) and three sodium butyrate-supplemented groups receiving 6 mg/d (T1), 12 mg/d (T2), and 18 mg/d (T3), respectively. All birds were maintained",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42450646",
-      "title": "Eggshell Membrane Peptides Alleviate IL-1β-Induced Inflammatory Responses and Extracellular Matrix Degradation in Canine Chondrocytes by Inhibiting the NF-κB Signaling Pathway.",
-      "authors": "Mao X, Xu L, Cao Y, Wang M, Wang W",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jun 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450646/",
-      "abstract": "Eggshell membrane peptides (ESMPs) are natural bioactive compounds with reported chondroprotective properties. However, their regulatory effects on canine chondrocytes remain unclear. This study investigated ESMP in an interleukin-1&#x3b2; (IL-1&#x3b2;)-induced inflammatory model of canine chondrocytes. Chondrocytes were assigned to control (Cont), IL-1&#x3b2;, and ESMP + IL-1&#x3b2; groups. Cell viability was assessed using the Cell Counting Kit-8 (CCK-8) assay. NF-&#x3ba;B p65 nuclear transloc",
-      "category": "other",
       "summary_ko": ""
     },
     {
@@ -363,6 +330,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42492422",
+      "title": "A retrospective (2020-2025), multicenter study of myxomatous mitral valve disease in Chihuahuas from Italy, Sweden, and the United States of America.",
+      "authors": "Spalla I, Bjerknaes MB, Bertuccini T, Menciotti G, Showers A",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Jul 3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492422/",
+      "abstract": "Chihuahuas are affected by myxomatous mitral valve disease (MMVD). The aim of this study was to investigate MMVD in Chihuahuas, specifically clinical and echocardiographic characteristics including probability of pulmonary hypertension (PH), disease progression, and survival. A retrospective study of privately owned Chihuahuas with an echocardiographic study compatible with MMVD from four cardiology centers across three countries (2020-2025) was conducted. Differences between signalment, centers",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42450757",
       "title": "Occurrence of Spirometra mansoni in Domestic Dogs from Rural Ecuador and Its Public Health Relevance.",
       "authors": "Coello Peralta RD, Baquerizo Orrala Z, Andrada AR, Calle Atariguana D, Ramallo G",
@@ -371,6 +349,83 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42450757/",
       "abstract": "Spirometra mansoni causes sparganosis in humans and spirometrosis in domestic dogs. It is transmitted through the consumption of raw or undercooked meat from fish, frogs or paratenic animals, producing subcutaneous and tissue infections in humans, whereas dogs or cats develop gastrointestinal infections. Sparganosis is a zoonotic parasitosis associated with freshwater aquatic environments, prevalent in tropical and subtropical regions of the world. The purpose of this investigation was to identi",
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42487432",
+      "title": "EXPRESS: Intraoperative opioid-sparing effect of a quadratus lumborum block using low-concentration bupivacaine and dexmedetomidine in cats undergoing ovariohysterectomy.",
+      "authors": "Takusagawa F, Takusagawa Y, Kimura T",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Jul 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42487432/",
+      "abstract": "This study aimed to evaluate the intraoperative opioid-sparing effect of quadratus lumborum block (QLB) using low-concentration bupivacaine combined with dexmedetomidine in cats undergoing ovariohysterectomy. A total of 28 cats scheduled for ovariohysterectomy and classified as ASA I were enrolled and randomly allocated to either a bupivacaine (0.125%) and saline (BS) or bupivacaine (0.125%) and dexmedetomidine (1 &#xb5;g/kg) (BD) group. The cats underwent ultrasound-guided QLB in sternal recumb",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42486512",
+      "title": "Endogenous rhinolithiasis in a dog: computed tomographic findings, histopathology and surgical removal via a transalveolar approach.",
+      "authors": "Nanri M, Murakami M, Kojima T, Suematsu M",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Jul 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42486512/",
+      "abstract": "An 8-year-old spayed female Chihuahua (1.9&#x2009;kg) was referred for a 7-month history of dyspnoea, stertor and right-sided nasal discharge. Contrast-enhanced computed tomography identified a 6.3&#x2009;&#xd7;&#x2009;4.1&#x2009;&#xd7;&#x2009;3.6&#x2009;mm irregular mineral-attenuating structure within the right nasal cavity and mild bilateral intranasal fluid, supporting rhinolithiasis. Endoscopic retrieval was attempted but was unsuccessful because the calculus was large relative to the nasal",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42486172",
+      "title": "Clinical trial reveals limited clinical and microbiome effects following oral fecal microbiota transplantation in dogs with chronic enteropathy responsive to tylosin.",
+      "authors": "Hanifeh M, Huhtinen M, Ganz HH, Heilmann RM, Huang W",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Jul 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42486172/",
+      "abstract": "To evaluate clinical response and fecal biomarkers in dogs with tylosin-responsive enteropathy (TRE) treated with oral fecal microbiota transplantation (FMT). In this prospective, randomized, double-blind, placebo-controlled trial (conducted between August 1, 2020, and December 31, 2022), 14 client-owned dogs with confirmed tylosin-responsive enteropathy entered the treatment phase. Dogs received oral FMT (n = 7) or placebo (7) for 4 weeks; 1 placebo-treated dog was excluded (pyometra), leaving ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42486166",
+      "title": "Retrospective evaluation of canine parvovirus monoclonal antibody supports faster clinical recovery in shelter dogs with naturally occurring canine parvovirus.",
+      "authors": "Welton M, Hadden H, Herron M, Winston JA",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Jul 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42486166/",
+      "abstract": "To retrospectively evaluate the clinical efficacy and safety of the canine parvovirus monoclonal antibody (CPMA) administered with standardized supportive care for naturally occurring canine parvovirus (CPV) in a shelter setting. Electronic medical records from CPV-positive dogs treated at Gigi's Parvovirus Treatment Center between June 2020 and May 2024 were reviewed. All dogs received a standardized standard-of-care (SOC) algorithm. Dogs treated prior to August 2023 received SOC alone (n = 49)",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42486157",
+      "title": "A single-layer, full-thickness, simple continuous suture pattern is safe for hysterotomy closure in dogs undergoing cesarean section.",
+      "authors": "Goldblatt BH, Burns JG, Marvel SJ",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Jul 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42486157/",
+      "abstract": "To evaluate short-term complications for single-layer, full-thickness, simple continuous appositional closure (AC) of the uterus in dogs undergoing cesarean section (CS). Additional objectives included comparing the complication rates with dogs that underwent an inverting closure (IC) and reporting the litter size in dogs with subsequent pregnancies. A medical record review for dogs undergoing CS between May 2014 and February 2025 was performed at Colorado State University. Data retrieved includ",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42486153",
+      "title": "Echinococcus species in North America: an increasing concern for domestic animals, wildlife, and humans.",
+      "authors": "Garrett KB, Cleveland CA, Dukes CG, Tresner SMD, Barton EP",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Jul 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42486153/",
+      "abstract": "Echinococcus multilocularis and Echinococcus canadensis (genotypes G8 and G10) are emerging parasites of concern across North America. Historically confined to northern and western regions, both species have been detected with increasing frequency in new geographic areas in wildlife, domestic dogs, and humans. Both Echinococcus spp have indirect life cycles involving carnivore definitive hosts (domestic and wild canids) and either herbivore intermediate hosts (for E canadensis) or rodents (for E",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42486150",
+      "title": "Automated acute pain assessment in brachycephalic cats with ocular pain using the Feline Grimace Scale.",
+      "authors": "Steagall PV, Li J, Marangoni S, Bukhari SSUH",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Jul 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42486150/",
+      "abstract": "This study aimed to evaluate the feasibility and limitations of an AI-powered Feline Grimace Scale (FGS) pipeline for acute pain assessment in brachycephalic cats with ocular pain. A total of 200 facial images of brachycephalic cats with ocular pain were used for model training and evaluation. A landmark localization model was used to predict facial landmarks. Pain prediction was performed with regression models from a machine-learning library (XGBoost; XGBoost Developers); 5 independent submode",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -704,123 +759,24 @@
       "summary_ko": ""
     },
     {
-      "id": "42449371",
-      "title": "Survival patterns and prognostic factors associated with canine parvovirus infection in dogs presented at the KNUST Veterinary Teaching Hospital in Kumasi, Ghana.",
-      "authors": "Opoku ED, Folitse RD, Kodie DO, Agbota JD, Esther A",
-      "journal": "BMC Vet Res",
-      "date": "2026 Jul 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42449371/",
-      "abstract": "Canine parvovirus (CPV) remains one of the most severe and life-threatening infectious diseases affecting dogs globally, with disproportionately high mortality in puppies. Although CPV has been extensively studied in terms of prevalence and clinical presentation, evidence on survival patterns and prognostic factors in low-and middle-income country veterinary settings remains limited. This cohort study was undertaken at a Veterinary Teaching Hospital, Kumasi, Ghana. Diagnosis of CPV infection was",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42447949",
-      "title": "Diagnostic evaluation of a flow cytometry-based direct antiglobulin test and demographic analysis in dogs with suspected immune thrombocytopenia.",
-      "authors": "Nedumpun T, Kamenkit O, Thongwandi S, Tripipat T, Wadeerat S",
-      "journal": "Vet J",
-      "date": "2026 Jul 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42447949/",
-      "abstract": "Canine immune thrombocytopenia (ITP) is an autoimmune haematological disorder characterized by antibody-mediated platelet destruction, and diagnosis remains challenging because of limited definitive diagnostic tools. This study evaluated an in-house flow cytometry-based direct antiglobulin test (DAT) for the detection of platelet-bound IgG and investigated demographic factors associated with DAT positivity in thrombocytopenic dogs. A total of 100 healthy dogs and 1127 thrombocytopenic dogs were ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42447907",
-      "title": "Trephination and the Seldinger technique achieve comparable sinonasal distribution of clotrimazole cream in canine cadavers.",
-      "authors": "Langton S, Chan J, Gal A, Burchell R",
-      "journal": "Am J Vet Res",
-      "date": "2026 Jul 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42447907/",
-      "abstract": "To compare the volumetric distribution of clotrimazole cream within the sinonasal cavities of cadaver dogs using frontal sinus trephination or the Seldinger technique. Cadaver dogs with normal sinonasal cavities underwent frontal sinus trephination or the Seldinger technique in this prospective experimental study between October 2022 and March 2023. Contrast-enhanced clotrimazole cream was instilled into the sinonasal cavities, and distribution was assessed using CT. Volumetric measurements were",
+      "id": "42492063",
+      "title": "Unusually slow progression of a high-grade intramedullary oligodendroglioma in a dog: serial magnetic resonance imaging findings and clinical course over two years.",
+      "authors": "Wise R, Miller LR, Church ME, Mai W",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492063/",
+      "abstract": "A 7.5-year-old spayed female French Bulldog presented for back pain that did not respond to conservative management after the dog had jumped off a couch. Magnetic resonance imaging (MRI) identified an intramedullary mass that was T2 hyperintense, T1 iso- to hypointense, short tau inversion recovery (STIR) hyperintense, strongly rim-enhancing, and centrally suppressed on post-contrast T2-fluid-attenuated inversion recovery (FLAIR) images. Despite a suspected glial cell neoplasm, clinical signs in",
       "category": "imaging",
       "summary_ko": ""
     },
     {
-      "id": "42447906",
-      "title": "Membrane-free guided tissue regeneration with enamel matrix derivative and bone graft materials improves 3-dimensional periodontal outcomes in small dogs.",
-      "authors": "Kwon D, Jang YJ, Kim G",
-      "journal": "Am J Vet Res",
-      "date": "2026 Jul 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42447906/",
-      "abstract": "To evaluate the clinical and radiographic outcomes of membrane-free guided tissue regeneration (GTR) using enamel matrix derivative (EMD) with bone grafts in dogs with vertical infrabony periodontal defects. This retrospective study reviewed cases of client-owned dogs that underwent membrane-free GTR using EMD in combination with bone grafts between August 1, 2023, and September 30, 2025. Outcomes were assessed from records and cone-beam computed tomography (CBCT) datasets using 2-D measurements",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42447905",
-      "title": "Computer-assisted navigation improves lumbar vertebral body drilling accuracy in dogs.",
-      "authors": "Bonilla AF, Goh C, Seim H, Easley JT",
-      "journal": "Am J Vet Res",
-      "date": "2026 Jul 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42447905/",
-      "abstract": "To evaluate the accuracy of computer-assisted navigation compared with a freehand technique for bicortical lumbar vertebral body drilling in canine cadavers. This was a randomized cadaveric experimental study using canine lumbar spines (n = 9). Two surgeons performed bicortical lumbar vertebral body drilling with navigated and freehand techniques on randomly assigned cadavers. Drill trajectories were independently assessed by 4 blinded veterinary surgeons using the modified Zdichavsky classifica",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42444066",
-      "title": "EXPRESS: Comparing the Efficacy of Transmucosal and Subcutaneous Glucagon Administration in Response to Insulin-Induced Hypoglycemia in Healthy Cats.",
-      "authors": "Lam JPM, Justus-Heale O, Snead E",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Jul 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42444066/",
-      "abstract": "ObjectivesTo evaluate the efficacy of two different formulations of glucagon given by three different routes (subcutaneous; SQ, rectal, intranasal; IN) for correcting insulin-induced hypoglycaemia in cats and to describe any adverse effects and compare the time required for administration by each route.MethodsA randomized, nonblinded, sham-controlled crossover study was conducted in six healthy cats, with a 7-day washout period between treatments. Hypoglycemia was induced using a continuous rate",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42444042",
-      "title": "Estimation of left ventricular-arterial coupling using echocardiography in cats with hypertrophic cardiomyopathy.",
-      "authors": "Kittirattanachai A, Surachetpong SD",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Jul 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42444042/",
-      "abstract": "Ventricular-arterial coupling is the interaction between the ventricle and the arterial system, reflecting overall cardiovascular performance. It is estimated by the ratio of effective arterial elastance (Ea) to left ventricular end-systolic elastance (Ees). Inappropriate ventricular-arterial coupling has been associated with greater disease severity and poorer prognosis. However, no studies have evaluated ventricular-arterial coupling in cats with hypertrophic cardiomyopathy. Therefore, this st",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42443922",
-      "title": "Effect of mixed microbial silage of mulberry and navel orange residue on growth performance, blood metabolism, and rumen microbiome changes in beef cattle.",
-      "authors": "Cao X, Song X, Guo H, Ou X, Chen C",
-      "journal": "BMC Vet Res",
-      "date": "2026 Jul 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42443922/",
-      "abstract": "Mulberry and navel orange residue are limited in practical application due to high moisture content, susceptibility to spoilage, and the presence of minor anti-nutritional factors. The main aim of the present study was to investigate the effect of mixed microbial silage of mulberry and navel orange residue on growth performance, blood metabolism, and rumen microbiome changes in beef cattle. Twenty-four healthy 20-22&#x2011;month&#x2011;old male Simmental crossbred beef cattle were randomly assig",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42443886",
-      "title": "Serum insulin-like growth factor-1 concentrations are not reduced in Pomeranian dogs with Alopecia X: a case-control study.",
-      "authors": "Halajian Z, Khoshnegah J, Parham A",
-      "journal": "BMC Vet Res",
-      "date": "2026 Jul 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42443886/",
-      "abstract": "Alopecia X (AX)-also referred to as hair cycle arrest or Alopecia X-like syndrome-is a non-inflammatory disorder common in Pomeranians, though it frequently affects other breeds such as Alaskan Malamutes, Chow Chows, Schipperkes, and Poodles. Historically known by various names including growth hormone-responsive alopecia, castration-responsive alopecia and congenital adrenal hyperplasia-like syndrome, this condition represents a complex follicular arrest of \"plush-coated\" breeds. The etiopathog",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42442655",
-      "title": "Nephrotomy as a surgical approach for renal dioctophymosis in eighteen dogs.",
-      "authors": "Formiga Silva L, de Moraes LAM, Caye P, Iepsen LB, de Oliveira Cavalcanti GA",
-      "journal": "Vet J",
-      "date": "2026 Jul 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42442655/",
-      "abstract": "Dioctophymosis is a zoonotic disease caused by Dioctophyme renale, a nematode that can reach up to 100&#x202f;cm in length and is commonly known as the \"giant kidney worm.\" The parasite shows a marked predilection for the right kidney, and ultrasonography is the diagnostic method of choice, allowing visualization of characteristic tubular structures within the renal parenchyma. Surgical intervention remains the only established treatment, with nephrectomy being the most commonly performed proced",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42442409",
-      "title": "Fecal floatation and KeyScreen polymerase chain reaction optimize Echinococcus multilocularis detection in canine feces for veterinary practice and zoonotic surveillance.",
-      "authors": "Garrett KB, Yabsley MJ, Felty SR, Gise BT, Jimenez Castro P",
-      "journal": "Am J Vet Res",
-      "date": "2026 Jul 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42442409/",
-      "abstract": "The objective of this study was to compare 4 different fecal diagnostic methods for detection and recovery of Echinococcus multilocularis eggs. Four methods were compared: passive fecal float, centrifugal fecal float, mini-FLOTAC, and the KeyScreen GI PCR Parasite panel (Antech Diagnostics). Domestic dog feces were spiked with 8 egg concentrations (0, 10, 25, 50, 60, 100, 200, and 500 eggs/g). Each concentration had 10 replicates. Detection frequency (ability to detect &#x2265; 1 egg) and mean e",
+      "id": "42492061",
+      "title": "Effects of cow placenta extract on cognitive function in aged dogs: a randomized controlled trial.",
+      "authors": "Lu J, Lu W, Qian XL",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492061/",
+      "abstract": "Cow placenta extract (CPE) has demonstrated beneficial effects in antiaging; however, its effect on age-related cognitive decline remains unclear. To evaluate the potential therapeutic benefits of CPE in improving cognitive function in aged dogs. The aged dogs (&#x2265;7&#xa0;years) with a Canine Social and Learning Behavior Survey (CSLB) score of &#x2265; 30 owned by clients. A 6-month randomized controlled trial. Eighty-eight dogs received CPE (n&#xa0;=&#xa0;45) or placebo (n&#xa0;=&#xa0;43). ",
       "category": "other",
       "summary_ko": ""
     },
@@ -946,17 +902,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42442369",
-      "title": "Clinical, imaging, and neuropathological characterization of multiple system degeneration associated with a novel SERAC1 variant in a mixed-breed dog.",
-      "authors": "Al Kafaji T, Aytaş Ç, Perret AC, Jagannathan V, Leeb T",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42442369/",
-      "abstract": "A 7-month-old spayed female mixed-breed dog was evaluated for a subacute, progressive, cerebellar syndrome characterized by ataxia and intention tremors. Brain magnetic resonance imaging (MRI) revealed moderate cerebellar atrophy and mild bilateral symmetrical intra-axial lesions at the level of the caudate nuclei. A neurodegenerative disorder was suspected. Over a 2-year period, signs of neurologic disease worsened with suspected myoclonic epileptic seizures and severe cerebellar ataxia. Follow",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42474116",
       "title": "First Case Report of a Dog With Intracranial Granular Cell Tumor Treated With Stereotactic Radiotherapy.",
       "authors": "Murakami K, Rancilio NJ, Harm TA, Nenninger AS, Hollman SE",
@@ -979,14 +924,69 @@
       "summary_ko": ""
     },
     {
-      "id": "42444534",
-      "title": "Clinically Relevant Motion of Canine Thoracic Tumors Is Seen Between Inspiratory and Expiratory Breath Holds on Computed Tomography Performed for Radiation Treatment Planning.",
-      "authors": "Kruckman-Gatesy CR, LaRue SM, Griffin LR, Boss MK, Griffenhagen G",
-      "journal": "Vet Radiol Ultrasound",
-      "date": "2026 Jul",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42444534/",
-      "abstract": "Advancements in radiation therapy allow for targeting smaller tumor volumes with exceedingly conformal precision. Target motion during the breathing cycle needs to be anticipated. To date, no information exists that characterizes the motion of canine thoracic tumors during the respiratory cycle. The primary purpose of this study is to assess the pattern of motion of thoracic tumors in three-dimensional (3D) space between inspiratory and expiratory breath holds as a surrogate measurement of the b",
+      "id": "42491500",
+      "title": "Beyond traditional biomarkers: do serum cystatin C and urinary cystatin B improve diagnostic precision in feline and canine renal disease? A systematic review and meta-analysis.",
+      "authors": "Santos BMA, Migotto BA, Crivellenti SB, Pennacchi CS, Crivellenti LZ",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42491500/",
+      "abstract": "Chronic kidney disease (CKD) is the most common nephropathy in cats and dogs, particularly in elderly animals, whereas acute kidney injury (AKI) represents an abrupt-onset condition associated with high morbidity and mortality. Serum creatinine and urea are widely used for renal function assessment; however, they exhibit low sensitivity for the early detection of renal dysfunction. In this context, alternative biomarkers, such as serum cystatin C (sCysC) and urinary cystatin B (uCysB), have been",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42490935",
+      "title": "Quantitative mitral regurgitation and conventional echocardiographic variables in canine myxomatous mitral valve disease.",
+      "authors": "Kawai S, Suzuki R, Mochizuki Y, Yuchi Y, Satomi S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490935/",
+      "abstract": "Disease severity in dogs with myxomatous mitral valve disease (MMVD) is commonly assessed using conventional echocardiographic variables and staging systems based on cardiac remodeling and heart failure status. Multiparametric scoring systems incorporating variables such as early diastolic transmitral velocity (E-wave) have also been recently proposed. However, these approaches primarily reflect secondary morphological and loading changes rather than directly quantifying severity of mitral regur",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42490906",
+      "title": "Case Report: Suspected hereditary spontaneous hydrocephalus in a Beagle pedigree.",
+      "authors": "Fu JW, Liu JY, Jin DJ, Huang JJ, Yang S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490906/",
+      "abstract": "Hydrocephalus is one of the most common malformations in dogs and poses considerable treatment challenges in veterinary clinical practice. Ventricular enlargement may represent an early manifestation of hydrocephalus and is commonly quantified by the ventricle-to-brain index (VBI). This report presents a Beagle pedigree with suspected hereditary lateral ventricular enlargement, confirmed by VBI calculated from magnetic resonance imaging (MRI). A 1.4-year-old female Beagle presented with severe h",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42490863",
+      "title": "Successful treatment of immune-mediated hemolytic anemia in a pregnant dog: a case report.",
+      "authors": "Carter D, Capobianco C, Allen-Durrance A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490863/",
+      "abstract": "A 2.5-year-old female Dachshund was diagnosed and treated for immune-mediated hemolytic anemia (IMHA) during late-term pregnancy. The dog had been treated for a urinary infection approximately 1&#x202f;week prior to presentation with amoxicillin-clavulanic acid and became increasingly lethargic at home. When the dog was presented to a university teaching hospital, the dog was significantly anemic and later diagnosed with IMHA, either secondary to pregnancy or potentially associated with previous",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42490799",
+      "title": "Characterization of global and regional left heart function using advanced echocardiography following intravenous administration of pimobendan in awake dogs.",
+      "authors": "Foulex P, Chetboul V, Moisset E, Roncin F, Dougère A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490799/",
+      "abstract": "Pimobendan is commonly used in veterinary cardiology; however, its impact on myocardial deformation in conscious dogs over time remains poorly characterized. This exploratory and descriptive study aimed to characterize the effects of intravenous pimobendan on left heart function using advanced echocardiography and to identify the myocardial deformation component most closely associated with stroke volume increase. Five healthy, conscious, male Beagle dogs received a single bolus of pimobendan. C",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42488902",
+      "title": "Translational rehabilitation strategies for canine medial patellar luxation: insights from human patellofemoral pain syndrome.",
+      "authors": "Son JY, Kim K, Seo YS, Yu SJ, Choi J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42488902/",
+      "abstract": "Medial patellar luxation (MPL) is one of the most common orthopedic disorders in small-breed dogs and is associated with progressive joint degeneration, gait abnormalities, and long-term functional impairment. Despite its high prevalence, current treatment strategies remain primarily focused on structural correction, whereas rehabilitation approaches targeting dynamic patellar stability and functional recovery remain insufficiently established. In particular, rehabilitation concepts addressing m",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
