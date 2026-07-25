@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 07:42 UTC",
+  "updated": "2026-07-25 06:37 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -151,28 +151,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42450671/",
       "abstract": "Toxoplasma gondii is an apicomplexan parasite that causes toxoplasmosis, a widespread zoonotic disease leading to serious public health concerns and economic losses to animal husbandry. Currently, highly effective vaccines against toxoplasmosis remain unavailable. This study aimed to investigate the safety, immunogenicity, and protective efficacy of the gra47-deficient mutant strain Pru&#x394;gra47 as a live-attenuated vaccine candidate. We evaluated the virulence of Pru&#x394;gra47 in a mouse m",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42450667",
-      "title": "Protective Effects of Ginseng Extract Against Oxidative Stress in Chilled Rooster Semen: Implications for Sperm Quality and Fertility.",
-      "authors": "Ratchamak R, Pengmeesri K, Wangkahart E",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jun 25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450667/",
-      "abstract": "Oxidative stress is a primary driver of sperm deterioration during chilled storage of poultry semen, and identifying effective natural antioxidant supplements for semen extenders is an important practical goal for poultry reproductive management. This study evaluated the protective effects of ginseng extract (Panax ginseng) supplementation on sperm viability, motility, oxidative stress biomarkers, antioxidant defense, and fertility in chilled Leung Hang Kao rooster semen. Pooled semen was dilute",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42450666",
-      "title": "Cranial Tibial Wedge Osteotomy in Five Cats with Cranial Cruciate Ligament Rupture.",
-      "authors": "San Román-Llorens F, Blanco A, San Román F, González C, Climent A",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jun 25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450666/",
-      "abstract": "Cranial cruciate ligament (CrCL) rupture in cats is less common than in dogs, and its optimal treatment remains a subject of debate. This study aimed to evaluate the application of cranial tibial wedge osteotomy (CTWO) as a dynamic stabilization technique in cats with CrCL rupture, describing the technical aspects and clinical outcomes obtained. Five cases with a confirmed diagnosis of CrCL rupture between 2020 and 2024 were included in this study. All patients were treated with CTWO using speci",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -759,6 +737,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42496166",
+      "title": "Correction to: Optic neuritis and meningoencephalitis associated with an ovarian teratoma in a dog.",
+      "authors": "",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42496166/",
+      "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42492063",
       "title": "Unusually slow progression of a high-grade intramedullary oligodendroglioma in a dog: serial magnetic resonance imaging findings and clinical course over two years.",
       "authors": "Wise R, Miller LR, Church ME, Mai W",
@@ -921,6 +910,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42454729/",
       "abstract": "Ultrasound assessment of the pancreas in dogs is limited by operator subjectivity and technical variability, particularly when classifying echotexture and echogenicity. This prospective study evaluated quantitative ultrasonographic features of the pancreas in dogs and examined their associations with subjective ultrasonographic features, age, body composition, and technical factors. Seventy-two ultrasounds from client-owned dogs undergoing abdominal imaging for diverse clinical indications betwe",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42494954",
+      "title": "Exosome ice-needling for chronic wounds in dogs: a case series.",
+      "authors": "Guidi EEA, Lim KM, Negro A, Vercelli A, Cornegliani L",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494954/",
+      "abstract": "Chronic wounds in dogs represent a significant clinical challenge due to persistent inflammation and impaired tissue repair. This case series describes four canine patients with chronic, treatment-resistant cutaneous wounds treated with plant-derived exosome-like nanovesicles (PNELs) delivered via ice-needling technology (IN). Three dogs presented with post-surgical wound dehiscence and one dog with a chronic pressure sore. The dogs included in this case series presented with non-healing cutaneo",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
