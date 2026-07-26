@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 06:37 UTC",
+  "updated": "2026-07-26 07:46 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -96,61 +96,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42450691/",
       "abstract": "This study determined the etiological distribution of naturally occurring bovine dermatophytosis and evaluated associated serum macro- and trace-element and redox alterations. Seventy-five calves and young cattle aged 2-12 months, of both sexes and mixed local, Simmental, Brown Swiss/Montofon, and crossbred types, were included: 50 clinically and mycologically confirmed dermatophytosis cases and 25 clinically healthy controls. Skin scrapings and hair samples from affected cattle were examined by",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42450686",
-      "title": "Retrospective Evaluation of Anesthetic-Analgesic Protocols in Cats with and Without Transient Myocardial Thickening Following Gonadectomy.",
-      "authors": "Pollak C, Ruys LJ",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jun 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450686/",
-      "abstract": "Transient myocardial thickening (TMT) is considered a reversible feline cardiac disease that initially mimics hypertrophic cardiomyopathy. The exact etiopathogenesis remains unknown and is likely multifactorial. General anesthesia and surgery may contribute to the development of TMT in predisposed patients due to systemic inflammation, perioperative stress, surgery itself, anesthetic management, and individual susceptibility. Additionally, inadequate analgesia could result in pain, which trigger",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42450683",
-      "title": "Participation in Breed-Specific Cynological Activities Is Associated with Behavioral Variation in Terrier-Type Dogs: A C-BARQ Study.",
-      "authors": "Bellini V, Stagi G, Gazzano V, Cordon R, Gazzano A",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jun 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450683/",
-      "abstract": "This exploratory study investigated the relationship between demographic, biological, and management-related factors and behavioral traits in 195 terrier-type dogs using the C-BARQ questionnaire. Participation in breed-specific cynological activities (ENCI working trials and aptitude tests) emerged as the most consistent factor: non-participation was associated with higher scores in owner-directed aggression (&#x3b2; = 0.17, p = 0.007), non-social fear (&#x3b2; = 0.34, p = 0.001), dog-directed f",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42450678",
-      "title": "Integrated Multi-Omics Analysis Reveals the Physiological and Metabolic Response Mechanisms of Luciobarbus capito Under Cold Stress: Insights from Biochemical Parameters, Gut Microbiota, and Metabolomics.",
-      "authors": "Guo K, Zhang R, Wei H, Luo L, Wang S",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jun 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450678/",
-      "abstract": "Cold stress is a key environmental constraint in aquaculture, but integrated host responses linking oxidative status, intestinal microbiota, and hepatic metabolism remain insufficiently characterized in Luciobarbus capito. This study aimed to evaluate the biochemical, microbial, and metabolic responses of L. capito to acute low-temperature exposure. Fish were exposed to 12 &#xb0;C for 96 h, with fish maintained at 22 &#xb0;C as controls; hepatic antioxidant indices, serum biochemical parameters,",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42450672",
-      "title": "High Rank, Low Tolerance: Hierarchy-Dependent Reactions of Cohabiting Companion Dogs to Being Separated from Their Owner.",
-      "authors": "Dobos P, Vékony K, Bakos V, Veres B, Lugosi CA",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jun 25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450672/",
-      "abstract": "Cohabiting companion dogs establish hierarchy among themselves. It is hypothesized that the owner represents the main and undividable resource, thus primary access to this is a main organizing factor of rank-related behaviors of dogs. Here we tested high- and low-ranking cohabiting companion dogs' (N = 70) reactions to their owner's absence in a 3 min separation test. Rank scores have been assigned with a validated questionnaire (DRA-Q). We predicted that dominant dogs would show stronger reacti",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42450671",
-      "title": "The Live-Attenuated PruΔgra47 Strain of Toxoplasma gondii Confers Protective Immunity Against Acute and Chronic Toxoplasmosis in Mice.",
-      "authors": "Tian CR, Tian X, Zhao SM, Zheng Z, Hao WB",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jun 25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450671/",
-      "abstract": "Toxoplasma gondii is an apicomplexan parasite that causes toxoplasmosis, a widespread zoonotic disease leading to serious public health concerns and economic losses to animal husbandry. Currently, highly effective vaccines against toxoplasmosis remain unavailable. This study aimed to investigate the safety, immunogenicity, and protective efficacy of the gra47-deficient mutant strain Pru&#x394;gra47 as a live-attenuated vaccine candidate. We evaluated the virulence of Pru&#x394;gra47 in a mouse m",
-      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -327,6 +272,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42450757/",
       "abstract": "Spirometra mansoni causes sparganosis in humans and spirometrosis in domestic dogs. It is transmitted through the consumption of raw or undercooked meat from fish, frogs or paratenic animals, producing subcutaneous and tissue infections in humans, whereas dogs or cats develop gastrointestinal infections. Sparganosis is a zoonotic parasitosis associated with freshwater aquatic environments, prevalent in tropical and subtropical regions of the world. The purpose of this investigation was to identi",
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42501791",
+      "title": "Development and Validation of PCR-RFLP Assays for Detection of MYBPC3 Variants Associated with Hypertrophic Cardiomyopathy in Maine Coon and Ragdoll Cats.",
+      "authors": "Phuong Vu T, Quang Le T, Thi Thanh Truong T, Thi Cam Nguyen G, By KB",
+      "journal": "Vet J",
+      "date": "2026 Jul 25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42501791/",
+      "abstract": "Hypertrophic cardiomyopathy (HCM) is the most common myocardial disease in domestic cats and breed-associated variants in MYBPC3 have been reported in Maine Coon and Ragdoll cats. This study developed and analytically evaluated two polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) assays for detecting the MYBPC3 c.91G&gt;C (A31P) variant in Maine Coon cats and the c.2453C&gt;T (R820W) variant in Ragdoll cats, and applied the assays to a small Vietnamese cohort with co",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42502160",
+      "title": "Subcutaneous platelet-rich plasma and topical graphitic carbon nitride in a lanolin carrier enhance healing of surgically induced cutaneous wounds in dogs.",
+      "authors": "Wafy MN, Hassan EA, Saeed S, Khattab MS, AbuBakr HO",
+      "journal": "BMC Vet Res",
+      "date": "2026 Jul 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42502160/",
+      "abstract": "Graphitic carbon nitride nanoparticles (g-C3N4) are a promising material in wound healing; however, their effects and potential synergy with PRP (platelet-rich plasma) remain unexplored. This study evaluates the single and synergistic effects of PRP injection and g-C3N4 nanoparticle ointment on wound healing in dogs. Six full-thick skin wounds per group (a total of 6 groups) were surgically created on the chest region of six adult mongrel dogs, with each dog having three bilateral chest wounds. ",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -737,6 +704,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42501363",
+      "title": "Clinical, magnetic resonance imaging, and neuropathological features of suspected inborn methylmalonic aciduria in a domestic shorthair kitten.",
+      "authors": "Fisher C, Degl'Innocenti S, Ortiz A, Major A, Rawson F",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42501363/",
+      "abstract": "A 10-month-old domestic shorthair kitten was evaluated for progressive neurological dysfunction characterized by ataxia, episodic opisthotonus, impaired vision, dysphagia and seizures. Clinicopathological findings included marked hypocobalaminemia and abnormal concentrations of urinary methylmalonic acid, methylcitrate, and propionylglycine. Magnetic resonance imaging revealed generalized cerebral and cerebellar atrophy, with mild ventriculomegaly. Despite dietary modification, cobalamin supplem",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42496166",
       "title": "Correction to: Optic neuritis and meningoencephalitis associated with an ovarian teratoma in a dog.",
       "authors": "",
@@ -888,6 +866,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42450712/",
       "abstract": "Total RNA was isolated from sections of healthy testes and Leydig cell tumors of mixed-breed dogs using TMA Master II device. The RNA-seq libraries were sequenced on the Illumina platform. Following differential expression analysis, Gene Ontology (GO), Kyoto Encyclopedia of Genes and Genomes (KEGG), and Gene Set Enrichment Analysis (GSEA) were applied with quality control obtained using FastQC and Trimmomatic. This analysis revealed 1500 transcripts, including 982 upregulated and 168 downregulat",
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42499198",
+      "title": "CT-Based Reference Ranges for Canine Pyloric Thickness: Influence of Body Size and Normalization With Aortic Diameter.",
+      "authors": "Lee J, Kwon D, Kim S, Yoon I, Lee K",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Jul",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42499198/",
+      "abstract": "Pyloric wall thickness reflects pyloric pathology. Prior related studies included small samples and did not consistently measure perpendicular to the pyloric axis. This multicenter retrospective study established body-weight (BW)-specific computed tomography (CT) reference ranges for pyloric thickness, measured in both cross-sectional and transverse planes, in clinically normal dogs and evaluated relationships with BW, age, breed, and sex. Multiplanar reconstruction (MPR) was used to obtain a tr",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42499179",
+      "title": "Renal Cortical Thickness and Derived Ratios as Superior Ultrasonographic Markers for Detecting Feline Chronic Kidney Disease.",
+      "authors": "Sakulsirajit R, Kasemsuwan T, Saisawart P, Sutthigran S, Wanglerm A",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Jul",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42499179/",
+      "abstract": "Chronic kidney disease (CKD) is one of the most common diseases in cats, and detection of CKD is essential for its management. The objectives of this study are to compare ultrasonographic renal parameters between clinically healthy cats and those with CKD; to evaluate the correlations between ultrasonographic renal parameters and renal biomarkers, including blood urea nitrogen (BUN), creatinine (Cr), symmetric dimethylarginine (SDMA), age, sex, and body weight; and determine the diagnostic cutof",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
