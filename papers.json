@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27 10:56 UTC",
+  "updated": "2026-07-28 07:48 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -73,28 +73,6 @@
       "date": "2026 Jun 27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42450698/",
       "abstract": "Heat and Cd2+ stress are major environmental challenges for marine benthic invertebrates. This study examined their combined effects on growth, physiology, and transcriptomic responses in the peanut worm (Sipunculus nudus). After 30 days, Cd2+ reduced survival at 26 &#xb0;C without significantly affecting growth, whereas at 32 &#xb0;C, both survival and growth declined with increasing Cd2+ concentration, indicating that heat stress exacerbates Cd2+ toxicity. Cd accumulation increased with exposu",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42450693",
-      "title": "Integrative MRI and Genomics Analyses Prioritize PACSIN1 as a Candidate Gene for Cerebellar Ataxia in Border Collies.",
-      "authors": "Jin DJ, Jiang SC, Li JX, Liu YH, Zhou BW",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jun 27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450693/",
-      "abstract": "Cerebellar ataxia is clinically and genetically heterogeneous, and candidate variant prioritization is particularly difficult when only a single affected animal is available. We combined structural MRI of one affected Border Collie and six controls with whole-genome sequencing of the affected dog and 31 comparison dogs. MRI revealed widened cerebellar folial spaces and reduced bilateral cerebellar gray matter volume, without global brain atrophy or spinal cord lesioning. Parallel heterozygous an",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42450691",
-      "title": "Serum Macro- and Trace-Element Alterations and Redox Imbalance in Cattle with Naturally Occurring Dermatophytosis.",
-      "authors": "Batı YU, Kırmızıgül AH, Bilgiç B, Büyük F, Tarhan D",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jun 27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450691/",
-      "abstract": "This study determined the etiological distribution of naturally occurring bovine dermatophytosis and evaluated associated serum macro- and trace-element and redox alterations. Seventy-five calves and young cattle aged 2-12 months, of both sexes and mixed local, Simmental, Brown Swiss/Montofon, and crossbred types, were included: 50 clinically and mycologically confirmed dermatophytosis cases and 25 clinically healthy controls. Skin scrapings and hair samples from affected cattle were examined by",
       "category": "other",
       "summary_ko": ""
     },
@@ -272,6 +250,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42450757/",
       "abstract": "Spirometra mansoni causes sparganosis in humans and spirometrosis in domestic dogs. It is transmitted through the consumption of raw or undercooked meat from fish, frogs or paratenic animals, producing subcutaneous and tissue infections in humans, whereas dogs or cats develop gastrointestinal infections. Sparganosis is a zoonotic parasitosis associated with freshwater aquatic environments, prevalent in tropical and subtropical regions of the world. The purpose of this investigation was to identi",
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42508457",
+      "title": "Serum erythropoietin concentration is higher in healthy brachycephalic dogs than nonbrachycephalic dogs acclimated to 1,535 meters altitude.",
+      "authors": "Cook M, Moore AR, Goldblatt BH, Cavanagh A, Zersen KM",
+      "journal": "Am J Vet Res",
+      "date": "2026 Jul 27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42508457/",
+      "abstract": "To assess the relationship between PaO2 and erythropoietin (EPO) concentrations and between PaO2 and hemoglobin (Hgb) concentrations in healthy brachycephalic (BRACHY) and healthy non-BRACHY dogs acclimatized to an altitude of 1,535 m. The third objective was to validate a human ELISA EPO kit for canine EPO measurement. Dogs were enrolled prospectively from January 2025 through September 2025. Venous samples for CBC, serum biochemistry, and EPO measurement were collected from a peripheral vein, ",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -866,6 +855,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42450712/",
       "abstract": "Total RNA was isolated from sections of healthy testes and Leydig cell tumors of mixed-breed dogs using TMA Master II device. The RNA-seq libraries were sequenced on the Illumina platform. Following differential expression analysis, Gene Ontology (GO), Kyoto Encyclopedia of Genes and Genomes (KEGG), and Gene Set Enrichment Analysis (GSEA) were applied with quality control obtained using FastQC and Trimmomatic. This analysis revealed 1500 transcripts, including 982 upregulated and 168 downregulat",
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42505041",
+      "title": "Sarcopenia, cachexia and frailty in older cats: Mechanisms, assessment and therapeutic considerations.",
+      "authors": "Chandler M",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Jul",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42505041/",
+      "abstract": "Age-related muscle loss due to sarcopenia and cachexia is common in mammals and is likely a major contributor to frailty in older cats. Frailty adversely affects quality of life and is a predictor of survival time. In some cats, excess body fat is preserved but muscle mass is lost, a condition termed sarcopenic obesity. Although the mechanisms underlying sarcopenia and cachexia have been studied in humans, the pathophysiology has not been well studied in cats. Early diagnosis of muscle loss by a",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
