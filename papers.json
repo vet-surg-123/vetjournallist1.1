@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 08:04 UTC",
+  "updated": "2026-07-30 07:42 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -52,6 +52,72 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42492422/",
       "abstract": "Chihuahuas are affected by myxomatous mitral valve disease (MMVD). The aim of this study was to investigate MMVD in Chihuahuas, specifically clinical and echocardiographic characteristics including probability of pulmonary hypertension (PH), disease progression, and survival. A retrospective study of privately owned Chihuahuas with an echocardiographic study compatible with MMVD from four cardiology centers across three countries (2020-2025) was conducted. Differences between signalment, centers",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42526683",
+      "title": "Anti-tumour Activity of Canine Activated T-Cells and Cytokine-Induced Killer Cells against Canine Malignant Melanoma In Vitro.",
+      "authors": "Conti LC, Capellero S, Piras L, Morello E, Iurascu S",
+      "journal": "Vet J",
+      "date": "2026 Jul 29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526683/",
+      "abstract": "Adoptive cell transfer (ACT) immunotherapy represents a promising therapeutic approach for cancer treatment, utilising ex vivo-expanded immune effector cells such as T-lymphocytes, natural killer (NK) cells, and cytokine-induced killer (CIK) cells. CIK cells are characterised by dual T-cell and NK cell-like properties, exhibiting high proliferative capacity, cytolytic activity, and non-MHC-restricted tumour recognition. Canine malignant melanoma (CMM) is an aggressive neoplasm with significant t",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42526511",
+      "title": "Euthanasia rates and risk factors for euthanasia in dogs diagnosed with diabetes mellitus in Australian primary care practices: 2078 cases (2008-2017).",
+      "authors": "Roberts E, Stevenson MA, Mansfield CS",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Jul 29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526511/",
+      "abstract": "Detailed assessments of euthanasia rates of dogs with diabetes mellitus in Australian primary care practice and evaluation of associated risk factors have not been performed. Study objectives were to describe the euthanasia timing in this population and identify patient characteristics at diagnosis that increased the probability of euthanasia. Records of dogs diagnosed with diabetes mellitus in primary care practice (n&#x2009;=&#x2009;2078) during 2008 to 2017, inclusively, were sourced through ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42526504",
+      "title": "Use of phenylephrine-soaked gauze following staphylectomy does not reduce the need for reintubation or temporary tracheostomy in brachycephalic dogs.",
+      "authors": "Strain W, Reed RA, Grimes JA",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Jul 29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526504/",
+      "abstract": "To determine whether application of phenylephrine-soaked gauze (PG) against the soft palate following staphylectomy reduces the incidence of reintubation and temporary tracheostomy. Electronic medical records for dogs that underwent staphylectomy from January 2023 through December 2024 were reviewed. Data collected included signalment, stage of laryngeal collapse, whether PG was used or not, and incidence of reintubation and temporary tracheostomy. Normally distributed data were analyzed with a ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42526502",
+      "title": "Teleneurology video recordings and live streams provide reliable neuroanatomic lesion localization in dogs and cats.",
+      "authors": "Shinn R, Connolly B, Parker R, Togawa G, Rossmeisl J",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Jul 29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526502/",
+      "abstract": "This study aimed to evaluate the reliability and accuracy of teleneurology consultation for neuroanatomical lesion localization in client-owned dogs and cats. This prospective cross-sectional study was conducted from June to July 2023. Fifty-five client-owned dogs and cats presenting to an academic teaching hospital neurology service were enrolled. Animals were pragmatically allocated into 2 groups to undergo neurologic examination performed by veterinary students; group 1 underwent neurologic e",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42526497",
+      "title": "Poor quality of life and recent veterinary consultation are associated with increased owner-perceived pain and/or suffering prior to euthanasia in dogs.",
+      "authors": "Mann AM, O'Brien J, Dog Aging Project Consortium, Ruple A, Parker RL",
+      "journal": "Am J Vet Res",
+      "date": "2026 Jul 29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526497/",
+      "abstract": "To examine the influence of age, quality of life, illness, and recent veterinary consultation on an owner's perception of pain and/or suffering and consequently end-of-life decision-making for dogs. This retrospective cohort study examined Dog Aging Project end-of-life survey data. Owner and dog demographic characteristics were analyzed by whether pain and/or suffering were listed as a reason for euthanasia. A multivariate logistic regression model assessed associations. Owner surveys from 2020 ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42526494",
+      "title": "Clinically important abnormalities are common in senior cats perceived to be healthy by owners.",
+      "authors": "Herrera K, Nichelason A, Snyder Z, Hetzel S, McLellan GJ",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Jul 29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526494/",
+      "abstract": "To describe physical examination findings, diagnostic abnormalities, and owner-reported assessments of senior cats perceived as healthy by their owners, and to evaluate agreement between owner perceptions and objective findings to inform diagnostic prioritization within a spectrum-of-care framework. Client-owned cats aged &#x2265; 12 years presenting to the University of Wisconsin-Madison School of Veterinary Medicine were prospectively enrolled between 2022 and 2024. Cats were included if their",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -495,72 +561,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42458429",
-      "title": "Multifaceted effects of Salvia hispanica oil and Lactobacillus farciminis on quail physiology.",
-      "authors": "Durna Ö, Önk K, Yildiz G, Merhan O, Erbay Elibol FK",
-      "journal": "BMC Vet Res",
-      "date": "2026 Jul 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42458429/",
-      "abstract": "This study evaluated the effects of Lactobacillus farciminis and Salvia hispanica oil, alone or in combination, on growth performance, antioxidant status, cecal short-chain fatty acid (SCFA) profiles, and bone biomechanical properties in Japanese quails. These natural antibiotic alternatives were selected because L. farciminis supports the intestinal barrier, while chia oil-rich in omega-3s and phenolic compounds-modulates antioxidant defense and mineral bioavailability. A total of 216 one-day-o",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42458232",
-      "title": "Comment on: Infectious complications of dental procedures in dogs and cats, and the impact of antimicrobial prophylaxis: a systematic review.",
-      "authors": "Charoenphon N, Rattanapitoon NK, Thanchonnang C, Rattanapitoon SK",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Jul 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42458232/",
-      "abstract": "",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42456922",
-      "title": "Peri-anaesthetic adverse events and their risk factors in 316 pet rabbits undergoing general anaesthesia: a multicentric, retrospective study.",
-      "authors": "Adami C, Spurry H, d'Ovidio D",
-      "journal": "Vet J",
-      "date": "2026 Jul 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42456922/",
-      "abstract": "Rabbit anaesthesia carries higher risk or morbidity and mortality than anaesthesia of more conventional small animal species. This retrospective study investigated the occurrence of peri-anaesthetic adverse events and their risk factors in a population of pet rabbits. Data from 316 rabbits anaesthetised at three different veterinary centres were obtained from the anaesthetic record database systems and transferred to an excel spreadsheet. Keywords used for the database search were \"rabbit/rabbit",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42456760",
-      "title": "Clinical findings and outcomes in canine ischemic neuromyopathy: neurologic status is associated with survival, and recovery is possible.",
-      "authors": "Atkins C, Maeso Ordás C, Phillips K, Krekis A, Freeman P",
-      "journal": "Am J Vet Res",
-      "date": "2026 Jul 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42456760/",
-      "abstract": "To describe the clinical findings and outcomes in dogs diagnosed with thoracic or pelvic limb ischemic neuromyopathy (INM) in a referral practice. This was a retrospective, multicenter study of client-owned dogs diagnosed with thoracic or pelvic limb INM at 5 referral hospitals (July 2013 to June 2023). Medical records were reviewed for clinical findings, comorbidities, treatments, and outcomes. The primary outcome was survival to discharge. Long-term outcomes were summarized when follow-up was ",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42454743",
-      "title": "EXPRESS: Factors associated with antimicrobial drug prescription in cats receiving outpatient care at a veterinary teaching hospital.",
-      "authors": "Thane K, Kwong M, Destefano IM, Sweigart B, Beaulac K",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Jul 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42454743/",
-      "abstract": "Investigation of factors associated with antimicrobial drug prescription (ADP) in cats receiving outpatient care is lacking, which limits antimicrobial stewardship efforts and benchmarking of veterinary antimicrobial use. This study aimed to identify factors associated with ADP in cats receiving outpatient care at a veterinary teaching hospital. A retrospective analysis of electronic medical record data from cats receiving outpatient care at a veterinary teaching hospital in 2022 was performed. ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42454670",
-      "title": "Enhancing EGFR Inhibition: Monensin and Erlotinib Synergize to Eliminate Cancer Stem Cells in Canine Mammary Tumours.",
-      "authors": "Fang T, Zhang M, Ma C, Dong M, Song X",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Jul 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42454670/",
-      "abstract": "Canine mammary tumours (CMTs) and human breast cancer (HBC) share highly similar pathological characteristics. Cancer stem cells (CSCs) are critical to breast cancer invasion, metastasis, drug resistance, and recurrence. The experiment utilised CMT cell line CMT-U27 and HBC cell line MDA-MB-231. Cancer stem cell spheres were isolated from the two cell lines by serum-free culture respectively, named as CMT-U27 microspheres (CMT-U27S) and MDA-MB-231 microspheres (MDA-MB-231S), and the proportion o",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
       "id": "42511063",
       "title": "Owner Observed Sleep Disturbances in Cavalier King Charles Spaniels with and Without Clinical Signs Compatible with a Chiari-like Malformation.",
       "authors": "Valentino AJ, Olby NJ",
@@ -679,6 +679,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42511022/",
       "abstract": "Canine appendicular osteosarcoma (OSA) is typically managed by limb amputation. However, this approach may be suboptimal in dogs with concurrent osteoarthrosis (OA). Limb-sparing surgery using three-dimensional (3D)-printed patient-specific implants (PSIs) may be an alternative, although evidence on implant durability and revision strategies remains limited, in particular for proximal humeral reconstructions. This report describes a 9-year-old, overweight dog referred for a 4-week history of per",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42525883",
+      "title": "Survival outcomes of dogs with multicentric lymphoma treated with sequential half-body radiotherapy and L-CHOP without maintenance chemotherapy.",
+      "authors": "Colosi J, Kent MS, Close NC, Lawrence J, Skorupski KA",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42525883/",
+      "abstract": "L-CHOP (L-asparaginase, cyclophosphamide, doxorubicin, vincristine, prednisone) is the standard therapy for lymphoma in dogs, but relapse and limited long-term survival are common. Given the radiosensitivity of lymphoma, sequential half-body radiotherapy (HBRT) has been investigated to improve outcomes. Evaluate progression-free survival (PFS), overall survival (OS), and adverse events in dogs treated with a no-maintenance L-CHOP protocol combined with low-dose-rate (LDR, 6&#xa0;Gy; 8-14&#xa0;cG",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -814,17 +825,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42456055",
-      "title": "Effect of postoperative underwater treadmill therapy on functional recovery in dogs undergoing intervertebral disc surgery: a retrospective matched cohort study.",
-      "authors": "Kuricová M, Török M, Zelezník P, Lipták T",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42456055/",
-      "abstract": "Postoperative recovery of neurologic function after surgery for intervertebral disc disease (IVDD) is variable. While underwater treadmill therapy (UWTM) is widely used in practice, objective evidence of its contribution to improved neurologic function remains limited. To compare the effects of postoperative UWTM vs standard home-based rehabilitation on recovery of neurologic function in dogs undergoing hemilaminectomy or ventral slot surgery. Seventeen dogs received supervised UWTM twice weekly",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42505041",
       "title": "Sarcopenia, cachexia and frailty in older cats: Mechanisms, assessment and therapeutic considerations.",
       "authors": "Chandler M",
@@ -869,14 +869,36 @@
       "summary_ko": ""
     },
     {
-      "id": "42454729",
-      "title": "Effect of Body Composition and Age on the Subjective and Quantitative Ultrasound Appearance of the Dogs' Pancreas.",
-      "authors": "Turner RBS, Firestone SM, Dunshea FR, Mansfield C",
-      "journal": "Vet Radiol Ultrasound",
-      "date": "2026 Jul",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42454729/",
-      "abstract": "Ultrasound assessment of the pancreas in dogs is limited by operator subjectivity and technical variability, particularly when classifying echotexture and echogenicity. This prospective study evaluated quantitative ultrasonographic features of the pancreas in dogs and examined their associations with subjective ultrasonographic features, age, body composition, and technical factors. Seventy-two ultrasounds from client-owned dogs undergoing abdominal imaging for diverse clinical indications betwe",
-      "category": "imaging",
+      "id": "42524264",
+      "title": "A placebo-controlled study of an herbal compound used for management of lower urinary tract disease in healthy cats.",
+      "authors": "Martin CE, Bartges JW, English CF, Shaw AP, Cox SK",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42524264/",
+      "abstract": "Cystolithiasis is a common cause of feline lower urinary tract signs (LUTS). Urinary relative supersaturation (RSS) can be used to estimate an animal's risk of crystallogenesis and urolithiasis, with high RSS values representing a potential increased risk of calculogenesis. Objectives were to determine whether an herbal supplement when compared with a placebo would decrease urinary excretion of electrolytes and minerals, increase urine volume, and decrease urine RSS for struvite (RSS S), calcium",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42523665",
+      "title": "Urinary metabolite profiles differ by tumor size and malignancy in dogs with mammary tumors.",
+      "authors": "Moore R, Estrela-Lima A, Turunen S, Holm SV, Lehtonen M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523665/",
+      "abstract": "Urine metabolomics may offer a non-invasive way to detect systemic metabolic alterations associated with canine mammary tumors, but previous studies have been few and have not accounted for diet as a potential confounder. In this observational case-control study, urine from 118 client-owned female dogs in Finland was analyzed by untargeted liquid chromatography-mass spectrometry, including 71 dogs with mammary tumors and 47 tumor-free controls. Case dogs were further evaluated by tumor malignanc",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42523662",
+      "title": "The critical role of flow cytometry in diagnosing aberrant T-cell acute lymphoblastic leukemia in a dog: case report.",
+      "authors": "Bitencourt RC, da Silva FR, de Oliveira LCCC, Crippa GH, de Nardi AB",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523662/",
+      "abstract": "Acute lymphoblastic leukemia (ALL) with double-negative T-cell phenotype (CD4-/CD8-) represents a rare presentation in dogs requiring flow cytometry for definitive diagnosis. An eight-year-old German Shepherd presented with progressive lethargy, weight loss, and severe cytopenias. Complete blood count (CBC) revealed severe leukocytosis (90,500/&#x3bc;L) with 99% atypical lymphocytes, non-regenerative anemia, and thrombocytopenia. While blood smear examination demonstrated lymphoblastic morpholog",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -1086,28 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42459542/",
       "abstract": "Inonotus obliquus is a medicinal fungus rich in bioactive compounds that has demonstrated significant efficacy in animals when supplemented in the diet. However, its effects on key health parameters in cats remain unclear. This study evaluated the effects of Inonotus obliquus fermentation product (IOFP) as a functional preparation for cats. A total of 20 weaned kittens were divided into two groups, and each group was fed a basal diet or a diet supplemented with 0.8% IOFP (w/w) for 45&#x202f;days",
       "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42453977",
-      "title": "Correction: Formulation-specific dose-response in the serum proteome of healthy dogs following cannabidiol administration.",
-      "authors": "Theerapan W, Limsuwan S, Rattanasrisomporn J, Ploypetch S, Tansakul N",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42453977/",
-      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1803263.].",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42453970",
-      "title": "Case Report: Multimodality imaging features and serial metabolic changes on (18) F-FDG PET/CT in a dog with granulomatous hepatitis.",
-      "authors": "Hong S, Park S, Lee SK, Cho KO, Choi J",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42453970/",
-      "abstract": "Granulomatous hepatitis is an uncommon inflammatory liver disease that can mimic hepatic malignancy on diagnostic imaging. A 12-year-old spayed female Cocker Spaniel presented with multiple target-like hepatic and splenic lesions showing peripheral enhancement on triple-phase CT and markedly increased 18F-FDG uptake on PET/CT (SUVmax 11.2), raising strong suspicion for malignancy. However, histopathology confirmed granulomatous hepatitis. Serial PET-CT performed 4 months later demonstrated decre",
-      "category": "imaging",
       "summary_ko": ""
     }
   ]
