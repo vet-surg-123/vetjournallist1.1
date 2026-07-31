@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30 07:42 UTC",
+  "updated": "2026-07-31 08:20 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -40,6 +40,61 @@
       "date": "2026 Jul 8",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42510991/",
       "abstract": "Cranial cruciate ligament disease (CCLD) is among the most common orthopedic conditions in dogs, and tibial plateau leveling osteotomy (TPLO) is the current standard of care; however, long-term radiographic data on tibial plateau angle (TPA) stability specific to small-breed dogs (&lt;10 kg) remain limited. This retrospective study evaluated radiographic correction and long-term stability of TPA following TPLO in small-breed dogs and assessed whether observed TPA changes fell within the range of",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42532508",
+      "title": "The incidence of vaccine-associated sarcomas in cats: a systematic review and meta-analysis.",
+      "authors": "Emdin F, Naro SG, Hoang PM, Brown KA, Daneman N",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Jul 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42532508/",
+      "abstract": "Feline injection-site sarcoma is a rare but serious adverse event associated with vaccination in cats. Published estimates of feline injection-site sarcoma incidence vary widely, contributing to uncertainty in clinical decision-making and incidence communication. We conducted a systematic review and meta-analysis to estimate the incidence of feline injection-site sarcoma following vaccination in cats and to assess the certainty of the evidence. MEDLINE (via Ovid), CAB Abstracts and Web of Scienc",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42532333",
+      "title": "Deep Learning for Canine Cardiac Radiography: A Comprehensive Review of Automated Vertebral Heart Score Estimation.",
+      "authors": "Buch H, Mayani P",
+      "journal": "Vet J",
+      "date": "2026 Jul 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42532333/",
+      "abstract": "Myxomatous mitral valve disease (MMVD) is the most common acquired cardiac disorder in dogs and represents a large proportion of cases encountered in small animal veterinary practice. Thoracic radiography is routinely used to evaluate cardiac enlargement, with the vertebral heart score (VHS) serving as a widely accepted radiographic measurement. However, VHS assessment depends on manual landmark identification and measurement, which can result in variation between observers. This review summariz",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42529919",
+      "title": "Delays to fracture stabilization and the effect on postoperative outcomes: A retrospective cohort study of 211 canine humeral condylar fractures.",
+      "authors": "Low D, Manou M, Rutherford S",
+      "journal": "Vet Surg",
+      "date": "2026 Jul 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529919/",
+      "abstract": "To investigate the effect of surgical delay on radiographic and patient outcomes following canine humeral condylar fracture stabilization. Retrospective observational cohort study. A total of 211humeral condylar fractures (204 dogs). Time to surgery and clinical data were collected from the medical record. Immediate postoperative radiographs were reviewed for an intracondylar gap or articular step defect. Postoperative complications and short-term outcome data were collected with a minimum 28-da",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42529917",
+      "title": "EXPRESS: Consuming treats with amino acids, osmolytes and sodium increased total water intake and decreased urine specific gravity of healthy cats.",
+      "authors": "Kosmal PAL, Shoveller AK, Banton S, Cheer K, Farentino N",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Jul 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529917/",
+      "abstract": "It is estimated that cats do not drink enough water, particularly those maintained on a dry diet. As such, the objective of this study was to determine the effects of providing two different high-moisture lickable treats containing glycine, alanine, taurine, and betaine, and two sodium levels, on water intake and hydration indices in cats fed dry diets. Twelve adult cats were provided treatments in a 3&#xd7;3 replicated Latin square design for five days per leg: dry diet (CON), CON + one treat w",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42529899",
+      "title": "Surgical closure of labial and alveolar cleft defects with a modified Millard technique: A prospective study of ten dogs.",
+      "authors": "Maitre P, Jourdain M, Brignon P, Loin J, Corre P",
+      "journal": "Vet Surg",
+      "date": "2026 Jul 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529899/",
+      "abstract": "To provide a step-by-step description of canine lip/alveolar cleft repair, describe intra- and postoperative complications, and report mid-term clinical, functional and cosmetic outcomes. Prospective study. A total of 10 client-owned puppies with unilateral or bilateral lip/alveolar clefts. Detailed clinical and historical data were recorded. The lip/alveolar clefts were repaired using a surgical technique adapted from human medicine including: (1) alveolar cleft and labial vestibulum repair, (2",
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -495,39 +550,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42461253",
-      "title": "Safety and Feasibility of Infusing Ex Vivo Expanded Allogeneic Canine Natural Killer Cells for the Treatment of Metastatic Solid Tumours.",
-      "authors": "Weisnicht AM, Szewc F, Cho MM, Cheng HH, Ganesh S",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Jul 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42461253/",
-      "abstract": "Companion canines need advances in therapeutic options for solid tumour malignancies. Natural killer (NK) cell infusions offer a promising treatment modality in canines with solid tumours. Autologous natural killer products are limited by dysfunctional immunity and a manufacturing process that delays care whereas allogeneic NK cells offer the possibility of 'off-the-shelf' therapy to be administered from healthy donors. Peripheral blood mononuclear cells (PBMCs) were isolated from healthy canine",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42460852",
-      "title": "Clinical use of sodium bicarbonate in small animals: indications, electrolyte changes and survival outcome.",
-      "authors": "Hoover L, Oyama MA, Reineke EL",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Jul 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42460852/",
-      "abstract": "The objective of the study was to describe the use of sodium bicarbonate in dogs and cats. Retrospective descriptive study of animals administered sodium bicarbonate from 2019 to 2023 in a university teaching hospital. Data collected included clinical use, dose and infusion duration, pre- and post- sodium bicarbonate venous blood gas values and perfusion parameters and outcome. Twenty-five dogs and 28 cats were identified. Kidney disease was the most common indication for sodium bicarbonate admi",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42460798",
-      "title": "Outcome of surgical treatment of severe keratomalacia in dogs and cats with a 360-degree conjunctival graft: 12 cases (2017-2024).",
-      "authors": "Schweitzer L, Zuzzi-Krebitz L, Braus BK",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Jul 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42460798/",
-      "abstract": "To retrospectively review the outcome of a 360-degree conjunctival graft in 12 dogs and cats with severe keratomalacia. Ten dogs and two cats with keratomalacia involving more than 50% of the corneal surface were included. Four patients presented with concurrent corneal perforation, two with an associated iris prolapse. A 360-degree conjunctival graft and a temporary tarsorrhaphy were carried out in all patients and removed after a median time of 20&#x2009;days. The final outcome was categorised",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42511081",
       "title": "A Survey of Reported Practices and Values of Smaller-Scale Dog Breeders in Canada.",
       "authors": "Ruyter G, Protopopova A, Rausch Q",
@@ -682,6 +704,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42531050",
+      "title": "Dachshund spinal health by coat and size type.",
+      "authors": "Hopper M, Liu CC, Embersics C, Otamendi A, Sullivan S",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42531050/",
+      "abstract": "A prior report demonstrated that intervertebral disc disease (IVDD) risk varies in dachshunds by size-coat type, suggesting that coat and size genes affect IVDD risk. The furnishings (wire) coat gene, R-spondin-2, affects disc health in dogs, making such a role plausible. Identify differences in spinal health metrics (SHMs): by coat type, within a coat type by size, and by size-coat type. Dachshunds (n&#xa0;=&#xa0;4295) with known SHMs. Retrospective study reporting SHMs by coat and size type in",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42525883",
       "title": "Survival outcomes of dogs with multicentric lymphoma treated with sequential half-body radiotherapy and L-CHOP without maintenance chemotherapy.",
       "authors": "Colosi J, Kent MS, Close NC, Lawrence J, Skorupski KA",
@@ -814,17 +847,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42462212",
-      "title": "Renoprotective effects of curcumin in cats with chronic kidney disease.",
-      "authors": "İlgün M, Aktaş MS",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42462212/",
-      "abstract": "Chronic kidney disease (CKD) in cats is characterized by oxidative stress, inflammation, and apoptosis. Curcumin has shown renoprotective effects in experimental models, but clinical evidence in cats with CKD remains limited. Evaluate whether PO curcumin supplementation (80&#xa0;mg/cat/day), administered with standard treatment, favorably modulates renal, oxidative, inflammatory, and apoptotic biomarkers in cats with International Renal Interest Society (IRIS) stage 3 CKD. Sixteen client-owned c",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "42505041",
       "title": "Sarcopenia, cachexia and frailty in older cats: Mechanisms, assessment and therapeutic considerations.",
       "authors": "Chandler M",
@@ -866,6 +888,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42474116/",
       "abstract": "A 12-year-old male castrated Shih Tzu presented with a suspected intracranial granular cell tumor (GCT) in the left cerebrum. The clinical signs had resolved post stereotactic radiotherapy (SRT) of 3 consecutive days of 8&#xa0;Gy, and serial magnetic resonance imaging (MRI) revealed maximum 56.8% tumor volume reduction 9 months post SRT. Serial MRI showed progressive cerebral microbleeds. The patient neurologically declined 18 months after SRT and was euthanized. A full necropsy, cytologic, and ",
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42529517",
+      "title": "Case Report: Multi-drug-resistant pneumonia and chronic enteropathy in a Bernadoodle with selective IgA deficiency.",
+      "authors": "Kovarsky M, Rifkin J, Bahr K",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529517/",
+      "abstract": "This case is the first to describe a selective immunoglobulin A deficiency (sIgAD) in a Bernadoodle with recurrent multi-drug-resistant (MDR) pneumonia and a chronic enteropathy. The patient experienced chronic coughing and regurgitation from puppyhood, and advanced imaging and endoscopic procedures documented MDR Bordetella bronchisceptica (Bb) and Mycoplasma infections. Serum immunology testing documented sIgAD. Clinical signs have been well-managed with long-term prophylactic antibiotics, ant",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42528677",
+      "title": "Quantitative myocardial mapping using 3.0 T cardiac magnetic resonance imaging in dogs: adenosine stress-rest evaluation.",
+      "authors": "Lee CE, Lee K, Yoon H",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42528677/",
+      "abstract": "High-field cardiac magnetic resonance imaging (MRI) enables noninvasive assessment of myocardial tissue characteristics in anesthetized dogs; however, adenosine stress myocardial mapping at 3.0&#x202f;T remains insufficiently characterized. This study evaluated stress-rest changes and level-dependent variation in quantitative myocardial mapping indices. Seven clinically asymptomatic dogs not receiving cardiac medications underwent 3.0&#x202f;T cardiac MRI under general anesthesia in this prospec",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -1064,50 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42465720/",
       "abstract": "The hypertrophic cardiomyopathy (HCM) phenotype is closely associated with arterial thromboembolism (ATE). The pathophysiology of ATE is linked to activation of Virchow's triad, characterized by endothelial injury, blood stasis, and hypercoagulability. Together, these factors create a prothrombotic microenvironment that may precede overt clinical manifestations. Although spontaneous echocardiographic contrast (SEC) is widely used in clinical practice as a marker of thromboembolic risk, it should",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42459546",
-      "title": "Radiographic and cone-beam computed tomography characterization of Chevron lucency in 82 clinically healthy maxillary canine teeth of dogs: a retrospective descriptive study.",
-      "authors": "Villamizar-Martinez LA, Qu Y, Villegas Lobos CM, Lopes-Kubitza FM",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42459546/",
-      "abstract": "The apex of the canine tooth is surrounded by the periodontal ligament and alveolar bone, where the periapical cancellous bone may radiographically present as a V-shaped radiolucent area known as the \"chevron lucency\" (CL). Although CL in healthy maxillary canine teeth of dogs is considered a normal radiographic finding, its characterization on dental radiographs remains challenging due to the two-dimensional limitations of this imaging modality. This retrospective descriptive study aimed to mor",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42459545",
-      "title": "Species-specific differences across the rural-urban spectrum for perceived veterinary visit costs among U.S. pet owners.",
-      "authors": "Neill CL, ShalekBriski A",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42459545/",
-      "abstract": "Financial barriers are among the most significant threats to companion animal welfare in the United States, yet little is known about how pet owners' perceived costs of veterinary care vary by geography or species. Rural cat owners in particular face compounding access challenges, including lower veterinary availability, reduced care-seeking norms, and potential differences in price expectations relative to non-rural counterparts. This study examines whether rural, suburban, and urban pet owners",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42459543",
-      "title": "Beyond the clinical eye: mapping intestinal parasitic infections and its risk factors among dogs and cats across Portugal.",
-      "authors": "Ferreira B, Ferrolho J, Faria C, Borges O, Sousa S",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42459543/",
-      "abstract": "Intestinal parasitic infections in dogs and cats represent a significant clinical challenge and pose relevant zoonotic risks to public health. Epidemiological data on Portuguese companion animals remain scarce, with limited sample sizes and geographic coverage, leaving key gaps in understanding parasite prevalence and associated risk factors. This cross-sectional epidemiological study investigated the prevalence and associated risk factors of intestinal parasitism in 363 dogs and 345 cats, sampl",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42459542",
-      "title": "Effects of dietary Inonotus obliquus fermentation product supplementation on growth performance, immune function, blood glucose level, and gut microbiota in cats.",
-      "authors": "Zhang L, Gao X, Wang J, Sun W, Cheng W",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42459542/",
-      "abstract": "Inonotus obliquus is a medicinal fungus rich in bioactive compounds that has demonstrated significant efficacy in animals when supplemented in the diet. However, its effects on key health parameters in cats remain unclear. This study evaluated the effects of Inonotus obliquus fermentation product (IOFP) as a functional preparation for cats. A total of 20 weaned kittens were divided into two groups, and each group was fed a basal diet or a diet supplemented with 0.8% IOFP (w/w) for 45&#x202f;days",
-      "category": "oncology",
       "summary_ko": ""
     }
   ]
