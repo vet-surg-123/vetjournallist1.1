@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 08:20 UTC",
+  "updated": "2026-08-01 07:36 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -41,6 +41,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42510991/",
       "abstract": "Cranial cruciate ligament disease (CCLD) is among the most common orthopedic conditions in dogs, and tibial plateau leveling osteotomy (TPLO) is the current standard of care; however, long-term radiographic data on tibial plateau angle (TPA) stability specific to small-breed dogs (&lt;10 kg) remain limited. This retrospective study evaluated radiographic correction and long-term stability of TPA following TPLO in small-breed dogs and assessed whether observed TPA changes fell within the range of",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42535405",
+      "title": "Computed tomography versus magnetic resonance imaging for the perioperative management of acute thoracolumbar intervertebral disc extrusion in non-ambulatory chondrodystrophic dogs.",
+      "authors": "Low D, Markovic A",
+      "journal": "Vet Surg",
+      "date": "2026 Jul 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42535405/",
+      "abstract": "To determine whether perioperative management guided by conditional computed tomography-myelography (C-CTM) is non-inferior to magnetic resonance imaging (MRI) regarding functional outcome for acute thoracolumbar intervertebral disc extrusion (IVDE) in non-ambulatory chondrodystrophic dogs. Quasi-randomized natural experiment utilizing unscheduled MRI downtime as an exogenous instrument. A total of 560 client-owned dogs (MRI, 518 dogs; C-CTM, 42 dogs). A retrospective cohort study was conducted.",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -199,12 +210,12 @@
     },
     {
       "id": "42501791",
-      "title": "Development and Validation of PCR-RFLP Assays for Detection of MYBPC3 Variants Associated with Hypertrophic Cardiomyopathy in Maine Coon and Ragdoll Cats.",
+      "title": "Development and validation of PCR-RFLP assays for detection of MYBPC3 variants associated with hypertrophic cardiomyopathy in Maine Coon and Ragdoll cats.",
       "authors": "Phuong Vu T, Quang Le T, Thi Thanh Truong T, Thi Cam Nguyen G, By KB",
       "journal": "Vet J",
       "date": "2026 Jul 25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42501791/",
-      "abstract": "Hypertrophic cardiomyopathy (HCM) is the most common myocardial disease in domestic cats and breed-associated variants in MYBPC3 have been reported in Maine Coon and Ragdoll cats. This study developed and analytically evaluated two polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) assays for detecting the MYBPC3 c.91G&gt;C (A31P) variant in Maine Coon cats and the c.2453C&gt;T (R820W) variant in Ragdoll cats, and applied the assays to a small Vietnamese cohort with co",
+      "abstract": "Hypertrophic cardiomyopathy (HCM) is the most common myocardial disease in domestic cats and breed-associated variants in MYBPC3 have been reported in Maine Coon and Ragdoll cats. This study developed and analytically evaluated two polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) assays for detecting the MYBPC3 c.91&#x202f;G&gt;C (A31P) variant in Maine Coon cats and the c.2453&#x202f;C&gt;T (R820W) variant in Ragdoll cats, and applied the assays to a small Vietnames",
       "category": "imaging",
       "summary_ko": ""
     },
@@ -536,17 +547,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42462944/",
       "abstract": "The tear film is traditionally described as a highly organized, multilayer structure comprising an outer lipid layer, a central aqueous phase, and an inner mucin layer, each contributing distinct structural and functional properties. Beyond its essential roles in maintaining ocular surface homeostasis, tear fluid represents an integrated biological secretion shaped by systemic physiological regulation that might be used as a source of biomarkers. While tear fluid has long been recognized in huma",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42462778",
-      "title": "The fibula contributes minimally to torsional stiffness and strength of the canine crus in an ex vivo study in Beagles.",
-      "authors": "Picavet PP, Balligand M",
-      "journal": "Am J Vet Res",
-      "date": "2026 Jul 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42462778/",
-      "abstract": "To characterize the torsional mechanical properties of the canine crus, determine the contribution of the fibula to crus stiffness and strength under torsional loading, and describe the associated failure pattern. This ex vivo study was conducted from December 2021 through June 2022 and included 13 pelvic limbs from skeletally mature Beagles. Specimens were assigned to 2 groups: intact tibia and fibula (n = 7) and tibia with proximal fibular ostectomy (6). Crura were potted proximally and distal",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
