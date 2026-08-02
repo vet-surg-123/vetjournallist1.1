@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01 07:36 UTC",
+  "updated": "2026-08-02 07:40 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -41,6 +41,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42510991/",
       "abstract": "Cranial cruciate ligament disease (CCLD) is among the most common orthopedic conditions in dogs, and tibial plateau leveling osteotomy (TPLO) is the current standard of care; however, long-term radiographic data on tibial plateau angle (TPA) stability specific to small-breed dogs (&lt;10 kg) remain limited. This retrospective study evaluated radiographic correction and long-term stability of TPA following TPLO in small-breed dogs and assessed whether observed TPA changes fell within the range of",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42542133",
+      "title": "Improvements in knowledge and detection of carbapenemase-producing Enterobacterales transmission in companion animals will strengthen prevention across the One Health spectrum.",
+      "authors": "Frey E, Alroy KA, Beaudoin A, DeStefano I, Diaz-Campos D",
+      "journal": "Am J Vet Res",
+      "date": "2026 Jul 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42542133/",
+      "abstract": "Carbapenemase-producing carbapenem-resistant Enterobacterales (CP-CRE) represent a growing threat to veterinary patients. Although CP-CRE infections in companion animals remain relatively rare, outbreaks in veterinary hospitals are increasingly being reported. Case reports and epidemiologic studies also support CP-CRE transmission between people and animals, making emergence in companion animals both an animal health and public health problem. However, substantial knowledge gaps limit understand",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42542132",
+      "title": "Reference intervals for myocardial T1, T2, and extracellular volume in clinically normal dogs and cats at 3-Tesla magnetic resonance imaging: a single-center study.",
+      "authors": "Fries RC, Kadotani S, Toborowsky C, Javery EA",
+      "journal": "Am J Vet Res",
+      "date": "2026 Jul 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42542132/",
+      "abstract": "To establish species-specific reference values for myocardial native T1, native T2, and extracellular volume fraction (ECV) in clinically normal dogs and cats using a 3-Tesla (3-T) cardiac MRI (CMRI) and to provide a description of image acquisition and analysis suitable for veterinary clinical and research applications. Cardiac examinations were performed between 2015 and 2024 using a 3-T system with ECG gating under general anesthesia on clinically normal client-owned dogs and cats. Native T1 ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42542130",
+      "title": "An anatomic plate provides successful outcomes for stabilization of periprosthetic femoral fractures and greater trochanteric osteotomies in dogs undergoing total hip replacement.",
+      "authors": "Lotsikas PJ, Fink OT, Murphy S, Lirtzman RA, Kim SE",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Jul 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42542130/",
+      "abstract": "To report the clinical and radiographic outcomes of a locking proximal femoral anatomic bone plate in the management of periprosthetic femoral fractures (PFFs) and greater trochanteric osteotomies (GTOs) in dogs undergoing total hip replacement (THR). Medical records from August 2023 to February 2026 were reviewed for dogs with THR that developed PFF or underwent planned GTO and were subsequently stabilized with a locking proximal femoral anatomic bone plate. Cases involving a second plate, pree",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42542129",
+      "title": "Serum iodine concentrations in euthyroid dogs and dogs with autoimmune thyroiditis and hypothyroidism.",
+      "authors": "Egbert RJ, Buchweitz JP, Godfrey MA, Petroff BK",
+      "journal": "Am J Vet Res",
+      "date": "2026 Jul 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42542129/",
+      "abstract": "To characterize the total and inorganic serum iodine concentrations of canines with varying thyroid disease status. Leftover serum samples submitted to the Michigan State University Veterinary Diagnostic Laboratory for diagnostic thyroid panel screening between January and June 2023 were utilized for this retrospective study. Thyroglobulin autoantibody was used as a marker for autoimmune thyroiditis. Inorganic and total iodine were measured via an inductively coupled plasma-mass spectrometer. An",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42542127",
+      "title": "Is annual Dirofilaria immitis antigen testing at preventive renewal proportionate to the residual infection risk in documented-compliant dogs?",
+      "authors": "Horvath M",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Jul 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42542127/",
+      "abstract": "Current American Heartworm Society guidelines characterize prescribing macrocyclic lactone preventives in the absence of antigen testing as \"NOT RECOMMENDED,\" regardless of compliance history or geographic prevalence. Number Needed to Screen, an established human preventive medicine framework applied here as a novel veterinary screening tool, has not previously been used to evaluate this guideline. Using county-level Companion Animal Parasite Council prevalence data and the compliance-gap distri",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -506,17 +561,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42468557",
-      "title": "Pretreatment with phenoxybenzamine improves short-term survival and hemodynamic stability in dogs undergoing adrenalectomy for pheochromocytoma.",
-      "authors": "Wund Z, Monnet E",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Jul 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42468557/",
-      "abstract": "To evaluate indices of hemodynamic instability (HDI) in dogs and evaluate the effects of phenoxybenzamine (PBZ) on HDI and short-term survival in dogs undergoing adrenalectomy for pheochromocytoma. A retrospective medical record review of all dogs that underwent adrenalectomy at a single institution between 1996 and 2024. Dogs were included if the mass was confirmed to be a pheochromocytoma on histopathology and excluded if they received &#x3b1; antagonists other than PBZ, had incomplete medical",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42511086",
       "title": "Integrated Biomarker Assessment for Prognosis in Canine Mammary Carcinomas: Complementary Roles of Serum CA 15-3 and Immunohistochemistry Ki-67, and COX-2.",
       "authors": "Pinheiro BQ, Albuquerque MB, Cavalcante FEP, Nascimento IRBD, Souza FR",
@@ -525,28 +569,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42511086/",
       "abstract": "CMTs are biologically heterogeneous neoplasms for which reliable prognostic biomarkers remain limited. This study investigated the clinical significance of serum cancer antigen 15-3 (CA 15-3) and the immunohistochemical expression of Ki-67 and cyclooxygenase-2 (COX-2) in CMTs. Fifty-four female dogs with histologically confirmed CMTs and twelve healthy controls were prospectively evaluated. Serum CA 15-3 concentrations were measured before surgery and at 21 and 90 days post-mastectomy, while Ki-",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42464268",
-      "title": "Animal welfare assessment at four dog shelters in Central Uganda: a cross-sectional study using the shelter quality ® protocol.",
-      "authors": "Ashabahebwa L, Hoareau Z, Ssuna P, Tayebwa DS",
-      "journal": "BMC Vet Res",
-      "date": "2026 Jul 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42464268/",
-      "abstract": "In Central Uganda, animal welfare advocates are increasingly promoting the establishment of animal shelters as a humane alternative to poisoning for controlling free-roaming dog (FRD) populations. However, dogs at these facilities face a number of welfare challenges arising from insufficient resources and substandard management practices. We aimed to assess the welfare of sheltered dogs in Central Uganda by identifying the animal-based welfare issues faced by the dogs, evaluating the housing and",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42462944",
-      "title": "Tear biomarkers in veterinary species: An updated review with special focus on dogs and cats.",
-      "authors": "Vaquer-Alcaraz L, Muñoz-Prieto A, Pardo-Marín L, Bayón A",
-      "journal": "Vet J",
-      "date": "2026 Jul 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42462944/",
-      "abstract": "The tear film is traditionally described as a highly organized, multilayer structure comprising an outer lipid layer, a central aqueous phase, and an inner mucin layer, each contributing distinct structural and functional properties. Beyond its essential roles in maintaining ocular surface homeostasis, tear fluid represents an integrated biological secretion shaped by systemic physiological regulation that might be used as a source of biomarkers. While tear fluid has long been recognized in huma",
-      "category": "other",
       "summary_ko": ""
     },
     {
@@ -825,28 +847,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42467980",
-      "title": "Use of ultrasound-guided percutaneous perineural corticosteroid injections for refractory cervical pain secondary to vertebral venous system abnormality in a dog.",
-      "authors": "Carrillo AJ, Vilaplana Grosso FR, Garcia GA",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42467980/",
-      "abstract": "A 2-year-old neutered male Greyhound was presented for evaluation of chronic, progressive right forelimb lameness and cervical pain. On presentation, the dog was ambulatory with mild to moderate right thoracic limb lameness and pain on cervical palpation with a right thoracic limb nerve root signature. Cervical magnetic resonance imaging (MRI) identified moderate right-sided C6 internal venous plexus enlargement. Medical management and physiotherapy did not result in clinical improvement. Repeat",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42467979",
-      "title": "Submucosal urethral bulking with 2.5% polyacrylamide hydrogel (Mictamid) for urinary incontinence in male dogs using a percutaneous fluoroscopically assisted perineal approach.",
-      "authors": "McAtee R, Skinner SM, Foster JD",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42467979/",
-      "abstract": "Urethral bulking using cystoscopic injection of various bulking agents has been commonly utilized in female dogs with urethral sphincter mechanism incompetence (USMI), but its use in male dogs with urinary incontinence has not been well described. Describe the treatment and outcomes of male dogs with urinary incontinence that underwent submucosal cystoscopic injection of 2.5% polyacrylamide hydrogel (PAHG) using a percutaneous fluoroscopically assisted perineal approach. Five client-owned male d",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42505041",
       "title": "Sarcopenia, cachexia and frailty in older cats: Mechanisms, assessment and therapeutic considerations.",
       "authors": "Chandler M",
@@ -888,6 +888,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42474116/",
       "abstract": "A 12-year-old male castrated Shih Tzu presented with a suspected intracranial granular cell tumor (GCT) in the left cerebrum. The clinical signs had resolved post stereotactic radiotherapy (SRT) of 3 consecutive days of 8&#xa0;Gy, and serial magnetic resonance imaging (MRI) revealed maximum 56.8% tumor volume reduction 9 months post SRT. Serial MRI showed progressive cerebral microbleeds. The patient neurologically declined 18 months after SRT and was euthanized. A full necropsy, cytologic, and ",
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42539550",
+      "title": "Practices and perceptions of antibiotic use in canine breeding: a survey among breeders and veterinarians.",
+      "authors": "Spanoghe L, Quaaden A, Lannoo J, Banchi P, Domain G",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42539550/",
+      "abstract": "Antibiotic use in canine breeding, particularly prior to mating, is frequently discussed in practice despite increasing awareness of antimicrobial stewardship and the recognition that the canine vaginal tract naturally harbors a microbiome. Diagnostic uncertainty, especially regarding bacterial culture findings and Mycoplasma spp. detection, may contribute to antimicrobial use in this setting. This study aimed to investigate antibiotic use, bacteriological testing practices, and underlying belie",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42483710/",
       "abstract": "While German Shepherds are widely utilized in agility and working roles, the limb-specific kinematic strategies they employ to attenuate impact during locomotion, and how these strategies relate to clinical injury susceptibilities, remain insufficiently understood. In this preliminary study, we used a three-dimensional motion capture system to quantify the forelimb and hindlimb kinematics of four clinically healthy German Shepherd dogs during walking, trotting, and controlled drop-landing. Joint",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42465720",
-      "title": "Early activation of Virchow's triad in feline hypertrophic cardiomyopathy: beyond spontaneous echo contrast and insights into translational thromboembolism.",
-      "authors": "de Sousa FG, Muzzi RAL, de Araújo RB, Faleiros RR, Beier SL",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42465720/",
-      "abstract": "The hypertrophic cardiomyopathy (HCM) phenotype is closely associated with arterial thromboembolism (ATE). The pathophysiology of ATE is linked to activation of Virchow's triad, characterized by endothelial injury, blood stasis, and hypercoagulability. Together, these factors create a prothrombotic microenvironment that may precede overt clinical manifestations. Although spontaneous echocardiographic contrast (SEC) is widely used in clinical practice as a marker of thromboembolic risk, it should",
-      "category": "imaging",
       "summary_ko": ""
     }
   ]
