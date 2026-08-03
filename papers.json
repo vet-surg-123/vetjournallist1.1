@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 07:40 UTC",
+  "updated": "2026-08-03 10:56 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -539,28 +539,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42468570",
-      "title": "Development of a predictive model for estimation of postoperative risk following brachycephalic obstructive airway syndrome surgery.",
-      "authors": "Ruzics EA, Reynolds PS, Morse Z, Shipman J, Ham KM",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Jul 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42468570/",
-      "abstract": "To identify risk factors for postoperative death and complications in dogs undergoing brachycephalic obstructive airway syndrome (BOAS) surgery and utilize this information to develop a predictive model for risk estimation. Records of dogs undergoing BOAS surgery at a veterinary teaching hospital between 2012 and 2023 were reviewed. Predictor variables were categorized into domains, including signalment, history, clinical signs, underlying pathology, acuity status, and surgeries performed. Outco",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42468564",
-      "title": "Canine gastric polyps are predominantly hyperplastic, and endoscopic polypectomy is a safe and effective treatment associated with no recurrence during follow-up.",
-      "authors": "Zanardi S, Cola V, Del Magno S, Sabattini S, Dondi G",
-      "journal": "Am J Vet Res",
-      "date": "2026 Jul 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42468564/",
-      "abstract": "To characterize the clinical presentation, endoscopic features, and histopathological findings of gastric polyps in dogs and to evaluate the safety and outcomes of endoscopic polypectomy. Dogs diagnosed with gastric polypoid lesions during upper gastrointestinal endoscopy from January 2020 through December 2024 at the University Veterinary Hospital, University of Bologna (Italy), were retrospectively evaluated. Inclusion criteria were endoscopic identification of gastric polyps; dogs with primar",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42511086",
       "title": "Integrated Biomarker Assessment for Prognosis in Canine Mammary Carcinomas: Complementary Roles of Serum CA 15-3 and Immunohistochemistry Ki-67, and COX-2.",
       "authors": "Pinheiro BQ, Albuquerque MB, Cavalcante FEP, Nascimento IRBD, Souza FR",
@@ -723,6 +701,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42511022/",
       "abstract": "Canine appendicular osteosarcoma (OSA) is typically managed by limb amputation. However, this approach may be suboptimal in dogs with concurrent osteoarthrosis (OA). Limb-sparing surgery using three-dimensional (3D)-printed patient-specific implants (PSIs) may be an alternative, although evidence on implant durability and revision strategies remains limited, in particular for proximal humeral reconstructions. This report describes a 9-year-old, overweight dog referred for a 4-week history of per",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42544490",
+      "title": "Association of hypoalbuminemia with disease and survival in 1664 cats presenting to a tertiary teaching hospital: a retrospective case-control study.",
+      "authors": "Hayes CC, Zhu X, Pazzi P, Schmid SM",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42544490/",
+      "abstract": "Hypoalbuminemia (HA) is associated with a higher case fatality rate in people. To describe the affected organ systems and pathoetiologies in cats with mild (2.5-2.9&#xa0;g/dL), moderate (2-2.4&#xa0;g/dL), or severe (&lt; 2&#xa0;g/dL) HA, and compare hospitalization and survival times to cats without HA (wHA; &#x2265; 3&#xa0;g/dL). Eight hundred thirty-two HA and 832 wHA cats. Retrospective case-control study of cats with plasma albumin concentrations measured between 2017 and 2023. Diagnoses wer",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42544488",
+      "title": "Retrospective evaluation of C-reactive protein for discriminating between lower urinary tract infections and acute pyelonephritis in dogs.",
+      "authors": "Fidanzio F, Colombo G, Vasylyeva K, Tirolo A, Sabetti MC",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42544488/",
+      "abstract": "The role of C-reactive protein (CRP) in differentiating pyelonephritis from other types of urinary tract infection in dogs is not well defined. Compare serum CRP concentrations at diagnosis in dogs with acute pyelonephritis (APy), acute prostatitis (APr), and bacterial cystitis (BC). Serum CRP concentration is hypothesized to be higher in APy and APr than in BC. One hundred fifteen client-owned dogs were included: 56 with BC, 32 with APy, 23 with APr, and 4 with both APy and APr. Retrospective o",
+      "category": "other",
       "summary_ko": ""
     },
     {
