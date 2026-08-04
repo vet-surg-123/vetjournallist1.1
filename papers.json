@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03 10:56 UTC",
+  "updated": "2026-08-04 07:49 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -52,17 +52,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42542133/",
       "abstract": "Carbapenemase-producing carbapenem-resistant Enterobacterales (CP-CRE) represent a growing threat to veterinary patients. Although CP-CRE infections in companion animals remain relatively rare, outbreaks in veterinary hospitals are increasingly being reported. Case reports and epidemiologic studies also support CP-CRE transmission between people and animals, making emergence in companion animals both an animal health and public health problem. However, substantial knowledge gaps limit understand",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42542132",
-      "title": "Reference intervals for myocardial T1, T2, and extracellular volume in clinically normal dogs and cats at 3-Tesla magnetic resonance imaging: a single-center study.",
-      "authors": "Fries RC, Kadotani S, Toborowsky C, Javery EA",
-      "journal": "Am J Vet Res",
-      "date": "2026 Jul 31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42542132/",
-      "abstract": "To establish species-specific reference values for myocardial native T1, native T2, and extracellular volume fraction (ECV) in clinically normal dogs and cats using a 3-Tesla (3-T) cardiac MRI (CMRI) and to provide a description of image acquisition and analysis suitable for veterinary clinical and research applications. Cardiac examinations were performed between 2015 and 2024 using a 3-T system with ECG gating under general anesthesia on clinically normal client-owned dogs and cats. Native T1 ",
-      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -149,7 +138,7 @@
       "journal": "J Feline Med Surg",
       "date": "2026 Jul 30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42529917/",
-      "abstract": "It is estimated that cats do not drink enough water, particularly those maintained on a dry diet. As such, the objective of this study was to determine the effects of providing two different high-moisture lickable treats containing glycine, alanine, taurine, and betaine, and two sodium levels, on water intake and hydration indices in cats fed dry diets. Twelve adult cats were provided treatments in a 3&#xd7;3 replicated Latin square design for five days per leg: dry diet (CON), CON + one treat w",
+      "abstract": "This content has been temporarily removed for correction.",
       "category": "other",
       "summary_ko": ""
     },
@@ -492,17 +481,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42473271/",
       "abstract": "To describe current opinions and clinical preferences of veterinary anaesthesiologists regarding anaesthetic management of dogs with myxomatous mitral valve disease (MMVD). This cross-sectional questionnaire survey presented American board-certified veterinary anaesthesiologists with seven standardised clinical scenarios involving nervous and potentially aggressive dogs with MMVD, of increasing severity (stage B1, B2 and C) and medication status. Respondents rated their level of agreement (5-poi",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42472666",
-      "title": "Intracavity catheter fragmentation during modified Seldinger pericardiocentesis and thoracocentesis in two dogs.",
-      "authors": "Phillips E, Koc D, Allerton F, Hodgkiss-Geere H",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Jul 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42472666/",
-      "abstract": "This report describes two canine cases involving fracture of a small-bore wire-guided thoracostomy drain during pericardiocentesis and thoracocentesis. Clinical records were reviewed to extract relevant signalment, presentation details, diagnostic findings, procedural notes, interventions and outcomes.",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -888,6 +866,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42474116/",
       "abstract": "A 12-year-old male castrated Shih Tzu presented with a suspected intracranial granular cell tumor (GCT) in the left cerebrum. The clinical signs had resolved post stereotactic radiotherapy (SRT) of 3 consecutive days of 8&#xa0;Gy, and serial magnetic resonance imaging (MRI) revealed maximum 56.8% tumor volume reduction 9 months post SRT. Serial MRI showed progressive cerebral microbleeds. The patient neurologically declined 18 months after SRT and was euthanized. A full necropsy, cytologic, and ",
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42544949",
+      "title": "EXPRESS: Evaluation of the clinical course of immune-mediated polyneuropathy in cats following treatment with human intravenous immunoglobulins.",
+      "authors": "Schmitz AK, Sablotni Aguilera AP, Buhmann G, van Renen J, Parzefall B",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42544949/",
+      "abstract": "Immune-mediated polyneuropathy (IMPN) manifests with generalized lower motor neuron (LMN) weakness and a remittent or relapsing clinical course. Evidence-based treatment recommendations for severely or chronically affected cats are limited. The objective of this study was to evaluate the clinical course and outcome of cats with IMPN following treatment with human intravenous immunoglobulins (hIVIg). Medical records from two veterinary referral hospitals were reviewed (2018-2025) for cats with IM",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42542132",
+      "title": "Reference intervals for myocardial T1, T2, and extracellular volume in clinically normal dogs and cats at 3-Tesla magnetic resonance imaging: a single-center study.",
+      "authors": "Fries RC, Kadotani S, Toborowsky C, Javery EA",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42542132/",
+      "abstract": "To establish species-specific reference values for myocardial native T1, native T2, and extracellular volume fraction (ECV) in clinically normal dogs and cats using a 3-Tesla (3-T) cardiac MRI (CMRI) and to provide a description of image acquisition and analysis suitable for veterinary clinical and research applications. Cardiac examinations were performed between 2015 and 2024 using a 3-T system with ECG gating under general anesthesia on clinically normal client-owned dogs and cats. Native T1 ",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
