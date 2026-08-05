@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 07:49 UTC",
+  "updated": "2026-08-05 07:59 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -374,39 +374,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42482571",
-      "title": "EXPRESS: Serial measurement of serum pancreatic lipase immunoreactivity and trypsin-like immunoreactivity concentrations in cats with chronic enteropathy.",
-      "authors": "Karra DA, Moraiti KT, Lidbury JA, Steiner JM, Newman SJ",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Jul 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42482571/",
-      "abstract": "ObjectivesSerial measurement of serum feline pancreatic lipase immunoreactivity (fPLI) and trypsin-like immunoreactivity (fTLI) concentrations in cats with chronic enteropathy (CE) has not been previously reported. The aim of the current observational study was to serially evaluate serum fPLI and fTLI concentrations in cats with different forms of CE.MethodsA total of 60 cats with CE were included, diagnosed either with immunosuppressive-responsive enteropathy (IRE, n=22), food-responsive entero",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42480594",
-      "title": "Immediate separation and storage of serum at a refrigerated temperature for 24 to 36 hours leads to minimal alterations in circulating microRNA levels in dogs.",
-      "authors": "Grimes JA, Webb B",
-      "journal": "Am J Vet Res",
-      "date": "2026 Jul 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42480594/",
-      "abstract": "To determine how microRNA (miRNA) levels are altered in serum samples under different storage conditions. Whole blood was collected from 10 healthy dogs and placed into 7 tubes: (Tube 1) a red-top tube (RTT) centrifuged for immediate serum separation and stored at -80 &#xb0;C (control), (Tube 2) room temperature (RT) for 24 to 36 hours, or (Tube 3) refrigerated temperature (FT) for 24 to 36 hours; (Tube 4) an RTT stored at RT for 24 to 36 hours or (Tube 5) FT for 24 to 36 hours; and (Tube 6) a s",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42478480",
-      "title": "Owners' perspective on using a continuous glucose monitoring system with their diabetic pet.",
-      "authors": "Dodig T, Stammeleer L, Brkljačić T, Haesen S, Van den Abeele M",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Jul 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42478480/",
-      "abstract": "This study evaluated pet owners' perspectives on the use of FreeStyle Libre&#xae; - continuous glucose monitoring system for monitoring their diabetic pet, focusing on the sensor's advantages and disadvantages. It sought to assess owner satisfaction with the sensor's usability, as well as owners' perceived impact on their pet's quality of life and diabetes mellitus control. An anonymous online survey was retrospectively distributed to 65 diabetic pet owners, with 35 responses received (18 cat an",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "42511120",
       "title": "Effects of Bacillus amyloliquefaciens on Growth Performance, Immune Performance, Antioxidant Capacity, Jejunal Microbiota and Transcriptome of Zi Geese.",
       "authors": "Zhang Q, Zhou Y, Xing J, Wang Y, Li Y",
@@ -418,50 +385,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42480621",
-      "title": "Epidural analgesia reduces or eliminates neuropathic pain refractory to oral medications in dogs and cats for weeks to months.",
-      "authors": "Bergstein O, Boesch JM, Thomson ACS, Todd-Donato A",
-      "journal": "Am J Vet Res",
-      "date": "2026 Jul 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42480621/",
-      "abstract": "To describe epidural injection for neuropathic pain in dogs and cats and report outcome. Medical records of patients presented to an academic pain medicine service from 2015 through 2026 with clinical signs of neuropathic pain and a somatosensory nervous system lesion or disease that underwent epidural injection after failing treatment with at least 2 oral analgesics were reviewed; incomplete records were excluded. Six animals met these criteria. 4 domestic shorthair cats and 2 dogs (Dalmatian a",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42478120",
-      "title": "CT-Based Radiomic Features Predict Cervical Lymph Node Metastasis in Dogs With Oral Malignancy: A Machine Learning Study Using Leave-One-Patient-Out Cross-Validation.",
-      "authors": "Pinard CJ, Lagree A, Appleby R, Oblak M, Wu KC",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Jul 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42478120/",
-      "abstract": "Accurate preoperative identification of cervical lymph node (LN) metastasis is essential for staging and treatment planning in dogs with oral malignancy, yet conventional imaging offers limited diagnostic sensitivity. This retrospective study evaluated whether CT-derived radiomic features, combined with machine learning classifiers, could predict the metastatic status of mandibular and retropharyngeal LNs. Forty-nine dogs with histopathologically confirmed oral malignancy underwent contrast-enha",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42477745",
-      "title": "Fatal traumatic injury patterns in free-roaming cats: an anatomopathological study of 40 cases.",
-      "authors": "Sampaio RAG, Ferreira RG, Leite ÍMM, de Sousa IV, da Cruz Silva GG",
-      "journal": "BMC Vet Res",
-      "date": "2026 Jul 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42477745/",
-      "abstract": "Trauma is an important cause of death in domestic cats, particularly in animals with unrestricted outdoor access. However, necropsy-based studies focusing specifically on immediately fatal trauma in free-roaming cats remain limited. This study aimed to characterize fatal traumatic injuries in free-roaming cats through a retrospective anatomopathological review of feline necropsies performed over a 10-year period at the Veterinary Pathology Laboratory of the Universidade Federal da Para&#xed;ba, ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42476592",
-      "title": "Time-dependent laryngeal desensitisation following topical lidocaine and prilocaine application in cats: a randomised controlled study.",
-      "authors": "Gölgeli Bedir A, Yanmaz LE, Akçora Y, Özkalıpçı Ç, Orhun ÖT",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Jul 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42476592/",
-      "abstract": "To compare the effects of topical prilocaine and lidocaine, relative to topical 0.9% sodium chloride, on laryngeal reactivity in anaesthetised cats prior to endotracheal intubation. In this prospective, randomised, controlled, double-blind study, 24 healthy adult&#xa0;cats were enrolled and allocated to topical prilocaine, topical lidocaine or topical 0.9% sodium chloride (n&#x2009;=&#x2009;8/group) following anaesthesia with a standardised medetomidine-propofol protocol. The calculated volume o",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42511113",
       "title": "The Effect of Feeding Strategies Based on Flaxseed and Locally Available Plant-Derived Additives on the Growth Performance, Biochemical and Immune Blood Indices, and Antioxidant Capacity of Pigs in Sustainable Production.",
       "authors": "Świątkiewicz M, Szyndler-Nędza M, Czech A, Szczepanik K, Tyra M",
@@ -469,17 +392,6 @@
       "date": "2026 Jul 19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42511113/",
       "abstract": "The study evaluated the effects of feeding strategies on growth performance, health laboratory biomarkers, and antioxidant protection of slow-growing pigs, fed finisher diets containing alternative protein sources (local and by-product), as an element of sustainable pig production. The study involved 40 fattening pigs (Pulawska native breed), fed the same grower mixture, while dietary treatment was applied during the finisher phase (90-135 kg BW). The diet in all groups was isoenergetic and isop",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42473271",
-      "title": "Anaesthetic management of dogs with myxomatous mitral valve disease: results of a questionnaire survey of veterinary anaesthesiologists.",
-      "authors": "Vettorato E, Bell S, Benjamin EJ, Estrada AH, Köster L",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Jul 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42473271/",
-      "abstract": "To describe current opinions and clinical preferences of veterinary anaesthesiologists regarding anaesthetic management of dogs with myxomatous mitral valve disease (MMVD). This cross-sectional questionnaire survey presented American board-certified veterinary anaesthesiologists with seven standardised clinical scenarios involving nervous and potentially aggressive dogs with MMVD, of increasing severity (stage B1, B2 and C) and medication status. Respondents rated their level of agreement (5-poi",
       "category": "other",
       "summary_ko": ""
     },
@@ -814,17 +726,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42476551",
-      "title": "Association of brachycephaly, sleep-disordered breathing, and inflammatory response in dogs.",
-      "authors": "Niinikoski I, Rajamäki MM",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42476551/",
-      "abstract": "Sleep is fundamental to the welfare of all animals, including dogs. Various important processes take place during sleep, and while complete sleeplessness leads to death, sleep fragmentation is also harmful. Brachycephaly, the severely shortened snout and skull in the absence of a concurrent decrease in the volume of the soft tissues of the upper airways, causes many welfare concerns, including sleep-disordered breathing (SDB). In obstructive SDB, the most common form of SDB in dogs, repeated epi",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42505041",
       "title": "Sarcopenia, cachexia and frailty in older cats: Mechanisms, assessment and therapeutic considerations.",
       "authors": "Chandler M",
@@ -858,14 +759,47 @@
       "summary_ko": ""
     },
     {
-      "id": "42474116",
-      "title": "First Case Report of a Dog With Intracranial Granular Cell Tumor Treated With Stereotactic Radiotherapy.",
-      "authors": "Murakami K, Rancilio NJ, Harm TA, Nenninger AS, Hollman SE",
-      "journal": "Vet Radiol Ultrasound",
-      "date": "2026 Jul",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42474116/",
-      "abstract": "A 12-year-old male castrated Shih Tzu presented with a suspected intracranial granular cell tumor (GCT) in the left cerebrum. The clinical signs had resolved post stereotactic radiotherapy (SRT) of 3 consecutive days of 8&#xa0;Gy, and serial magnetic resonance imaging (MRI) revealed maximum 56.8% tumor volume reduction 9 months post SRT. Serial MRI showed progressive cerebral microbleeds. The patient neurologically declined 18 months after SRT and was euthanized. A full necropsy, cytologic, and ",
+      "id": "42551864",
+      "title": "Needle bevel orientation does not affect the cranial spread of injectate in a lumbosacral epidural in canine cadavers.",
+      "authors": "Harris O, Ferreira TH, Loeber S, Hughes S, Bartholomew KJ",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42551864/",
+      "abstract": "To investigate the cranial and circumferential spread of iohexol (240 mg/mL) diluted 1:3 with saline injected at the lumbosacral junction in canine cadavers using 0.1- and 0.2-mL/kg volumes administered with a cranial- or caudal-facing Tuohy bevel direction. Lumbosacral epidurals were performed with a cranial- or caudal-facing needle bevel. The median vertebrae reached and the estimated percentage of the spinal cord surrounded with injectate were assessed via CT after administering two 0.1-mL/kg",
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42551861",
+      "title": "Cadaveric Feasibility Study Describing Transarticular Drilling of the Canine Anconeal Process through a Cranial Arthroscopic Portal.",
+      "authors": "Schmeiser LJ, Murphy SM",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Aug 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42551861/",
+      "abstract": "The aims of this study were to describe a cranial arthroscopic portal to the supratrochlear foramen and to assess the feasibility and accuracy of retrograde transarticular drilling of the anconeal process in canine cadaveric elbows. Cadaver elbows (n&#x2009;=&#x2009;8) were instrumented through a cranial portal in the distal humerus using a NanoScope. The scope was manoeuvred through the supratrochlear foramen to inspect the anconeal process. A 2.0-mm tunnel simulating the pilot hole for an unun",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42549582",
+      "title": "Survival outcomes in dogs treated with vinorelbine-based adjuvant treatment following surgical resection of grade II and III pulmonary carcinoma.",
+      "authors": "Wong N, Brockley L, Rajan S, Yu J",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Aug 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42549582/",
+      "abstract": "Pulmonary carcinoma in dogs is commonly managed with surgical resection; however, the role of adjuvant chemotherapy for grade II and III carcinomas remains unclear. This retrospective multicentre study investigated the outcomes in dogs treated with vinorelbine-based adjuvant treatment (as monotherapy or combined chemotherapy) following surgical resection, compared to surgical resection alone. Fifty-six dogs with histologically confirmed grade II and III pulmonary carcinoma were evaluated in this",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42548148",
+      "title": "An exploratory evaluation of the frequency of perioperative changes in electrolyte, acid-base, creatinine, glucose, and lactate variables in dogs and cats undergoing cranial surgery for tumor resection.",
+      "authors": "Weiss ZE, Murthy VD, Epstein SE, Hopper K, Hoehne SN",
+      "journal": "Vet Surg",
+      "date": "2026 Aug 3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548148/",
+      "abstract": "To explore the frequency and severity of abnormalities in perioperative point-of-care bloodwork in dogs and cats undergoing cranial surgery for tumor resection with particular emphasis on dyskalemia development. Retrospective observational study. A total of 61 dogs and 14 cats undergoing cranial surgery for tumor resection between 2009 and 2023. Medical records and point-of-care blood variables of dogs and cats undergoing surgical tumor resection were reviewed. Electrolyte, acid-base, creatinine",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -888,6 +822,83 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42542132/",
       "abstract": "To establish species-specific reference values for myocardial native T1, native T2, and extracellular volume fraction (ECV) in clinically normal dogs and cats using a 3-Tesla (3-T) cardiac MRI (CMRI) and to provide a description of image acquisition and analysis suitable for veterinary clinical and research applications. Cardiac examinations were performed between 2015 and 2024 using a 3-T system with ECG gating under general anesthesia on clinically normal client-owned dogs and cats. Native T1 ",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42549302",
+      "title": "Case Report: Modified pulse-dose melphalan therapy for canine colorectal extramedullary plasmacytoma with suspected hepatic dissemination following surgical excision.",
+      "authors": "Chen Y",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42549302/",
+      "abstract": "A senior male neutered Maltese dog was diagnosed with a solitary rectal extramedullary plasmacytoma that was completely excised with clean margins. 5 months later, multifocal hepatic plasma cell tumors were identified without evidence of multiple myeloma. Systemic chemotherapy was initiated using a pulse-dose melphalan protocol combined with prednisone. Due to recurrent dose-limiting myelosuppression, the treatment protocol was progressively modified by shortening the duration of melphalan admin",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42549220",
+      "title": "Electrochemotherapy for feline lingual squamous cell carcinoma: a case report of functional preservation as a palliative approach.",
+      "authors": "Akiyoshi M, Hisasue M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42549220/",
+      "abstract": "A 14-year-old spayed female Persian cat with lingual feline oral squamous cell carcinoma (FOSCC) was treated with bleomycin-based electrochemotherapy (ECT), resulting in sustained preservation of oral function and quality of life despite advanced disease. At presentation, the cat exhibited severe weight loss, oral pain, and reduced voluntary food intake. ECT was performed using intravenous bleomycin (20&#x202f;mg/m2) followed by electric pulse delivery via an eight-needle electrode array. Follow",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42548942",
+      "title": "SARS-CoV-2 at the human-pet interface: transmission and pre-existing immunity in pets within infected households.",
+      "authors": "Tomeo-Martín BD, Mendez-Echevarria A, Delgado-Bonet P, Jiménez-Clavero MÁ, de la Torre A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548942/",
+      "abstract": "This exploratory study investigated SARS-CoV-2 transmission dynamics and risk factors in companion animals from COVID-19-positive households in Madrid, Spain. The research was conducted during the early pandemic lockdown, providing a unique scenario of intensified human-animal cohabitation within domestic \"transmission units.\" A total of 87 pets (18 cats and 69 dogs) were enrolled through voluntary recruitment in veterinary clinics in Madrid. Exposure was assessed using RT-qPCR from nasopharynge",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42548642",
+      "title": "Commentary: Comparing caregiver burden in owners of healthy dogs with and without limb amputation: a cross-sectional analysis.",
+      "authors": "Verma A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548642/",
+      "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42548562",
+      "title": "Why anesthetic protocols do not travel intact: hidden curriculum and local reasoning in small-animal veterinary anesthesia.",
+      "authors": "Nagahama S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548562/",
+      "abstract": "In small-animal veterinary anesthesia, protocols, standard combinations, and dose-based practical aids are highly visible parts of the educational and clinical landscape. This visibility is not inherently problematic, because protocol-like structures can improve efficiency and provide workable starting points. However, in dogs and cats, where care often allows repeated observation, incremental adjustment, and response-guided modification, quality depends heavily on patient-specific interpretatio",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42548518",
+      "title": "Safety of subconjunctival allogeneic platelet-rich plasma on normal canine eyes.",
+      "authors": "Davis AB, Stewart ML, Hickox AA",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548518/",
+      "abstract": "To determine the safety and tolerance of an allogeneic, pooled freeze-dried platelet-rich plasma (PRP; VetStem PrecisePRP&#x2122; Canine) product administered via subconjunctival injection two weeks apart in clinically normal canine eyes. Allogeneic PRP was reconstituted with sterile water. With topical anesthesia and gentle manual restraint of each dog, 0.2&#x202f;mL (500 &#xd7; 106 platelets/mL) of the reconstituted preparation was injected under the dorsal bulbar conjunctiva of the right eye.",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42548414",
+      "title": "Evaluation of intestinal leakage pressure following unsutured intestinal biopsies performed with an automatic needle-core biopsy device.",
+      "authors": "Deglume E, Aloisi R, Delsol G, Malkani R, Libermann S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548414/",
+      "abstract": "To evaluate whether full-thickness intestinal biopsies performed with an automated needle-core device, without closure of the biopsy site, maintain adequate intestinal integrity in dogs and cats. This experimental study consisted of ex vivo testing on small intestinal segments from fresh canine and feline cadavers, and in vivo testing in dogs and cats undergoing enterectomy for unrelated indications. Full-thickness biopsies were performed using a 16-gauge automated needle-core device, with biops",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42488902/",
       "abstract": "Medial patellar luxation (MPL) is one of the most common orthopedic disorders in small-breed dogs and is associated with progressive joint degeneration, gait abnormalities, and long-term functional impairment. Despite its high prevalence, current treatment strategies remain primarily focused on structural correction, whereas rehabilitation approaches targeting dynamic patellar stability and functional recovery remain insufficiently established. In particular, rehabilitation concepts addressing m",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42483710",
-      "title": "Comparative kinematic analysis of forelimb and hindlimb cushioning strategies in German Shepherd dogs: implications for injury prevention.",
-      "authors": "Miao H, Zhu L, Zheng L, Qian Z, Ren L",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42483710/",
-      "abstract": "While German Shepherds are widely utilized in agility and working roles, the limb-specific kinematic strategies they employ to attenuate impact during locomotion, and how these strategies relate to clinical injury susceptibilities, remain insufficiently understood. In this preliminary study, we used a three-dimensional motion capture system to quantify the forelimb and hindlimb kinematics of four clinically healthy German Shepherd dogs during walking, trotting, and controlled drop-landing. Joint",
-      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
