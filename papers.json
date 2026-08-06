@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 07:59 UTC",
+  "updated": "2026-08-06 07:58 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,17 +10,6 @@
     "other": "기타"
   },
   "papers": [
-    {
-      "id": "42485707",
-      "title": "Association of component measurement variability and disease severity with variability of calculated mitral regurgitant fraction in dogs with myxomatous mitral valve disease.",
-      "authors": "McAulay G, Singleton D, Rishniw M",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Jun 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42485707/",
-      "abstract": "Echocardiographic calculation of mitral regurgitant fraction (MR%) may complement variables used to assess myxomatous mitral valve disease (MMVD) severity. The geometric technique of calculating MR% uses four component variable measurements. Calculations using multiple measurements necessarily influence variability. The influence of disease severity on component measurements and MR% variability has not been explored. This study explored the contribution of component measurement variability and t",
-      "category": "imaging",
-      "summary_ko": ""
-    },
     {
       "id": "42511012",
       "title": "Evaluating a Novel Cat-Assisted Training (CAT) Intervention for Youth with Developmental Disabilities and Their Family Cat.",
@@ -693,39 +682,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42485626",
-      "title": "Lung ultrasound interpretation using deep learning for the detection of B-lines in dogs.",
-      "authors": "Ward JL, VanBerlo B, Huggard B, Smith D, Arntfield R",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42485626/",
-      "abstract": "Deep learning (DL) shows promise for interpretation of lung ultrasound (LUS) images in humans, but its performance in animals remains underexplored. Assess performance of a B-line detection algorithm (BLDA) trained on LUS images from humans when applied to images from dogs. A total of 1,950 clips collected from 201 LUS examinations in 90 dogs across 4 studies. Ultrasound clips were collated and labeled with A-line or B-line profiles by an expert reviewer. A DL model previously trained on LUS ima",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42485625",
-      "title": "Successful treatment of severe iatrogenic hypercalcemia and acute kidney injury with hemodialysis in a cat.",
-      "authors": "DelMaestro LA, Bernstein RT, Chapman PS, Chalifoux NV",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42485625/",
-      "abstract": "A 4-year-old male castrated domestic shorthair cat was diagnosed with a urethral obstruction after presenting for vomiting, inappetence, and inappropriate urination. The cat developed iatrogenic hypercalcemia (ionized calcium &gt;&#x2009;4&#xa0;mmol/L, total calcium 57&#xa0;mg/dL) and an acute kidney injury (creatinine 9.81&#xa0;mg/dL) suspected to be a consequence of an overdose of calcium gluconate. Approximately 12&#xa0;h after admission, the cat became comatose and developed cardiovascular i",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42485624",
-      "title": "Prevalence of incidental and causative otitis in 380 client-owned dogs undergoing brain magnetic resonance imaging for signs of vestibular and non-vestibular disease.",
-      "authors": "Durr BJ, Taylor AR, Werre S",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42485624/",
-      "abstract": "Middle ear abnormalities are frequently observed in brachycephalic dogs due to their anatomical variation, and the prevalence of these abnormalities may be influenced by modern breed popularity. We hypothesized that 10% of dogs with signs of neurologic disease will have incidental otitis media (OM) and that brachycephalic breeds will have a higher occurrence of OM. Three hundred eighty client-owned dogs that underwent magnetic resonance imaging (MRI) of the head for any signs of neurologic disea",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42505041",
       "title": "Sarcopenia, cachexia and frailty in older cats: Mechanisms, assessment and therapeutic considerations.",
       "authors": "Chandler M",
@@ -822,6 +778,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42542132/",
       "abstract": "To establish species-specific reference values for myocardial native T1, native T2, and extracellular volume fraction (ECV) in clinically normal dogs and cats using a 3-Tesla (3-T) cardiac MRI (CMRI) and to provide a description of image acquisition and analysis suitable for veterinary clinical and research applications. Cardiac examinations were performed between 2015 and 2024 using a 3-T system with ECG gating under general anesthesia on clinically normal client-owned dogs and cats. Native T1 ",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42553660",
+      "title": "Case Report: Spinal intramedullary fungal granuloma: clinical findings, surgery, and outcome in a dog.",
+      "authors": "Benito-Benito M, Elvira-Rodriguez T, Bovis MDM, Constantino-Casas F, Ives EJ",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42553660/",
+      "abstract": "A 7-year-old male neutered Miniature Schnauzer was assessed due to an acute and progressive history of pelvic limb weakness and incoordination. At the examination, the dog was non-ambulatory paraparetic, the postural reaction were abscent in both pelvic limbs, with intact withdrawal and patellar reflexes and increased pelvic limb muscle tone, which lead into paraplegia with intact nociception in the follow 24&#x202f;h. A T3-L3 myelopathy was suspected, and an MRI of the thoracolumbar vertebral c",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42553562",
+      "title": "Shelter dogs and cats as a one health interface for phenotypic and genomic surveillance of antimicrobial-resistant Enterococcus Spp. in the United Arab Emirates.",
+      "authors": "Habib I, Mohteshamuddin K, Mohamed MI, Bhagya Lakshmi G, Antony A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42553562/",
+      "abstract": "Companion animal shelters represent underexplored settings for One Health antimicrobial resistance (AMR) surveillance. This study investigated the recovery, antimicrobial resistance, and genomic features of Enterococcus spp. from shelter dogs and cats in the United Arab Emirates (UAE). Rectal swabs were collected from 230 shelter animals, including 129 dogs and 101 cats, across five shelters in four UAE emirates/cities. Enterococcus isolates were recovered using selective culture and identified ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42553078",
+      "title": "Management practices and continuing education in the treatment of canine idiopathic epilepsy among Indian primary care veterinarians.",
+      "authors": "Srinath AT, Muñana KR, Deshmukh P, Caddiell R, Gruen ME",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42553078/",
+      "abstract": "In India and countries without veterinary neurologists, dogs with idiopathic epilepsy (IE) are managed by primary care veterinarians. Data are lacking on their practice patterns. Describe management of canine IE among Indian primary care veterinarians and explore the impact of access to educational materials about epilepsy. Prospective, two-phased, survey-based study of Indian veterinarians focused on treatment and monitoring of canine IE and perceived confidence in management recommendations (1",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42553024",
+      "title": "Phenotypic antimicrobial susceptibility and genomic resistance determinants in canine otitis-associated Pseudomonas aeruginosa isolates.",
+      "authors": "Veres MA, Tóth ZA, Illés E, Mag P, Kaszab E",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42553024/",
+      "abstract": "Pseudomonas aeruginosa is a clinically important opportunistic pathogen in canine otitis externa, particularly in chronic, recurrent or treatment-refractory cases. Its low outer-membrane permeability, biofilm-forming capacity, efflux systems and ability to acquire additional resistance determinants complicate empirical therapy and make local surveillance essential. This study integrated broth microdilution-based minimum inhibitory concentration (MIC) testing with whole-genome analysis to charact",
+      "category": "other",
       "summary_ko": ""
     },
     {
