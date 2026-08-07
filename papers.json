@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07 05:01 UTC",
+  "updated": "2026-08-07 23:50 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -140,17 +140,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42529899/",
       "abstract": "To provide a step-by-step description of canine lip/alveolar cleft repair, describe intra- and postoperative complications, and report mid-term clinical, functional and cosmetic outcomes. Prospective study. A total of 10 client-owned puppies with unilateral or bilateral lip/alveolar clefts. Detailed clinical and historical data were recorded. The lip/alveolar clefts were repaired using a surgical technique adapted from human medicine including: (1) alveolar cleft and labial vestibulum repair, (2",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42492422",
-      "title": "A retrospective (2020-2025), multicenter study of myxomatous mitral valve disease in Chihuahuas from Italy, Sweden, and the United States of America.",
-      "authors": "Spalla I, Bjerknaes MB, Bertuccini T, Menciotti G, Showers A",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Jul 3",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42492422/",
-      "abstract": "Chihuahuas are affected by myxomatous mitral valve disease (MMVD). The aim of this study was to investigate MMVD in Chihuahuas, specifically clinical and echocardiographic characteristics including probability of pulmonary hypertension (PH), disease progression, and survival. A retrospective study of privately owned Chihuahuas with an echocardiographic study compatible with MMVD from four cardiology centers across three countries (2020-2025) was conducted. Differences between signalment, centers",
-      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -627,28 +616,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42496166",
-      "title": "Correction to: Optic neuritis and meningoencephalitis associated with an ovarian teratoma in a dog.",
-      "authors": "",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42496166/",
-      "abstract": "",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42492063",
-      "title": "Unusually slow progression of a high-grade intramedullary oligodendroglioma in a dog: serial magnetic resonance imaging findings and clinical course over two years.",
-      "authors": "Wise R, Miller LR, Church ME, Mai W",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42492063/",
-      "abstract": "A 7.5-year-old spayed female French Bulldog presented for back pain that did not respond to conservative management after the dog had jumped off a couch. Magnetic resonance imaging (MRI) identified an intramedullary mass that was T2 hyperintense, T1 iso- to hypointense, short tau inversion recovery (STIR) hyperintense, strongly rim-enhancing, and centrally suppressed on post-contrast T2-fluid-attenuated inversion recovery (FLAIR) images. Despite a suspected glial cell neoplasm, clinical signs in",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
       "id": "42505041",
       "title": "Sarcopenia, cachexia and frailty in older cats: Mechanisms, assessment and therapeutic considerations.",
       "authors": "Chandler M",
@@ -678,6 +645,28 @@
       "date": "2026 Jul",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42499179/",
       "abstract": "Chronic kidney disease (CKD) is one of the most common diseases in cats, and detection of CKD is essential for its management. The objectives of this study are to compare ultrasonographic renal parameters between clinically healthy cats and those with CKD; to evaluate the correlations between ultrasonographic renal parameters and renal biomarkers, including blood urea nitrogen (BUN), creatinine (Cr), symmetric dimethylarginine (SDMA), age, sex, and body weight; and determine the diagnostic cutof",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42563273",
+      "title": "Influence of intra-articular injectate volume on joint surface coverage and leakage following canine elbow arthroscopy: A cadaveric study.",
+      "authors": "Smith E, Stark S, Boyton S, Gordon-Evans W",
+      "journal": "Vet Surg",
+      "date": "2026 Aug 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42563273/",
+      "abstract": "To determine whether reduced intra-articular (IA) injection volumes provide complete synovial surface coverage while minimizing leakage following canine elbow arthroscopy. Randomized cadaveric study. Forty elbow joints from 20 canine cadavers weighing &gt;15&#x2009;kg. Standard medial elbow arthroscopy was performed with portals placed under arthroscopic guidance. The egress portal was created along the caudal margin of the medial epicondylar ridge, directed toward the anconeal process. A third,",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42563163",
+      "title": "Longitudinal echocardiographic systolic changes in dogs receiving doxorubicin-based chemotherapy.",
+      "authors": "Herrera GC, Mantovani MM, de Castro JR, Veras ADS, Silva MJB",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42563163/",
+      "abstract": "Doxorubicin is widely used in veterinary oncology but carries a risk of cumulative cardiotoxicity. Serial echocardiographic evaluation is commonly used to monitor dogs receiving potentially cardiotoxic chemotherapy; however, evidence remains limited regarding which indices best capture early longitudinal systolic changes. Conventional monitoring relies largely on fractional shortening and M-mode estimated ejection fraction, which are based on geometric assumptions and may have limited sensitivit",
       "category": "imaging",
       "summary_ko": ""
     },
@@ -800,6 +789,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42542132/",
       "abstract": "To establish species-specific reference values for myocardial native T1, native T2, and extracellular volume fraction (ECV) in clinically normal dogs and cats using a 3-Tesla (3-T) cardiac MRI (CMRI) and to provide a description of image acquisition and analysis suitable for veterinary clinical and research applications. Cardiac examinations were performed between 2015 and 2024 using a 3-T system with ECG gating under general anesthesia on clinically normal client-owned dogs and cats. Native T1 ",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42565009",
+      "title": "Case Report: Endoscopic-guided electrocautery ablation of a vaginal hemorrhagic lesion in a dog.",
+      "authors": "Michalak SR, Palm CA, Woerde DJ, Culp WTN",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42565009/",
+      "abstract": "A 7-year-old female spayed Labrador retriever was presented for a 3-year history of progressive hemorrhage from the vulva. The dog previously underwent cystourethroscopy and vaginoscopy 1&#x202f;year prior, and a small, raised hemorrhagic lesion was identified in the caudal vaginal wall. Following pinch biopsies of the lesion, bleeding ceased during the remainder of the procedure but recommenced within a week following discharge from the hospital. Histopathology of the vaginal biopsy revealed ch",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42564043",
+      "title": "Microcomputed tomography examination of the cortical and trabecular structures of the cranial cervical spine in dogs and cats.",
+      "authors": "Klotz V, Waselau AC, Zablotski Y, Meyer-Lindenberg A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42564043/",
+      "abstract": "The microarchitectural structure of the cervical spine in small animals, particularly the cranial cervical spine, has received little attention to date. This study aimed to analyze the trabecular and cortical microarchitecture of the first four cervical vertebrae and to identify potential differences between toy- and small-breed dogs and between toy-breed dogs and cats. The first four cervical vertebrae from 20 euthanized dogs (10 toy-breed dogs and 10 small-breed dogs) and 20 euthanized cats we",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42516306/",
       "abstract": "Occipitoatlantoaxial malformations can vary in severity and clinical signs. A 1.8-year-old male intact Goldendoodle was presented with an acute onset of tetraparesis and severe neck pain after a fall. Neurologic examination revealed non-ambulatory tetraparesis with notable pain upon palpation of the cervical spine. Advanced imaging showed right-sided spinal cord compression at the level of C1 with an abnormal angle of the cranial cervical spine, severe congenital malformations including right at",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42494954",
-      "title": "Exosome ice-needling for chronic wounds in dogs: a case series.",
-      "authors": "Guidi EEA, Lim KM, Negro A, Vercelli A, Cornegliani L",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42494954/",
-      "abstract": "Chronic wounds in dogs represent a significant clinical challenge due to persistent inflammation and impaired tissue repair. This case series describes four canine patients with chronic, treatment-resistant cutaneous wounds treated with plant-derived exosome-like nanovesicles (PNELs) delivered via ice-needling technology (IN). Three dogs presented with post-surgical wound dehiscence and one dog with a chronic pressure sore. The dogs included in this case series presented with non-healing cutaneo",
-      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
