@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08 23:04 UTC",
+  "updated": "2026-08-09 23:05 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -19,17 +19,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42511012/",
       "abstract": "Animal-assisted interventions (AAIs) for children with developmental disabilities (DD) have traditionally focused on dogs and horses, with less research on cat-centered AAIs. However, many potential AAI participants prefer, or only have access to, cats. The current Randomized Control Trial (RCT) study evaluated a novel Cat-Assisted Training (CAT) intervention designed to promote healthy behaviors in children, while also strengthening child-cat bonds. Participants included 36 children with DD (ag",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42510991",
-      "title": "Long-Term Radiographic Stability of Tibial Plateau Angle Following TPLO in Small-Breed Dogs: A Retrospective Study.",
-      "authors": "Jeong D, Ahn J, Kim HY",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42510991/",
-      "abstract": "Cranial cruciate ligament disease (CCLD) is among the most common orthopedic conditions in dogs, and tibial plateau leveling osteotomy (TPLO) is the current standard of care; however, long-term radiographic data on tibial plateau angle (TPA) stability specific to small-breed dogs (&lt;10 kg) remain limited. This retrospective study evaluated radiographic correction and long-term stability of TPA following TPLO in small-breed dogs and assessed whether observed TPA changes fell within the range of",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -216,17 +205,6 @@
       "date": "2026 Jul 28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42520843/",
       "abstract": "There is a strong, bidirectional relation between the health outcomes of service dogs and their human handlers. Despite this relation, limited information is available on service dog health. This study assesses differences in health status, diet, and physical activity among service dogs and companion dogs. We conducted a cross-sectional study of the Dog Aging Project's Health and Life Experiences Survey, using data collected on or before December 31, 2021. Service dogs and companion dogs were ma",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42508457",
-      "title": "Serum erythropoietin concentration is higher in healthy brachycephalic dogs than nonbrachycephalic dogs acclimated to 1,535 meters altitude.",
-      "authors": "Cook M, Moore AR, Goldblatt BH, Cavanagh A, Zersen KM",
-      "journal": "Am J Vet Res",
-      "date": "2026 Jul 27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42508457/",
-      "abstract": "To assess the relationship between PaO2 and erythropoietin (EPO) concentrations and between PaO2 and hemoglobin (Hgb) concentrations in healthy brachycephalic (BRACHY) and healthy non-BRACHY dogs acclimatized to an altitude of 1,535 m. The third objective was to validate a human ELISA EPO kit for canine EPO measurement. Dogs were enrolled prospectively from January 2025 through September 2025. Venous samples for CBC, serum biochemistry, and EPO measurement were collected from a peripheral vein, ",
       "category": "other",
       "summary_ko": ""
     },
@@ -778,6 +756,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42542132/",
       "abstract": "To establish species-specific reference values for myocardial native T1, native T2, and extracellular volume fraction (ECV) in clinically normal dogs and cats using a 3-Tesla (3-T) cardiac MRI (CMRI) and to provide a description of image acquisition and analysis suitable for veterinary clinical and research applications. Cardiac examinations were performed between 2015 and 2024 using a 3-T system with ECG gating under general anesthesia on clinically normal client-owned dogs and cats. Native T1 ",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42569263",
+      "title": "Multicentre aortic thromboembolism thrombolysis evaluation in a retrospective study of 183 cats: the MATTERS study.",
+      "authors": "Cambournac M, Damoiseau C, Guillaumin J, Goy-Thollot I, Pouzot-Nevoret C",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42569263/",
+      "abstract": "Although intravenous tissue plasminogen activator (TPA) is a mainstream treatment for humans with acute ischaemic stroke, it is uncommonly used in feline arterial thromboembolism (FATE). The purpose of this study was to retrospectively compare clinical reperfusion, functional recovery, complications, and survival in a large multicentre FATE population treated with or without systemic thrombolysis. A retrospective evaluation of electronic medical records from two veterinary hospitals (2007-2020) ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42569194",
+      "title": "Case Report: Fascia lata transposition for chronic recurrent perineal hernia followed by laparoscopic colopexy for subsequent rectal prolapse in a dog.",
+      "authors": "Park J, Lee WJ, Kim DH",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42569194/",
+      "abstract": "This case report describes a surgical management of chronic, recurrent, complicated perineal hernia following bilateral herniorrhaphy in a 6-kg castrated male mixed-breed dog, estimated to be over 10&#x202f;years old. The patient presented with recurrent right-sided perineal hernia and constipation associated with rectal sacculation. During the herniorrhaphy attempted, severe atrophy of pelvic musculature was identified; therefore, a fascia lata transposition was performed. Postoperatively, the ",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
