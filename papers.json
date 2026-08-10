@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 23:05 UTC",
+  "updated": "2026-08-10 23:54 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,17 +10,6 @@
     "other": "기타"
   },
   "papers": [
-    {
-      "id": "42511012",
-      "title": "Evaluating a Novel Cat-Assisted Training (CAT) Intervention for Youth with Developmental Disabilities and Their Family Cat.",
-      "authors": "Frank DH, Darling S, Moore K, Vitale KR, MacDonald M",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511012/",
-      "abstract": "Animal-assisted interventions (AAIs) for children with developmental disabilities (DD) have traditionally focused on dogs and horses, with less research on cat-centered AAIs. However, many potential AAI participants prefer, or only have access to, cats. The current Randomized Control Trial (RCT) study evaluated a novel Cat-Assisted Training (CAT) intervention designed to promote healthy behaviors in children, while also strengthening child-cat bonds. Participants included 36 children with DD (ag",
-      "category": "other",
-      "summary_ko": ""
-    },
     {
       "id": "42542133",
       "title": "Improvements in knowledge and detection of carbapenemase-producing Enterobacterales transmission in companion animals will strengthen prevention across the One Health spectrum.",
@@ -429,50 +418,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42511029",
-      "title": "Haemocyte-Derived Innate Immune Reactions of the Giant African Snail (Lissachatina fulica) Against the Lungworm Angiostrongylus vasorum.",
-      "authors": "Dusch A, Conejeros I, Velásquez ZD, Hermosilla C, Taubert A",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511029/",
-      "abstract": "The metastrongyloid parasite Angiostrongylus vasorum is currently considered an emerging gastropod-borne lungworm species of canids and has gained growing scientific attention in recent years. Nonetheless, knowledge of gastropod innate immune reactions and how A. vasorum larvae are attacked by gastropod-derived haemocytes is still very sparse. The current study aims to investigate gastropod haemocyte innate immune reactions in response to A. vasorum L1 larvae and antigen (AvAg) in vitro. Gastrop",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511026",
-      "title": "Optimization of a Canine-Specific Ceramide Complex and Evaluation of Its Effects on In Vitro and In Vivo Canine Skin.",
-      "authors": "Cho HY, Kim BE, Park E, Kim M, Nho Y",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511026/",
-      "abstract": "Alterations in the ceramide (CER) profile have been associated with atopic dermatitis in dogs; however, the specific effects of CER subclasses on canine keratinocytes remain unclear. This study aimed to optimize a CER complex and evaluate its effects on cytokine expression, CER synthesis, and skin barrier formation using canine epidermal keratinocyte progenitor (CPEK) cells and a reconstructed canine epidermis (RCE) model. Among various CER combinations tested, only the mixture of CER [NS] and [",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511023",
-      "title": "Establishing Operational Descriptive Definitions for Neurologic Abnormalities Identified During Gaiting in Dogs.",
-      "authors": "Bagley RS",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511023/",
-      "abstract": "Accurate identification of gait abnormalities is fundamental to clinical evaluation in both veterinary medicine and translational research. Commonly used descriptors such as ataxia, paresis, hypermetria, and lameness are frequently applied as single-word summaries of complex movement disorders, yet these terms lack precise, universally accepted operational definitions. Dictionary definitions are often generic or ambiguous, leading to variability in interpretation among clinicians, students, and ",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511022",
-      "title": "Modular Revision of a Failed Patient-Specific 3D-Printed Scapulo-Humeral Endoprosthesis in a Dog with Proximal Humeral Osteosarcoma: First Clinical Communication.",
-      "authors": "Yuryevich US, Principato G, Tabbì M, Currenti M, Messina G",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511022/",
-      "abstract": "Canine appendicular osteosarcoma (OSA) is typically managed by limb amputation. However, this approach may be suboptimal in dogs with concurrent osteoarthrosis (OA). Limb-sparing surgery using three-dimensional (3D)-printed patient-specific implants (PSIs) may be an alternative, although evidence on implant durability and revision strategies remains limited, in particular for proximal humeral reconstructions. This report describes a 9-year-old, overweight dog referred for a 4-week history of per",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42561146",
       "title": "Clinical and imaging findings after antiviral treatment in cats with presumptive neurologic feline infectious peritonitis: 9 cases (2020-2024).",
       "authors": "Santos Hernández C, Martínez García I, Gutiérrez-Quintana R, Santifort K, Suñol Iniesta A",
@@ -558,6 +503,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42518279/",
       "abstract": "",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42572226",
+      "title": "EXPRESS: Flow cytometry-based direct antiglobulin test for suspected feline immune-mediated thrombocytopenia: Assay development and demographic factors associated with DAT positivity.",
+      "authors": "Nedumpun T, Kamenkit O, Thongwandi S, Tripipat T, Wadeerat S",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42572226/",
+      "abstract": "This study aimed to develop and evaluate an in-house flow cytometry-based direct antiglobulin test (DAT) for detecting IgG-bound platelet in cats, and to investigate the prevalence of DAT positivity and associated risk factors among thrombocytopenic cats. Platelets were identified by CD41/61 expression, and platelet-bound IgG was assessed by flow cytometry. A diagnostic cutoff for the percentage of IgG-positive platelets was established using 100 healthy cats and preliminarily evaluated in 50 ca",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42572207",
+      "title": "EXPRESS: Development of an ultrasound-guided pericapsular knee desensitization technique in cats: an anatomical cadaveric study.",
+      "authors": "Lemaitre D, Mejías P, Vásquez MB, Arredondo D, Garbin M",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42572207/",
+      "abstract": "ObjectivesTo develop an ultrasound-guided pericapsular knee desensitization (PKD) technique targeting the medial (MAN), lateral (LAN) and posterior (PAN) articular branches of the saphenous, common fibular and tibial nerves, and to evaluate its accuracy in domestic feline cadavers.MethodsIn Phase I, six pelvic limbs from three cadavers underwent ultrasonographic evaluation and gross dissection to describe the course of the MAN, LAN and PAN and identify anatomical and sonographic landmarks for PK",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42571871",
+      "title": "Faecal IgA but not salivary IgA is associated with canine atopic dermatitis.",
+      "authors": "Campbell A, Nuttall T, Robinson V, Soutter F",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Aug 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42571871/",
+      "abstract": "To characterise immunoglobulin A (IgA) levels in the faeces and saliva of dogs with canine atopic dermatitis (CAD) and healthy breed matched controls. Dogs with canine atopic dermatitis were recruited based on history, clinical examination and diagnostic testing where appropriate. Control dogs were over 4&#x2009;years of age with no history of skin disease. Saliva samples were obtained using chewable synthetic swabs with saliva extracted by centrifugation. Faecal samples were collected from the ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42571817",
+      "title": "Sleep-wake disturbance in canine cognitive dysfunction: guardian-reported patterns and a practical screening tool.",
+      "authors": "Taylor TL, Tuke J, Hazel SJ",
+      "journal": "Vet J",
+      "date": "2026 Aug 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42571817/",
+      "abstract": "Sleep-wake disturbance is a commonly reported feature of canine cognitive dysfunction (CCD), yet its specific patterns and clinical significance remain poorly characterised. This study aimed to describe guardian-reported sleep disturbances in dogs with CCD, examine their associations with cognitive severity and sensory changes, and develop a practical screening tool to support veterinary consultations. Guardians of dogs aged &#x2265;8 years (n = 205) completed an online survey capturing cognitiv",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42571816",
+      "title": "Evaluating Sacubitril/Valsartan's Efficacy in Reducing Myocardial Hypertrophy and Fibrosis in Feline Models.",
+      "authors": "Sun Z, Huang W, Chai X, Hu C, Zhu C",
+      "journal": "Vet J",
+      "date": "2026 Aug 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42571816/",
+      "abstract": "Hypertrophic cardiomyopathy is the most common form of feline heart disease, and current therapy is largely supportive with no widely available effective treatment to reverse myocardial hypertrophy or attenuate fibrosis. Sacubitril/valsartan (Sac/Val), an angiotensin receptor-neprilysin inhibitor, has antihypertrophic and antifibrotic effects, but its potential in feline hypertrophic cardiomyopathy remains unclear. The objective of this exploratory pilot study was to evaluate the effects of Sac/",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
