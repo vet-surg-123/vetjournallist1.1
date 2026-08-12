@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10 23:54 UTC",
+  "updated": "2026-08-12 00:08 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -297,61 +297,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42511080",
-      "title": "Epistaxis and Destructive Computed Tomographic Features in Canine Nasal Transitional Carcinoma: Frequent Cribriform Plate Destruction but Uncommon CT-Detected Brain Parenchymal Involvement.",
-      "authors": "Ngiam LK, Chung CS, Chen KS, Chiang C, Chiu HC",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511080/",
-      "abstract": "Nasal transitional carcinoma (TC) is one of the most common epithelial nasal tumors in dogs, but systematic descriptions of its clinical and computed tomographic (CT) features are limited. This multicenter retrospective study characterized the clinical and CT features of histopathologically confirmed nasal TC in 16 dogs examined at four animal hospitals between July 2014 and January 2024. Signalment, clinical signs, CT findings, and follow-up information were summarized descriptively. Epistaxis ",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511074",
-      "title": "Added Value of Contrast-Enhanced Ultrasound for Cytological Sample Collection of Hepatic and Pulmonary Masses in Dogs.",
-      "authors": "Quinci M, Linta N, Pey P, Baron Toaldo M, Renzi A",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511074/",
-      "abstract": "Ultrasound (US)-guided cytological sample collection (CSC) is widely used for the evaluation of hepatic and pulmonary masses in dogs; however, the presence of intralesional necrosis may reduce diagnostic yield. Contrast-enhanced ultrasonography (CEUS) allows improved assessment of lesion microvascularization and may help identify viable tissue prior to sampling. The aim of this study is to compare the diagnostic yield of CEUS-aided CSC with conventional B-mode US-guided CSC in dogs with hepatic ",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511063",
-      "title": "Owner Observed Sleep Disturbances in Cavalier King Charles Spaniels with and Without Clinical Signs Compatible with a Chiari-like Malformation.",
-      "authors": "Valentino AJ, Olby NJ",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511063/",
-      "abstract": "Chiari-like malformation (CM) and syringomyelia (SM) are prevalent in Cavalier King Charles Spaniels (CKCS). We hypothesized that CKCS with clinical signs compatible with CM+/-SM exhibit sleep disturbances. Thirty-seven CKCS with and without clinical signs compatible with CM+/-SM were included. No magnetic resonance imaging was required for inclusion. A questionnaire-based study was conducted using two validated instruments: CHASE to assess CM+/-SM severity and SNoRE 3.0 to evaluate sleep distur",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511062",
-      "title": "Stress in Free-Roaming and Shelter-Housed Dogs: A Review of Neurobiological, Physiological and Behavioral Mechanisms Relevant to Welfare Assessment.",
-      "authors": "Rotaru G, Hrițcu TD, Mălăncuș RN, Hrițcu LD, Soponaru C",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511062/",
-      "abstract": "Stress is a major influencing behavior, health, and welfare in free-roaming dogs, particularly in environments characterized by unpredictability, social instability, and frequent human interactions. Although research on canine stress responses has expanded considerably, current knowledge remains fragmented across the neurobiological, physiological, and behavioral domains, limiting the development of comprehensive welfare assessment strategies. Importantly, free-roaming and shelter-housed dogs sh",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511061",
-      "title": "Development and Validation of an Observational Behavior Tool (LIFE(™)) for Assessing Canine Coping in Shelter Environments.",
-      "authors": "Herron ME, Martin A, Dowling-Guyer S",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511061/",
-      "abstract": "As animal shelters strive to promote positive welfare and successfully place dogs into adoptive homes as functional pets, the ability to identify dogs that may not be coping well within the shelter is critical. Although traditional behavior evaluations may serve multiple purposes, one of their primary purposes in animal shelters has been to predict how dogs may behave after adoption. Most traditional tests utilize a series of provocative and often artificial interactions, despite mixed evidence ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42562674",
       "title": "Left atrial decompression in dogs with heart failure secondary to myxomatous mitral valve disease: a long-term outcome study.",
       "authors": "Phipps KL, Allen JA, Barrett KA, Day CJ, Doan MN",
@@ -374,47 +319,14 @@
       "summary_ko": ""
     },
     {
-      "id": "42511053",
-      "title": "Bella and Charlie Are Not the Problem-It's Us: The Real Causes of Wildlife Rescue in NSW.",
-      "authors": "Dutton-Regester K, Rand J, Liang A",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511053/",
-      "abstract": "Public discussion in Australia often presents pet cats as a major cause of wildlife decline, and cat management is frequently promoted as a major conservation response. However, this focus may draw attention away from other common and preventable recorded causes of threatened species rescue. Using the NSW Wildlife Rehabilitation Data Dashboard, we present the first statewide analysis of NSW wildlife rehabilitation records to specifically examine threatened species, rather than pooling threatened",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511048",
-      "title": "Evaluation of Time and Temperature Storage Effects on Canine Blood Anticoagulated with Citrate-Phosphate-Dextrose-Adenine Supplemented with Ethylenediaminetetraacetic Acid: Investigation of Optimal Conditions for External Quality Assessment Samples.",
-      "authors": "Neo S, Sato S, Fukuda Y, Kurokawa S, Kobayashi K",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511048/",
-      "abstract": "External quality assessment (EQA) using fresh blood from companion animals has not yet been conducted worldwide. This study investigated storage temperature, duration, and anticoagulant conditions to identify more stable sample preparation methods for fresh canine blood stored for more than 24 h, as required for distributed surveys. Blood samples from five healthy dogs containing CPDA-1 supplemented with EDTA-2K at final concentrations of 1, 2, and 3 mg/mL were stored at room temperature (RT gro",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511047",
-      "title": "Caring About Dogs, Filming Dogs, Watching Dogs: How Far Does the Human-Dog Relationship Travel Through Cultural Production? A Case Study of Good Boy (2025).",
-      "authors": "Rebout N, Besegher A, Hoummady S",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511047/",
-      "abstract": "Western societies increasingly treat dogs as sentient family members, but does this reshape cultural production, and can cultural production, in turn, reshape the relationship? We traced this circuit through Good Boy (2025), a horror film with a real, untrained dog as the sole protagonist, combining filmmaker interviews, behavioral coding of eleven sequences (21-behavior repertoire, permutation tests), and thematic analysis of 242 reviews on the Letterboxd website. The filmmaker restructured the",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511041",
-      "title": "Treatment of Simple Fractures of Distal Aspect of Radius and Ulna in Miniature- and Toy-Breed Dogs with Locking Plate in a Non-Rigid Configuration: An Observational Study of 10 Cases.",
-      "authors": "Blanco A, San Román-Llorens F, San Román F, González C, Climent A",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511041/",
-      "abstract": "Distal radial and ulnar fractures in miniature- and toy-breed dogs are associated with high rates of delayed union, non-union, and refracture. This retrospective observational study evaluated the outcomes of simple distal radial and ulnar fractures treated by open reduction and internal fixation using a locking plate in a non-rigid configuration. Ten fractures in eight dogs weighing less than 5 kg were included. Cases were selected according to predefined biomechanical construct criteria, includ",
-      "category": "orthopedics",
+      "id": "42575087",
+      "title": "Assessment of gastrointestinal health and the coagulation system in dogs with right-sided heart disease: an exploratory study.",
+      "authors": "Shropshire S, Jablonski S, Scansen BA",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575087/",
+      "abstract": "Right-sided heart disease (RHD) affects gastrointestinal function and hemostasis. Dogs with progressively severe RHD have impaired gastrointestinal function and altered hemostasis. Eighteen client-owned dogs with RHD; group 1: 6 dogs without hepatic venous congestion, group 2: 6 dogs with hepatic venous congestion but no ascites, and group 3: 6 dogs with ascites. Prospective, cross-sectional, exploratory study. Dogs underwent routine blood, urine, and fecal testing, measures of gastrointestinal ",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -756,6 +668,94 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42542132/",
       "abstract": "To establish species-specific reference values for myocardial native T1, native T2, and extracellular volume fraction (ECV) in clinically normal dogs and cats using a 3-Tesla (3-T) cardiac MRI (CMRI) and to provide a description of image acquisition and analysis suitable for veterinary clinical and research applications. Cardiac examinations were performed between 2015 and 2024 using a 3-T system with ECG gating under general anesthesia on clinically normal client-owned dogs and cats. Native T1 ",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42578818",
+      "title": "Differential Effects of Cobalt Chloride Preconditioning on Vasculogenic Mimicry-Like Structure Formation in Two Canine Mammary Tumour Cell Lines.",
+      "authors": "Jeong Y, Ha JH, Chung JY, Choi JH, Ahn JO",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42578818/",
+      "abstract": "Vasculogenic mimicry (VM) is a tumour cell-lined vessel-like structure associated with poor prognosis, metastasis, and treatment resistance in human breast cancer. Furthermore, it has been described in canine mammary tumours (CMTs). Hypoxia is an established driving factor for VM formation in tumours with this capability. This study aimed to compare VM-like structure formation between two CMT carcinoma cell lines, CF41.Mg and CMT-U27. VM-like tubular structure formation was evaluated using a Mat",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42576538",
+      "title": "Pituitary tumour shrinkage and diabetic remission in two cats with Cushing syndrome treated with cabergoline.",
+      "authors": "Teyssandier S, Galac S",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Aug 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576538/",
+      "abstract": "We describe two cats with diabetes mellitus and Cushing's syndrome. Diabetes mellitus was initially managed with insulin glargine (Lantus; Sanofi-Aventis, Paris, France), nutritional therapy and continuous glucose monitoring. Hypercortisolism was suspected based on severe hypertension (Case 1), and insulin resistance in combination with typical clinical features of Cushing's syndrome (Case 2). Endocrine testing revealed non-suppressible cortisol concentrations on low-dose-dexamethasone suppressi",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42575716",
+      "title": "Fluvastatin Plus Dipyridamole Suppresses Canine Hemangiosarcoma Growth in Patient-Derived Xenograft Models Through Lactate Dehydrogenase-Associated Cholesterol/Lipid Metabolism.",
+      "authors": "Suzuki T, Tanaka S, Kishimoto K, Goto T, Yamazaki J",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575716/",
+      "abstract": "Tumour cells commonly exhibit aerobic glycolysis and produce lactate despite oxygen availability. Lactate dehydrogenase (LDH) catalyses pyruvate-lactate interconversion and regulates intracellular lactate levels. Endothelial cells also depend on glycolysis for ATP production, which prompted us to investigate LDH in canine hemangiosarcoma (HSA), a malignant endothelial tumour. We inhibited LDH with (R)-GNE-140 or sodium oxamate in two canine HSA cell lines (HU-HSA-2 and HU-HSA-3) and generated HU",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42575156",
+      "title": "Subcutaneous medetomidine at the governing vessel 20 acupuncture point provides faster early sedation than intramuscular administration without altering intraocular pressure in cats.",
+      "authors": "Gölgeli Bedir A, Yanmaz LE, Akçora Y, Özkalipçi Ç, Kartal T",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575156/",
+      "abstract": "To compare sedation, intraocular pressure (IOP), mean pupil diameter, and recovery profiles after IM or SC administration at the governing vessel 20 (GV20) acupuncture point of medetomidine in cats. This prospective, randomized, controlled clinical study was conducted at the Animal Hospital of Ataturk University in April and May of 2026. Cats undergoing elective castration received medetomidine (70 &#xb5;g/kg) either IM or SC at GV20. Sedation score, IOP, and mean pupil diameter were recorded be",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42575151",
+      "title": "Tendotonometry allows noninvasive in vivo biomechanical evaluation of the patellar tendon in sedated dogs in a study assessing intrauser variability.",
+      "authors": "Caturay KC, Amato NS, Stewart SD, Khanna C, Wilson-Robles H",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575151/",
+      "abstract": "To describe the use and determine the feasibility and user reliability of a commercially available digital palpation device, a myotonometer, on the canine patellar tendon (PT). In this prospective clinical feasibility study, client-owned dogs with no history of pelvic limb lameness were eligible for study enrollment from September through December of 2025 and included if their stifles were considered normal based upon physical examination and radiographic findings. Dogs were sedated, and a myoto",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42577518",
+      "title": "Behavioral components define operational suitability metric for detection dog success.",
+      "authors": "Zheng J, Lazarowski L, Lanier AL, Haney PS, Chester EM",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42577518/",
+      "abstract": "To ensure effective development and assessment of detection dogs, Auburn University Canine Performance Sciences program has implemented a structured behavioral evaluation at four developmental milestones. At each timepoint, trainers scored candidate detection dogs on 11 subtests evaluating detection performance and environmental soundness using behavioral component (BC) scores. Additionally, trainers rated each dog's overall suitability for operational detection work using a singular global scor",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42577150",
+      "title": "Dietary sodium hyaluronate and eggshell membrane improve skin barrier function and coat health in Ragdoll cats.",
+      "authors": "Chen Q, Wang W, Wang H, Ma M, Miao C",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42577150/",
+      "abstract": "Skin and coat health are important indicators of feline well-being and are influenced by epidermal barrier integrity, nutritional status, oxidative balance, and microbial homeostasis. However, the effects of dietary sodium hyaluronate (SH) and eggshell membrane (ESM), either alone or in combination, remain insufficiently characterized in cats. Twenty-four healthy 6-month-old Ragdoll cats were randomly assigned to four dietary groups (n&#x202f;=&#x202f;6 per group): a basal-diet control, 250 mg/k",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42577139",
+      "title": "Foraminal widening indicating a spinal nerve tumor in the saber-tooth cat Smilodon fatalis from Rancho La Brea.",
+      "authors": "Schmökel H, Del Chicca F, Hagen Argudin Pina R",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42577139/",
+      "abstract": "Tracing the health of extinct populations is important. Documenting this in deep time is challenging, but skeletal markers of disease can be preserved in fossils. Notably, a high incidence of spinal malformations has been recorded among specimens found in the La Brea Tar Pits, possibly because of an accumulation of expressed deleterious alleles that caused disturbances in developmental processes. The exceptional preservation of hundreds of specimens of the La Brea saber-toothed cat Smilodon fata",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
