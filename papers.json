@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12 00:08 UTC",
+  "updated": "2026-08-13 00:09 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -187,113 +187,25 @@
       "summary_ko": ""
     },
     {
-      "id": "42520843",
-      "title": "Service dogs in a matched survey were more physically active and had higher odds of being fed grain-free diets than companion dogs.",
-      "authors": "Otero DK, Wilson K, James TG",
-      "journal": "Am J Vet Res",
-      "date": "2026 Jul 28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42520843/",
-      "abstract": "There is a strong, bidirectional relation between the health outcomes of service dogs and their human handlers. Despite this relation, limited information is available on service dog health. This study assesses differences in health status, diet, and physical activity among service dogs and companion dogs. We conducted a cross-sectional study of the Dog Aging Project's Health and Life Experiences Survey, using data collected on or before December 31, 2021. Service dogs and companion dogs were ma",
+      "id": "42580987",
+      "title": "Breed screening for myxomatous mitral valve disease in dogs.",
+      "authors": "Olsen LH, Swift S, Häggström J",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Jul 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580987/",
+      "abstract": "Myxomatous mitral valve disease contributes to cardiac morbidity and mortality in dogs worldwide. It is the most common heart disease in dogs. The exact cause of myxomatous mitral valve disease is still unknown but it is described as heritable in some dog breeds. The present literature review presents an overview of myxomatous mitral valve disease breeding screening methods and ongoing screening programs in dogs.",
       "category": "other",
       "summary_ko": ""
     },
     {
-      "id": "42511152",
-      "title": "Vaccination Protocols in Canine Shelters in Northern Italy: A Survey of Current Practices.",
-      "authors": "Battilani M, Provenzano A, Balboni A, Scagliarini L",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511152/",
-      "abstract": "Vaccination is a fundamental tool for the prevention and control of infectious diseases in canine shelters, where high population density and frequent animal turnover increase the risk of pathogen transmission. However, in Italy there is currently no unified regulatory framework governing vaccination protocols for shelter dogs. In this context, the aim of this study was to evaluate vaccination protocols and preventive health practices adopted in canine shelters in the province of Bologna (Northe",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511149",
-      "title": "Computer Simulation of Tooth Wear in Giant Pandas (Ailuropoda melanoleuca): Quantitative Predictions for Captive Health Management.",
-      "authors": "Chen F, Yang Y, Shi X, Zhang X, Zou Y",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511149/",
-      "abstract": "Tooth wear is a major health and welfare issue for captive giant pandas (Ailuropoda melanoleuca), but quantitative data on wear progression across different tooth types and chewing behaviors are lacking. In this study, a two-dimensional computer simulation (Processing, Java-based) was developed to model wear of giant panda canine, second premolar, and second molar teeth under two bamboo-chewing orientations (horizontal vs. vertical). Species-specific enamel hardness (344 HV), bite forces (canine",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511120",
-      "title": "Effects of Bacillus amyloliquefaciens on Growth Performance, Immune Performance, Antioxidant Capacity, Jejunal Microbiota and Transcriptome of Zi Geese.",
-      "authors": "Zhang Q, Zhou Y, Xing J, Wang Y, Li Y",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511120/",
-      "abstract": "With the global ban on antibiotic growth promoters, identifying safe, effective alternatives for poultry production is urgent. Probiotics, particularly Bacillus amyloliquefaciens (BA), have shown promise in improving animal health and performance, but research in geese remains limited. This study aimed to evaluate the effects of dietary BA supplementation on growth performance, immune function, antioxidant capacity, intestinal morphology, microbiota, and transcriptome in growing Zi geese. A tota",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511113",
-      "title": "The Effect of Feeding Strategies Based on Flaxseed and Locally Available Plant-Derived Additives on the Growth Performance, Biochemical and Immune Blood Indices, and Antioxidant Capacity of Pigs in Sustainable Production.",
-      "authors": "Świątkiewicz M, Szyndler-Nędza M, Czech A, Szczepanik K, Tyra M",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511113/",
-      "abstract": "The study evaluated the effects of feeding strategies on growth performance, health laboratory biomarkers, and antioxidant protection of slow-growing pigs, fed finisher diets containing alternative protein sources (local and by-product), as an element of sustainable pig production. The study involved 40 fattening pigs (Pulawska native breed), fed the same grower mixture, while dietary treatment was applied during the finisher phase (90-135 kg BW). The diet in all groups was isoenergetic and isop",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511110",
-      "title": "Immunohistochemical, Immunofluorescent, and Molecular Investigation of Canine Distemper Virus, Nectin 4, and CD150 Receptors in Naturally Infected Dogs with Canine Distemper Virus.",
-      "authors": "Nuhoğlu H, Beytut E",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511110/",
-      "abstract": "Canine distemper virus uses CD150 and Nectin-4 receptors to infect cells. In the central nervous system, astrocytes, the main canine distemper virus target, reportedly lack these receptors, suggesting alternative entry pathways. This study investigated canine distemper virus distribution and receptor usage in naturally infected dogs' organs and tissues using immunohistochemistry and immunofluorescence. Tissue samples from 34 dogs (including the central nervous system, internal organs, footpads, ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511108",
-      "title": "How Nutritionally Sound Is Commercially Available Vegan Pet Food Relative to Meat-Based Pet Food? A Systematic Review.",
-      "authors": "Mace JL, Nicholles B, Knight A",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511108/",
-      "abstract": "Single studies are often cited to support claims of nutritional soundness or unsoundness regarding vegan or meat-based pet foods when compared to nutritional guidelines from authorities such as the Association of American Feed Control Officials (AAFCO), the European Pet Food Industry Federation (FEDIAF), and the National Research Council (NRC). However, there is little overarching evidence concerning the nutritional soundness of these different pet food types. Such overarching evidence is increa",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511107",
-      "title": "High Prevalence and Regional Heterogeneity of Canine Ancylostoma spp. in Ecuador: A Systematic Review and Meta-Analysis and Its Potential One Health Implications.",
-      "authors": "Vinueza RL, Mantilla M, Miño J, León R, Coello-Peralta RD",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511107/",
-      "abstract": "Hookworms are zoonotic helminths that cause intestinal diseases in pets and humans, as well as cutaneous larva migrans in the latter; therefore, they are of importance to animal and public health. Stray and domestic dogs play a significant role in the transmission of hookworm disease. This study examines the prevalence of Ancylostoma spp. infections in dogs in Ecuador through a systematic review and meta-analysis. Although based exclusively on canine data, the findings are discussed in the conte",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511086",
-      "title": "Integrated Biomarker Assessment for Prognosis in Canine Mammary Carcinomas: Complementary Roles of Serum CA 15-3 and Immunohistochemistry Ki-67, and COX-2.",
-      "authors": "Pinheiro BQ, Albuquerque MB, Cavalcante FEP, Nascimento IRBD, Souza FR",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511086/",
-      "abstract": "CMTs are biologically heterogeneous neoplasms for which reliable prognostic biomarkers remain limited. This study investigated the clinical significance of serum cancer antigen 15-3 (CA 15-3) and the immunohistochemical expression of Ki-67 and cyclooxygenase-2 (COX-2) in CMTs. Fifty-four female dogs with histologically confirmed CMTs and twelve healthy controls were prospectively evaluated. Serum CA 15-3 concentrations were measured before surgery and at 21 and 90 days post-mastectomy, while Ki-",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42511081",
-      "title": "A Survey of Reported Practices and Values of Smaller-Scale Dog Breeders in Canada.",
-      "authors": "Ruyter G, Protopopova A, Rausch Q",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42511081/",
-      "abstract": "Dog breeding has received increasing attention due to concerns about animal welfare and the ethics of companion animal commercialization, yet smaller-scale breeders remain underrepresented in research despite potentially operating under different conditions. A survey of responding Canadian dog breeders (n = 464) provided quantitative and qualitative data on demographics, housing and breeding practices, and perspectives on welfare and regulation; quantitative responses were analyzed descriptively",
-      "category": "other",
+      "id": "42580986",
+      "title": "High-pressure balloon valvuloplasty in small dogs with severe pulmonary stenosis: retrospective evaluation of the Mustang™ Balloon Dilatation Catheter in 12 dogs.",
+      "authors": "McMullen ME, Winter RL, Maneval KL, Ferrel CS",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Jul 14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580986/",
+      "abstract": "Balloon valvuloplasty (BV) is a common treatment in dogs with severe valvar pulmonary stenosis (PS). Many reports in dogs with PS describe low-pressure balloon catheter use, with successful outcomes expected with type A. High-pressure balloon catheter use in dogs with type B PS has been reported; however, these reports typically describe dogs of larger body weight. The Mustang&#x2122; Balloon Dilatation Catheter, which requires smaller introducer sheath sizes, may be of use in small dogs with PS",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -316,6 +228,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42561469/",
       "abstract": "A three-year-old neutered female Bernese mountain dog was referred for evaluation of multiple congenital cardiac abnormalities. Transthoracic echocardiography demonstrated features consistent with type A pulmonic stenosis, including a normal pulmonary valve annulus, an increased transvalvular pressure gradient, systolic doming of thickened and fused pulmonary valve leaflets, and concentric right ventricular hypertrophy. Additionally, a focal aneurysmal dilation arising from the intermediate pulm",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42585566",
+      "title": "Endoscopic reduction of true gastrogastric intussusception in a dog.",
+      "authors": "Ogawana T, Fukui S, Daimon Y, Kanemoto H",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42585566/",
+      "abstract": "A 9-year-old neutered male Toy Poodle was diagnosed with true gastrogastric intussusception based on clinical signs, imaging studies, and endoscopic findings. The dog presented with vomiting, hematochezia, and decreased activity. Abdominal ultrasonography identified edematous thickening of the gastric wall and invagination of the gastric fundus into the gastric body. The diagnosis was confirmed by computed tomography (CT). Endoscopic examination clearly identified the intussuscepted portion of t",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42585565",
+      "title": "Evaluation of plasma kynurenine 3-monooxygenase and Ki-67 as screening biomarkers for neoplasia in dogs.",
+      "authors": "Sio KM, Ke CH, Lin CS",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42585565/",
+      "abstract": "Early detection of tumors might prolong the survival of dogs. Kynurenine 3-monooxygenase (KMO) and Ki-67 are tumor biomarkers, but few studies have described the clinical value of KMO and Ki-67 in veterinary medicine. This study aims to compare the activity of KMO and the concentration of Ki-67 between healthy dogs and dogs with neoplasms. A total of 162 dogs with different types of tumors were included. Forty-six tumor-free individuals were included as the control group. This is a case-control ",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42585564",
+      "title": "Presumed cervical subperiosteal vertebral hemorrhage in nine greyhounds.",
+      "authors": "Orgonikova I, Mallol C, Gutierrez-Quintana R, Aige-Gil V, Amengual Batle P",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42585564/",
+      "abstract": "Spontaneous subperiosteal vertebral hemorrhages (SSVHs) are rarely documented in veterinary literature, with only a few cases reported in dogs. Describe the clinical presentation, imaging findings, and outcome of presumptive cervical SSVHs in dogs and perform a prospective cadaveric study describing the morphology of lesions. Nine greyhounds presented with acute onset of cervical myelopathy. Multicenter descriptive study. The databases were searched for dogs that underwent magnetic resonance ima",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42580715",
+      "title": "Likely radiation-induced sciatic neuropathy in a dog.",
+      "authors": "Fox E, Rodenbaugh C, Epperly E, Ferrandis I, Shelton GD",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580715/",
+      "abstract": "Radiation-induced peripheral neuropathy (RIPN) is a well-known late adverse effect of radiotherapy (RT) in humans, but to date, is not reported in companion animals. An 11-year-old spayed female beagle was presented for evaluation regarding a progressive left sciatic neuropathy. The dog had received stereotactic RT (20&#xa0;Gy) following excision of a grade 2 soft tissue sarcoma over the proximo-caudal aspect of the left thigh approximately 19&#xa0;months prior to the onset of signs. Computed to",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -404,17 +360,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42525883/",
       "abstract": "L-CHOP (L-asparaginase, cyclophosphamide, doxorubicin, vincristine, prednisone) is the standard therapy for lymphoma in dogs, but relapse and limited long-term survival are common. Given the radiosensitivity of lymphoma, sequential half-body radiotherapy (HBRT) has been investigated to improve outcomes. Evaluate progression-free survival (PFS), overall survival (OS), and adverse events in dogs treated with a no-maintenance L-CHOP protocol combined with low-dose-rate (LDR, 6&#xa0;Gy; 8-14&#xa0;cG",
       "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42518279",
-      "title": "Correction to: Pyogranulomatous lymphadenitis with Splendore-Hoeppli phenomenon caused by Neisseria species in a domestic shorthair cat.",
-      "authors": "",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42518279/",
-      "abstract": "",
-      "category": "other",
       "summary_ko": ""
     },
     {
@@ -671,6 +616,105 @@
       "summary_ko": ""
     },
     {
+      "id": "42583882",
+      "title": "Clinical Outcome and Histopathologic Assessment of Canine Perivulvar Mast Cell Tumours.",
+      "authors": "Ahrens MR, Corner SM, Masyr A",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42583882/",
+      "abstract": "Anatomic location is a known prognostic factor for canine mast cell tumours (MCTs). Previous publications have reported conflicting results about the clinical significance of MCT location in the inguinal and perineal regions and male genitalia. Hence, the goal of this study is to evaluate the grade, breed distribution and clinical outcome of canine perivulvar MCT. Surgical biopsy reports and associated medical records submitted between 2013 and 2024 to Michigan State University Veterinary Diagno",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42581420",
+      "title": "EXPRESS: Positional Impact on Ocular Lens and Thyroid Radiation Doses During Feline Cranial CT: A TLD Study of 70 Cases.",
+      "authors": "Parlak K, Gul OV, Ergin H, Zamırbekova NN",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581420/",
+      "abstract": "The increasing use of computed tomography (CT) in feline medicine necessitates the optimization of radiation protocols to adhere to ALARA principles. This prospective study aimed to evaluate the impact of patient positioning dorsoventral (DV) versus ventrodorsal (VD) on radiation doses absorbed by the ocular lenses and the thyroid gland during feline cranial CT. Seventy cats were divided into two equal groups (DV, n = 35; VD, n = 35). Radiation doses were measured using thermoluminescent dosimet",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42581418",
+      "title": "EXPRESS: Prevalence and clinical relevance of hypocobalaminaemia and hypercobalaminaemia in cats.",
+      "authors": "Casas C, Dye C",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581418/",
+      "abstract": "ObjectivesTo investigate the prevalence of hypo- and hypercobalaminemia in a cohort of cats with diverse disease pathologies and to assess associations with signalment and disease characteristics.MethodsResidual blood from cats presented to a large veterinary referral hospital during a 24-month period was used for serum B12 quantification. All cats requiring blood collection as part of diagnostic investigations were eligible for inclusion regardless of clinical presentation. Serum B12 concentrat",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42580781",
+      "title": "A randomized controlled trial of intravenous magnesium sulfate shows no analgesic or anti-inflammatory benefit in dogs undergoing thoracolumbar disk herniation surgery.",
+      "authors": "Mallet G, Gaitero L, Sanchez A, James FMK, Wood G",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580781/",
+      "abstract": "To investigate the analgesic and anti-inflammatory effects of intraoperative IV magnesium sulfate (MgSO4) continuous rate infusion in dogs undergoing thoracolumbar hemilaminectomy for intervertebral disk extrusion (IVDE). 30 client-owned dogs presented at the Ontario Veterinary College Health Sciences Centre were enrolled from October 2022 through October 2023. Prospective, randomized, double-blind, controlled clinical trial dogs received either MgSO4 (magnesium group) or an equal volume of sali",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42580779",
+      "title": "Systemic oxidative stress, selected nonenzymatic exogenous and endogenous antioxidants, and hematologic and biochemical alterations in bitches with pyometra.",
+      "authors": "Peker C, Uçar EH, Ekren Aşıcı GS, Musal B",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580779/",
+      "abstract": "To evaluate oxidative stress biomarkers (malondialdehyde [MDA] and total oxidant status [TOS]), selected nonenzymatic endogenous (glutathione [GSH], albumin, and bilirubin), and, for the first time, exogenous (ascorbic acid, &#x3b1;-tocopherol, &#x3b2;-carotene, and retinol) antioxidants together with hematobiochemical alterations in canine pyometra. 33 bitches were classified into pyometra (n = 17) or control (16) groups based on clinical and hematological evaluations. Ascorbic acid was measure",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42580778",
+      "title": "Computed tomography-derived liver volume is not detectably lower in dogs with histopathologic findings compatible with primary hypoplasia of the portal vein.",
+      "authors": "Teramura Y, Park YT, Murakami M",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580778/",
+      "abstract": "To compare CT-derived liver volume and noncontrast attenuation variables between dogs with histopathologic findings compatible with primary hypoplasia of the portal vein (PHPV) and dogs without liver disease. Medical records were retrospectively reviewed for dogs with abdominal CT and liver histopathology compatible with PHPV. Controls were 121 dogs without liver disease from a published CT reference cohort and were not matched by breed, age, sex, or body weight. Liver volume was evaluated with ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42580770",
+      "title": "Changes in metabolomic profile in dogs with hepatic encephalopathy secondary to congenital portosystemic shunt suggests mitochondrial homeostasis disturbances.",
+      "authors": "Fernandez Gallego A, Marques J, Kurian D, Diez F, Mellanby RJ",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580770/",
+      "abstract": "To identify specific metabolomic changes in dogs showing signs of hepatic encephalopathy (HE) compared to those not showing obvious neurological signs and to follow these changes following medical treatment. In this prospective observational study, we recruited 10 client-owned dogs diagnosed with congenital portosystemic shunt (from March 2021 through October 2022). The sera of dogs with or without signs of HE at the time of diagnosis of congenital portosystemic shunt and following medical treat",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42580766",
+      "title": "The Utility of Routine Radiographic Follow-Up for Dogs with Cranial Cruciate Ligament Disease Undergoing Uncomplicated Cranial Closing Wedge Ostectomy.",
+      "authors": "Doeven L, Winter J, Knight R",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Aug 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580766/",
+      "abstract": "The aim of this study was to determine the utility of routine follow-up radiographs after cranial closing wedge ostectomy (CCWO) for cranial cruciate ligament disease in dogs with a normal clinical examination and no owner concerns. Records were retrospectively reviewed to identify dogs that underwent CCWO with no complications reported prior to routine follow-up re-examination. Owner-reported concerns, clinical examination abnormalities and radiographic abnormalities were identified, and any re",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42580765",
+      "title": "Axial Compression Behaviour of Locking Plate Constructs in Different Fixation Functions in the Canine Femur.",
+      "authors": "Bregadioli BM, de Souza AF, Bregadioli T, do Rego RO, Cabreira AP",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Aug 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580765/",
+      "abstract": "The objective of this study is to compare the axial compression behaviour of locking plate constructs applied with different fixation functions in the canine femur, focusing on construct stiffness, resistance to plastic deformation, and bone-implant load sharing. Femora were allocated to four groups: intact (control), compression, neutralization, or bridge fixation using a locking plate. Compression and neutralization constructs restored the bone column, whereas bridge fixation eliminated load s",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42578818",
       "title": "Differential Effects of Cobalt Chloride Preconditioning on Vasculogenic Mimicry-Like Structure Formation in Two Canine Mammary Tumour Cell Lines.",
       "authors": "Jeong Y, Ha JH, Chung JY, Choi JH, Ahn JO",
@@ -722,6 +766,61 @@
       "date": "2026 Aug 10",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42575151/",
       "abstract": "To describe the use and determine the feasibility and user reliability of a commercially available digital palpation device, a myotonometer, on the canine patellar tendon (PT). In this prospective clinical feasibility study, client-owned dogs with no history of pelvic limb lameness were eligible for study enrollment from September through December of 2025 and included if their stifles were considered normal based upon physical examination and radiographic findings. Dogs were sedated, and a myoto",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42583395",
+      "title": "Correction: Radiographic and cone-beam computed tomography characterization of Chevron lucency in 82 clinically healthy maxillary canine teeth of dogs: a retrospective descriptive study.",
+      "authors": "Villamizar-Martinez LA, Qu Y, Villegas Lobos CM, Lopes-Kubitza FM",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42583395/",
+      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1876288.].",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42582328",
+      "title": "Treatment of canine otitis externa: a randomized, double-blinded, clinical field study comparing the hydrocortisone aceponate monotherapy to a multi-agent reference product.",
+      "authors": "Kuwahara T, Poincelot L, Jasmin P, Bidaud A, Kinoshita G",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42582328/",
+      "abstract": "Erythemato-ceruminous otitis externa (ECOE) is a canine inflammatory condition very frequently involving secondary microbial infections. This multicentric, masked, randomized, clinical field trial in Japan evaluated the efficacy and safety of a hydrocortisone aceponate (HCA) spray solution (Cortotic&#x2122;, Virbac, France) compared to a terbinafine/florfenicol/betamethasone acetate ear gel (Osurnia&#x2122;, Bussan Animal Health CO Ltd, Japan) in 200 dogs with ECOE (OTIS3 &#x2265; 5). Dogs recei",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42582002",
+      "title": "Systemic immune-inflammation index as a prognostic biomarker in critically ill dogs.",
+      "authors": "Kim SG, Han HJ",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42582002/",
+      "abstract": "Rapid and accurate prognostic assessment in critically ill dogs with systemic inflammation remains challenging. The Systemic Immune-Inflammation Index (SII), calculated as (neutrophil count&#x202f;&#xd7;&#x202f;platelet count)/lymphocyte count, has been recognized as a biomarker for systemic inflammation and immune dysregulation in human medicine. However, its clinical relevance in veterinary emergency and critical care settings remains unclear. This study aimed to evaluate the clinical signific",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42582000",
+      "title": "Infrared thermography in clinically healthy dogs shows body region and haircoat variability.",
+      "authors": "Hall N, Hall A, Atwood L, Petry J, Lewis MJ",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42582000/",
+      "abstract": "Infrared thermography quantifies body surface temperature with growing applications in dogs, particularly among rehabilitation practitioners; however, incomplete understanding of normal temperature variation in healthy dogs limits interpretation. This study characterized body surface temperature distribution and evaluated factors influencing thermographic measurements in a heterogeneous group of healthy dogs. Client-owned, adult dogs were prospectively enrolled and underwent standardized thermog",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42581991",
+      "title": "Atypical cat-scratch disease with acute high-grade fever and neuropsychiatric symptoms: a case report.",
+      "authors": "Song X, Liu X, Lou M, Xu J, Gong X",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581991/",
+      "abstract": "To report an atypical case of neurological cat-scratch disease (NCSD) presenting with acute-onset fever and prominent neuropsychiatric manifestations in an older adult. An 85-year-old East Asian man with a history of hypertension and coronary artery disease. Three months after a cat scratch, the patient developed abrupt high-grade fever, followed by nocturnal delirium with visual hallucinations and a witnessed seizure-like episode, and later complained of occipital headache. Physical examination",
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -1009,105 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42528677/",
       "abstract": "High-field cardiac magnetic resonance imaging (MRI) enables noninvasive assessment of myocardial tissue characteristics in anesthetized dogs; however, adenosine stress myocardial mapping at 3.0&#x202f;T remains insufficiently characterized. This study evaluated stress-rest changes and level-dependent variation in quantitative myocardial mapping indices. Seven clinically asymptomatic dogs not receiving cardiac medications underwent 3.0&#x202f;T cardiac MRI under general anesthesia in this prospec",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42524264",
-      "title": "A placebo-controlled study of an herbal compound used for management of lower urinary tract disease in healthy cats.",
-      "authors": "Martin CE, Bartges JW, English CF, Shaw AP, Cox SK",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42524264/",
-      "abstract": "Cystolithiasis is a common cause of feline lower urinary tract signs (LUTS). Urinary relative supersaturation (RSS) can be used to estimate an animal's risk of crystallogenesis and urolithiasis, with high RSS values representing a potential increased risk of calculogenesis. Objectives were to determine whether an herbal supplement when compared with a placebo would decrease urinary excretion of electrolytes and minerals, increase urine volume, and decrease urine RSS for struvite (RSS S), calcium",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42523665",
-      "title": "Urinary metabolite profiles differ by tumor size and malignancy in dogs with mammary tumors.",
-      "authors": "Moore R, Estrela-Lima A, Turunen S, Holm SV, Lehtonen M",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42523665/",
-      "abstract": "Urine metabolomics may offer a non-invasive way to detect systemic metabolic alterations associated with canine mammary tumors, but previous studies have been few and have not accounted for diet as a potential confounder. In this observational case-control study, urine from 118 client-owned female dogs in Finland was analyzed by untargeted liquid chromatography-mass spectrometry, including 71 dogs with mammary tumors and 47 tumor-free controls. Case dogs were further evaluated by tumor malignanc",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42523662",
-      "title": "The critical role of flow cytometry in diagnosing aberrant T-cell acute lymphoblastic leukemia in a dog: case report.",
-      "authors": "Bitencourt RC, da Silva FR, de Oliveira LCCC, Crippa GH, de Nardi AB",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42523662/",
-      "abstract": "Acute lymphoblastic leukemia (ALL) with double-negative T-cell phenotype (CD4-/CD8-) represents a rare presentation in dogs requiring flow cytometry for definitive diagnosis. An eight-year-old German Shepherd presented with progressive lethargy, weight loss, and severe cytopenias. Complete blood count (CBC) revealed severe leukocytosis (90,500/&#x3bc;L) with 99% atypical lymphocytes, non-regenerative anemia, and thrombocytopenia. While blood smear examination demonstrated lymphoblastic morpholog",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42519726",
-      "title": "Acoustic myography of the biceps and triceps brachii muscles during retrieving drills in field trial dogs.",
-      "authors": "Hugel AK, Manfredi J, Tomlinson J",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42519726/",
-      "abstract": "Field-trial dogs decelerate from speed, turn, and retrieve birds, potentially predisposing to biceps tendinopathy. Acoustic myography (AMG) measures muscle contraction. We hypothesized that braking/turning (turn) to retrieve birds produces more biceps and triceps work vs. gallop to the bird (out-run), or back with the bird (return) and that work in these muscles would be asymmetric between limbs at turn. Fourteen conditioned, orthopedically sound retrievers were fitted with wired sensors adhered",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42519725",
-      "title": "Structured therapeutic exercise program effect on PROM and muscle mass in dogs with osteoarthritis: a prospective clinical study.",
-      "authors": "Török M, Dvoranová M, Lipták T, Mad'ari A, Kuricová M",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42519725/",
-      "abstract": "Degenerative joint disease, namely osteoarthritis, represents a major cause of chronic pain and functional limitation in dogs. Although rehabilitation is widely incorporated into clinical management, objective data quantifying joint mobility and muscular adaptations following structured exercise protocols remain limited. To evaluate changes in passive range of joint motion (PROM) and limb circumference following a five-week therapeutic exercise program in dogs diagnosed with degenerative joint d",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42519722",
-      "title": "Benefits and risks of staff-owned dogs in small animal clinics: perspectives of employees that bring their dog to work.",
-      "authors": "Herrendorf E, Holenweger G, Rohrbach H, Schweighauser A, Messner C",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42519722/",
-      "abstract": "Many veterinary staff are dog owners, and the opportunity to bring their dog to work may influence their choice of workplace. This qualitative study assessed the benefits and risks for employees who bring their dogs to work in small animal clinics and aimed to develop guidelines to maximize benefits and minimize risks. The study explored the perspectives of employees at four small animal clinics in Switzerland who brought their own dogs to work. Semi-structured interviews were conducted using an",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42519721",
-      "title": "Establishment of a loop-mediated isothermal amplification-lateral flow dipstick assay for the point-of-care testing of feline herpesvirus-1.",
-      "authors": "Yi S, Zhao H, Huang J, Cai Y, Wu J",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42519721/",
-      "abstract": "Feline herpesvirus-1 (FHV-1) is a major pathogen responsible for feline upper respiratory tract disease (URTD), with a global distribution that poses significant threats to both the health of domestic cat and the conservation of wild felids. Thus, the development of a rapid and specific diagnostic method is crucial for controlling FHV-1 infection. In this study, we established a visual detection assay for FHV-1 by combining loop-mediated isothermal amplification (LAMP) with lateral flow dipstick",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42519719",
-      "title": "Spinal arachnoid diverticula and constrictive myelopathy in dogs: different conditions or a spectrum of spinal meningeal disease in veterinary and human medicine?",
-      "authors": "De Frias JM, Khan S, Rohdin C, Bhatti SFM, De Decker S",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42519719/",
-      "abstract": "Different conditions affecting the spinal meningeal layers have been reported in human and veterinary medicine. In veterinary medicine, two separate conditions have been reported. Spinal arachnoid diverticula (SAD) have been well documented for decades, while constrictive myelopathy (CM) in pugs was identified more recently. However, the distinction between SAD and CM in dogs can be challenging. There is a lack of understanding about the pathophysiology of these puzzling conditions, which impact",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42516306",
-      "title": "Case Report: Multimodal imaging, custom 3D-printed reconstruction and surgical stabilization of severe congenital occipitoatlantoaxial malformation in an adult dog.",
-      "authors": "Pinal KM, DiRubio ML, Zidan N, Loeber S, Cameron S",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42516306/",
-      "abstract": "Occipitoatlantoaxial malformations can vary in severity and clinical signs. A 1.8-year-old male intact Goldendoodle was presented with an acute onset of tetraparesis and severe neck pain after a fall. Neurologic examination revealed non-ambulatory tetraparesis with notable pain upon palpation of the cervical spine. Advanced imaging showed right-sided spinal cord compression at the level of C1 with an abnormal angle of the cranial cervical spine, severe congenital malformations including right at",
-      "category": "neurosurgery",
       "summary_ko": ""
     }
   ]
