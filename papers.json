@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 00:10 UTC",
+  "updated": "2026-08-14 22:55 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -176,6 +176,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42593949",
+      "title": "Sepsis in critically ill dogs: identification of clinical and laboratory risk factors and evaluation of sepsis scoring systems.",
+      "authors": "Castelain D, Pas ML, Skotarek M, Boyen F, Pardon B",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593949/",
+      "abstract": "Being a life-threatening syndrome, rapid detection of sepsis in critically ill dogs is mandatory. Determine risk factors associated with sepsis in critically ill dogs and evaluate diseases and scoring systems associated with sepsis or mortality. One hundred thirty critically ill dogs. Prospective single-center cohort study. Logistic regression and classification and regression tree (CART) analysis were performed to assess clinical and laboratory variables as risk factors for sepsis. Diagnostic a",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42585566",
       "title": "Endoscopic reduction of true gastrogastric intussusception in a dog.",
       "authors": "Ogawana T, Fukui S, Daimon Y, Kanemoto H",
@@ -298,12 +309,12 @@
     },
     {
       "id": "42571817",
-      "title": "Sleep-wake disturbance in canine cognitive dysfunction: guardian-reported patterns and a practical screening tool.",
+      "title": "Sleep-wake disturbance in canine cognitive dysfunction: Guardian-reported patterns and a practical screening tool.",
       "authors": "Taylor TL, Tuke J, Hazel SJ",
       "journal": "Vet J",
       "date": "2026 Aug 9",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42571817/",
-      "abstract": "Sleep-wake disturbance is a commonly reported feature of canine cognitive dysfunction (CCD), yet its specific patterns and clinical significance remain poorly characterised. This study aimed to describe guardian-reported sleep disturbances in dogs with CCD, examine their associations with cognitive severity and sensory changes, and develop a practical screening tool to support veterinary consultations. Guardians of dogs aged &#x2265;8 years (n = 205) completed an online survey capturing cognitiv",
+      "abstract": "Sleep-wake disturbance is a commonly reported feature of canine cognitive dysfunction (CCD), yet its specific patterns and clinical significance remain poorly characterised. This study aimed to describe guardian-reported sleep disturbances in dogs with CCD, examine their associations with cognitive severity and sensory changes, and develop a practical screening tool to support veterinary consultations. Guardians of dogs aged &#x2265;&#x202f;8 years (n&#x202f;=&#x202f;205) completed an online sur",
       "category": "other",
       "summary_ko": ""
     },
@@ -462,28 +473,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42557850",
-      "title": "EXPRESS: The hormonal effects of owner-cat interactions on pet cats of different potential attachment styles.",
-      "authors": "He X, Huang H, Chang H, Xu W, Gui C",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Aug 5",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42557850/",
-      "abstract": "ObjectivesTo investigate how different owner-cat interaction types influence stress and owner-bonding in pet cats with different attachment styles, using salivary cortisol and oxytocin as physiological indicators.MethodsTwenty pet cats were classified into secure, insecure-anxious, or insecure-avoidant attachment styles using the Secure Base Test. Owners engaged in four types of interactions with their cats at home on separate days. Saliva samples were collected before and after each interaction",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42556420",
-      "title": "Ultrasonographic evaluation of the canine gracilis, semimembranosus, and semitendinosus muscles.",
-      "authors": "Huguet E, Repac J",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 5",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42556420/",
-      "abstract": "To describe a practical technique for ultrasonographic evaluation of the gracilis, semimembranosus, and semitendinosus muscles in dogs. 2 clinically healthy client-owned German Shepherd Dogs were used for this tutorial. Owner consent and approval from the University of Florida College of Veterinary Medicine IACUC were obtained prior to participation. Dogs were clipped, sedated, and placed into dorsal recumbency in a relaxed position with bilateral coxofemoral abduction. A stepwise ultrasonograph",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
       "id": "42589038",
       "title": "Shelter Dog Census Changes Track Intakes but Resolve Slowly via Outcomes and Especially Adoptions.",
       "authors": "Mavrovouniotis ML, Hassen K",
@@ -635,6 +624,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42588991/",
       "abstract": "The study evaluated the effects of dietary compound enzyme preparations (CEPs) supplementation on antioxidant capacity, immune response, and intestinal health of pigeons. A total of 288 White King parent pigeons were randomly assigned to four treatments, with six replications of 12 pigeons each. The control (CK) group received a basal diet, whereas the CEP groups were fed a basal diet with 0.25 g/kg (low compound enzyme preparation group, LCEP), 0.5 g/kg (middle compound enzyme preparation group",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42599030",
+      "title": "EXPRESS: MYOCARDIAL INJURY IN CATS WITH ACUTE BLUNT TRAUMA: PREVALENCE AND PROGNOSTIC IMPLICATIONS.",
+      "authors": "Dossi G, Mismetti M, Carnevale L, Borromeo V, Pocar P",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42599030/",
+      "abstract": "ObjectivesTo determine the prevalence of increased serum high-sensitivity cardiac troponin I (hs-cTnI) concentrations in cats with acute blunt trauma and assess associations with trauma severity, clinicopathological variables, echocardiographic findings, and short-term outcome.MethodsThirty-nine cats presenting within 48 hours of blunt trauma were prospectively enrolled. All cats underwent physical examination, Animal Trauma Triage scoring, thoracic radiography, electrocardiography, echocardiogr",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42594946",
+      "title": "Targeted quantitative polymerase chain reaction-based bacterial and fecal metabolite markers show early stability in healthy puppies after 8 weeks of age.",
+      "authors": "Birk D, Weidinger AK, Schmidt T, Bachmann S, Spring I",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42594946/",
+      "abstract": "To assess longitudinal stability of targeted quantitative PCR (qPCR)-based fecal microbial and metabolomic markers in healthy puppies from 8 weeks to 1 year of age. This prospective longitudinal cohort study was conducted at the Clinic for Small Animal Internal Medicine, Vetsuisse Faculty, University of Zurich, Switzerland, from August 2023 to January 2025. Clinically healthy client-owned puppies were sampled at 8 to 12 weeks, 16 weeks, 6 months, and 1 year. Eligible dogs had no gastrointestinal",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -880,6 +891,39 @@
       "summary_ko": ""
     },
     {
+      "id": "42598273",
+      "title": "Physiological predictors of hematological tier outcomes in canine platelet-rich plasma: a prospective observational study.",
+      "authors": "Colomer-Selva R, Tvarijonaviciute A, Franco-Martínez L, Martins E, Mena-Moros B",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42598273/",
+      "abstract": "Platelet-rich plasma (PRP) exhibits substantial inter-individual variability, yet the physiological factors influencing its composition remain poorly defined. Most studies evaluate PRP as a homogeneous product, potentially masking associations between donor-related characteristics and platelet parameters. This study aimed to determine how key physiological factors influence whole blood (WB) and PRP indices and to assess their relationship with platelet enrichment. Ninety-seven client-owned dogs ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42598263",
+      "title": "Investigating gray matter volumes in idiopathic epileptic Border Collies and Greater Swiss Mountain Dogs using voxel-based morphometry.",
+      "authors": "Glahn I, Richter H, Beckmann K",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42598263/",
+      "abstract": "To investigate regional gray matter volume differences in Border Collies and Greater Swiss Mountain Dogs with idiopathic epilepsy compared with healthy controls using voxel-based morphometry (VBM). This retrospective single-center study analyzed 3D T1-weighted MRI datasets from 46 dogs, comparing dogs with idiopathic epilepsy with breed-matched healthy controls. Regional gray matter volume was assessed using an automated FSL-based voxel-based morphometry pipeline with semi-manual brain extractio",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42597317",
+      "title": "CT-based optimization of hindlimb muscle measurement levels and development of a hindlimb muscle condition score in dogs.",
+      "authors": "Yun S, Hong S, Lee Y, Lee K, Choi S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42597317/",
+      "abstract": "Objective assessment of hindlimb skeletal muscles in dogs remains challenging in small animal practice. This study aimed to use computed tomography (CT) to characterize hindlimb muscle distribution, identify optimal measurement levels, and evaluate the clinical applicability of a palpation-based hindlimb muscle condition score (hMCS) system. This prospective observational study included 39 dogs (76 hindlimbs) enrolled according to the predefined inclusion criteria. CT was used to measure the mus",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42591975",
       "title": "From conventional probiotics to precision nutrition: host-specific probiotics in canine and feline functional foods.",
       "authors": "Wang Z, Wang W, Zhang P, Luo J, Zhang Y",
@@ -1064,50 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42564043/",
       "abstract": "The microarchitectural structure of the cervical spine in small animals, particularly the cranial cervical spine, has received little attention to date. This study aimed to analyze the trabecular and cortical microarchitecture of the first four cervical vertebrae and to identify potential differences between toy- and small-breed dogs and between toy-breed dogs and cats. The first four cervical vertebrae from 20 euthanized dogs (10 toy-breed dogs and 10 small-breed dogs) and 20 euthanized cats we",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42558890",
-      "title": "Correction: Connection between nutrition and oncology in dogs and cats: perspectives, evidence, and implications-a comprehensive review.",
-      "authors": "Amaral AR, Finardi GLF, Marchi PH, de Oliveira NMC, Príncipe LA",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42558890/",
-      "abstract": "[This corrects the article DOI: 10.3389/fvets.2024.1490290.].",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42558533",
-      "title": "Identification of reproductive and molecular biomarkers associated with clinical metritis in dromedary camels (Camelus dromedarius).",
-      "authors": "Alqhtani HA, Elsayed AA, Al-Hazani TMI, Elkhidr RY, Abdelnaby EA",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42558533/",
-      "abstract": "Metritis is a major cause of infertility, contributing to repeat breeding, early embryonic loss, fetal mortality, and abortion. This study investigated alterations in metabolic, hormonal, oxidative, immunological, and molecular markers associated with metritis susceptibility in dromedary camels (Camelus dromedarius). A total of 100 non-lactating multiparous females (87 healthy and 13 metritic) were examined. Blood samples were collected and analyzed to evaluate hematobiochemical parameters, infl",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42558436",
-      "title": "Effect of fluorescence biomodulation as an adjunct to standard wound management in open wounds in dogs and cats: a prospective, randomised, within-wound controlled clinical trial.",
-      "authors": "Jiménez Lázaro M, Sopena Juncosa J, Martins EJC, Colombino E, Oliver Guimerá A",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42558436/",
-      "abstract": "Open wounds are a common clinical problem in small animal practice and are associated with delayed healing, infection, and increased treatment burden. Fluorescence biomodulation (FB), a form of photobiomodulation therapy (PBMT), has shown benefits in several dermatological conditions; however, its efficacy in veterinary open wounds remains unclear. To evaluate the effect of FB as an adjunct to standardised wound management on healing progression in open wounds in dogs and cats using a prospectiv",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42558402",
-      "title": "Taurine in canine physiology and metabolic regulation.",
-      "authors": "Wang P, Yang M, Yang Y, Xiu F, Liu C",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42558402/",
-      "abstract": "Taurine is a conditionally essential amino acid in dogs and plays a fundamental role in maintaining physiological homeostasis and metabolic health. This review systematically summarizes the biosynthesis, tissue distribution, and core physiological functions of taurine in dogs, and provides an in-depth analysis of its regulatory mechanisms across multiple organ systems, including the myocardium, retina, nervous system, reproductive system, and lipid metabolism. Particular emphasis is placed on th",
-      "category": "other",
       "summary_ko": ""
     }
   ]
