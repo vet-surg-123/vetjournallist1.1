@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 22:55 UTC",
+  "updated": "2026-08-15 22:52 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -154,28 +154,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42562674",
-      "title": "Left atrial decompression in dogs with heart failure secondary to myxomatous mitral valve disease: a long-term outcome study.",
-      "authors": "Phipps KL, Allen JA, Barrett KA, Day CJ, Doan MN",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Jul 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42562674/",
-      "abstract": "Left-sided congestive heart failure (CHF) secondary to myxomatous mitral valve disease carries high morbidity and mortality in dogs. Left atrial decompression (LAD) has been employed in severely affected dogs refractory to medical therapy, but long-term outcomes have not been reported. The aim of this study was to evaluate survival time following LAD, the frequency of iatrogenic atrial septal defect closure, the frequency of right-sided CHF, and the frequency of cardiac-related hospitalizations.",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42561469",
-      "title": "Pulmonary valve sinus aneurysm associated with pulmonic stenosis and patent ductus arteriosus in a dog.",
-      "authors": "Vázquez DMP, Rodríguez JEV, Serrano PP",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Jul 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42561469/",
-      "abstract": "A three-year-old neutered female Bernese mountain dog was referred for evaluation of multiple congenital cardiac abnormalities. Transthoracic echocardiography demonstrated features consistent with type A pulmonic stenosis, including a normal pulmonary valve annulus, an increased transvalvular pressure gradient, systolic doming of thickened and fused pulmonary valve leaflets, and concentric right ventricular hypertrophy. Additionally, a focal aneurysmal dilation arising from the intermediate pulm",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
       "id": "42593949",
       "title": "Sepsis in critically ill dogs: identification of clinical and laboratory risk factors and evaluation of sepsis scoring systems.",
       "authors": "Castelain D, Pas ML, Skotarek M, Boyen F, Pardon B",
@@ -238,39 +216,6 @@
       "date": "2026 Jul 1",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42575087/",
       "abstract": "Right-sided heart disease (RHD) affects gastrointestinal function and hemostasis. Dogs with progressively severe RHD have impaired gastrointestinal function and altered hemostasis. Eighteen client-owned dogs with RHD; group 1: 6 dogs without hepatic venous congestion, group 2: 6 dogs with hepatic venous congestion but no ascites, and group 3: 6 dogs with ascites. Prospective, cross-sectional, exploratory study. Dogs underwent routine blood, urine, and fecal testing, measures of gastrointestinal ",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42561146",
-      "title": "Clinical and imaging findings after antiviral treatment in cats with presumptive neurologic feline infectious peritonitis: 9 cases (2020-2024).",
-      "authors": "Santos Hernández C, Martínez García I, Gutiérrez-Quintana R, Santifort K, Suñol Iniesta A",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42561146/",
-      "abstract": "Limited information is available regarding comparison between clinical outcomes and post-treatment imaging findings in cats with the neurologic form of feline infectious peritonitis (FIP). Describe post-treatment imaging findings and clinical outcomes in cats with neurologic FIP treated with antiviral drugs. Nine cats with a presumptive diagnosis of neurologic FIP undergoing advanced imaging before and after antiviral treatment (GS-441524, remdesivir, or both). Medical records from 8 institution",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42561145",
-      "title": "Survival of dogs with glomerular disease in Europe: insights from the European Veterinary Renal Pathology Service.",
-      "authors": "Zini E, Rossi F, Benali SL, Nicolo A, Gelli D",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42561145/",
-      "abstract": "Although glomerular disorders contribute to chronic kidney disease in dogs, few studies have evaluated the usefulness of renal biopsy for predicting outcome. Investigate morphologic diagnoses, clinicopathological findings, comorbidities, treatment, and their associations with survival in dogs after renal biopsy. One hundred ten client-owned dogs with glomerular disease. Retrospective cohort study of medical records from the European Veterinary Renal Pathology Service (2018-2023). Data were obtai",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42561144",
-      "title": "Prevalence of disease in 549 older cats undergoing health screening at two United Kingdom-based veterinary clinics.",
-      "authors": "Bestwick JP, Elliott J, Orriss IR, Lötter N, Geddes RF",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42561144/",
-      "abstract": "Risk of some diseases of cats increases with age, including chronic kidney disease (CKD) and hyperthyroidism, but clinical signs can be dismissed by caregivers as age-related changes. Quantify the prevalence of disease and other major clinical findings in older cats. Data from cats (&#x2265;8&#x2009;years old) that underwent routine health screening at 2 United Kingdom (UK)-based primary care veterinary clinics over a 52-month period (October 2, 2018 to February 14, 2023) were analyzed. At scree",
       "category": "internal",
       "summary_ko": ""
     },
@@ -404,39 +349,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42567185/",
       "abstract": "To report tumor response, complications, outcomes, and extrahepatic collateral arterial supply presence in dogs with massive hepatocellular carcinoma (HCC) treated with transcatheter arterial embolization (TAE). 18 dogs diagnosed with massive HCC. All dogs underwent contrast-enhanced CT and pretreatment histopathologic confirmation by laparoscopic biopsy (n = 1) or ultrasound-guided needle core biopsy (17). Tumor response was assessed using percentage of change in tumor volume on CT before TAE a",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42563273",
-      "title": "Influence of intra-articular injectate volume on joint surface coverage and leakage following canine elbow arthroscopy: A cadaveric study.",
-      "authors": "Smith E, Stark S, Boyton S, Gordon-Evans W",
-      "journal": "Vet Surg",
-      "date": "2026 Aug 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42563273/",
-      "abstract": "To determine whether reduced intra-articular (IA) injection volumes provide complete synovial surface coverage while minimizing leakage following canine elbow arthroscopy. Randomized cadaveric study. Forty elbow joints from 20 canine cadavers weighing &gt;15&#x2009;kg. Standard medial elbow arthroscopy was performed with portals placed under arthroscopic guidance. The egress portal was created along the caudal margin of the medial epicondylar ridge, directed toward the anconeal process. A third,",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42563163",
-      "title": "Longitudinal echocardiographic systolic changes in dogs receiving doxorubicin-based chemotherapy.",
-      "authors": "Herrera GC, Mantovani MM, de Castro JR, Veras ADS, Silva MJB",
-      "journal": "BMC Vet Res",
-      "date": "2026 Aug 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42563163/",
-      "abstract": "Doxorubicin is widely used in veterinary oncology but carries a risk of cumulative cardiotoxicity. Serial echocardiographic evaluation is commonly used to monitor dogs receiving potentially cardiotoxic chemotherapy; however, evidence remains limited regarding which indices best capture early longitudinal systolic changes. Conventional monitoring relies largely on fractional shortening and M-mode estimated ejection fraction, which are based on geometric assumptions and may have limited sensitivit",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42562008",
-      "title": "Canine Femoral Trochlear Dysplasia: A Retrospective Study Assessing the Dejour Signs.",
-      "authors": "Longo F, Neri R, Knell SC",
-      "journal": "Vet Comp Orthop Traumatol",
-      "date": "2026 Aug 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42562008/",
-      "abstract": "The aim of this study was to assess whether Dejour's lateral radiographic signs of femoral trochlear dysplasia are identifiable in healthy and patellar luxation (PL)-affected dogs; and whether computed tomography (CT) lateral reconstructions can substitute for radiography. Forty femoral trochleae were divided into controls without PL (n&#x2009;=&#x2009;15) and dogs with PL (n&#x2009;=&#x2009;25). Mediolateral stifle radiographs and CT-based lateral reconstructions were randomized and read by a b",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -624,6 +536,72 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42588991/",
       "abstract": "The study evaluated the effects of dietary compound enzyme preparations (CEPs) supplementation on antioxidant capacity, immune response, and intestinal health of pigeons. A total of 288 White King parent pigeons were randomly assigned to four treatments, with six replications of 12 pigeons each. The control (CK) group received a basal diet, whereas the CEP groups were fed a basal diet with 0.25 g/kg (low compound enzyme preparation group, LCEP), 0.5 g/kg (middle compound enzyme preparation group",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42603145",
+      "title": "Variations on the rostral labial pivot flap for reconstruction of maxillary lip defects in four dogs.",
+      "authors": "Im H, Dark KV, Skinner OT",
+      "journal": "Vet Surg",
+      "date": "2026 Aug 15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42603145/",
+      "abstract": "To describe the technique and outcome of a rostral labial pivot flap variant in dogs. Four dogs with rostral lip/paranasal defect underwent rostral labial pivot flap. Short case series. Rostral lip and paranasal defects with concurrent nasal mucosal involvement resulting from tumor resection were reconstructed using the rostral labial pivot flap and its variants, including incorporation of a mucosal island flap &#xb1; nasal rotation flap for modification of lip heights. Medical records were revi",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42603142",
+      "title": "Long-term outcome after resection and reconstruction using vaginourethroplasty for distal urethral leiomyosarcoma in a female dog.",
+      "authors": "Yamaguchi Y, Iriyama S, Sawatari Y",
+      "journal": "Vet Surg",
+      "date": "2026 Aug 15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42603142/",
+      "abstract": "To describe vaginourethroplasty-based resection and reconstruction of distal urethral leiomyosarcoma in a female dog and report long-term outcomes. Case report. One 10-year-old spayed female mixed-breed dog. Retrograde urethrovaginography identified a distal urethral filling defect. Two days later, contrast-enhanced computed tomography under general anesthesia demonstrated a 17&#x2009;&#xd7;&#x2009;17&#x2009;&#xd7;&#x2009;24&#x2009;mm distal urethral mass without distant metastasis; blind biopsy",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42600658",
+      "title": "Trochlear Ridge Prosthetic Replacement Surgery in 20 Dogs with Medial Patellar Luxation: Clinical and Radiographic Findings.",
+      "authors": "MacEwan IR, Hankin EJ, Barbur LA",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Aug 14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600658/",
+      "abstract": "This study aimed to describe a population of dogs that had undergone trochlear ridge prosthetic replacement with the RidgeStop surgical procedure for the correction of medial patellar luxation (MPL), and to describe clinical outcomes, owner satisfaction and radiographic changes. Retrospective, observational review of 20 client-owned dogs. Data, including MPL and lameness grades, implant use, complications and concurrent surgical procedures, were recorded. Radiographic review was performed. A cli",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42600647",
+      "title": "Large language models demonstrate variable diagnostic performance and a systematic risk of undertriage in surgical triage of feline metacarpal and metatarsal fractures.",
+      "authors": "Okur S, Özkalipçi Ç, Baykal B, Kartal T, Şenocak MG",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600647/",
+      "abstract": "To evaluate the diagnostic performance of multiple large language models (LLMs) against expert consensus in determining surgical intervention needs for feline metacarpal and metatarsal fractures. In this retrospective study (December 2023 to February 2025), 73 clinical cases of feline metacarpal and metatarsal fractures were evaluated. Two board-certified veterinary orthopedic surgeons established a reference standard for surgical versus conservative management. Five LLMs (ChatGPT, version 5.2 [",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42600645",
+      "title": "Medetomidine-vatinoxan (Zenalpha) results in reduction of systolic function, blood pressure, and heart rate with prolongation of electrocardiographic intervals in healthy dogs.",
+      "authors": "Forsyth KK, Hogan DF, Dos Santos LFN, Weng HY",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600645/",
+      "abstract": "To determine the effects of medetomidine-vatinoxan (Zenalpha; MVZ) on echocardiographic parameters, blood pressure, and cardiac rhythm in healthy dogs. Healthy, client-owned dogs were eligible for enrollment in this prospective, pretest/posttest study. Exclusion criteria included preexisting cardiac disease or medications that could alter the measured study parameters. Echocardiography, blood pressure, and 1-hour Holter monitor were performed at baseline and after sedation with MVZ per the manuf",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42600641",
+      "title": "Severe azotemia, bilateral renomegaly, and anorexia in a 2-year-old female spayed mixed canine.",
+      "authors": "Ye Z, Riker J, Griffith KM, Oliveira LJ",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600641/",
+      "abstract": "",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -891,6 +869,39 @@
       "summary_ko": ""
     },
     {
+      "id": "42603023",
+      "title": "Dogs and cats with acute-on-chronic kidney disease have worse outcomes than those with acute kidney injury following renal replacement therapy.",
+      "authors": "Ahn W, Kim K, Kim J, Lee Y, Lee T",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42603023/",
+      "abstract": "To compare survival to discharge and long-term outcomes in dogs and cats with acute-on-chronic kidney disease (ACKD) compared to acute kidney injury (AKI) treated with renal replacement therapy (RRT) and to identify factors associated with outcome. Retrospective observational design. Single referral hospital. 136 client-owned animals (67 dogs and 69 cats) treated with RRT between 2017 and 2024. This retrospective observational cohort study reviewed medical records from a referral hospital. Anima",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42601940",
+      "title": "Epidemiological study of Toxocara canis infection in dogs in selected regions of Egypt.",
+      "authors": "Gattan HS, Marzok M, Selim A, Alruhaili MH, Ismail H",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42601940/",
+      "abstract": "Toxocariasis caused by Toxocara canis is a common parasitic disease in dogs with important zoonotic implications. Although fecal examination is traditionally used for diagnosis, it has limitations in detecting prepatent, low-intensity, or intermittent infections. Therefore, serological testing was selected in this study as a more sensitive and time-efficient approach for assessing exposure at the population level. This study aimed to determine the seroprevalence of T. canis infection and identif",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42601911",
+      "title": "Canine paroxysmal dyskinesia: distribution of etiological subtypes and structural and reactive causes in a retrospective tertiary care cohort.",
+      "authors": "Dellwig A, Meyerhoff N, Rogers CB, Volk HA, Tipold A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42601911/",
+      "abstract": "Canine paroxysmal dyskinesia is an episodic movement disorder characterized by transient dystonia, dyskinesia and tremor in dogs with preserved consciousness, yet its differentiation from focal epilepsy remains challenging and a structured diagnostic framework comparable to that used in epilepsy is lacking. This retrospective, single-center study evaluated the distribution of etiologies in dogs presenting with paroxysmal dyskinesia to a tertiary referral center between 2012 and 2023. Medical rec",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42598273",
       "title": "Physiological predictors of hematological tier outcomes in canine platelet-rich plasma: a prospective observational study.",
       "authors": "Colomer-Selva R, Tvarijonaviciute A, Franco-Martínez L, Martins E, Mena-Moros B",
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42565009/",
       "abstract": "A 7-year-old female spayed Labrador retriever was presented for a 3-year history of progressive hemorrhage from the vulva. The dog previously underwent cystourethroscopy and vaginoscopy 1&#x202f;year prior, and a small, raised hemorrhagic lesion was identified in the caudal vaginal wall. Following pinch biopsies of the lesion, bleeding ceased during the remainder of the procedure but recommenced within a week following discharge from the hospital. Histopathology of the vaginal biopsy revealed ch",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42564043",
-      "title": "Microcomputed tomography examination of the cortical and trabecular structures of the cranial cervical spine in dogs and cats.",
-      "authors": "Klotz V, Waselau AC, Zablotski Y, Meyer-Lindenberg A",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42564043/",
-      "abstract": "The microarchitectural structure of the cervical spine in small animals, particularly the cranial cervical spine, has received little attention to date. This study aimed to analyze the trabecular and cortical microarchitecture of the first four cervical vertebrae and to identify potential differences between toy- and small-breed dogs and between toy-breed dogs and cats. The first four cervical vertebrae from 20 euthanized dogs (10 toy-breed dogs and 10 small-breed dogs) and 20 euthanized cats we",
-      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
