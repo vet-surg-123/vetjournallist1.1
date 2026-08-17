@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 22:50 UTC",
+  "updated": "2026-08-17 22:55 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -536,6 +536,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42588991/",
       "abstract": "The study evaluated the effects of dietary compound enzyme preparations (CEPs) supplementation on antioxidant capacity, immune response, and intestinal health of pigeons. A total of 288 White King parent pigeons were randomly assigned to four treatments, with six replications of 12 pigeons each. The control (CK) group received a basal diet, whereas the CEP groups were fed a basal diet with 0.25 g/kg (low compound enzyme preparation group, LCEP), 0.5 g/kg (middle compound enzyme preparation group",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42604724",
+      "title": "Immunohistochemical Characterisation of Mismatch Repair Proteins in Feline Cancers: A Pilot Study Using Validated Cross-Reactive Antibodies.",
+      "authors": "Nishibori S, Sakurai M, Kagawa Y, Nishigaki K, Nakagawa T",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42604724/",
+      "abstract": "DNA mismatch repair (MMR) deficiency is a clinically important biomarker in human oncology, yet its relevance in feline neoplasia remains poorly understood due to limited characterisation and the absence of validated reagents. In this study, we established a practical immunohistochemistry (IHC) approach for evaluating feline MMR proteins by confirming the cross-reactivity of anti-human MLH1, MSH2 and MSH6 antibodies using CRISPR/Cas9-engineered feline tumour cell lines lacking each target gene. ",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42569037/",
       "abstract": "Toxoplasmosis, a zoonotic disease caused by Toxoplasma gondii, poses significant health risks, especially to high-risk individuals who are exposed to cats. This study aimed to assess the knowledge, attitudes, and practices (KAP) related to toxoplasmosis and determine its seroprevalence among selected high-risk groups in Cebu, Philippines-specifically veterinary students, veterinary personnel, and cat owners. A total of 416 participants completed a structured questionnaire evaluating their demogr",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42565009",
-      "title": "Case Report: Endoscopic-guided electrocautery ablation of a vaginal hemorrhagic lesion in a dog.",
-      "authors": "Michalak SR, Palm CA, Woerde DJ, Culp WTN",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42565009/",
-      "abstract": "A 7-year-old female spayed Labrador retriever was presented for a 3-year history of progressive hemorrhage from the vulva. The dog previously underwent cystourethroscopy and vaginoscopy 1&#x202f;year prior, and a small, raised hemorrhagic lesion was identified in the caudal vaginal wall. Following pinch biopsies of the lesion, bleeding ceased during the remainder of the procedure but recommenced within a week following discharge from the hospital. Histopathology of the vaginal biopsy revealed ch",
-      "category": "imaging",
       "summary_ko": ""
     }
   ]
