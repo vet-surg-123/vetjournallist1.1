@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 22:55 UTC",
+  "updated": "2026-08-18 22:56 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -308,17 +308,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42567197",
-      "title": "Isorhythmic atrioventricular dissociation detected during anesthesia in a geriatric cat.",
-      "authors": "Sugimoto K, Fujiwara K, Tsuji K, Miyazaki M, Kobayashi K",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42567197/",
-      "abstract": "",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42589081",
       "title": "Rapid Gel-Based Recombinase Polymerase Amplification Assay for Detection and Sequence Confirmation of Ehrlichia canis.",
       "authors": "Sumpavong P, Khumtub K, Kanittakul K, Kaewmongkol S, Kaewmongkol G",
@@ -338,17 +327,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42589073/",
       "abstract": "Stray cats may act as reservoirs of antimicrobial-resistant and potentially pathogenic bacteria, representing a potential public health concern within a One Health framework. This study investigated the occurrence of antimicrobial resistance (AMR), multidrug resistance (MDR), and virulence-associated traits in commensal Escherichia coli isolated from free-living cat colonies in southern Spain. A total of 169 rectal swabs were collected from cats belonging to feline colonies and shelters in Benal",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42567185",
-      "title": "Transcatheter arterial embolization for massive hepatocellular carcinoma in 18 dogs (2020-2025).",
-      "authors": "Kadowaki K, Nishimura S, Toyoda A, Yamamoto R",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42567185/",
-      "abstract": "To report tumor response, complications, outcomes, and extrahepatic collateral arterial supply presence in dogs with massive hepatocellular carcinoma (HCC) treated with transcatheter arterial embolization (TAE). 18 dogs diagnosed with massive HCC. All dogs underwent contrast-enhanced CT and pretreatment histopathologic confirmation by laparoscopic biopsy (n = 1) or ultrasound-guided needle core biopsy (17). Tumor response was assessed using percentage of change in tumor volume on CT before TAE a",
-      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -536,6 +514,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42588991/",
       "abstract": "The study evaluated the effects of dietary compound enzyme preparations (CEPs) supplementation on antioxidant capacity, immune response, and intestinal health of pigeons. A total of 288 White King parent pigeons were randomly assigned to four treatments, with six replications of 12 pigeons each. The control (CK) group received a basal diet, whereas the CEP groups were fed a basal diet with 0.25 g/kg (low compound enzyme preparation group, LCEP), 0.5 g/kg (middle compound enzyme preparation group",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42608000",
+      "title": "Preclinical Cyclic Testing of Adjunctive Fixation of the Humeral Epicondyle in a Lateral Condylar Fracture Model: Ex Vivo Comparison of a Locking Plate versus a Light-curable Composite.",
+      "authors": "Quinn R, Höglund OV, Hutchinson DJ, Papini L, Tesfaye Ayane A",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Aug 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42608000/",
+      "abstract": "To compare the mechanical performance under cyclic loading of a biocompatible light-curable composite formed from two traizine-trione resin monomers and hydroxyapatite construct (AdhFix) against a standard locking plate used as adjunctive epicondylar stabilization in a simulated lateral condylar humeral fracture model. Cadaveric biomechanical assessment. Paired canine cadaver humeri were used to simulate lateral condylar humeral fractures. All constructs were stabilized with a transcondylar 4.5&",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -877,6 +866,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42588987/",
       "abstract": "Mesenchymal stromal cells (MSCs) derived from perinatal tissues represent a promising resource for regenerative medicine due to their proliferative, immunomodulatory, and differentiation properties. Among these tissues, the umbilical cord is considered an accessible and ethically acceptable source of MSCs. This study evaluated the feasibility of whole umbilical cord cryopreservation in canine and equine species and assessed the biological properties of MSCs isolated from cryopreserved tissues co",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42609759",
+      "title": "Chronic intestinal pseudo-obstruction secondary to intestinal leiomyositis in a ragdoll cat.",
+      "authors": "Lau CWW, Hope A, Donnelly E",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42609759/",
+      "abstract": "A 1-year-old neutered male neutered Ragdoll cat was presented with a 4-week history of hyporexia, intermittent diarrhoea and weight loss. Initial imaging revealed a varying degree of distension of the intestinal loops by echoic fluid/gas and some loops had hyperechoic content with marked echo shadowing. Exploratory laparotomy was recommended but declined. Subsequent clinical deterioration prompted further investigation with CT scan revealing severe dilation of the intestine which was deemed like",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
