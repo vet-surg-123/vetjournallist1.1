@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19 22:56 UTC",
+  "updated": "2026-08-20 23:01 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -209,72 +209,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42575087",
-      "title": "Assessment of gastrointestinal health and the coagulation system in dogs with right-sided heart disease: an exploratory study.",
-      "authors": "Shropshire S, Jablonski S, Scansen BA",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575087/",
-      "abstract": "Right-sided heart disease (RHD) affects gastrointestinal function and hemostasis. Dogs with progressively severe RHD have impaired gastrointestinal function and altered hemostasis. Eighteen client-owned dogs with RHD; group 1: 6 dogs without hepatic venous congestion, group 2: 6 dogs with hepatic venous congestion but no ascites, and group 3: 6 dogs with ascites. Prospective, cross-sectional, exploratory study. Dogs underwent routine blood, urine, and fecal testing, measures of gastrointestinal ",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42572226",
-      "title": "EXPRESS: Flow cytometry-based direct antiglobulin test for suspected feline immune-mediated thrombocytopenia: Assay development and demographic factors associated with DAT positivity.",
-      "authors": "Nedumpun T, Kamenkit O, Thongwandi S, Tripipat T, Wadeerat S",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Aug 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42572226/",
-      "abstract": "This study aimed to develop and evaluate an in-house flow cytometry-based direct antiglobulin test (DAT) for detecting IgG-bound platelet in cats, and to investigate the prevalence of DAT positivity and associated risk factors among thrombocytopenic cats. Platelets were identified by CD41/61 expression, and platelet-bound IgG was assessed by flow cytometry. A diagnostic cutoff for the percentage of IgG-positive platelets was established using 100 healthy cats and preliminarily evaluated in 50 ca",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42572207",
-      "title": "EXPRESS: Development of an ultrasound-guided pericapsular knee desensitization technique in cats: an anatomical cadaveric study.",
-      "authors": "Lemaitre D, Mejías P, Vásquez MB, Arredondo D, Garbin M",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Aug 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42572207/",
-      "abstract": "ObjectivesTo develop an ultrasound-guided pericapsular knee desensitization (PKD) technique targeting the medial (MAN), lateral (LAN) and posterior (PAN) articular branches of the saphenous, common fibular and tibial nerves, and to evaluate its accuracy in domestic feline cadavers.MethodsIn Phase I, six pelvic limbs from three cadavers underwent ultrasonographic evaluation and gross dissection to describe the course of the MAN, LAN and PAN and identify anatomical and sonographic landmarks for PK",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42571871",
-      "title": "Faecal IgA but not salivary IgA is associated with canine atopic dermatitis.",
-      "authors": "Campbell A, Nuttall T, Robinson V, Soutter F",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Aug 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42571871/",
-      "abstract": "To characterise immunoglobulin A (IgA) levels in the faeces and saliva of dogs with canine atopic dermatitis (CAD) and healthy breed matched controls. Dogs with canine atopic dermatitis were recruited based on history, clinical examination and diagnostic testing where appropriate. Control dogs were over 4&#x2009;years of age with no history of skin disease. Saliva samples were obtained using chewable synthetic swabs with saliva extracted by centrifugation. Faecal samples were collected from the ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42571817",
-      "title": "Sleep-wake disturbance in canine cognitive dysfunction: Guardian-reported patterns and a practical screening tool.",
-      "authors": "Taylor TL, Tuke J, Hazel SJ",
-      "journal": "Vet J",
-      "date": "2026 Aug 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42571817/",
-      "abstract": "Sleep-wake disturbance is a commonly reported feature of canine cognitive dysfunction (CCD), yet its specific patterns and clinical significance remain poorly characterised. This study aimed to describe guardian-reported sleep disturbances in dogs with CCD, examine their associations with cognitive severity and sensory changes, and develop a practical screening tool to support veterinary consultations. Guardians of dogs aged &#x2265;&#x202f;8 years (n&#x202f;=&#x202f;205) completed an online sur",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42571816",
-      "title": "Evaluating Sacubitril/Valsartan's efficacy in reducing myocardial hypertrophy and fibrosis in feline models.",
-      "authors": "Sun Z, Huang W, Chai X, Hu C, Zhu C",
-      "journal": "Vet J",
-      "date": "2026 Aug 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42571816/",
-      "abstract": "Hypertrophic cardiomyopathy is the most common form of feline heart disease, and current therapy is largely supportive with no widely available effective treatment to reverse myocardial hypertrophy or attenuate fibrosis. Sacubitril/valsartan (Sac/Val), an angiotensin receptor-neprilysin inhibitor, has antihypertrophic and antifibrotic effects, but its potential in feline hypertrophic cardiomyopathy remains unclear. The objective of this exploratory pilot study was to evaluate the effects of Sac/",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42589081",
       "title": "Rapid Gel-Based Recombinase Polymerase Amplification Assay for Detection and Sequence Confirmation of Ehrlichia canis.",
       "authors": "Sumpavong P, Khumtub K, Kanittakul K, Kaewmongkol S, Kaewmongkol G",
@@ -338,28 +272,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42589038/",
       "abstract": "In animal shelters, the census (in-care population) changes when monthly intakes and outcomes are not balanced, and census changes may in turn affect subsequent intakes and outcomes. This observational, retrospective study examined these relationships using monthly dog statistics from the Shelter Animals Count database for United States government-related (GRO) and non-government (NGO) sheltering organizations over 2022-2024. Two linear regression models were applied: a concurrent model that dec",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42551864",
-      "title": "Needle bevel orientation does not affect the cranial spread of injectate in a lumbosacral epidural in canine cadavers.",
-      "authors": "Harris O, Ferreira TH, Loeber S, Hughes S, Bartholomew KJ",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 4",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42551864/",
-      "abstract": "To investigate the cranial and circumferential spread of iohexol (240 mg/mL) diluted 1:3 with saline injected at the lumbosacral junction in canine cadavers using 0.1- and 0.2-mL/kg volumes administered with a cranial- or caudal-facing Tuohy bevel direction. Lumbosacral epidurals were performed with a cranial- or caudal-facing needle bevel. The median vertebrae reached and the estimated percentage of the spinal cord surrounded with injectate were assessed via CT after administering two 0.1-mL/kg",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42551861",
-      "title": "Cadaveric Feasibility Study Describing Transarticular Drilling of the Canine Anconeal Process through a Cranial Arthroscopic Portal.",
-      "authors": "Schmeiser LJ, Murphy SM",
-      "journal": "Vet Comp Orthop Traumatol",
-      "date": "2026 Aug 4",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42551861/",
-      "abstract": "The aims of this study were to describe a cranial arthroscopic portal to the supratrochlear foramen and to assess the feasibility and accuracy of retrograde transarticular drilling of the anconeal process in canine cadaveric elbows. Cadaver elbows (n&#x2009;=&#x2009;8) were instrumented through a cranial portal in the distal humerus using a NanoScope. The scope was manoeuvred through the supratrochlear foramen to inspect the anconeal process. A 2.0-mm tunnel simulating the pilot hole for an unun",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -429,6 +341,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42622352",
+      "title": "EXPRESS: Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitis.",
+      "authors": "Knies M, Hofman N, Jackson-Onis J, Broens EM, Teske E",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42622352/",
+      "abstract": "To evaluate the agreement of a commercially available point-of-care FCoV RT-qPCR assay and external laboratories RT-qPCR testing in cats with effusive and non-effusive FIP, and in cats with other diseases presenting with similar clinical signs. Client-owned cats suspected of FIP were enrolled with owner consent. Effusions and ultrasound-guided fine-needle aspirates (FNAs) from liver, spleen, or mesenteric lymph nodes were collected, split, and analysed using both a point-of-care RT-qPCR and an e",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42588999",
       "title": "Epidemiological and Molecular Investigation of Dirofilaria repens, Dirofilaria immitis, and Acanthocheilonema reconditum in Dogs in the Republic of Srpska (Bosnia and Herzegovina).",
       "authors": "Despotovic D, Jovanovic NM, Petrovic T, Subic I, Radalj A",
@@ -481,6 +404,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42588991/",
       "abstract": "The study evaluated the effects of dietary compound enzyme preparations (CEPs) supplementation on antioxidant capacity, immune response, and intestinal health of pigeons. A total of 288 White King parent pigeons were randomly assigned to four treatments, with six replications of 12 pigeons each. The control (CK) group received a basal diet, whereas the CEP groups were fed a basal diet with 0.25 g/kg (low compound enzyme preparation group, LCEP), 0.5 g/kg (middle compound enzyme preparation group",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42618917",
+      "title": "Morphometric assessment of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade II medial patellar luxation.",
+      "authors": "Barthmann R, Theyse LF",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42618917/",
+      "abstract": "Medial patellar luxation is a common orthopedic condition in small breed dogs, though its etiology remains poorly understood. The aim of this study was to assess the morphometry of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade 2 medial patellar luxation. This retrospective study evaluated small breed dogs weighing&#x2009;&#x2264;&#x2009;15&#xa0;kg including 80 stifles with Grade 2 MPL and 80 controls. The femoral trochlear length to patellar lengt",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42617661",
+      "title": "Are common clinical protocols prioritizing detection over prevention in canine Dirofilaria immitis?",
+      "authors": "Horvath M",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42617661/",
+      "abstract": "Owner noncompliance, not preventive failure, drives most canine Dirofilaria immitis infections in established patients. Only 24.4% of dogs under care achieve full-year purchase compliance with monthly macrocyclic lactones. Informal data suggest far more practices send annual testing reminders than monthly dosing reminders. The primary goal is continuous chemical protection, not annual detection of prior failures. This viewpoint argues for tracking adherence rates, routine adherence counseling, a",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42617660",
+      "title": "The impact of changing living conditions, pollutants, and climate change on allergic skin disease in our pets: highlighting our interconnectedness.",
+      "authors": "Marsella R",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42617660/",
+      "abstract": "Our pets share our living conditions. Many transformations have occurred over the past few decades, including lifestyle shifts and increased exposure to chemicals, pollution, and climate change. Our pets have left a rural environment to join our urban lifestyle, with a loss of plant and microbial diversity; increased exposure to pollution from car traffic, plastics, and chemicals; and more time spent indoors. Concurrently, they have experienced, with us, the effects of climate-related events, in",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42617659",
+      "title": "Carbapenem-resistant Enterobacterales in companion animals are an emerging One Health threat.",
+      "authors": "Granick JL, Fellman CL, Curren EJ, Funk M, James A",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42617659/",
+      "abstract": "Carbapenem-resistant Enterobacterales (CRE) are an emerging, multidrug-resistant threat to human and animal health. Emergence is driven by antimicrobial use and multidirectional transmission pathways between humans, animals, and the environment. Carbapenems are essential drugs for treatment of multidrug-resistant infections in humans and, although not approved for veterinary use, are infrequently prescribed in dogs and cats in an extralabel manner. In the US, CRE detections in companion animals ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42617653",
+      "title": "Clinical presentation, computed tomographic findings, treatment, and outcome of traumatic jaw fractures in domestic rabbits (Oryctolagus cuniculus): 21 cases (2014-2025).",
+      "authors": "Charrasse M, Hahn H, Phillips K, Boutoille F, Sanchez-Migallon Guzman D",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42617653/",
+      "abstract": "To present clinical features, CT findings, treatment, and outcome for traumatic jaw fractures diagnosed via CT. Medical records from 2014 through 2026 were reviewed, and 21 rabbits with traumatic jaw fractures diagnosed by CT were selected. Among the 21 rabbits that fit the inclusion criteria, trauma sources included involuntary owner-inflicted trauma (n = 10), sofa-related falls or entrapment (3), dog bites (2), post-dental trimming issues (1), trauma with a table (1), fall of cardboard onto th",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -869,17 +847,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42575151",
-      "title": "Tendotonometry allows noninvasive in vivo biomechanical evaluation of the patellar tendon in sedated dogs in a study assessing intrauser variability.",
-      "authors": "Caturay KC, Amato NS, Stewart SD, Khanna C, Wilson-Robles H",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575151/",
-      "abstract": "To describe the use and determine the feasibility and user reliability of a commercially available digital palpation device, a myotonometer, on the canine patellar tendon (PT). In this prospective clinical feasibility study, client-owned dogs with no history of pelvic limb lameness were eligible for study enrollment from September through December of 2025 and included if their stifles were considered normal based upon physical examination and radiographic findings. Dogs were sedated, and a myoto",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42588987",
       "title": "Isolation, Expansion and Characterization of Mesenchymal Stromal Cells from Fresh and Cryopreserved Umbilical Cord Tissues in Horse and Dog.",
       "authors": "Capone A, Merlo B, Lanci A, Ballotta G, Iacono E",
@@ -888,6 +855,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42588987/",
       "abstract": "Mesenchymal stromal cells (MSCs) derived from perinatal tissues represent a promising resource for regenerative medicine due to their proliferative, immunomodulatory, and differentiation properties. Among these tissues, the umbilical cord is considered an accessible and ethically acceptable source of MSCs. This study evaluated the feasibility of whole umbilical cord cryopreservation in canine and equine species and assessed the biological properties of MSCs isolated from cryopreserved tissues co",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42622030",
+      "title": "Effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, and oxidative stress in dogs with naturally occurring cardiac disease.",
+      "authors": "Kim DY, Park HM",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42622030/",
+      "abstract": "Cardiac diseases such as myxomatous mitral valve disease (MMVD) and dilated cardiomyopathy (DCM) are common in dogs and are associated with progressive cardiac dysfunction and increased oxidative stress. Despite the widespread use of nutraceuticals in veterinary medicine, clinical evidence supporting their efficacy remains limited. This study aimed to evaluate the effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, oxidative stress, and safety i",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42620936",
+      "title": "Global transcriptomic response of Malassezia pachydermatis isolates under ketoconazole-induced stress.",
+      "authors": "Domán M, Wehmann E, Makrai L, Fehér E, Magyar T",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42620936/",
+      "abstract": "Malassezia pachydermatis is an opportunistic yeast associated with otitis externa and dermatitis in dogs. Despite reduced susceptibility to azole antifungals has increasingly been reported in M. pachydermatis, the molecular mechanisms underlying azole stress responses in this species remain poorly understood. In this study, we investigated the global transcriptional response of two M. pachydermatis isolates with different ketoconazole minimum inhibitory concentration values following short-term ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42620618",
+      "title": "Evaluating cone-beam computed tomography vs. intraoral radiography for the detection of endodontal disease in dogs: diagnostic performance and inter-rater agreement.",
+      "authors": "Bonacini S, Goldschmidt S, Arzi B, Vapniarsky N, Lommer M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42620618/",
+      "abstract": "The comparative diagnostic utility of cone-beam computed tomography (CBCT) and intraoral dental radiography (IDR) for endodontal disease in dogs remains unclear. Accordingly, this study evaluated both imaging modalities against histopathologic findings as the gold standard. In this prospective observational study, client-owned dogs undergoing evaluation for suspected endodontal disease were imaged with both CBCT and IDR under general anesthesia. Forty-six teeth from 16 dogs were included. Four r",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42620570",
+      "title": "PI3K over-expression drives canine mammary tumor progression.",
+      "authors": "Chen R, Liu S, Li J, Huang X, Li Y",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42620570/",
+      "abstract": "Canine mammary tumor (CMT) represents the most frequently diagnosed neoplasm in intact female dogs and exhibits a high malignant rate. The PI3K/AKT pathway critically drives tumor progression, and serves as a target for multiple anti-tumor drugs. In this study, two CMT cell lines (CHMp and CIPm) were employed to assess the impact of lentivirus-mediated PI3K over-expression. Functional assays were performed to evaluate proliferation, migration, and invasion capacities, as well as the expression l",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42577139/",
       "abstract": "Tracing the health of extinct populations is important. Documenting this in deep time is challenging, but skeletal markers of disease can be preserved in fossils. Notably, a high incidence of spinal malformations has been recorded among specimens found in the La Brea Tar Pits, possibly because of an accumulation of expressed deleterious alleles that caused disturbances in developmental processes. The exceptional preservation of hundreds of specimens of the La Brea saber-toothed cat Smilodon fata",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42569263",
-      "title": "Multicentre aortic thromboembolism thrombolysis evaluation in a retrospective study of 183 cats: the MATTERS study.",
-      "authors": "Cambournac M, Damoiseau C, Guillaumin J, Goy-Thollot I, Pouzot-Nevoret C",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42569263/",
-      "abstract": "Although intravenous tissue plasminogen activator (TPA) is a mainstream treatment for humans with acute ischaemic stroke, it is uncommonly used in feline arterial thromboembolism (FATE). The purpose of this study was to retrospectively compare clinical reperfusion, functional recovery, complications, and survival in a large multicentre FATE population treated with or without systemic thrombolysis. A retrospective evaluation of electronic medical records from two veterinary hospitals (2007-2020) ",
-      "category": "imaging",
       "summary_ko": ""
     }
   ]
