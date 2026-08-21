@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20 23:01 UTC",
+  "updated": "2026-08-21 22:56 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -151,6 +151,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42580986/",
       "abstract": "Balloon valvuloplasty (BV) is a common treatment in dogs with severe valvar pulmonary stenosis (PS). Many reports in dogs with PS describe low-pressure balloon catheter use, with successful outcomes expected with type A. High-pressure balloon catheter use in dogs with type B PS has been reported; however, these reports typically describe dogs of larger body weight. The Mustang&#x2122; Balloon Dilatation Catheter, which requires smaller introducer sheath sizes, may be of use in small dogs with PS",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42627936",
+      "title": "Rethinking clinical response criteria in trials of chronic enteropathy in dogs: what change is truly meaningful?",
+      "authors": "Méric T, Vérollet C, Darnis E, Rhimi M, Hernandez J",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42627936/",
+      "abstract": "Rethinking response criteria of treatment of chronic enteropathy in dog is necessary, as clinical activity indices are widely used as primary endpoints despite substantial variability in how \"response,\" \"remission,\" and \"relapse\" are defined. Across recent studies, response thresholds range from modest relative reductions (eg, &#x2265;25%) to stringent targets (eg, &#x2265;75%), absolute score cut-offs, shifts between severity categories, or binary resolution of clinical signs. This methodologic",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -338,6 +349,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42589010/",
       "abstract": "This is the first prospective multicenter study investigating photobiomodulation (PBM) in canine OE. Inclusion criteria required an Otitis Index Score 3 (OTIS-3; scale 0-3) &#x2265;1 for erythema and discharge and a Budach cytological score &#x2265;1+ (scale 0-4+) for Malassezia spp. and/or bacteria associated with keratinocytes/corneocytes. Twenty-two dogs with OE (38 ears) were enrolled and underwent five PBM sessions. When the discharge score was &#x2265;2, a ceruminolytic ear cleanser was ap",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42624280",
+      "title": "Tail Wounds in Military Working Dogs: Clinical Characterization and a Randomized Sham-Controlled Trial of Photobiomodulation.",
+      "authors": "Fishelson Y, Hirschberg RE, Raizman R, Zori T, Olshinka N",
+      "journal": "Vet J",
+      "date": "2026 Aug 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624280/",
+      "abstract": "Tail wounds in military working dogs (MWDs) are a clinically significant and challenging condition characterized by recurrent trauma and delayed healing. Photobiomodulation (PBM) has been proposed as a non-invasive therapy to enhance wound repair. To characterize the clinical presentation of tail wounds in MWDs and to evaluate the effect of PBM as an adjunctive treatment. This prospective study included an observational cohort of 21 active MWDs (age 4.1&#xb1;2.2 years; 95% male; predominantly Be",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42624279",
+      "title": "Lesion distribution based on oral biopsy and histopathology in dogs: a retrospective study of 338 cases (2015-2025).",
+      "authors": "Kim CG, Jeong KJ, Kim J, Vapniarsky N, Kang SS",
+      "journal": "Vet J",
+      "date": "2026 Aug 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624279/",
+      "abstract": "The histopathologic spectrum of canine oral lesions can vary significantly by geographic region and breed demographics. This retrospective study aimed to characterize the distribution of 338 biopsy-confirmed canine oral masses in the Republic of Korea, where small-breed dogs predominate. Lesions were categorized into tumor-like, benign, and malignant groups. Clinicopathologic features and anatomical distributions were compared. Tumor-like (non-neoplastic) lesions accounted for 52.7% of all cases",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42624277",
+      "title": "Underlying causes of thrombocytopenia in dogs from a Mediterranean mixed primary and referral hospital in Barcelona: a retrospective cross-sectional study of 266 cases.",
+      "authors": "Carrasco M, Clanxet J, Feo L, Puig J",
+      "journal": "Vet J",
+      "date": "2026 Aug 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624277/",
+      "abstract": "Thrombocytopenia is common in dogs and has a wide range of underlying causes, including vector-borne infectious diseases, the relative frequency of which may vary geographically. This retrospective cross-sectional study aimed to characterise the causes and clinicopathological features of thrombocytopenia in a hospital-based cohort of dogs evaluated at a mixed primary and referral veterinary hospital in Barcelona, Spain, and to identify differences across diagnostic categories, particularly those",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42624276",
+      "title": "Mesenchymal stem cells in veterinary clinical practice: Evidence from naturally occurring diseases.",
+      "authors": "Zayed M, Jeong BH",
+      "journal": "Vet J",
+      "date": "2026 Aug 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624276/",
+      "abstract": "Over the past two decades, the use of mesenchymal stem cells (MSCs) in veterinary medicine has expanded rapidly, although the clinical evidence remains in its early stages. This review discusses clinical studies involving client-owned animals with naturally occurring diseases in which MSCs or MSC-derived extracellular vesicles (EVs) were used as treatments. It covers musculoskeletal disorders, including osteoarthritis, tendon and ligament injuries, and bone diseases; soft-tissue and oral mucosal",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -803,50 +858,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42578818",
-      "title": "Differential Effects of Cobalt Chloride Preconditioning on Vasculogenic Mimicry-Like Structure Formation in Two Canine Mammary Tumour Cell Lines.",
-      "authors": "Jeong Y, Ha JH, Chung JY, Choi JH, Ahn JO",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Aug 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42578818/",
-      "abstract": "Vasculogenic mimicry (VM) is a tumour cell-lined vessel-like structure associated with poor prognosis, metastasis, and treatment resistance in human breast cancer. Furthermore, it has been described in canine mammary tumours (CMTs). Hypoxia is an established driving factor for VM formation in tumours with this capability. This study aimed to compare VM-like structure formation between two CMT carcinoma cell lines, CF41.Mg and CMT-U27. VM-like tubular structure formation was evaluated using a Mat",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42576538",
-      "title": "Pituitary tumour shrinkage and diabetic remission in two cats with Cushing syndrome treated with cabergoline.",
-      "authors": "Teyssandier S, Galac S",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Aug 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42576538/",
-      "abstract": "We describe two cats with diabetes mellitus and Cushing's syndrome. Diabetes mellitus was initially managed with insulin glargine (Lantus; Sanofi-Aventis, Paris, France), nutritional therapy and continuous glucose monitoring. Hypercortisolism was suspected based on severe hypertension (Case 1), and insulin resistance in combination with typical clinical features of Cushing's syndrome (Case 2). Endocrine testing revealed non-suppressible cortisol concentrations on low-dose-dexamethasone suppressi",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42575716",
-      "title": "Fluvastatin Plus Dipyridamole Suppresses Canine Hemangiosarcoma Growth in Patient-Derived Xenograft Models Through Lactate Dehydrogenase-Associated Cholesterol/Lipid Metabolism.",
-      "authors": "Suzuki T, Tanaka S, Kishimoto K, Goto T, Yamazaki J",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Aug 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575716/",
-      "abstract": "Tumour cells commonly exhibit aerobic glycolysis and produce lactate despite oxygen availability. Lactate dehydrogenase (LDH) catalyses pyruvate-lactate interconversion and regulates intracellular lactate levels. Endothelial cells also depend on glycolysis for ATP production, which prompted us to investigate LDH in canine hemangiosarcoma (HSA), a malignant endothelial tumour. We inhibited LDH with (R)-GNE-140 or sodium oxamate in two canine HSA cell lines (HU-HSA-2 and HU-HSA-3) and generated HU",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42575156",
-      "title": "Subcutaneous medetomidine at the governing vessel 20 acupuncture point provides faster early sedation than intramuscular administration without altering intraocular pressure in cats.",
-      "authors": "Gölgeli Bedir A, Yanmaz LE, Akçora Y, Özkalipçi Ç, Kartal T",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575156/",
-      "abstract": "To compare sedation, intraocular pressure (IOP), mean pupil diameter, and recovery profiles after IM or SC administration at the governing vessel 20 (GV20) acupuncture point of medetomidine in cats. This prospective, randomized, controlled clinical study was conducted at the Animal Hospital of Ataturk University in April and May of 2026. Cats undergoing elective castration received medetomidine (70 &#xb5;g/kg) either IM or SC at GV20. Sedation score, IOP, and mean pupil diameter were recorded be",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42588987",
       "title": "Isolation, Expansion and Characterization of Mesenchymal Stromal Cells from Fresh and Cryopreserved Umbilical Cord Tissues in Horse and Dog.",
       "authors": "Capone A, Merlo B, Lanci A, Ballotta G, Iacono E",
@@ -854,6 +865,28 @@
       "date": "2026 Aug 1",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42588987/",
       "abstract": "Mesenchymal stromal cells (MSCs) derived from perinatal tissues represent a promising resource for regenerative medicine due to their proliferative, immunomodulatory, and differentiation properties. Among these tissues, the umbilical cord is considered an accessible and ethically acceptable source of MSCs. This study evaluated the feasibility of whole umbilical cord cryopreservation in canine and equine species and assessed the biological properties of MSCs isolated from cryopreserved tissues co",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42626410",
+      "title": "Association between echogenicity of ascites and its classification in dogs.",
+      "authors": "Biondo S, Jakovljevic S, Pascual M, Fernandez M, Fayers B",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42626410/",
+      "abstract": "Ascites in dogs results from a range of systemic and localized disorders. Early distinction between transudative and exudative peritoneal effusions, and between septic and non-septic exudates, is crucial for guiding emergency interventions and treatment strategies. To evaluate the relationship between echogenicity of ascites and results of fluid analysis, and to determine whether echogenicity can help differentiate transudates from exudates. Retrospective study including 100 client-owned dogs wi",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42626406",
+      "title": "Measuring canine impulsivity: translation and validation of a German dog impulsivity assessment scale.",
+      "authors": "Kero D, Dolezal M, Affenzeller N",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42626406/",
+      "abstract": "Psychometric questionnaires are used to assess canine temperament, aiding in the identification of behavioral and affective traits. Impulsivity, defined as a predisposition toward rapid, unplanned reactions to internal or external stimuli, is one such trait and is considered a contributing factor in various behavioral problems, including aggression. This study aimed to translate and validate the Dog Impulsivity Assessment Scale (DIAS) for use in German-speaking populations. Data from 2,788 dog-c",
       "category": "other",
       "summary_ko": ""
     },
@@ -1074,39 +1107,6 @@
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42581991/",
       "abstract": "To report an atypical case of neurological cat-scratch disease (NCSD) presenting with acute-onset fever and prominent neuropsychiatric manifestations in an older adult. An 85-year-old East Asian man with a history of hypertension and coronary artery disease. Three months after a cat scratch, the patient developed abrupt high-grade fever, followed by nocturnal delirium with visual hallucinations and a witnessed seizure-like episode, and later complained of occipital headache. Physical examination",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42577518",
-      "title": "Behavioral components define operational suitability metric for detection dog success.",
-      "authors": "Zheng J, Lazarowski L, Lanier AL, Haney PS, Chester EM",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42577518/",
-      "abstract": "To ensure effective development and assessment of detection dogs, Auburn University Canine Performance Sciences program has implemented a structured behavioral evaluation at four developmental milestones. At each timepoint, trainers scored candidate detection dogs on 11 subtests evaluating detection performance and environmental soundness using behavioral component (BC) scores. Additionally, trainers rated each dog's overall suitability for operational detection work using a singular global scor",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42577150",
-      "title": "Dietary sodium hyaluronate and eggshell membrane improve skin barrier function and coat health in Ragdoll cats.",
-      "authors": "Chen Q, Wang W, Wang H, Ma M, Miao C",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42577150/",
-      "abstract": "Skin and coat health are important indicators of feline well-being and are influenced by epidermal barrier integrity, nutritional status, oxidative balance, and microbial homeostasis. However, the effects of dietary sodium hyaluronate (SH) and eggshell membrane (ESM), either alone or in combination, remain insufficiently characterized in cats. Twenty-four healthy 6-month-old Ragdoll cats were randomly assigned to four dietary groups (n&#x202f;=&#x202f;6 per group): a basal-diet control, 250 mg/k",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42577139",
-      "title": "Foraminal widening indicating a spinal nerve tumor in the saber-tooth cat Smilodon fatalis from Rancho La Brea.",
-      "authors": "Schmökel H, Del Chicca F, Hagen Argudin Pina R",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42577139/",
-      "abstract": "Tracing the health of extinct populations is important. Documenting this in deep time is challenging, but skeletal markers of disease can be preserved in fossils. Notably, a high incidence of spinal malformations has been recorded among specimens found in the La Brea Tar Pits, possibly because of an accumulation of expressed deleterious alleles that caused disturbances in developmental processes. The exceptional preservation of hundreds of specimens of the La Brea saber-toothed cat Smilodon fata",
       "category": "neurosurgery",
       "summary_ko": ""
     }
