@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 22:56 UTC",
+  "updated": "2026-08-22 22:53 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -209,17 +209,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42580715",
-      "title": "Likely radiation-induced sciatic neuropathy in a dog.",
-      "authors": "Fox E, Rodenbaugh C, Epperly E, Ferrandis I, Shelton GD",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580715/",
-      "abstract": "Radiation-induced peripheral neuropathy (RIPN) is a well-known late adverse effect of radiotherapy (RT) in humans, but to date, is not reported in companion animals. An 11-year-old spayed female beagle was presented for evaluation regarding a progressive left sciatic neuropathy. The dog had received stereotactic RT (20&#xa0;Gy) following excision of a grade 2 soft tissue sarcoma over the proximo-caudal aspect of the left thigh approximately 19&#xa0;months prior to the onset of signs. Computed to",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42589081",
       "title": "Rapid Gel-Based Recombinase Polymerase Amplification Assay for Detection and Sequence Confirmation of Ehrlichia canis.",
       "authors": "Sumpavong P, Khumtub K, Kanittakul K, Kaewmongkol S, Kaewmongkol G",
@@ -348,6 +337,28 @@
       "date": "2026 Aug 3",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42589010/",
       "abstract": "This is the first prospective multicenter study investigating photobiomodulation (PBM) in canine OE. Inclusion criteria required an Otitis Index Score 3 (OTIS-3; scale 0-3) &#x2265;1 for erythema and discharge and a Budach cytological score &#x2265;1+ (scale 0-4+) for Malassezia spp. and/or bacteria associated with keratinocytes/corneocytes. Twenty-two dogs with OE (38 ears) were enrolled and underwent five PBM sessions. When the discharge score was &#x2265;2, a ceruminolytic ear cleanser was ap",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42630097",
+      "title": "Clinical Behaviour and Outcome of Pelvic Osteosarcoma in Dogs: A Retrospective Multicentre Analysis of 74 Cases (2007-2025).",
+      "authors": "Fejös C, Czichon F, Griffin M, Grillo N, Fournier Q",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42630097/",
+      "abstract": "Although osteosarcoma is the most common primary bone tumour in dogs, involvement of the pelvic bones is rare. The aim of the present study was to describe clinical presentation, identify possible prognostic factors, and evaluate outcomes in dogs diagnosed with pelvic osteosarcoma. Seventy-four dogs with cytologically or histologically diagnosed pelvic osteosarcoma were included in this multicentre retrospective study (2007-2025). The median progression-free survival (PFS) and overall survival (",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42628713",
+      "title": "Effects of caloric restriction and different diet types on weight loss, metabolic profile and behavior of overweight and obese dogs.",
+      "authors": "de Macêdo LM, Dos Santos GR, Ramos GC, Neto EP, Mangabeira EL",
+      "journal": "Vet J",
+      "date": "2026 Aug 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42628713/",
+      "abstract": "The nutritional composition of the diet and food choices can influence weight loss program outcomes, although caloric deficit remains the main strategy for reducing body fat. This study compared weight loss, hematological parameters, biochemical profile, and behavior of overweight and obese dogs (n=34) fed under caloric restriction using commercial dry food (n=9), homemade food (n=9), or mixed feeding (n=16). Each dog was monitored for approximately three months (104 days) with monthly consultat",
       "category": "other",
       "summary_ko": ""
     },
@@ -844,17 +855,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42580766/",
       "abstract": "The aim of this study was to determine the utility of routine follow-up radiographs after cranial closing wedge ostectomy (CCWO) for cranial cruciate ligament disease in dogs with a normal clinical examination and no owner concerns. Records were retrospectively reviewed to identify dogs that underwent CCWO with no complications reported prior to routine follow-up re-examination. Owner-reported concerns, clinical examination abnormalities and radiographic abnormalities were identified, and any re",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42580765",
-      "title": "Axial Compression Behaviour of Locking Plate Constructs in Different Fixation Functions in the Canine Femur.",
-      "authors": "Bregadioli BM, de Souza AF, Bregadioli T, do Rego RO, Cabreira AP",
-      "journal": "Vet Comp Orthop Traumatol",
-      "date": "2026 Aug 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580765/",
-      "abstract": "The objective of this study is to compare the axial compression behaviour of locking plate constructs applied with different fixation functions in the canine femur, focusing on construct stiffness, resistance to plastic deformation, and bone-implant load sharing. Femora were allocated to four groups: intact (control), compression, neutralization, or bridge fixation using a locking plate. Compression and neutralization constructs restored the bone column, whereas bridge fixation eliminated load s",
-      "category": "other",
       "summary_ko": ""
     },
     {
