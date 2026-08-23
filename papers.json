@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22 22:53 UTC",
+  "updated": "2026-08-23 22:29 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -341,6 +341,28 @@
       "summary_ko": ""
     },
     {
+      "id": "42632482",
+      "title": "Comparative Image-Based Evaluation of Deep Learning Models for the Diagnosis of Different Ocular Diseases in Cats.",
+      "authors": "Canatan VA, Canatan U, Sancaktar GK, Cicioğlu M, Turgut F",
+      "journal": "Vet J",
+      "date": "2026 Aug 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42632482/",
+      "abstract": "Ocular pathologies are a leading cause of visual impairment in cats and require accurate, timely diagnosis for effective treatment. This study aimed to comparatively evaluate the performance of different deep learning (DL) architectures for the automated identification and classification of feline ophthalmic disease. A dataset of 456 clinically validated ocular images, spanning 13 classes (12 ocular diseases and a healthy group), was used to train nine convolutional neural network (CNN) architec",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42632479",
+      "title": "Seroprevalence, epidemiological factors, and spatial patterns of exposure to Trypanosoma cruzi in urban cats in Maceió, Northeastern Brazil.",
+      "authors": "da Costa IC, Dos Santos LMR, de Paula Castilho A, de Lima Rodrigues Pinto G, Dos Santos VMS",
+      "journal": "Vet J",
+      "date": "2026 Aug 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42632479/",
+      "abstract": "Domestic cats have been recognized as potential environmental sentinels for zoonoses due to their proximity to human populations, wide distribution in urban environments, and exposure to multiple pathogen transmission routes. In the context of Chagas disease, however, studies assessing serological exposure in cats in urban areas of Northeastern Brazil remain scarce. Thus, this study aimed to estimate the seroprevalence of anti-Trypanosoma cruzi IgG antibodies and to describe spatial patterns of ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42630097",
       "title": "Clinical Behaviour and Outcome of Pelvic Osteosarcoma in Dogs: A Retrospective Multicentre Analysis of 74 Cases (2007-2025).",
       "authors": "Fejös C, Czichon F, Griffin M, Grillo N, Fournier Q",
@@ -364,12 +386,12 @@
     },
     {
       "id": "42624280",
-      "title": "Tail Wounds in Military Working Dogs: Clinical Characterization and a Randomized Sham-Controlled Trial of Photobiomodulation.",
+      "title": "Tail wounds in military working dogs: Clinical characterization and a randomized sham-controlled trial of photobiomodulation.",
       "authors": "Fishelson Y, Hirschberg RE, Raizman R, Zori T, Olshinka N",
       "journal": "Vet J",
       "date": "2026 Aug 20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624280/",
-      "abstract": "Tail wounds in military working dogs (MWDs) are a clinically significant and challenging condition characterized by recurrent trauma and delayed healing. Photobiomodulation (PBM) has been proposed as a non-invasive therapy to enhance wound repair. To characterize the clinical presentation of tail wounds in MWDs and to evaluate the effect of PBM as an adjunctive treatment. This prospective study included an observational cohort of 21 active MWDs (age 4.1&#xb1;2.2 years; 95% male; predominantly Be",
+      "abstract": "Tail wounds in military working dogs (MWDs) are a clinically significant and challenging condition characterized by recurrent trauma and delayed healing. Photobiomodulation (PBM) has been proposed as a non-invasive therapy to enhance wound repair. To characterize the clinical presentation of tail wounds in MWDs and to evaluate the effect of PBM as an adjunctive treatment. This prospective study included an observational cohort of 21 active MWDs (age 4.1&#x202f;&#xb1;&#x202f;2.2 years; 95% male; ",
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -814,50 +836,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42580779",
-      "title": "Systemic oxidative stress, selected nonenzymatic exogenous and endogenous antioxidants, and hematologic and biochemical alterations in bitches with pyometra.",
-      "authors": "Peker C, Uçar EH, Ekren Aşıcı GS, Musal B",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580779/",
-      "abstract": "To evaluate oxidative stress biomarkers (malondialdehyde [MDA] and total oxidant status [TOS]), selected nonenzymatic endogenous (glutathione [GSH], albumin, and bilirubin), and, for the first time, exogenous (ascorbic acid, &#x3b1;-tocopherol, &#x3b2;-carotene, and retinol) antioxidants together with hematobiochemical alterations in canine pyometra. 33 bitches were classified into pyometra (n = 17) or control (16) groups based on clinical and hematological evaluations. Ascorbic acid was measure",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42580778",
-      "title": "Computed tomography-derived liver volume is not detectably lower in dogs with histopathologic findings compatible with primary hypoplasia of the portal vein.",
-      "authors": "Teramura Y, Park YT, Murakami M",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580778/",
-      "abstract": "To compare CT-derived liver volume and noncontrast attenuation variables between dogs with histopathologic findings compatible with primary hypoplasia of the portal vein (PHPV) and dogs without liver disease. Medical records were retrospectively reviewed for dogs with abdominal CT and liver histopathology compatible with PHPV. Controls were 121 dogs without liver disease from a published CT reference cohort and were not matched by breed, age, sex, or body weight. Liver volume was evaluated with ",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42580770",
-      "title": "Changes in metabolomic profile in dogs with hepatic encephalopathy secondary to congenital portosystemic shunt suggests mitochondrial homeostasis disturbances.",
-      "authors": "Fernandez Gallego A, Marques J, Kurian D, Diez F, Mellanby RJ",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580770/",
-      "abstract": "To identify specific metabolomic changes in dogs showing signs of hepatic encephalopathy (HE) compared to those not showing obvious neurological signs and to follow these changes following medical treatment. In this prospective observational study, we recruited 10 client-owned dogs diagnosed with congenital portosystemic shunt (from March 2021 through October 2022). The sera of dogs with or without signs of HE at the time of diagnosis of congenital portosystemic shunt and following medical treat",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42580766",
-      "title": "The Utility of Routine Radiographic Follow-Up for Dogs with Cranial Cruciate Ligament Disease Undergoing Uncomplicated Cranial Closing Wedge Ostectomy.",
-      "authors": "Doeven L, Winter J, Knight R",
-      "journal": "Vet Comp Orthop Traumatol",
-      "date": "2026 Aug 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580766/",
-      "abstract": "The aim of this study was to determine the utility of routine follow-up radiographs after cranial closing wedge ostectomy (CCWO) for cranial cruciate ligament disease in dogs with a normal clinical examination and no owner concerns. Records were retrospectively reviewed to identify dogs that underwent CCWO with no complications reported prior to routine follow-up re-examination. Owner-reported concerns, clinical examination abnormalities and radiographic abnormalities were identified, and any re",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42588987",
       "title": "Isolation, Expansion and Characterization of Mesenchymal Stromal Cells from Fresh and Cryopreserved Umbilical Cord Tissues in Horse and Dog.",
       "authors": "Capone A, Merlo B, Lanci A, Ballotta G, Iacono E",
@@ -866,6 +844,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42588987/",
       "abstract": "Mesenchymal stromal cells (MSCs) derived from perinatal tissues represent a promising resource for regenerative medicine due to their proliferative, immunomodulatory, and differentiation properties. Among these tissues, the umbilical cord is considered an accessible and ethically acceptable source of MSCs. This study evaluated the feasibility of whole umbilical cord cryopreservation in canine and equine species and assessed the biological properties of MSCs isolated from cryopreserved tissues co",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42631010",
+      "title": "Development and validation of a Quality of Life and Treatment Satisfaction measure in feline osteoarthritis.",
+      "authors": "Gildea E, Thompson J, Cook A, Skingley G, Findley A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42631010/",
+      "abstract": "Osteoarthritis (OA) in cats causes pain and mobility impairment, negatively impacting quality of life (QoL) of cats and their owners. Owner-perceived treatment satisfaction can influence treatment adherence and subsequent health outcomes for the cat. Currently, no OA-specific instrument for cats assesses all three concepts. This study aimed to address this gap by developing and psychometrically evaluating an owner-completed feline OA-specific measure-the \"Feline OA Quality of Life and Treatment ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42630792",
+      "title": "A simplified feline phantom and Monte-Carlo simulation can be used to evaluate radiation exposure to veterinary staff during [(211)At]NaAt treatment.",
+      "authors": "Sakashita T, Onuma K, Sugasawa A, Sasaki I, Sasaki F",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42630792/",
+      "abstract": "Targeted alpha therapy using 211At offers high therapeutic efficacy with relatively low occupational radiation exposure. However, in veterinary medicine, staff exposure-particularly during close animal handling-remains insufficiently evaluated. We quantitatively evaluated external occupational radiation exposure to veterinary staff during simulated clinical use of 211At-labeled radiopharmaceuticals, utilizing dose measurements and numerical simulations based on a feline phantom model. A spherica",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
