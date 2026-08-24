@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23 22:29 UTC",
+  "updated": "2026-08-24 22:33 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -129,28 +129,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42588921/",
       "abstract": "In dogs, acute pancreatitis (AP) is frequently associated with systemic inflammation and renal dysfunction, both of which may adversely affect outcomes. This retrospective cohort study evaluated the prognostic utility of the creatinine-to-albumin ratio (CAR), neutrophil-creatinine index (NCI), and neutrophil-to-lymphocyte ratio (NLR) for predicting in-hospital mortality. One hundred and thirty-four dogs diagnosed with AP and forty healthy controls were included. All indices were calculated from ",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42580987",
-      "title": "Breed screening for myxomatous mitral valve disease in dogs.",
-      "authors": "Olsen LH, Swift S, Häggström J",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Jul 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580987/",
-      "abstract": "Myxomatous mitral valve disease contributes to cardiac morbidity and mortality in dogs worldwide. It is the most common heart disease in dogs. The exact cause of myxomatous mitral valve disease is still unknown but it is described as heritable in some dog breeds. The present literature review presents an overview of myxomatous mitral valve disease breeding screening methods and ongoing screening programs in dogs.",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42580986",
-      "title": "High-pressure balloon valvuloplasty in small dogs with severe pulmonary stenosis: retrospective evaluation of the Mustang™ Balloon Dilatation Catheter in 12 dogs.",
-      "authors": "McMullen ME, Winter RL, Maneval KL, Ferrel CS",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Jul 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580986/",
-      "abstract": "Balloon valvuloplasty (BV) is a common treatment in dogs with severe valvar pulmonary stenosis (PS). Many reports in dogs with PS describe low-pressure balloon catheter use, with successful outcomes expected with type A. High-pressure balloon catheter use in dogs with type B PS has been reported; however, these reports typically describe dogs of larger body weight. The Mustang&#x2122; Balloon Dilatation Catheter, which requires smaller introducer sheath sizes, may be of use in small dogs with PS",
-      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -341,6 +319,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42633879",
+      "title": "A low dose of dexmedetomidine reduces behavioral activity and visual attention to aggressive faces in dogs.",
+      "authors": "Törnqvist H, Koskela A, Somppi S, Vainio O, Lyyra P",
+      "journal": "Vet J",
+      "date": "2026 Aug 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42633879/",
+      "abstract": "Dexmedetomidine is widely used for sedation and alleviation of fear and anxiety in dogs, but its effects on cognitive processes are not known. We studied the effect of a low dose of dexmedetomidine on dogs' gazing behavior while they observed images of emotional facial expressions of conspecifics. Eight dogs were administered intramuscular dexmedetomidine (2.5&#x3bc;g/kg) and saline-placebo in a randomized cross-over design. Images of neutral and aggressive dog faces were shown on a monitor, and",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42632482",
       "title": "Comparative Image-Based Evaluation of Deep Learning Models for the Diagnosis of Different Ocular Diseases in Cats.",
       "authors": "Canatan VA, Canatan U, Sancaktar GK, Cicioğlu M, Turgut F",
@@ -374,6 +363,50 @@
       "summary_ko": ""
     },
     {
+      "id": "42633783",
+      "title": "Survey of veterinarians' receptivity to a canine vaccine for Rocky Mountain spotted fever reveals a potential vaccine market and opportunities for education.",
+      "authors": "Moore TS, Pikel L, Horiuchi K, Biggerstaff BJ, Brophy MK",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42633783/",
+      "abstract": "To understand veterinary practitioner awareness about Rocky Mountain spotted fever (RMSF) and their receptivity and clients' perceived receptivity to a vaccine to protect dogs from RMSF. The survey tool was developed in collaboration with the CDC and AVMA. Responses were collected June 9, 2025, through July 1, 2025. Respondents were surveyed on whether they had ever diagnosed a case of RMSF and their confidence in identifying the symptoms of RMSF, receptivity to a canine RMSF or anti-tick vaccin",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42633780",
+      "title": "Postoperative rotational instability after tibial plateau-leveling osteotomy is associated with acute cranial cruciate ligament rupture and meniscal injury.",
+      "authors": "Copet A, Fostier-Humbert M, Blondel M, Cachon T",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42633780/",
+      "abstract": "To determine the prevalence and associated risk factors of postoperative rotational instability following tibial plateau-leveling osteotomy (TPLO) in dogs with cranial cruciate ligament (CrCL) rupture. A retrospective analysis of medical records was performed for dogs undergoing TPLO for CrCL rupture at a single referral institution from 2018 through 2025. Rotational instability was defined as persistence of a positive tibial pivot test (TPT) after TPLO requiring placement of an antirotational s",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42633775",
+      "title": "Feasibility of bone-targeted electrochemotherapy for palliation of bone tumors in dogs and cats.",
+      "authors": "Zanasi A, Vigodny A, Finotello R, Tornago R, Cadossi M",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42633775/",
+      "abstract": "Electrochemotherapy (ECT) is a minimally invasive locoregional treatment that combines reversible electroporation with cytotoxic agents to enhance intracellular drug delivery. Although its efficacy is well established in cutaneous malignancies, its role in bone tumors has only recently been explored in veterinary medicine. This narrative review integrates preclinical evidence, human clinical data, and early veterinary experience with an original 4-case series to evaluate the translational potent",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42633770",
+      "title": "Weekly terminal cleaning is recommended to maintain low airborne bacterial counts in operating rooms.",
+      "authors": "Pankowski A, Jeffery N, Wendler K, Douglas P, Rogovsky AS",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42633770/",
+      "abstract": "To identify the maximum recommended duration between terminal cleaning events in small animal veterinary operating rooms (ORs) and explore factors contributing to increased airborne microbial load. An observational study using agar settle plates was completed to measure the Index of Microbial Air contamination (IMA) across ORs in a veterinary teaching hospital over a 2-year period. Plates were exposed for 60 minutes during surgeries and incubated for 48 hours to measure IMA. The median IMA for 1",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
       "id": "42628713",
       "title": "Effects of caloric restriction and different diet types on weight loss, metabolic profile and behavior of overweight and obese dogs.",
       "authors": "de Macêdo LM, Dos Santos GR, Ramos GC, Neto EP, Mangabeira EL",
@@ -382,6 +415,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42628713/",
       "abstract": "The nutritional composition of the diet and food choices can influence weight loss program outcomes, although caloric deficit remains the main strategy for reducing body fat. This study compared weight loss, hematological parameters, biochemical profile, and behavior of overweight and obese dogs (n=34) fed under caloric restriction using commercial dry food (n=9), homemade food (n=9), or mixed feeding (n=16). Each dog was monitored for approximately three months (104 days) with monthly consultat",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42633785",
+      "title": "A newly derived formula outperforms published formulae for estimating urine osmolality in healthy dogs receiving intravenous fluids.",
+      "authors": "Jeong Y, Qu Y, Kim MS, Her J",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42633785/",
+      "abstract": "To derive a formula to estimate urine osmolality (Uosm) in dogs with urine sodium, potassium, glucose, and urea nitrogen and to compare the performance of the derived formula with published formulae. A prospective observational study was conducted using purpose-bred Beagles housed at a university research facility. Healthy dogs, confirmed by physical examination and laboratory testing, received isotonic or hypotonic IV fluids in a randomized sequence for 48 hours, with a 10-day washout period be",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -803,39 +847,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42581420",
-      "title": "EXPRESS: Positional Impact on Ocular Lens and Thyroid Radiation Doses During Feline Cranial CT: A TLD Study of 70 Cases.",
-      "authors": "Parlak K, Gul OV, Ergin H, Zamırbekova NN",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Aug 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581420/",
-      "abstract": "The increasing use of computed tomography (CT) in feline medicine necessitates the optimization of radiation protocols to adhere to ALARA principles. This prospective study aimed to evaluate the impact of patient positioning dorsoventral (DV) versus ventrodorsal (VD) on radiation doses absorbed by the ocular lenses and the thyroid gland during feline cranial CT. Seventy cats were divided into two equal groups (DV, n = 35; VD, n = 35). Radiation doses were measured using thermoluminescent dosimet",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42581418",
-      "title": "EXPRESS: Prevalence and clinical relevance of hypocobalaminaemia and hypercobalaminaemia in cats.",
-      "authors": "Casas C, Dye C",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Aug 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581418/",
-      "abstract": "ObjectivesTo investigate the prevalence of hypo- and hypercobalaminemia in a cohort of cats with diverse disease pathologies and to assess associations with signalment and disease characteristics.MethodsResidual blood from cats presented to a large veterinary referral hospital during a 24-month period was used for serum B12 quantification. All cats requiring blood collection as part of diagnostic investigations were eligible for inclusion regardless of clinical presentation. Serum B12 concentrat",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42580781",
-      "title": "A randomized controlled trial of intravenous magnesium sulfate shows no analgesic or anti-inflammatory benefit in dogs undergoing thoracolumbar disk herniation surgery.",
-      "authors": "Mallet G, Gaitero L, Sanchez A, James FMK, Wood G",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580781/",
-      "abstract": "To investigate the analgesic and anti-inflammatory effects of intraoperative IV magnesium sulfate (MgSO4) continuous rate infusion in dogs undergoing thoracolumbar hemilaminectomy for intervertebral disk extrusion (IVDE). 30 client-owned dogs presented at the Ontario Veterinary College Health Sciences Centre were enrolled from October 2022 through October 2023. Prospective, randomized, double-blind, controlled clinical trial dogs received either MgSO4 (magnesium group) or an equal volume of sali",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42588987",
       "title": "Isolation, Expansion and Characterization of Mesenchymal Stromal Cells from Fresh and Cryopreserved Umbilical Cord Tissues in Horse and Dog.",
       "authors": "Capone A, Merlo B, Lanci A, Ballotta G, Iacono E",
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42582000/",
       "abstract": "Infrared thermography quantifies body surface temperature with growing applications in dogs, particularly among rehabilitation practitioners; however, incomplete understanding of normal temperature variation in healthy dogs limits interpretation. This study characterized body surface temperature distribution and evaluated factors influencing thermographic measurements in a heterogeneous group of healthy dogs. Client-owned, adult dogs were prospectively enrolled and underwent standardized thermog",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42581991",
-      "title": "Atypical cat-scratch disease with acute high-grade fever and neuropsychiatric symptoms: a case report.",
-      "authors": "Song X, Liu X, Lou M, Xu J, Gong X",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581991/",
-      "abstract": "To report an atypical case of neurological cat-scratch disease (NCSD) presenting with acute-onset fever and prominent neuropsychiatric manifestations in an older adult. An 85-year-old East Asian man with a history of hypertension and coronary artery disease. Three months after a cat scratch, the patient developed abrupt high-grade fever, followed by nocturnal delirium with visual hallucinations and a witnessed seizure-like episode, and later complained of occipital headache. Physical examination",
-      "category": "neurosurgery",
       "summary_ko": ""
     }
   ]
