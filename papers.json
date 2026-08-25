@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24 22:33 UTC",
+  "updated": "2026-08-25 22:34 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -99,36 +99,91 @@
       "summary_ko": ""
     },
     {
-      "id": "42588925",
-      "title": "Infectious Dermatitis in Companion Animals: A One Health Perspective.",
-      "authors": "Cellier L, Guimarães H, Cardoso A, Campos C, Barradas P",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42588925/",
-      "abstract": "Infectious dermatitis is a common condition in companion animals and is frequently associated with opportunistic bacterial pathogens, particularly staphylococci. The emergence of antimicrobial resistance among these pathogens represents a growing challenge for veterinary medicine and public health. This study aimed to assess the presence of Staphylococcus species, dermatophytes, and ectoparasites in companion animals presenting clinical signs of dermatitis in Northern Portugal, and to characteri",
+      "id": "42641071",
+      "title": "Acute hydrated nucleus pulposus extrusion in dogs with severe neurologic status: comparison between conservative and surgical treatment.",
+      "authors": "Di Tosto M, Toni C, Contiero B, Cozzi F, Marioni-Henry K",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42641071/",
+      "abstract": "Hydrated nucleus pulposus extrusion (HNPE) is associated with favorable outcome after conservative or surgical treatment. However, optimal management for dogs with severe neurologic deficits remains unclear. Compare conservative vs surgical treatment in nonambulatory paretic or plegic dogs with HNPE, focusing on recovery of unassisted ambulation and voluntary urination, and identify prognostic factors. Eighty-six dogs with severe neurologic impairment and a presumptive magnetic resonance imaging",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42641070",
+      "title": "Serum peptidomic profiling identifies systemic JAK-STAT and PI3K-Akt pathway dysregulation in cats with chronic gingivostomatitis.",
+      "authors": "Ploypetch S, Pornthummawat A, Aruvornlop P, Roytrakul S, Jaresitthikunchai J",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42641070/",
+      "abstract": "Chronic gingivostomatitis in cats is a debilitating inflammatory disease marked by severe oral pain and systemic immune dysregulation. Although localized oral pathology is well-documented, the systemic peptidomic profile remains largely unclear. Characterize the serum peptidomic profiles of cats with feline chronic gingivostomatitis (FCGS) and identify systemic biomarkers and signaling hubs that drive disease pathogenesis and therapeutic interactions. Client-owned cats with clinically and histop",
       "category": "other",
       "summary_ko": ""
     },
     {
-      "id": "42588922",
-      "title": "Effects of Probiotic Compounds as Feed Additives on Performance, Rumen Fermentation and Metabolic Blood Indices During the Preweaning Period of Holstein Dairy Calves.",
-      "authors": "Hao X, Yu H, Cui G, Li J, Jiang Y",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42588922/",
-      "abstract": "Probiotics are promising alternatives to antibiotics in calf rearing, but effects of Lactobacillus species combined with Bacillus subtilis on preweaning development remain unclear. Two probiotic consortia-L. plantarum + B. subtilis (TG1) vs. L. acidophilus + B. subtilis (TG2)-were compared in Holstein calves. Forty-eight newborn calves (initial BW 37.0 &#xb1; 2.7 kg) were randomly assigned to control (CG) or probiotic groups (TG1, TG2) from day 3 for 60 days. Growth, fecal scores, serum biochemi",
+      "id": "42636475",
+      "title": "Prognosis and associated risk factors after conservative management of dogs with liver tumors.",
+      "authors": "Coffey SR, Weisse CWC, Ferrari JT, DeJesus AA, King AP",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636475/",
+      "abstract": "Information is limited regarding prognosis for conservatively managed hepatic tumors in dogs. Report prognosis and identify prognostic factors in dogs with conservatively managed hepatic tumors. Client-owned dogs (n&#xa0;=&#xa0;49) with hepatic tumors characterized by computed tomography (CT) without directed treatment that had died or were euthanized by the time of analysis. Retrospective, single institutional study utilizing the Schwarzman Animal Medical Center medical record system to identif",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42636345",
+      "title": "Fluoroscopic characterization of pectus excavatum in dogs: a cross-sectional study.",
+      "authors": "Kwon M, Park N, Choi Y, Choi J, Yoon J",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636345/",
+      "abstract": "The dynamic respiratory abnormalities in dogs with pectus excavatum are incompletely characterized. To characterize fluoroscopic findings in dogs with pectus excavatum and evaluate their associations with clinical severity. Fifty-three client-owned dogs with pectus excavatum. Cross-sectional study. Dogs were classified into low-severity or high-severity groups based on respiratory signs and treatment. Fluoroscopic examinations were evaluated for pectus excavatum-intrinsic findings and concurrent",
       "category": "other",
       "summary_ko": ""
     },
     {
-      "id": "42588921",
-      "title": "Creatinine-Derived Composite Indices for Improved Mortality Prediction in Dogs with Acute Pancreatitis.",
-      "authors": "González AD, Espadas-González L, Verdejo JIC, Zafra CM, Pérez-Merino EM",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42588921/",
-      "abstract": "In dogs, acute pancreatitis (AP) is frequently associated with systemic inflammation and renal dysfunction, both of which may adversely affect outcomes. This retrospective cohort study evaluated the prognostic utility of the creatinine-to-albumin ratio (CAR), neutrophil-creatinine index (NCI), and neutrophil-to-lymphocyte ratio (NLR) for predicting in-hospital mortality. One hundred and thirty-four dogs diagnosed with AP and forty healthy controls were included. All indices were calculated from ",
+      "id": "42636344",
+      "title": "Assessment of CD3+ T cell density in the intestinal mucosa of dogs with inflammatory bowel disease.",
+      "authors": "Bouillet G, Méric T, Gonel G, Darnis E, Mendoza B",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636344/",
+      "abstract": "T lymphocytes play a central role in the intestinal immune response in dogs with immunomodulator-responsive enteropathy (IRE), but the clinical relevance of mucosal T-cell infiltration remains unclear. Compare mucosal CD3+ T-cell density between dogs with IRE and healthy comparison dogs across intestinal segments, and assess associations with clinical, biochemical, and histologic severity markers. Forty-two client-owned dogs with IRE and 12 healthy research dogs. Retrospective multicenter study.",
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42636343",
+      "title": "Successful immunosuppressive treatment of hypersensitivity pneumonitis secondary to lycoperdonosis in a dog.",
+      "authors": "Navarro I, Vientós-Plotts A, Masseau I, Farrell E, Royal A",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636343/",
+      "abstract": "A 7-year-old neutered male Cocker Spaniel with unrestricted access to rural land presented for progressive lethargy, tachypnea, and cough. Thoracic radiographs showed an unstructured interstitial pattern. Fine-needle aspirate (FNA) lung cytology identified pyogranulomatous inflammation with intralesional mushroom spores. Acute hypersensitivity pneumonitis (HP) was suspected, and treatment was initiated with oxygen supplementation and an immunosuppressive dosage of corticosteroid. Thoracic comput",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42636342",
+      "title": "Prolonged survival of 3 dogs with Prototheca bovis infection treated with posaconazole.",
+      "authors": "Langner KFA, Higgins A, Roser M, Bunn TA, Lam A",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636342/",
+      "abstract": "Primary enteric or disseminated infections with Prototheca bovis in dogs typically are associated with short survival times despite treatment. We describe the extended clinical course of 3 dogs diagnosed with enteric P. bovis infection treated with antifungal therapy incorporating posaconazole. One dog was alive 45&#xa0;months after starting treatment, exhibiting only mild, intermittent diarrhea and no detectable algae on rectal cytology. This dog also received SC amphotericin B (AMB) infusions ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42636340",
+      "title": "Bartonella vinsonii subsp. berkhoffii genotype III in a dog with recurrent fever and panniculitis coinfected with Babesia odocoilei-like sp.",
+      "authors": "Daravigka A, Soubasis N, Ygeionomakis P, Mylonakis ME, Saridomichelakis MN",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636340/",
+      "abstract": "A 2-year-old, spayed female, mixed breed dog presented for evaluation of recurrent febrile episodes over 5 months, intermittently accompanied by the development of SC nodules. Histopathologic examination of the SC lesions was indicative of panniculitis. Bartonella vinsonii subsp. berkhoffii genotype III DNA was amplified and sequenced from an excised SC nodule. Indirect immunofluorescence antibody titer was 1:64, whereas Bartonella blood PCR was negative. Babesia odocoilei-like species DNA was a",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -151,39 +206,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42593949/",
       "abstract": "Being a life-threatening syndrome, rapid detection of sepsis in critically ill dogs is mandatory. Determine risk factors associated with sepsis in critically ill dogs and evaluate diseases and scoring systems associated with sepsis or mortality. One hundred thirty critically ill dogs. Prospective single-center cohort study. Logistic regression and classification and regression tree (CART) analysis were performed to assess clinical and laboratory variables as risk factors for sepsis. Diagnostic a",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42585566",
-      "title": "Endoscopic reduction of true gastrogastric intussusception in a dog.",
-      "authors": "Ogawana T, Fukui S, Daimon Y, Kanemoto H",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42585566/",
-      "abstract": "A 9-year-old neutered male Toy Poodle was diagnosed with true gastrogastric intussusception based on clinical signs, imaging studies, and endoscopic findings. The dog presented with vomiting, hematochezia, and decreased activity. Abdominal ultrasonography identified edematous thickening of the gastric wall and invagination of the gastric fundus into the gastric body. The diagnosis was confirmed by computed tomography (CT). Endoscopic examination clearly identified the intussuscepted portion of t",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42585565",
-      "title": "Evaluation of plasma kynurenine 3-monooxygenase and Ki-67 as screening biomarkers for neoplasia in dogs.",
-      "authors": "Sio KM, Ke CH, Lin CS",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42585565/",
-      "abstract": "Early detection of tumors might prolong the survival of dogs. Kynurenine 3-monooxygenase (KMO) and Ki-67 are tumor biomarkers, but few studies have described the clinical value of KMO and Ki-67 in veterinary medicine. This study aims to compare the activity of KMO and the concentration of Ki-67 between healthy dogs and dogs with neoplasms. A total of 162 dogs with different types of tumors were included. Forty-six tumor-free individuals were included as the control group. This is a case-control ",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42585564",
-      "title": "Presumed cervical subperiosteal vertebral hemorrhage in nine greyhounds.",
-      "authors": "Orgonikova I, Mallol C, Gutierrez-Quintana R, Aige-Gil V, Amengual Batle P",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Jul 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42585564/",
-      "abstract": "Spontaneous subperiosteal vertebral hemorrhages (SSVHs) are rarely documented in veterinary literature, with only a few cases reported in dogs. Describe the clinical presentation, imaging findings, and outcome of presumptive cervical SSVHs in dogs and perform a prospective cadaveric study describing the morphology of lesions. Nine greyhounds presented with acute onset of cervical myelopathy. Multicenter descriptive study. The databases were searched for dogs that underwent magnetic resonance ima",
-      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -319,6 +341,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42639852",
+      "title": "The effect of one-lung ventilation on sentinel lymph node mapping in dog lungs.",
+      "authors": "Marvel SJ, Kaschark N, Boscan P, Monnet E",
+      "journal": "Vet Surg",
+      "date": "2026 Aug 25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42639852/",
+      "abstract": "To determine the sentinel lymph node (SLN) for the caudal lung lobe using indocyanine green (ICG) and near infra-red fluorescence (NIRF) in normal dogs. The secondary objective was to determine the effect of one lung ventilation (OLV) on time to SLN detection. Prospective, randomized experimental study. Purpose-bred Beagles (n&#x2009;=&#x2009;21). Dogs were randomized to undergo OLV or normal ventilation (NV) and to undergo right or left caudal lung injections with ICG through lateral intercosta",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
       "id": "42633879",
       "title": "A low dose of dexmedetomidine reduces behavioral activity and visual attention to aggressive faces in dogs.",
       "authors": "Törnqvist H, Koskela A, Somppi S, Vainio O, Lyyra P",
@@ -331,8 +364,8 @@
     },
     {
       "id": "42632482",
-      "title": "Comparative Image-Based Evaluation of Deep Learning Models for the Diagnosis of Different Ocular Diseases in Cats.",
-      "authors": "Canatan VA, Canatan U, Sancaktar GK, Cicioğlu M, Turgut F",
+      "title": "Comparative image-based evaluation of deep learning models for the diagnosis of different ocular diseases in cats.",
+      "authors": "Canatan VA, Canatan U, Sancaktar GK, Ci̇ci̇oğlu M, Turgut F",
       "journal": "Vet J",
       "date": "2026 Aug 22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42632482/",
@@ -814,39 +847,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42586801",
-      "title": "Expression of Topoisomerase II Alpha in Canine Colorectal Polyps, Adenomas and Adenocarcinomas.",
-      "authors": "Fiedorowicz J, Paździor-Czapula K, Kołodziejski PA, Otrocka-Domagała I",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Aug 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42586801/",
-      "abstract": "With the development and increased accessibility of diagnostic methods in veterinary medicine, the possibilities for early detection of proliferative lesions in the canine large intestine have expanded over the past decade. Since in human medicine, topoisomerase II alpha (Topo II&#x3b1;) is considered a prognostic and predictive marker in various tumours, including colorectal carcinoma, we aimed to verify the role of this enzyme in proliferative epithelial lesions of the canine large intestine. ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42586720",
-      "title": "Canine Oral Melanoma as a Translational Model for Human Mucosal Melanoma: Molecular Architecture, Immune Landscape, and Therapeutic Implications.",
-      "authors": "Kuo CC, Chiu CL, Chung CS, Lin LS, Chen YM",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Aug 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42586720/",
-      "abstract": "Human mucosal melanoma (hMM) is a rare but highly aggressive malignancy with poor clinical outcomes and limited responsiveness to current immunotherapeutic strategies. Unlike cutaneous melanoma, hMM is characterized by an ultraviolet-independent pathogenesis, low tumour mutational burden, and pronounced molecular and immunological heterogeneity, which collectively inhibit effective translational modelling and therapeutic development. Naturally occurring canine oral melanoma (cOM) shares key biol",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42583882",
-      "title": "Clinical Outcome and Histopathologic Assessment of Canine Perivulvar Mast Cell Tumours.",
-      "authors": "Ahrens MR, Corner SM, Masyr A",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Aug 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42583882/",
-      "abstract": "Anatomic location is a known prognostic factor for canine mast cell tumours (MCTs). Previous publications have reported conflicting results about the clinical significance of MCT location in the inguinal and perineal regions and male genitalia. Hence, the goal of this study is to evaluate the grade, breed distribution and clinical outcome of canine perivulvar MCT. Surgical biopsy reports and associated medical records submitted between 2013 and 2024 to Michigan State University Veterinary Diagno",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42588987",
       "title": "Isolation, Expansion and Characterization of Mesenchymal Stromal Cells from Fresh and Cryopreserved Umbilical Cord Tissues in Horse and Dog.",
       "authors": "Capone A, Merlo B, Lanci A, Ballotta G, Iacono E",
@@ -855,6 +855,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42588987/",
       "abstract": "Mesenchymal stromal cells (MSCs) derived from perinatal tissues represent a promising resource for regenerative medicine due to their proliferative, immunomodulatory, and differentiation properties. Among these tissues, the umbilical cord is considered an accessible and ethically acceptable source of MSCs. This study evaluated the feasibility of whole umbilical cord cryopreservation in canine and equine species and assessed the biological properties of MSCs isolated from cryopreserved tissues co",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42639128",
+      "title": "Case Report: Fatal copper-associated hepatopathy in a Belgian Shepherd Malinois dog initially investigated as suspected malicious poisoning.",
+      "authors": "Kim AY, Jang M, Baek JS, Ku BK, Lee K",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42639128/",
+      "abstract": "Copper-associated hepatopathy (CAH) is a recognized cause of severe liver injury and acute hepatic decompensation in dogs and may present as chronic hepatitis, cirrhosis, or peracute death. This report describes a fatal case of CAH in a 9-year-old, 30-kg female Belgian Shepherd Malinois dog that was initially investigated as suspected malicious poisoning because of sudden death, tongue protrusion, and bloody feces at the scene. At forensic necropsy, approximately 55&#x202f;mL of blood-tinged ple",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42638931",
+      "title": "Sustained improvements in human-cat interaction in the shelter sector: a study of a best-practice educational intervention.",
+      "authors": "Hatam EV, Barcelos AM, Waterman J, Bhatia A, Finka L",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42638931/",
+      "abstract": "Human-cat interaction (HCI) in rescue settings is often inconsistent, driven by individual caregiver beliefs rather than standardised evidence-based practice. This study evaluates the efficacy of an educational intervention for shelter workers, incorporating evidence based HCI principles designed to promote cat comfort and reduce the risk of cat human-directed aggression. A pre-post study followed employees and volunteers across three timepoints: a pre-intervention baseline (T1, n&#x202f;=&#x202",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42638871",
+      "title": "The safety and efficacy of topical clove oil for the treatment of naturally occurring Sarcoptes scabiei var. canis infestation in dogs.",
+      "authors": "Hu H, Dai L, Ma Y, Yu X, Yang X",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42638871/",
+      "abstract": "Canine sarcoptic mange is a highly contagious parasitic skin disease of dogs. On the basis of previous in vitro investigations confirming the acaricidal activity of clove oil, this study evaluated the safety and efficacy of topical clove oil for the treatment of dogs naturally infested with Sarcoptes scabiei var. canis. A total of 100 naturally infected dogs were randomly assigned to 7% clove oil-treated groups, a positive control group, and an untreated control group. Therapeutic efficacy was a",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42638830",
+      "title": "Remote active surveillance following tibial plateau leveling osteotomy: a preliminary study of patellar tendinitis in dogs.",
+      "authors": "Matiasovic M, Hill PJ, Bright SR, Condon AM, Keeley BJ",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42638830/",
+      "abstract": "Traditional follow-up methods in small animal orthopedic surgery are primarily passive. These methods have been shown to result in only moderate owner adherence, and their value has been questioned in recent years. In human medicine, active surveillance has been demonstrated to consistently outperform passive methods in detecting adverse events. Our goal was to obtain preliminary data on the utility of active surveillance after tibial plateau leveling osteotomy (TPLO) for detecting patellar tend",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1064,50 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42591100/",
       "abstract": "Hydrogen sulfide (H2S) is a pervasive environmental toxicant with well-established immunotoxic effects. However, its action on lymphoid organs-particularly whether it triggers splenic pyroptosis-remains elusive. This study explored the effect of acute H2S exposure on rat spleen and the therapeutic potential of Xuebijing (XBJ), a traditional Chinese medicine for sepsis. Rats were exposed to 300 ppm H2S for 3 h, with or without 7-day XBJ pretreatment (4 mg/kg, i.p.). Splenic injury was evaluated b",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42583395",
-      "title": "Correction: Radiographic and cone-beam computed tomography characterization of Chevron lucency in 82 clinically healthy maxillary canine teeth of dogs: a retrospective descriptive study.",
-      "authors": "Villamizar-Martinez LA, Qu Y, Villegas Lobos CM, Lopes-Kubitza FM",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42583395/",
-      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1876288.].",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42582328",
-      "title": "Treatment of canine otitis externa: a randomized, double-blinded, clinical field study comparing the hydrocortisone aceponate monotherapy to a multi-agent reference product.",
-      "authors": "Kuwahara T, Poincelot L, Jasmin P, Bidaud A, Kinoshita G",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42582328/",
-      "abstract": "Erythemato-ceruminous otitis externa (ECOE) is a canine inflammatory condition very frequently involving secondary microbial infections. This multicentric, masked, randomized, clinical field trial in Japan evaluated the efficacy and safety of a hydrocortisone aceponate (HCA) spray solution (Cortotic&#x2122;, Virbac, France) compared to a terbinafine/florfenicol/betamethasone acetate ear gel (Osurnia&#x2122;, Bussan Animal Health CO Ltd, Japan) in 200 dogs with ECOE (OTIS3 &#x2265; 5). Dogs recei",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42582002",
-      "title": "Systemic immune-inflammation index as a prognostic biomarker in critically ill dogs.",
-      "authors": "Kim SG, Han HJ",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42582002/",
-      "abstract": "Rapid and accurate prognostic assessment in critically ill dogs with systemic inflammation remains challenging. The Systemic Immune-Inflammation Index (SII), calculated as (neutrophil count&#x202f;&#xd7;&#x202f;platelet count)/lymphocyte count, has been recognized as a biomarker for systemic inflammation and immune dysregulation in human medicine. However, its clinical relevance in veterinary emergency and critical care settings remains unclear. This study aimed to evaluate the clinical signific",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42582000",
-      "title": "Infrared thermography in clinically healthy dogs shows body region and haircoat variability.",
-      "authors": "Hall N, Hall A, Atwood L, Petry J, Lewis MJ",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42582000/",
-      "abstract": "Infrared thermography quantifies body surface temperature with growing applications in dogs, particularly among rehabilitation practitioners; however, incomplete understanding of normal temperature variation in healthy dogs limits interpretation. This study characterized body surface temperature distribution and evaluated factors influencing thermographic measurements in a heterogeneous group of healthy dogs. Client-owned, adult dogs were prospectively enrolled and underwent standardized thermog",
-      "category": "imaging",
       "summary_ko": ""
     }
   ]
