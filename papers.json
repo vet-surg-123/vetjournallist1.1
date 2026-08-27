@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 22:34 UTC",
+  "updated": "2026-08-27 03:02 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -44,58 +44,14 @@
       "summary_ko": ""
     },
     {
-      "id": "42588953",
-      "title": "Comparative Mitogenomics of Meiacanthus Blennies Reveals Venom System Evolution and Adaptive Traits.",
-      "authors": "Luo T, Yu H, Xiao W, Wu B, Liu Z",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42588953/",
-      "abstract": "Meiacanthus is a genus of nemophine blennies with an oral venom system, which includes buccal venom glands and canine fangs, and its evolutionary origin remains poorly understood. Here, we sequenced complete mitochondrial genomes of Meiacanthus species and their closely related non-venomous species, and performed comparative genomic and phylogenetic analyses to explore Meiacanthus' evolution. Phylogenetic reconstruction identified Meiacanthus as sister to the (Aspidontus + Petroscirtes) clade, a",
+      "id": "42647817",
+      "title": "Effect of simethicone on visualization quality and capsule transit time during video capsule endoscopy in healthy dogs.",
+      "authors": "Jeong W, Kim GH, Kim SH, Ryu MO, Seo KW",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42647817/",
+      "abstract": "Simethicone enhances visualization quality (VQ) during video capsule endoscopy (VCE) in humans, but its effects on VQ and capsule transit time (CTT) in dogs remain unclear. Evaluate the effects of simethicone on VQ and CTT in dogs undergoing VCE. Fifteen client-owned healthy dogs weighing 3-10&#xa0;kg. Prospective, blinded, randomized crossover study. Each dog underwent VCE twice: once with 20&#xa0;mg (1&#xa0;mL) simethicone administered 30&#xa0;minutes before capsule ingestion, and once with 1&",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42588949",
-      "title": "TRIS-Egg Yolk Extender Attenuates Seminolipid and Sphingomyelin Loss in Chilled Canine Semen: An LC-HRMS Lipidomic and CASA Study.",
-      "authors": "Temerario L, Cataldi EL, Ventura G, Martino NA, Dell'Aquila ME",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42588949/",
-      "abstract": "This study combined lipidomic profiling and computer-assisted sperm analysis (CASA) to evaluate whether a TRIS-egg yolk extender preserves canine spermatozoa at both molecular and functional levels during 72 h of refrigerated storage. HILIC-ESI-HRMS was first used to distinguish sperm-derived lipids from extender-associated species. Lipid-focused feature filtering and multivariate analysis highlighted the seminolipid or sulfogalactosylglycerolipid SGG 32:0 as a major contributor to storage-relat",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42588941",
-      "title": "A Q Fever Outbreak on a Boer Goat Farm in South Korea: Molecular Typing and Serial Monitoring.",
-      "authors": "Lee YJ, Sohn JH, Kim B, Woo HM, Choi JW",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42588941/",
-      "abstract": "Q fever is a zoonotic disease associated with reproductive losses in ruminants. This study investigated a 2025 outbreak on a Boer goat breeding farm in South Korea and compared its molecular characteristics with those of a separate 2024 outbreak. Conventional PCR targeting the IS1111 insertion element was used to test 87 goats, three female farm dogs, and four barn-level composite environmental samples. Positive goat samples underwent multiple-locus variable-number tandem-repeat analysis and mul",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42588935",
-      "title": "Comparison of Westergren and Automated Erythrocyte Sedimentation Rate Measurements in Dogs and Cats.",
-      "authors": "Masucci M, Caprì A, Cartocci A, Diamanti D, Donato G",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42588935/",
-      "abstract": "The erythrocyte sedimentation rate (ESR) is a routine marker of inflammation in human medicine, and it is influenced by erythrocyte features and the level of some plasma proteins. The Westergren method is the reference technique in humans; however, this manual technique has been scarcely used in animals and has not been validated. An automated veterinary in-clinic device (MINI-PET) is able to measure ESR on EDTA-blood tubes. This study aimed to evaluate the comparability of ESR values measured w",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42588927",
-      "title": "Antimicrobial Peptide CPP-C3M4 Attenuates Salmonella-Induced Liver Inflammation and Oxidative Stress in Lambs.",
-      "authors": "Pan C, He W, Tian W, Xu W, Li H",
-      "journal": "Animals (Basel)",
-      "date": "2026 Jul 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42588927/",
-      "abstract": "In this study, we investigated the protective effects of CPP-C3M4 against Salmonella-induced hepatic injury in lambs. Thirty 72-day-old Hu sheep were randomly divided into five groups: the control group (CON), the Salmonella-infected group (ST), and three CPP-C3M4 pretreatment groups at low, medium and high doses (CPP-C3M4-L, CPP-C3M4-M, and CPP-C3M4-H). The results showed that administration of CPP-C3M4 via duodenal fistula significantly alleviated liver enlargement and histopathological damage",
-      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -341,6 +297,28 @@
       "summary_ko": ""
     },
     {
+      "id": "42642056",
+      "title": "Risk factors associated with lipaemic plasma in a cohort of canine blood donors.",
+      "authors": "Treich C, Mailhot SÈ, Juette T, Blais MC",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Aug 25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42642056/",
+      "abstract": "To assess the prevalence of lipaemic plasma in healthy canine blood donors, identify predisposing factors, including dietary links and provide recommendations to reduce its occurrence. A total of 296 healthy canine blood donors enrolled in a university blood bank were prospectively included. Health was confirmed through physical examination and complete bloodwork including total T4. After successful blood collection and processing, plasma intended for fresh frozen plasma production was assessed ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42642047",
+      "title": "Occurrence of infections in dogs receiving ciclosporin in a single-centre UK referral population.",
+      "authors": "Dormon S, Walker J, Gallow G, Goonan L, Sparks T",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Aug 25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42642047/",
+      "abstract": "The study aimed (a) to describe the occurrence and nature of new infections in dogs receiving oral ciclosporin and (b) to identify any risk factors associated with the development of a new infection whilst receiving ciclosporin. In this retrospective cohort study, medical records of dogs presented to a private UK referral hospital between March 2015 and September 2022 that received ciclosporin were evaluated. The development of a new infection was classified as confirmed or suspected, based on a",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42639852",
       "title": "The effect of one-lung ventilation on sentinel lymph node mapping in dog lungs.",
       "authors": "Marvel SJ, Kaschark N, Boscan P, Monnet E",
@@ -376,7 +354,7 @@
     {
       "id": "42632479",
       "title": "Seroprevalence, epidemiological factors, and spatial patterns of exposure to Trypanosoma cruzi in urban cats in Maceió, Northeastern Brazil.",
-      "authors": "da Costa IC, Dos Santos LMR, de Paula Castilho A, de Lima Rodrigues Pinto G, Dos Santos VMS",
+      "authors": "Costa ICD, Santos LMRD, Castilho AP, Pinto GLR, Santos VMSD",
       "journal": "Vet J",
       "date": "2026 Aug 22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42632479/",
@@ -474,7 +452,7 @@
     },
     {
       "id": "42624279",
-      "title": "Lesion distribution based on oral biopsy and histopathology in dogs: a retrospective study of 338 cases (2015-2025).",
+      "title": "Lesion distribution based on oral biopsy and histopathology in dogs: A retrospective study of 338 cases (2015-2025).",
       "authors": "Kim CG, Jeong KJ, Kim J, Vapniarsky N, Kang SS",
       "journal": "Vet J",
       "date": "2026 Aug 20",
@@ -855,6 +833,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42588987/",
       "abstract": "Mesenchymal stromal cells (MSCs) derived from perinatal tissues represent a promising resource for regenerative medicine due to their proliferative, immunomodulatory, and differentiation properties. Among these tissues, the umbilical cord is considered an accessible and ethically acceptable source of MSCs. This study evaluated the feasibility of whole umbilical cord cryopreservation in canine and equine species and assessed the biological properties of MSCs isolated from cryopreserved tissues co",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42643296",
+      "title": "Canine dermatophytic kerion caused by Microsporum canis: two case reports.",
+      "authors": "Dumont-Viollaz A, Gómez-Barris BR, Del Río LC, Moreno C, Thomson P",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42643296/",
+      "abstract": "Dermatophytosis is a superficial, highly contagious mycosis caused mainly by keratinophilic fungi of the genera Microsporum, Trichophyton and Nannizzia. This report describes two clinical cases of dermatophytic kerion in dogs caused by Microsporum canis. In both, direct microscopic examination of hairs revealed ectothrix arthroconidia, and fungal culture yielded colonies morphologically consistent with M. canis. Species identification was confirmed by PCR amplification and partial sequencing of ",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42643243",
+      "title": "Comparison of adhesiveness between new improved surgical drapes and existing drapes during contraceptive surgery in 90 cats: a multi-center controlled clinical trial.",
+      "authors": "Namiki R, Uemura A, Shimada K, Tanaka T, Yoshida T",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42643243/",
+      "abstract": "Plastic drapes are used prevent surgical site infections by enclosing bacteria within adhesive layers that directly contact the skin during surgery. However, these drapes often peel from the surgical edge, increasing the risk of surgical site infection. This problem has remained unresolved since the development of plastic drapes decades ago. Recently, a basic study using rat skin reported improvements in the structure of these drapes. This study indicated that drape detachment during skin incisi",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
