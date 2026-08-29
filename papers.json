@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28 06:03 UTC",
+  "updated": "2026-08-29 03:37 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -238,6 +238,83 @@
       "date": "2026 Aug 7",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651867/",
       "abstract": "The demand for sustainable protein sources for companion animal nutrition has stimulated interest in insect-derived ingredients. Tenebrio molitor larvae meal is a promising alternative to conventional proteins because of its nutritional composition and functional properties. This study evaluated the nutritional quality, in vitro digestibility, chitin digestibility, and antioxidant properties of T. molitor meal using canine- and feline-adapted in vitro digestion models. Chemical composition, amin",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42661152",
+      "title": "Plasma Dimethylarginine Concentrations in Dogs With Large Cell Lymphoma or Hemangiosarcoma: A Prospective Observational Study.",
+      "authors": "Marques GB, Maurey C, Le Roux D, Béguin J",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661152/",
+      "abstract": "Asymmetric dimethylarginine (ADMA) and symmetric dimethylarginine (SDMA) are endogenous methylated arginine derivatives associated with endothelial dysfunction and tumour progression in humans. Their relevance in canine oncology remains unclear. This prospective study aimed to assess plasma concentrations of ADMA and SDMA in dogs newly diagnosed with large cell lymphoma or non-cutaneous hemangiosarcoma (HSA); dogs with benign splenic lesions were also enrolled. Renal function was assessed at the",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42660709",
+      "title": "Corrigendum to \"Evidence-based medical therapy for mitral regurgitation in dogs\" [J Vet Cardiol (2026) 10.1016/j.jvc.2026.04.006].",
+      "authors": "Mochel JP, Ward JL, Stern JA",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Aug 27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42660709/",
+      "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42660406",
+      "title": "Impact of Needle-to-Suture Ratio and Suture Diameter on Acute Leakage Pressure in an Ex Vivo Canine Jejunal Enterotomy Model.",
+      "authors": "Li S, Zhao X, Guo Y, Yang R, Zhang Y",
+      "journal": "Vet J",
+      "date": "2026 Aug 27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42660406/",
+      "abstract": "Postoperative intestinal leakage is a serious complication of gastrointestinal surgery; however, the immediate mechanical factors affecting enterotomy sealing remain incompletely understood. This ex vivo study evaluated the association of needle-to-suture ratio (N:S Ratio) and suture diameter with acute leakage pressure in a canine jejunal enterotomy model. Eight needle-suture product groups were tested using 80 fresh jejunal segments obtained from 10 canine cadavers. A randomized complete block",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42660198",
+      "title": "Urinary angiotensinogen indexed to creatinine or protein is higher in cats with surgically induced chronic kidney disease compared to healthy cats.",
+      "authors": "Huang JHC, Lourenço BN, Schmiedt CW",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42660198/",
+      "abstract": "To compare urinary angiotensinogen, a proposed biomarker for intrarenal renin-angiotensinogen system (RAS) activity, between cats with surgically induced chronic kidney disease (CKD) and healthy cats and explore its correlation with select clinical and circulating renin-angiotensin-aldosterone system (RAAS) markers. Urine was banked from September 2022 through April 2023 during a study comparing circulating RAAS markers between cats with induced CKD and sex- and life stage-matched healthy cats. ",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42660193",
+      "title": "Clinical presentation, diagnosis, and treatment of caudal mediastinal paraesophageal abscesses in dogs: a multi-institutional retrospective study.",
+      "authors": "Biehl K, Williams RW, Orr E, Thieman Mankin K, Piegols H",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42660193/",
+      "abstract": "To describe the clinical presentation, diagnostic findings, management, and short- and long-term outcomes of dogs with caudal mediastinal paraesophageal abscesses (CMPA) in a multi-institutional retrospective cohort. 12 client-owned dogs with CMPA confirmed on CT and/or surgery. The most common presenting complaints were inappetence and lethargy. Tachypnea and dyspnea were frequent physical examination findings at presentation. All 12 dogs underwent CT. The CMPA was located within the mediastina",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42660187",
+      "title": "Different fresh gas flows produce similar rebreathing and regional ventilation during helmet continuous positive airway pressure in sedated Beagles.",
+      "authors": "Mandelbaum R, Albano V, Vicenti C, Ali H, Martin-Flores M",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42660187/",
+      "abstract": "To evaluate the effects of 4 oxygen driving flows on carbon dioxide rebreathing and ventilation in healthy sedated dogs receiving helmet continuous positive airway pressure (CPAP). This prospective experimental crossover study included 7 healthy adult Beagles sedated using a standardized protocol. Dogs received helmet CPAP (approx 5 cm H2O) through a Venturi valve system. Following stabilization at 15 L/min, dogs underwent evaluation at 4 oxygen driving flows (5, 10, 15, and 20 L/min), with flow",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42660184",
+      "title": "Canine parvovirus monoclonal antibody successfully prevented disease when administered before canine parvovirus experimental challenge.",
+      "authors": "Larson L, Akki FE, Ramasami P, Pattee J, George C",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42660184/",
+      "abstract": "To determine the effectiveness of canine parvovirus (CPV-2) monoclonal antibody (CPMA) to prevent CPV-2 disease after an experimental challenge to support a label claim for prophylactic use. 25 Beagle pups aged 7 to 8 weeks were randomized to CPMA-treated (n = 20) or PBS-treated control (5) groups. One day after SC administration of PBS or CPMA (0.1 mL/kg) on study day (SD) 0, all pups were challenged by intranasal administration of virulent CPV-2b. Personnel masked to treatment groups monitored",
       "category": "other",
       "summary_ko": ""
     },
@@ -594,28 +671,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42617659",
-      "title": "Carbapenem-resistant Enterobacterales in companion animals are an emerging One Health threat.",
-      "authors": "Granick JL, Fellman CL, Curren EJ, Funk M, James A",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42617659/",
-      "abstract": "Carbapenem-resistant Enterobacterales (CRE) are an emerging, multidrug-resistant threat to human and animal health. Emergence is driven by antimicrobial use and multidirectional transmission pathways between humans, animals, and the environment. Carbapenems are essential drugs for treatment of multidrug-resistant infections in humans and, although not approved for veterinary use, are infrequently prescribed in dogs and cats in an extralabel manner. In the US, CRE detections in companion animals ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42617653",
-      "title": "Clinical presentation, computed tomographic findings, treatment, and outcome of traumatic jaw fractures in domestic rabbits (Oryctolagus cuniculus): 21 cases (2014-2025).",
-      "authors": "Charrasse M, Hahn H, Phillips K, Boutoille F, Sanchez-Migallon Guzman D",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42617653/",
-      "abstract": "To present clinical features, CT findings, treatment, and outcome for traumatic jaw fractures diagnosed via CT. Medical records from 2014 through 2026 were reviewed, and 21 rabbits with traumatic jaw fractures diagnosed by CT were selected. Among the 21 rabbits that fit the inclusion criteria, trauma sources included involuntary owner-inflicted trauma (n = 10), sofa-related falls or entrapment (3), dog bites (2), post-dental trimming issues (1), trauma with a table (1), fall of cardboard onto th",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42651986",
       "title": "Clinical and Faecal Outcomes in Adult Dogs with Chronic Enteropathy Fed an Hydrolysed Protein Diet with and Without Bacillus velezensis DSM 15544: A Randomised, Double-Blind, Cross-Over Trial.",
       "authors": "Vecchiato CG, Sportelli F, Masiero E, Pinna C, Crisonà M",
@@ -638,61 +693,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42613071",
-      "title": "Toxicity of Cytarabine Intravenous Constant Rate Infusion in Cats With Lymphoma.",
-      "authors": "Hanford R, Skorupski KA, Rebhun RB, Brady RV, Al-Nadaf S",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42613071/",
-      "abstract": "Cytarabine intravenous constant rate infusion (IV CRI) toxicity in cats with lymphoma has not been well documented. We aimed to assess toxicities following cytarabine IV CRI as a single-agent or within a multiagent protocol in cats with lymphoma. Medical records of cats with lymphoma treated with cytarabine IV CRI, with documented dose, route, duration and at least one follow-up visit between 1990 and 2024, were retrospectively reviewed. Adverse events (AEs) were retrospectively graded according",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42612706",
-      "title": "Computed Tomographic Measurement of Cementless Total Hip Replacement Implant Orientation.",
-      "authors": "Pink J, Bilmont A",
-      "journal": "Vet Comp Orthop Traumatol",
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612706/",
-      "abstract": "The aim of this study was to describe and assess a technique for the measurement of cementless (BioMedtrix Biologic Fixation [BFX]) total hip replacement implant orientation using computed tomography (CT). Postoperative CT studies of 15 dogs that had total hip replacement with a 24 mm BFX cup and BFX stem were reviewed retrospectively. Multiplanar reconstructed CT images were manipulated to generate standard positions of the pelvis and femur. Open face version, angle of lateral opening (ALO), in",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42612701",
-      "title": "Fixation of proximal humeral Salter-Harris type 1 fractures in a 3-dimensionally printed skeletally immature canine bone model: a biomechanical assessment of fully threaded headless cannulated screws.",
-      "authors": "Hwang TW, Kang E, Kim JM, Kim HY",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612701/",
-      "abstract": "To compare the biomechanical stability of 4 fixation techniques for proximal humeral physeal fractures in skeletally immature canines using 3-D-printed models. This experimental in vitro study was conducted from September 25, 2025, through April 22, 2026. To strictly control biological variability, identical 3-D-printed models of juvenile canine proximal humeral Salter-Harris type 1 fractures (CT-derived from a 6-month-old 26-kg Labrador Retriever) were evaluated across 4 groups: pin and tension",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42612694",
-      "title": "Automated injection improves consistency of brain perfusion parameters in dynamic susceptibility contrast magnetic resonance imaging in dogs in a randomized trial.",
-      "authors": "Eichrodt AM, Leandro AW, Beckmann KM, Dennler M",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612694/",
-      "abstract": "To compare perfusion characteristics in morphologically normal canine brains with dynamic susceptibility contrast (DSC) MRI following manual versus automated contrast medium injection. Client-owned dogs undergoing routine 3-tesla brain MRI protocol including DSC were prospectively enrolled, randomly allocated to manual or automated contrast medium injection between November 2023 and February 2025. Gadoteric acid (0.1 mmol/kg) was injected at weight-dependent rates: 1 mL/s (1 to 5 kg), 2 mL/s (6 ",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42612685",
-      "title": "Most dogs transported to a veterinary teaching hospital are unrestrained during vehicular travel.",
-      "authors": "Steinolfson C, Odunayo A, Ng Z, Stone A, Domaracki C",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612685/",
-      "abstract": "To evaluate the frequency and type of vehicular restraint use in dogs transported to a veterinary teaching hospital and to identify factors associated with restraint use. This prospective, survey-based study was conducted at a veterinary teaching hospital from May 28 to August 2, 2024. Dog owners presenting their dog for emergency, sick, or wellness visits completed a questionnaire regarding transportation practices, including restraint use, type of restraint, travel duration, anxiety level, and",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42651971",
       "title": "Factors Associated with Survival to Discharge in Cats with Spontaneous Hemoperitoneum.",
       "authors": "Evans D, Guillén A, Cortellini S, Rossanese M",
@@ -700,17 +700,6 @@
       "date": "2026 Aug 17",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651971/",
       "abstract": "This study aims to describe the clinical presentation, treatment and outcomes of cats diagnosed with spontaneous hemoperitoneum and to identify factors associated with survival to discharge. Medical records from 2005 to 2024 were searched and data was reviewed retrospectively. Clinical, diagnostic and treatment variables were evaluated for their association with survival to discharge. Seventy-three cats were included. The most common presenting clinical signs at diagnosis were lethargy, hyporexi",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42608000",
-      "title": "Preclinical Cyclic Testing of Adjunctive Fixation of the Humeral Epicondyle in a Lateral Condylar Fracture Model: Ex Vivo Comparison of a Locking Plate versus a Light-curable Composite.",
-      "authors": "Quinn R, Höglund OV, Hutchinson DJ, Papini L, Tesfaye Ayane A",
-      "journal": "Vet Comp Orthop Traumatol",
-      "date": "2026 Aug 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42608000/",
-      "abstract": "To compare the mechanical performance under cyclic loading of a biocompatible light-curable composite formed from two traizine-trione resin monomers and hydroxyapatite construct (AdhFix) against a standard locking plate used as adjunctive epicondylar stabilization in a simulated lateral condylar humeral fracture model. Cadaveric biomechanical assessment. Paired canine cadaver humeri were used to simulate lateral condylar humeral fractures. All constructs were stabilized with a transcondylar 4.5&",
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -723,17 +712,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651962/",
       "abstract": "Dog-assisted services are employed in healthcare, educational, social-care, and community settings, yet systems for preparing and protecting therapy dogs remain unevenly developed. This narrative review synthesises empirical, conceptual, and governance literature on therapy dog preparation in selected European contexts and the United States. Searches were conducted across academic databases, specialist repositories, and grey-literature sources, with evidence organised thematically around governa",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42604724",
-      "title": "Immunohistochemical Characterisation of Mismatch Repair Proteins in Feline Cancers: A Pilot Study Using Validated Cross-Reactive Antibodies.",
-      "authors": "Nishibori S, Sakurai M, Kagawa Y, Nishigaki K, Nakagawa T",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Aug 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42604724/",
-      "abstract": "DNA mismatch repair (MMR) deficiency is a clinically important biomarker in human oncology, yet its relevance in feline neoplasia remains poorly understood due to limited characterisation and the absence of validated reagents. In this study, we established a practical immunohistochemistry (IHC) approach for evaluating feline MMR proteins by confirming the cross-reactivity of anti-human MLH1, MSH2 and MSH6 antibodies using CRISPR/Cas9-engineered feline tumour cell lines lacking each target gene. ",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -756,17 +734,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651954/",
       "abstract": "Feed efficiency remains a significant challenge in farmed raccoon dogs, and performance differences can occur even when diets are formulated with similar nutrient levels. Beyond nutrient concentrations, digestion kinetics can alter the timing of carbon and nitrogen availability along the gastrointestinal tract, thereby influencing microbial assembly in a segment-specific way. Twenty 2-month-old male raccoon dogs (Nyctereutes procyonoides) were divided into four dietary groups (n = 5) in a 2 &#xd",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42603145",
-      "title": "Variations on the rostral labial pivot flap for reconstruction of maxillary lip defects in four dogs.",
-      "authors": "Im H, Dark KV, Skinner OT",
-      "journal": "Vet Surg",
-      "date": "2026 Aug 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42603145/",
-      "abstract": "To describe the technique and outcome of a rostral labial pivot flap variant in dogs. Four dogs with rostral lip/paranasal defect underwent rostral labial pivot flap. Short case series. Rostral lip and paranasal defects with concurrent nasal mucosal involvement resulting from tumor resection were reconstructed using the rostral labial pivot flap and its variants, including incorporation of a mucosal island flap &#xb1; nasal rotation flap for modification of lip heights. Medical records were revi",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -858,6 +825,28 @@
       "summary_ko": ""
     },
     {
+      "id": "42664783",
+      "title": "Multicenter transvenous pacemaker implantation in 595 dogs: complications and survival rates.",
+      "authors": "Ciccozzi M, Stauthammer C, Whipp C, Visser L, Kellihan H",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Aug 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664783/",
+      "abstract": "Transvenous pacemakers are routinely used for pathologic bradyarrhythmias including third-degree atrioventricular block (3AVB), sick sinus syndrome (SSS), high-grade second-degree atrioventricular block (2AVB), and atrial standstill (AS). This study reports the multi-institutional complications and survival rates in a large cohort of dogs. A retrospective analysis of outcomes and complications in dogs that underwent transvenous pacemaker implantation between January 2000 and December 2016 at fou",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42664782",
+      "title": "Clinical utility of shear wave speed and dispersion slope measured by shear wave elastography for the assessment of hepatic congestion in dogs with cardiac disease.",
+      "authors": "Shiohara N, Nakamura K, Tamura M, Yokoyama N, Sasaki N",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Aug 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664782/",
+      "abstract": "Right-sided heart failure (RHF) elevates central venous pressure, causing hepatic congestion. Two-dimensional shear wave elastography (2D-SWE) measures shear wave speed (SWS) and dispersion slope (DS), reflecting tissue viscoelasticity and viscosity. The aim was to investigate associations between hepatic SWS and DS and RHF in dogs and evaluate clinical utility. One hundred client-owned dogs with cardiac disease were prospectively classified into RHF (n = 27) and non-RHF (n = 73) groups based on",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42651883",
       "title": "Extracellular Vesicles as Emerging Tools in Canine Mammary Tumors: Potential Applications and Perspectives.",
       "authors": "Dos Santos E Silva L, Pires de Campos Zuccari DA, Tamarindo GH, Oliveira C, Anacleto Rinaldi C",
@@ -866,6 +855,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651883/",
       "abstract": "Breast cancer is one of the most prevalent malignancies in women worldwide and the most common malignant tumor in unspayed female dogs, highlighting the comparative relevance of this disease across these species. The release of EVs is increased in mammary tumors compared to normal tissue, with the quantity generally correlating with the tumor's histological grade and aggressiveness. EVs carry a varied molecular load, mainly composed of proteins, RNAs, including microRNAs (miRNAs), lipids, and nu",
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42661763",
+      "title": "Case Report: Diet-associated iodine-deficiency goitrous hypothyroidism in a dog: a longitudinal clinical, endocrine, and ultrasonographic evaluation.",
+      "authors": "Lim S, Sohn SJ, Hong YJ",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661763/",
+      "abstract": "Iodine-deficiency hypothyroidism is well recognized in humans, but is considered rare in dogs, largely because commercial canine diets typically meet the established iodine requirements. Herein, we describe a dog that developed primary hypothyroidism with bilateral goiter attributable to dietary iodine deficiency. A 9-year-old spayed female Chihuahua fed a non-standardized home-prepared diet without vitamin and mineral supplementation presented with mild weight gain and bilaterally enlarged thyr",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42661687",
+      "title": "SARS-CoV-2 infection in dogs, dog owners, dog breeders, and veterinarians in the Ashanti and Greater Accra regions of Ghana-zoonotic implications.",
+      "authors": "Amemor E, Folitse RD, Hoerauf A, Parcina M, Ritter M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661687/",
+      "abstract": "After the COVID-19 pandemic, there is an increasing concern over the causative agent, SARS-CoV-2, mutating into a more virulent strain in animals and spilling over to humans, a potential threat of future pandemics. Anthropo-zoonotic transmissions of the virus can as well not be ruled out. The dynamics of spillover of SARS-CoV-2, particularly from humans to animals and has not been fully studied. Livestock and pet owners, as well as animal health workers, have been documented to be at greater ris",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42620570/",
       "abstract": "Canine mammary tumor (CMT) represents the most frequently diagnosed neoplasm in intact female dogs and exhibits a high malignant rate. The PI3K/AKT pathway critically drives tumor progression, and serves as a target for multiple anti-tumor drugs. In this study, two CMT cell lines (CHMp and CIPm) were employed to assess the impact of lentivirus-mediated PI3K over-expression. Functional assays were performed to evaluate proliferation, migration, and invasion capacities, as well as the expression l",
       "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42609759",
-      "title": "Chronic intestinal pseudo-obstruction secondary to intestinal leiomyositis in a ragdoll cat.",
-      "authors": "Lau CWW, Hope A, Donnelly E",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42609759/",
-      "abstract": "A 1-year-old neutered male neutered Ragdoll cat was presented with a 4-week history of hyporexia, intermittent diarrhoea and weight loss. Initial imaging revealed a varying degree of distension of the intestinal loops by echoic fluid/gas and some loops had hyperechoic content with marked echo shadowing. Exploratory laparotomy was recommended but declined. Subsequent clinical deterioration prompted further investigation with CT scan revealing severe dilation of the intestine which was deemed like",
-      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
