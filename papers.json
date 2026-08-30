@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29 03:37 UTC",
+  "updated": "2026-08-30 00:03 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -238,6 +238,39 @@
       "date": "2026 Aug 7",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651867/",
       "abstract": "The demand for sustainable protein sources for companion animal nutrition has stimulated interest in insect-derived ingredients. Tenebrio molitor larvae meal is a promising alternative to conventional proteins because of its nutritional composition and functional properties. This study evaluated the nutritional quality, in vitro digestibility, chitin digestibility, and antioxidant properties of T. molitor meal using canine- and feline-adapted in vitro digestion models. Chemical composition, amin",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42666034",
+      "title": "EXPRESS: Colonization of Helicobacter Species and Associated Gastritis in Cats with Gastrointestinal disease: a Cross-Sectional Study on 154 Cases.",
+      "authors": "Immonen TK, Pettersson JM, Vauhkonen H, Palen S, Weinstein I",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42666034/",
+      "abstract": "ObjectivesThis study aimed to determine the occurrence of gastric Helicobacter species colonization in cats with confirmed gastrointestinal disease and to investigate possible associations between Helicobacter species colonization and gastric histopathological changes. It also aimed to identify the Helicobacter species present in cats in countryX.MethodsPrivately owned cats were prospectively enrolled between May 2018 and December 2022. Regardless of the reason for presentation, the owners of al",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42665890",
+      "title": "EXPRESS: Efficacy and tolerability of sequential COP and doxorubicin chemotherapy protocol for treatment of high-grade lymphoma in cats.",
+      "authors": "Neiderfer K, Iwaki Y, Donnelly LL, Bryant JE, Bryan JN",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42665890/",
+      "abstract": "ObjectivesThe aim of this study was to evaluate tolerability of a COP/DOX protocol, where cats received COP (vincristine, cyclophosphamide, and prednisolone) induction weekly for 6 weeks followed by doxorubicin (DOX) consolidation every three weeks for 6 doses. A secondary objective was to evaluate the efficacy of COP/DOX protocol in this cohort of cats.MethodsRecords were retrospectively reviewed for cats with high-grade lymphoma treated with the COP/DOX protocol from 2005-2024. Data collected ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42665888",
+      "title": "EXPRESS: Effect of oral gabapentin administered in-hospital on behavioral stress, compliance, and physiologic stress markers: a randomized, double-blind, placebo-controlled trial.",
+      "authors": "Canosa C, Summers SC",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42665888/",
+      "abstract": "The aim of the study was to determine whether post-admission oral gabapentin improves stress indices and handling tolerance in hospitalized cats. In this double-blind, randomized, placebo-controlled, parallel-design trial, healthy client-owned cats were enrolled. After initial exam, cats received a 100-mg gabapentin or placebo capsule. At ninety minutes, a second examination, venipuncture, and brief dorsal positioning were performed. Five stress behaviors (struggling, vocalization, repelling, hy",
       "category": "other",
       "summary_ko": ""
     },
@@ -638,39 +671,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42618917",
-      "title": "Morphometric assessment of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade II medial patellar luxation.",
-      "authors": "Barthmann R, Theyse LF",
-      "journal": "BMC Vet Res",
-      "date": "2026 Aug 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42618917/",
-      "abstract": "Medial patellar luxation is a common orthopedic condition in small breed dogs, though its etiology remains poorly understood. The aim of this study was to assess the morphometry of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade 2 medial patellar luxation. This retrospective study evaluated small breed dogs weighing&#x2009;&#x2264;&#x2009;15&#xa0;kg including 80 stifles with Grade 2 MPL and 80 controls. The femoral trochlear length to patellar lengt",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42617661",
-      "title": "Are common clinical protocols prioritizing detection over prevention in canine Dirofilaria immitis?",
-      "authors": "Horvath M",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42617661/",
-      "abstract": "Owner noncompliance, not preventive failure, drives most canine Dirofilaria immitis infections in established patients. Only 24.4% of dogs under care achieve full-year purchase compliance with monthly macrocyclic lactones. Informal data suggest far more practices send annual testing reminders than monthly dosing reminders. The primary goal is continuous chemical protection, not annual detection of prior failures. This viewpoint argues for tracking adherence rates, routine adherence counseling, a",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42617660",
-      "title": "The impact of changing living conditions, pollutants, and climate change on allergic skin disease in our pets: highlighting our interconnectedness.",
-      "authors": "Marsella R",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42617660/",
-      "abstract": "Our pets share our living conditions. Many transformations have occurred over the past few decades, including lifestyle shifts and increased exposure to chemicals, pollution, and climate change. Our pets have left a rural environment to join our urban lifestyle, with a loss of plant and microbial diversity; increased exposure to pollution from car traffic, plastics, and chemicals; and more time spent indoors. Concurrently, they have experienced, with us, the effects of climate-related events, in",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42651986",
       "title": "Clinical and Faecal Outcomes in Adult Dogs with Chronic Enteropathy Fed an Hydrolysed Protein Diet with and Without Bacillus velezensis DSM 15544: A Randomised, Double-Blind, Cross-Over Trial.",
       "authors": "Vecchiato CG, Sportelli F, Masiero E, Pinna C, Crisonà M",
@@ -855,6 +855,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651883/",
       "abstract": "Breast cancer is one of the most prevalent malignancies in women worldwide and the most common malignant tumor in unspayed female dogs, highlighting the comparative relevance of this disease across these species. The release of EVs is increased in mammary tumors compared to normal tissue, with the quantity generally correlating with the tumor's histological grade and aggressiveness. EVs carry a varied molecular load, mainly composed of proteins, RNAs, including microRNAs (miRNAs), lipids, and nu",
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42666701",
+      "title": "Carbohydrate source modulates protein and amino acid digestibility patterns in domestic cats.",
+      "authors": "Lee WJ, Oh ER, Seo JH, Kim Y, Lee SH",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42666701/",
+      "abstract": "Domestic cats are obligate carnivores with high dietary protein requirements, yet carbohydrates remain functionally necessary in extruded dry foods. Because carbohydrate matrices may be associated with nutrient accessibility during digestion, this study evaluated whether defined protein- and carbohydrate-source formulations are associated with nutrient and amino acid apparent total tract digestibility (ATTD) in cats. A total of 117 Korean short-haired domestic cats were enrolled and underwent a ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42666301",
+      "title": "Seroprevalence of Toxoplasma gondii infection and risk factors in sheep from Afyonkarahisar province, Türkiye.",
+      "authors": "Tunç AC, Erez MS, Kozan E, Birdane FM, Hervé-Claude LP",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42666301/",
+      "abstract": "Toxoplasma gondii is a major zoonotic pathogen causing reproductive losses in sheep and posing significant public health risks, particularly through meat consumption and congenital infection. Despite Afyonkarahisar Province being one of the most important sheep-producing regions in T&#xfc;rkiye, no farm-level seroepidemiological study with structured risk factor analysis had previously been conducted there. A cross-sectional study was conducted between September and December 2025 on 550 sheep bl",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -1086,28 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42620936/",
       "abstract": "Malassezia pachydermatis is an opportunistic yeast associated with otitis externa and dermatitis in dogs. Despite reduced susceptibility to azole antifungals has increasingly been reported in M. pachydermatis, the molecular mechanisms underlying azole stress responses in this species remain poorly understood. In this study, we investigated the global transcriptional response of two M. pachydermatis isolates with different ketoconazole minimum inhibitory concentration values following short-term ",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42620618",
-      "title": "Evaluating cone-beam computed tomography vs. intraoral radiography for the detection of endodontal disease in dogs: diagnostic performance and inter-rater agreement.",
-      "authors": "Bonacini S, Goldschmidt S, Arzi B, Vapniarsky N, Lommer M",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42620618/",
-      "abstract": "The comparative diagnostic utility of cone-beam computed tomography (CBCT) and intraoral dental radiography (IDR) for endodontal disease in dogs remains unclear. Accordingly, this study evaluated both imaging modalities against histopathologic findings as the gold standard. In this prospective observational study, client-owned dogs undergoing evaluation for suspected endodontal disease were imaged with both CBCT and IDR under general anesthesia. Forty-six teeth from 16 dogs were included. Four r",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42620570",
-      "title": "PI3K over-expression drives canine mammary tumor progression.",
-      "authors": "Chen R, Liu S, Li J, Huang X, Li Y",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42620570/",
-      "abstract": "Canine mammary tumor (CMT) represents the most frequently diagnosed neoplasm in intact female dogs and exhibits a high malignant rate. The PI3K/AKT pathway critically drives tumor progression, and serves as a target for multiple anti-tumor drugs. In this study, two CMT cell lines (CHMp and CIPm) were employed to assess the impact of lentivirus-mediated PI3K over-expression. Functional assays were performed to evaluate proliferation, migration, and invasion capacities, as well as the expression l",
-      "category": "oncology",
       "summary_ko": ""
     }
   ]
