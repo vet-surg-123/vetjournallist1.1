@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01 01:11 UTC",
+  "updated": "2026-09-01 23:56 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,6 +10,50 @@
     "other": "기타"
   },
   "papers": [
+    {
+      "id": "42679218",
+      "title": "Presentations of idiopathic hemorrhagic diarrhea syndrome in dogs in relation to meteorological factors.",
+      "authors": "Karnstedt M, Asif A, Sibanda TZ, Heilmann RM",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679218/",
+      "abstract": "Causes for idiopathic acute hemorrhagic diarrhea syndrome (AHDS) in dogs remain uncertain. Recent discoveries suggest a role for enterotoxin-producing Clostridium perfringens, but the triggers for toxin production and AHDS onset are unknown. Meteorological factors have not been examined as a possible AHDS trigger. Retrospective case-control study aiming to examine the effects of weather conditions and weather changes on the prevalence of idiopathic AHDS. Dogs (n&#xa0;=&#xa0;412) presented with a",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42679217",
+      "title": "Effect of trilostane treatment on proteinuria secondary to spontaneous hypercortisolism in dogs.",
+      "authors": "Tagliasacchi F, Fracassi F, Poli M, Tomba LD, Golinelli S",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679217/",
+      "abstract": "Proteinuria is reported in 68%-71% of dogs with spontaneous hypercortisolism (HC). The long-term effect of trilostane on HC-associated proteinuria remains poorly documented. To evaluate the efficacy of trilostane on proteinuria in dogs with HC and identify potential clinical, anamnestic, and analytical differences between responders and nonresponders. Retrospective longitudinal cohort study including dogs with proteinuric HC treated exclusively with trilostane. Clinical history and laboratory da",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42678295",
+      "title": "Non-rim-enhancing intracranial abscess in a cat confirmed by MRI and histopathology.",
+      "authors": "Vila Cabaleiro A, Wyatt S, Miller HG, Fitzgerald E, Bertoldi GO",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678295/",
+      "abstract": "",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42677986",
+      "title": "Comparison of Ultrasonographic and Computed Tomographic Features of Parathyroid Glands in Canine Primary Hyperparathyroidism.",
+      "authors": "Neill C, Hoey S, Shorten E, Llabres-Diaz F, Maddox TW",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42677986/",
+      "abstract": "A multicenter retrospective study compared ultrasonographic (US) and computed tomographic (CT) characteristics of parathyroid glands in 20 dogs with histopathological confirmation of primary hyperparathyroidism. Twenty-four glands were diseased (17 adenomas and 7 hyperplastic glands). Two blinded radiologists assessed US and CT studies in two readings. A similar total number of glands was visualized (US 59 and CT 63). Intermodality agreement for identification of the same individual glands was s",
+      "category": "imaging",
+      "summary_ko": ""
+    },
     {
       "id": "42642988",
       "title": "Head and Neck CT Lymphangiography in a Dog With Cutaneous Lymphangiosarcoma.",
@@ -110,6 +154,61 @@
       "summary_ko": ""
     },
     {
+      "id": "42674071",
+      "title": "Rabies surveillance in the United States during 2024.",
+      "authors": "Keshavamurthy R, Boutelle C, Bonaparte S, Gigante CM, Condori RE",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674071/",
+      "abstract": "Describe the epidemiologic landscape of rabies and rabies testing in the US during 2024. Animal rabies testing results from approximately 130 public health, agriculture, and academic laboratories are collected by the US National Rabies Surveillance System (NRSS) each month. Data reported in 2024 were analyzed to examine temporal and geographic trends in animal rabies cases by rabies virus variant (RVV). In 2024, 3,834 cases of animal rabies were reported to the NRSS (4.2% of 90,343 samples submi",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42674009",
+      "title": "Canine parvovirus cases (2010-2023): a retrospective study of 78,977 cases demonstrates declining incidence, but mortality risk remains.",
+      "authors": "Morrison J, George CM, Kollasch TM, Pattee JC, Ryan WG",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674009/",
+      "abstract": "To investigate changes in characteristics of dogs diagnosed with canine parvovirus (CPV) disease presenting to a national network of primary care veterinary hospitals. Records were searched from January 1, 2010, through June 30, 2023. Data were collected on signalment, clinical signs, laboratory results, and mortality for CPV-affected dogs. Variables were assessed via stepwise logistic regression models for association with mortality. Across &gt; 1,000 hospitals, CPV was diagnosed in 78,977 dogs",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42674007",
+      "title": "Retrospective analysis of 68 domestic ferrets with urethral obstruction shows high rate of euthanasia at presentation despite good survival to discharge.",
+      "authors": "O'Malley B, Sadar MJ, Alexander AB, Bercier M",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674007/",
+      "abstract": "To establish a hospital proportional morbidity rate (HPMR) for urethral obstructions (UOs) in domestic ferrets; describe clinical presentation, interventions, and outcomes; and report associations with UO etiologies and survival. In this retrospective, descriptive, epidemiological study, electronic medical records were evaluated from ferrets presenting to 3 academic institutions in the US between 2013 and 2023. Descriptive and bivariate statistical analyses were performed. Parametric and nonpara",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42674003",
+      "title": "Punica granatum peel ethanolic extract exhibits acaricidal activity against Rhipicephalus sanguineus: in vitro and in vivo study.",
+      "authors": "Abouelhassan EM, Farid DS, Ahmed EA, Mohamaden WI, Sallam NH",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42674003/",
+      "abstract": "To evaluate natural, environmentally safe alternatives for controlling hard ticks in response to emerging resistance against commonly used acaricides. Punica granatum peel ethanolic extract (PPE) was prepared and then chemically characterized using liquid chromatography-electrospray ionization-tandem mass spectrometry. The adult immersion test was used to evaluate the in vitro anti-tick activity of PPE at the concentrations of 12.5, 25, 50, 100, and 200 mg/mL. The effect of PPE on tick counts an",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42673999",
+      "title": "Atypical radiographic changes seen in dogs treated with bedinvetmab (Librela).",
+      "authors": "Budsberg SC, Clements DN, Regan DP, Wennemuth J",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673999/",
+      "abstract": "The purpose of this study was to describe adverse clinical and radiographic musculoskeletal findings in dogs treated with bedinvetmab (Librela). Musculoskeletal adverse events in dogs treated with bedinvetmab were obtained from the Zoetis Global Pharmacovigilance database. Case inclusion criteria were adverse event reports that contained a minimum amount of medical information to allow for interpretation of the case along with radiographs or radiology reports. Following initial review, cases wer",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
       "id": "42666034",
       "title": "EXPRESS: Colonization of Helicobacter Species and Associated Gastritis in Cats with Gastrointestinal disease: a Cross-Sectional Study on 154 Cases.",
       "authors": "Immonen TK, Pettersson JM, Vauhkonen H, Palen S, Weinstein I",
@@ -166,7 +265,7 @@
     },
     {
       "id": "42660406",
-      "title": "Impact of Needle-to-Suture Ratio and Suture Diameter on Acute Leakage Pressure in an Ex Vivo Canine Jejunal Enterotomy Model.",
+      "title": "Impact of needle-to-suture ratio and suture diameter on acute leakage pressure in an ex vivo canine jejunal enterotomy model.",
       "authors": "Li S, Zhao X, Guo Y, Yang R, Zhang Y",
       "journal": "Vet J",
       "date": "2026 Aug 27",
@@ -528,61 +627,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42618917",
-      "title": "Morphometric assessment of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade II medial patellar luxation.",
-      "authors": "Barthmann R, Theyse LF",
-      "journal": "BMC Vet Res",
-      "date": "2026 Aug 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42618917/",
-      "abstract": "Medial patellar luxation is a common orthopedic condition in small breed dogs, though its etiology remains poorly understood. The aim of this study was to assess the morphometry of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade 2 medial patellar luxation. This retrospective study evaluated small breed dogs weighing&#x2009;&#x2264;&#x2009;15&#xa0;kg including 80 stifles with Grade 2 MPL and 80 controls. The femoral trochlear length to patellar lengt",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42617661",
-      "title": "Are common clinical protocols prioritizing detection over prevention in canine Dirofilaria immitis?",
-      "authors": "Horvath M",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42617661/",
-      "abstract": "Owner noncompliance, not preventive failure, drives most canine Dirofilaria immitis infections in established patients. Only 24.4% of dogs under care achieve full-year purchase compliance with monthly macrocyclic lactones. Informal data suggest far more practices send annual testing reminders than monthly dosing reminders. The primary goal is continuous chemical protection, not annual detection of prior failures. This viewpoint argues for tracking adherence rates, routine adherence counseling, a",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42617660",
-      "title": "The impact of changing living conditions, pollutants, and climate change on allergic skin disease in our pets: highlighting our interconnectedness.",
-      "authors": "Marsella R",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42617660/",
-      "abstract": "Our pets share our living conditions. Many transformations have occurred over the past few decades, including lifestyle shifts and increased exposure to chemicals, pollution, and climate change. Our pets have left a rural environment to join our urban lifestyle, with a loss of plant and microbial diversity; increased exposure to pollution from car traffic, plastics, and chemicals; and more time spent indoors. Concurrently, they have experienced, with us, the effects of climate-related events, in",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42617659",
-      "title": "Carbapenem-resistant Enterobacterales in companion animals are an emerging One Health threat.",
-      "authors": "Granick JL, Fellman CL, Curren EJ, Funk M, James A",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42617659/",
-      "abstract": "Carbapenem-resistant Enterobacterales (CRE) are an emerging, multidrug-resistant threat to human and animal health. Emergence is driven by antimicrobial use and multidirectional transmission pathways between humans, animals, and the environment. Carbapenems are essential drugs for treatment of multidrug-resistant infections in humans and, although not approved for veterinary use, are infrequently prescribed in dogs and cats in an extralabel manner. In the US, CRE detections in companion animals ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42617653",
-      "title": "Clinical presentation, computed tomographic findings, treatment, and outcome of traumatic jaw fractures in domestic rabbits (Oryctolagus cuniculus): 21 cases (2014-2025).",
-      "authors": "Charrasse M, Hahn H, Phillips K, Boutoille F, Sanchez-Migallon Guzman D",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42617653/",
-      "abstract": "To present clinical features, CT findings, treatment, and outcome for traumatic jaw fractures diagnosed via CT. Medical records from 2014 through 2026 were reviewed, and 21 rabbits with traumatic jaw fractures diagnosed by CT were selected. Among the 21 rabbits that fit the inclusion criteria, trauma sources included involuntary owner-inflicted trauma (n = 10), sofa-related falls or entrapment (3), dog bites (2), post-dental trimming issues (1), trauma with a table (1), fall of cardboard onto th",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42651986",
       "title": "Clinical and Faecal Outcomes in Adult Dogs with Chronic Enteropathy Fed an Hydrolysed Protein Diet with and Without Bacillus velezensis DSM 15544: A Randomised, Double-Blind, Cross-Over Trial.",
       "authors": "Vecchiato CG, Sportelli F, Masiero E, Pinna C, Crisonà M",
@@ -601,61 +645,6 @@
       "date": "2026 Aug 18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651972/",
       "abstract": "Oaxaca is one of the most biocultural diverse regions in Mexico. Although the white-nosed coati (Nasua narica L.; Procyonidae, Mammalia) is widely used by Indigenous and rural communities throughout the Neotropics, its role within subsistence hunting, traditional food systems, and local management practices in Oaxaca has remained undocumented. This study analyzes the biocultural significance of N. narica hunting and consumption among four Indigenous groups in northern Oaxaca. Data were collected",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42613071",
-      "title": "Toxicity of Cytarabine Intravenous Constant Rate Infusion in Cats With Lymphoma.",
-      "authors": "Hanford R, Skorupski KA, Rebhun RB, Brady RV, Al-Nadaf S",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42613071/",
-      "abstract": "Cytarabine intravenous constant rate infusion (IV CRI) toxicity in cats with lymphoma has not been well documented. We aimed to assess toxicities following cytarabine IV CRI as a single-agent or within a multiagent protocol in cats with lymphoma. Medical records of cats with lymphoma treated with cytarabine IV CRI, with documented dose, route, duration and at least one follow-up visit between 1990 and 2024, were retrospectively reviewed. Adverse events (AEs) were retrospectively graded according",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42612706",
-      "title": "Computed Tomographic Measurement of Cementless Total Hip Replacement Implant Orientation.",
-      "authors": "Pink J, Bilmont A",
-      "journal": "Vet Comp Orthop Traumatol",
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612706/",
-      "abstract": "The aim of this study was to describe and assess a technique for the measurement of cementless (BioMedtrix Biologic Fixation [BFX]) total hip replacement implant orientation using computed tomography (CT). Postoperative CT studies of 15 dogs that had total hip replacement with a 24 mm BFX cup and BFX stem were reviewed retrospectively. Multiplanar reconstructed CT images were manipulated to generate standard positions of the pelvis and femur. Open face version, angle of lateral opening (ALO), in",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42612701",
-      "title": "Fixation of proximal humeral Salter-Harris type 1 fractures in a 3-dimensionally printed skeletally immature canine bone model: a biomechanical assessment of fully threaded headless cannulated screws.",
-      "authors": "Hwang TW, Kang E, Kim JM, Kim HY",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612701/",
-      "abstract": "To compare the biomechanical stability of 4 fixation techniques for proximal humeral physeal fractures in skeletally immature canines using 3-D-printed models. This experimental in vitro study was conducted from September 25, 2025, through April 22, 2026. To strictly control biological variability, identical 3-D-printed models of juvenile canine proximal humeral Salter-Harris type 1 fractures (CT-derived from a 6-month-old 26-kg Labrador Retriever) were evaluated across 4 groups: pin and tension",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42612694",
-      "title": "Automated injection improves consistency of brain perfusion parameters in dynamic susceptibility contrast magnetic resonance imaging in dogs in a randomized trial.",
-      "authors": "Eichrodt AM, Leandro AW, Beckmann KM, Dennler M",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612694/",
-      "abstract": "To compare perfusion characteristics in morphologically normal canine brains with dynamic susceptibility contrast (DSC) MRI following manual versus automated contrast medium injection. Client-owned dogs undergoing routine 3-tesla brain MRI protocol including DSC were prospectively enrolled, randomly allocated to manual or automated contrast medium injection between November 2023 and February 2025. Gadoteric acid (0.1 mmol/kg) was injected at weight-dependent rates: 1 mL/s (1 to 5 kg), 2 mL/s (6 ",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42612685",
-      "title": "Most dogs transported to a veterinary teaching hospital are unrestrained during vehicular travel.",
-      "authors": "Steinolfson C, Odunayo A, Ng Z, Stone A, Domaracki C",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612685/",
-      "abstract": "To evaluate the frequency and type of vehicular restraint use in dogs transported to a veterinary teaching hospital and to identify factors associated with restraint use. This prospective, survey-based study was conducted at a veterinary teaching hospital from May 28 to August 2, 2024. Dog owners presenting their dog for emergency, sick, or wellness visits completed a questionnaire regarding transportation practices, including restraint use, type of restraint, travel duration, anxiety level, and",
       "category": "other",
       "summary_ko": ""
     },
@@ -822,6 +811,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651883/",
       "abstract": "Breast cancer is one of the most prevalent malignancies in women worldwide and the most common malignant tumor in unspayed female dogs, highlighting the comparative relevance of this disease across these species. The release of EVs is increased in mammary tumors compared to normal tissue, with the quantity generally correlating with the tumor's histological grade and aggressiveness. EVs carry a varied molecular load, mainly composed of proteins, RNAs, including microRNAs (miRNAs), lipids, and nu",
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42677228",
+      "title": "Factors affecting veterinary perception of the prevalence of back pain and dysfunction in dogs and horses.",
+      "authors": "Lane D, Haussler KK",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42677228/",
+      "abstract": "The prevalence of back pain in humans has been extensively reported, but in dogs it is unknown. In horses, research on the prevalence of back pain exists, but with reports ranging from 1% to 94%, indicating a data deficiency. Veterinarians were surveyed about their perception of the prevalence of back pain and dysfunction in dogs and horses for 6 different clinical scenarios. The respondents' education background and physical examination techniques were recorded. Perceptions of the prevalence of",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42676415",
+      "title": "Computed tomographic features of pulmonary lesions in periarticular versus systemic histiocytic sarcomas in dogs.",
+      "authors": "Folie M, Abdellatif A, Gedon J, Wennemuth J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42676415/",
+      "abstract": "The aim of this retrospective study was to characterize and compare the computed tomographic (CT) appearance of lung lesions in periarticular histiocytic sarcomas (PAHS) and systemic histiocytic sarcomas (HS), identifying potential radiological differences. The medical records of 45 dogs diagnosed with PAHS or systemic HS, undergoing thoracic CT imaging were reviewed. CT images were evaluated for various parameters. Results revealed that pulmonary lesions associated with systemic HS had larger l",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42676414",
+      "title": "Correlation between clinical variables and overall survival time in dogs with multicentric B-cell lymphoma: a retrospective study in Taiwan.",
+      "authors": "Ke CH, Wang SL, Huang WH, Sio KM, Lee JJ",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42676414/",
+      "abstract": "Multicentric B-cell lymphoma (MBCL) is one of the most commonly diagnosed spontaneous hematopoietic malignancies in dogs. However, few studies have characterized dogs with MBCL in Taiwan, and the prognostic value of clinical variables, including clinical substage and treatment response, remains under investigation. This study aimed to characterize canine MBCL in Taiwan and evaluate associations between selected clinical variables and overall survival time (OST). Medical records of 441 dogs diagn",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42676405",
+      "title": "Genomic diversity and novel sequence types of Pasteurella multocida from diverse animal hosts in Connecticut, United States, 2022-2023.",
+      "authors": "Barron J, Soriano NF, Helal ZH, Hyeon JY, Risatti GR",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42676405/",
+      "abstract": "Pasteurella multocida is a zoonotic pathogen infecting a wide range of domestic and wild animals. Although genomic data are available for several domestic hosts, isolates from wildlife remain underrepresented. Here, we performed whole-genome sequencing of nine P. multocida isolates recovered in Connecticut between 2022 and 2023 from cows, a deer, a rabbit, a cat, and a pheasant to characterize their genetic features and enhance our understanding of the host-associated diversity. All isolates exc",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -1075,39 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42620936/",
       "abstract": "Malassezia pachydermatis is an opportunistic yeast associated with otitis externa and dermatitis in dogs. Despite reduced susceptibility to azole antifungals has increasingly been reported in M. pachydermatis, the molecular mechanisms underlying azole stress responses in this species remain poorly understood. In this study, we investigated the global transcriptional response of two M. pachydermatis isolates with different ketoconazole minimum inhibitory concentration values following short-term ",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42620618",
-      "title": "Evaluating cone-beam computed tomography vs. intraoral radiography for the detection of endodontal disease in dogs: diagnostic performance and inter-rater agreement.",
-      "authors": "Bonacini S, Goldschmidt S, Arzi B, Vapniarsky N, Lommer M",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42620618/",
-      "abstract": "The comparative diagnostic utility of cone-beam computed tomography (CBCT) and intraoral dental radiography (IDR) for endodontal disease in dogs remains unclear. Accordingly, this study evaluated both imaging modalities against histopathologic findings as the gold standard. In this prospective observational study, client-owned dogs undergoing evaluation for suspected endodontal disease were imaged with both CBCT and IDR under general anesthesia. Forty-six teeth from 16 dogs were included. Four r",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42620570",
-      "title": "PI3K over-expression drives canine mammary tumor progression.",
-      "authors": "Chen R, Liu S, Li J, Huang X, Li Y",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42620570/",
-      "abstract": "Canine mammary tumor (CMT) represents the most frequently diagnosed neoplasm in intact female dogs and exhibits a high malignant rate. The PI3K/AKT pathway critically drives tumor progression, and serves as a target for multiple anti-tumor drugs. In this study, two CMT cell lines (CHMp and CIPm) were employed to assess the impact of lentivirus-mediated PI3K over-expression. Functional assays were performed to evaluate proliferation, migration, and invasion capacities, as well as the expression l",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42609759",
-      "title": "Chronic intestinal pseudo-obstruction secondary to intestinal leiomyositis in a ragdoll cat.",
-      "authors": "Lau CWW, Hope A, Donnelly E",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42609759/",
-      "abstract": "A 1-year-old neutered male neutered Ragdoll cat was presented with a 4-week history of hyporexia, intermittent diarrhoea and weight loss. Initial imaging revealed a varying degree of distension of the intestinal loops by echoic fluid/gas and some loops had hyperechoic content with marked echo shadowing. Exploratory laparotomy was recommended but declined. Subsequent clinical deterioration prompted further investigation with CT scan revealing severe dilation of the intestine which was deemed like",
-      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
