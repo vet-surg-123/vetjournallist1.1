@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31 00:21 UTC",
+  "updated": "2026-09-01 01:11 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,6 +10,17 @@
     "other": "기타"
   },
   "papers": [
+    {
+      "id": "42642988",
+      "title": "Head and Neck CT Lymphangiography in a Dog With Cutaneous Lymphangiosarcoma.",
+      "authors": "Bleuet J, Auffret V, Martin E, Paquet M, Murphy M",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42642988/",
+      "abstract": "A 9-year-old neutered male Australian Cattle Dog presented for severe, extensive, and progressive swelling of the neck and face. CT lymphangiography (CTL) of the head and neck demonstrated cervical lymphedema with imaging features of mid-cervical lymphatic obstruction, regional lymphatic leakage, and local lymphadenopathy. A final diagnosis of lymphangiosarcoma was obtained by histopathology, postulated to be the origin of the lymphatic obstruction. To the author's knowledge, this is the first d",
+      "category": "imaging",
+      "summary_ko": ""
+    },
     {
       "id": "42624280",
       "title": "Tail wounds in military working dogs: Clinical characterization and a randomized sham-controlled trial of photobiomodulation.",
@@ -656,17 +667,6 @@
       "date": "2026 Aug 17",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651971/",
       "abstract": "This study aims to describe the clinical presentation, treatment and outcomes of cats diagnosed with spontaneous hemoperitoneum and to identify factors associated with survival to discharge. Medical records from 2005 to 2024 were searched and data was reviewed retrospectively. Clinical, diagnostic and treatment variables were evaluated for their association with survival to discharge. Seventy-three cats were included. The most common presenting clinical signs at diagnosis were lethargy, hyporexi",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42608000",
-      "title": "Preclinical Cyclic Testing of Adjunctive Fixation of the Humeral Epicondyle in a Lateral Condylar Fracture Model: Ex Vivo Comparison of a Locking Plate versus a Light-curable Composite.",
-      "authors": "Quinn R, Höglund OV, Hutchinson DJ, Papini L, Tesfaye Ayane A",
-      "journal": "Vet Comp Orthop Traumatol",
-      "date": "2026 Aug 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42608000/",
-      "abstract": "To compare the mechanical performance under cyclic loading of a biocompatible light-curable composite formed from two traizine-trione resin monomers and hydroxyapatite construct (AdhFix) against a standard locking plate used as adjunctive epicondylar stabilization in a simulated lateral condylar humeral fracture model. Cadaveric biomechanical assessment. Paired canine cadaver humeri were used to simulate lateral condylar humeral fractures. All constructs were stabilized with a transcondylar 4.5&",
       "category": "orthopedics",
       "summary_ko": ""
     },
