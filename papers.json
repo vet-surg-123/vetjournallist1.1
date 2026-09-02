@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01 23:56 UTC",
+  "updated": "2026-09-02 23:59 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,6 +10,17 @@
     "other": "기타"
   },
   "papers": [
+    {
+      "id": "42680555",
+      "title": "Combination of Hypofractionated Radiation Therapy and Gilvetmab for the Treatment of Cutaneous or Subcutaneous Mast Cell Tumours in Dogs.",
+      "authors": "Martin TW, Thamm DH, Weishaar KM",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42680555/",
+      "abstract": "Gilvetmab is a caninised monoclonal antibody against canine PD-1. Concurrent or sequential administration of anti-PD-1 antibodies and radiation therapy (RT) improves survival time in various species. Eighteen dogs with mast cell tumours (MCTs) were prospectively treated with 24&#x2009;Gy of RT over Days 0, 7 and 21 and gilvetmab every 2&#x2009;weeks beginning on the second fraction of RT (Day 7) for up to 10 doses. Best tumour response was complete in one (6%), partial in eight (44%) and stable ",
+      "category": "internal",
+      "summary_ko": ""
+    },
     {
       "id": "42679218",
       "title": "Presentations of idiopathic hemorrhagic diarrhea syndrome in dogs in relation to meteorological factors.",
@@ -605,17 +616,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42622352",
-      "title": "EXPRESS: Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitis.",
-      "authors": "Knies M, Hofman N, Jackson-Onis J, Broens EM, Teske E",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Aug 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42622352/",
-      "abstract": "To evaluate the agreement of a commercially available point-of-care FCoV RT-qPCR assay and external laboratories RT-qPCR testing in cats with effusive and non-effusive FIP, and in cats with other diseases presenting with similar clinical signs. Client-owned cats suspected of FIP were enrolled with owner consent. Effusions and ultrasound-guided fine-needle aspirates (FNAs) from liver, spleen, or mesenteric lymph nodes were collected, split, and analysed using both a point-of-care RT-qPCR and an e",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
       "id": "42651994",
       "title": "Effects of Replacing Dietary Fishmeal with Enzyme-Treated Soybean Protein on Growth Performance, Serum Biochemical Indices, Antioxidant, Digestive Enzyme Activities, Intestinal Barrier Integrity and Relative mRNA Expression Levels of Juvenile Largemouth Bass (Micropterus salmoides).",
       "authors": "Dong X, Guo J, Xu H, Xiong P, Li L",
@@ -811,6 +811,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651883/",
       "abstract": "Breast cancer is one of the most prevalent malignancies in women worldwide and the most common malignant tumor in unspayed female dogs, highlighting the comparative relevance of this disease across these species. The release of EVs is increased in mammary tumors compared to normal tissue, with the quantity generally correlating with the tumor's histological grade and aggressiveness. EVs carry a varied molecular load, mainly composed of proteins, RNAs, including microRNAs (miRNAs), lipids, and nu",
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42682558",
+      "title": "Short-term effects of pimobendan in dogs with preclinical myxomatous mitral valve disease.",
+      "authors": "Apolloni I, Oricco S, Crosara S, Cavalleri G, Poggi M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682558/",
+      "abstract": "Pimobendan has been shown to delay the onset of congestive heart failure and prolong survival in dogs affected by myxomatous mitral valve disease (MMVD). However, little information is available regarding its short-term echocardiographic effects in dogs with preclinical disease. The aim of this prospective multicenter observational study was to evaluate the effect of pimobendan on selected echocardiographic indices after 7 days of therapy in dogs with American College of Veterinary Internal Medi",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42682494",
+      "title": "\"It's just one piece of the puzzle…\": practitioners' perspectives on the use of sterilisation in the management of free-roaming dog populations.",
+      "authors": "Collinson A, Brennan ML, Dean RS, Stavisky J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682494/",
+      "abstract": "Surgical sterilisation is a common approach to managing free-roaming dog (FRD) populations, used predominantly with the aim of reducing or stabilising the population. However, monitoring and evaluation of the impacts of such programmes is limited and there can be a tendency to equate numbers of dogs sterilised with success. The aim of this study was to examine practitioners perspectives on the role of sterilisation in managing FRD populations, including insights into its perceived benefits and l",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1085,28 +1107,6 @@
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42626406/",
       "abstract": "Psychometric questionnaires are used to assess canine temperament, aiding in the identification of behavioral and affective traits. Impulsivity, defined as a predisposition toward rapid, unplanned reactions to internal or external stimuli, is one such trait and is considered a contributing factor in various behavioral problems, including aggression. This study aimed to translate and validate the Dog Impulsivity Assessment Scale (DIAS) for use in German-speaking populations. Data from 2,788 dog-c",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42622030",
-      "title": "Effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, and oxidative stress in dogs with naturally occurring cardiac disease.",
-      "authors": "Kim DY, Park HM",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42622030/",
-      "abstract": "Cardiac diseases such as myxomatous mitral valve disease (MMVD) and dilated cardiomyopathy (DCM) are common in dogs and are associated with progressive cardiac dysfunction and increased oxidative stress. Despite the widespread use of nutraceuticals in veterinary medicine, clinical evidence supporting their efficacy remains limited. This study aimed to evaluate the effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, oxidative stress, and safety i",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42620936",
-      "title": "Global transcriptomic response of Malassezia pachydermatis isolates under ketoconazole-induced stress.",
-      "authors": "Domán M, Wehmann E, Makrai L, Fehér E, Magyar T",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42620936/",
-      "abstract": "Malassezia pachydermatis is an opportunistic yeast associated with otitis externa and dermatitis in dogs. Despite reduced susceptibility to azole antifungals has increasingly been reported in M. pachydermatis, the molecular mechanisms underlying azole stress responses in this species remain poorly understood. In this study, we investigated the global transcriptional response of two M. pachydermatis isolates with different ketoconazole minimum inhibitory concentration values following short-term ",
       "category": "other",
       "summary_ko": ""
     }
