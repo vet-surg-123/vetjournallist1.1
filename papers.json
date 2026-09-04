@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02 23:59 UTC",
+  "updated": "2026-09-04 00:00 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,6 +10,105 @@
     "other": "기타"
   },
   "papers": [
+    {
+      "id": "42687403",
+      "title": "World Small Animal Veterinary Association global dental guidelines.",
+      "authors": "Niemiec B, Gawor J, Nemec A, Chandler M, Mestrinho LA",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687403/",
+      "abstract": "Dental, oral and maxillofacial diseases are the most common conditions seen in small animal veterinary practice. They may not only create significant pain but also infection. As such, the World Small Animal Veterinary Association believes that un- and undertreated oral and dental diseases pose a significant animal welfare concern. Dentistry is an area of veterinary medicine, which is still undertaught and thus is subject to many myths and misconceptions. Effective teaching of veterinary dentistr",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42687370",
+      "title": "Clinical findings and outcomes of juvenile-onset chronic kidney disease of unknown aetiology in dogs: a retrospective study of 36 cases (2010-2023).",
+      "authors": "Miyakawa H, Nakano M, Ishizaka M, Miyagawa A, Miyagawa Y",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687370/",
+      "abstract": "To describe the clinical findings and outcomes of juvenile-onset chronic kidney disease of unknown aetiology in dogs. This retrospective study included 36 client-owned dogs under 3&#x2009;years of age with chronic kidney disease. In the observational cohort study, the signalment and clinicopathology findings in the dogs (n&#x2009;=&#x2009;36) were described. A longitudinal analysis (n&#x2009;=&#x2009;28) was performed to investigate the time to chronic kidney disease progression and death. The r",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42685794",
+      "title": "Comparing Implant Removal Rates After Tibial Plateau Leveling Osteotomy Performed on a Mobile Service versus in a Specialist Orthopaedic Surgery Center: 916 Cases.",
+      "authors": "Hayes SN, Franklin AL, Franklin SP",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Sep 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685794/",
+      "abstract": "The aim of this retrospective cohort study was to compare implant removal rate after tibial plateau leveling osteotomy (TPLO) was performed by a single surgeon on a mobile service versus in an orthopaedic exclusive surgical centre (\"in-centre\"). Records for 916 TPLO performed either on a mobile basis or in-centre were reviewed including whether the implants were subsequently removed. Marginal logistic regression model was used to compare implant removal rates between the two cohorts and based up",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42685771",
+      "title": "Skin fragility in a 12-year-old domestic shorthair cat.",
+      "authors": "Athayde CO, Hartmann G, Bandinelli MB, Pöppl ÁG, Pavarini SP",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685771/",
+      "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42685768",
+      "title": "Comparing compressed 2-dose and 3-dose melarsomine protocols in the era of adjunctive therapy: a randomized clinical trial of 168 dogs with heartworm disease.",
+      "authors": "Jacobson LS, Dyer JL, Van Vlake A, DiGangi BA, Horowitz MA",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685768/",
+      "abstract": "To test the hypothesis that, when used with doxycycline, moxidectin, and prednisone, 2-dose melarsomine would be as safe and effective as 3-dose melarsomine. A randomized clinical trial was conducted from April 2024 to December 2025, comparing compressed 2-dose and 3-dose melarsomine protocols. Dogs with Class 1 or 2 heartworm disease received sustained-release moxidectin, doxycycline, prednisone, and 2 or 3 injections of melarsomine. Melarsomine was administered on days 14 and 15 (2-dose group)",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42685790",
+      "title": "Exchangeable copper concentration and 3-kilodalton ultrafiltered urinary copper measurements are successfully adapted and partially validated in dogs.",
+      "authors": "Chuang WH, Cavasin JP, Fosgate GT, Tinoco-Nájera A, Dröes FC",
+      "journal": "Am J Vet Res",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685790/",
+      "abstract": "To adapt and partially validate the accuracy and precision of serum exchangeable copper and 3-kDa ultrafiltered urinary copper concentrations as an analytical prerequisite to investigate the clinical utility of relative exchangeable copper and urinary small copper carrier-to-creatinine ratio as noninvasive biomarkers in dogs with copper-associated hepatitis. Serum exchangeable copper and 3-kDa ultrafiltered urinary copper concentrations of surplus samples of dogs submitted for diagnostic purpose",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42685339",
+      "title": "A SINE-like insertion in intron 13 of the ATP7A gene is associated with a mild form of Menkes-like disease in a Cavalier King Charles Spaniel.",
+      "authors": "Fulton EA, Schwarz C, Jagannathan V, Leeb T, Gutierrez-Quintana R",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685339/",
+      "abstract": "A 7-month-old intact male Cavalier King Charles Spaniel was presented for persistent glucosuria despite normoglycemia, failure to thrive, chronic diarrhea, and cerebellar ataxia. Fanconi syndrome was diagnosed, but the neurologic abnormalities were not fully explained. As a consequence of the early onset Fanconi syndrome, a hereditary process was suspected. Whole genome sequencing identified a private hemizygous SINE-like insertion into the ATP7A gene, at the end of intron 13, near the start of ",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42685338",
+      "title": "Subcutaneous ureteral bypass explantation in 21 cats (2015-2023): outcomes and owner perceptions.",
+      "authors": "Broughton SE, Frykfors von Hekkel A, Rossanese M, Rutherford L, Geddes RF",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685338/",
+      "abstract": "Subcutaneous ureteral bypass (SUB) can be an effective treatment for ureteral obstruction in cats, but SUB explantation is little documented. Describe reasons for SUB explantation, outcomes, and owner experiences. We hypothesized that explantation would be effective in managing common SUB-related complications. Twenty-one cats (31 SUBs) that underwent 29 explantations. Retrospective case-series of cats undergoing explantation between 2015 and 2023 with medical record review and 20 owners emailed",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42685337",
+      "title": "Phenotypic features of paroxysmal dyskinesia in Dachshund dogs: 62 cases (2017-2025).",
+      "authors": "Boyd B, Corsini G, Polidoro D, Bhatti SFM, Grapes N",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685337/",
+      "abstract": "Paroxysmal dyskinesia (PxD) has not been characterized in Dachshunds. Describe the phenotype, treatment, and outcome of PxD in Dachshunds. Sixty-two Dachshunds with presumptive PxD. Observational, retrospective, multicenter study of dogs diagnosed with PxD between 2017 and 2025, with prospective information using an owner questionnaire. Median age at presentation was 3.2&#xa0;years (range, 1-11&#xa0;years). Episodes were characterized by shifting (55/62; 88.7%), single (4/62; 6.5%) limb or cervi",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
     {
       "id": "42680555",
       "title": "Combination of Hypofractionated Radiation Therapy and Gilvetmab for the Treatment of Cutaneous or Subcutaneous Mast Cell Tumours in Dogs.",
@@ -74,17 +173,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42642988/",
       "abstract": "A 9-year-old neutered male Australian Cattle Dog presented for severe, extensive, and progressive swelling of the neck and face. CT lymphangiography (CTL) of the head and neck demonstrated cervical lymphedema with imaging features of mid-cervical lymphatic obstruction, regional lymphatic leakage, and local lymphadenopathy. A final diagnosis of lymphangiosarcoma was obtained by histopathology, postulated to be the origin of the lymphatic obstruction. To the author's knowledge, this is the first d",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42624280",
-      "title": "Tail wounds in military working dogs: Clinical characterization and a randomized sham-controlled trial of photobiomodulation.",
-      "authors": "Fishelson Y, Hirschberg RE, Raizman R, Zori T, Olshinka N",
-      "journal": "Vet J",
-      "date": "2026 Oct",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42624280/",
-      "abstract": "Tail wounds in military working dogs (MWDs) are a clinically significant and challenging condition characterized by recurrent trauma and delayed healing. Photobiomodulation (PBM) has been proposed as a non-invasive therapy to enhance wound repair. To characterize the clinical presentation of tail wounds in MWDs and to evaluate the effect of PBM as an adjunctive treatment. This prospective study included an observational cohort of 21 active MWDs (age 4.1&#x202f;&#xb1;&#x202f;2.2 years; 95% male; ",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -440,50 +528,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42632482",
-      "title": "Comparative image-based evaluation of deep learning models for the diagnosis of different ocular diseases in cats.",
-      "authors": "Canatan VA, Canatan U, Sancaktar GK, Ci̇ci̇oğlu M, Turgut F",
-      "journal": "Vet J",
-      "date": "2026 Aug 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42632482/",
-      "abstract": "Ocular pathologies are a leading cause of visual impairment in cats and require accurate, timely diagnosis for effective treatment. This study aimed to comparatively evaluate the performance of different deep learning (DL) architectures for the automated identification and classification of feline ophthalmic disease. A dataset of 456 clinically validated ocular images, spanning 13 classes (12 ocular diseases and a healthy group), was used to train nine convolutional neural network (CNN) architec",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42632479",
-      "title": "Seroprevalence, epidemiological factors, and spatial patterns of exposure to Trypanosoma cruzi in urban cats in Maceió, Northeastern Brazil.",
-      "authors": "Costa ICD, Santos LMRD, Castilho AP, Pinto GLR, Santos VMSD",
-      "journal": "Vet J",
-      "date": "2026 Aug 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42632479/",
-      "abstract": "Domestic cats have been recognized as potential environmental sentinels for zoonoses due to their proximity to human populations, wide distribution in urban environments, and exposure to multiple pathogen transmission routes. In the context of Chagas disease, however, studies assessing serological exposure in cats in urban areas of Northeastern Brazil remain scarce. Thus, this study aimed to estimate the seroprevalence of anti-Trypanosoma cruzi IgG antibodies and to describe spatial patterns of ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42630097",
-      "title": "Clinical Behaviour and Outcome of Pelvic Osteosarcoma in Dogs: A Retrospective Multicentre Analysis of 74 Cases (2007-2025).",
-      "authors": "Fejös C, Czichon F, Griffin M, Grillo N, Fournier Q",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Aug 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42630097/",
-      "abstract": "Although osteosarcoma is the most common primary bone tumour in dogs, involvement of the pelvic bones is rare. The aim of the present study was to describe clinical presentation, identify possible prognostic factors, and evaluate outcomes in dogs diagnosed with pelvic osteosarcoma. Seventy-four dogs with cytologically or histologically diagnosed pelvic osteosarcoma were included in this multicentre retrospective study (2007-2025). The median progression-free survival (PFS) and overall survival (",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42628713",
-      "title": "Effects of caloric restriction and different diet types on weight loss, metabolic profile and behavior of overweight and obese dogs.",
-      "authors": "de Macêdo LM, Dos Santos GR, Ramos GC, Neto EP, Mangabeira EL",
-      "journal": "Vet J",
-      "date": "2026 Aug 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42628713/",
-      "abstract": "The nutritional composition of the diet and food choices can influence weight loss program outcomes, although caloric deficit remains the main strategy for reducing body fat. This study compared weight loss, hematological parameters, biochemical profile, and behavior of overweight and obese dogs (n&#x202f;=&#x202f;34) fed under caloric restriction using commercial dry food (n&#x202f;=&#x202f;9), homemade food (n&#x202f;=&#x202f;9), or mixed feeding (n&#x202f;=&#x202f;16). Each dog was monitored ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42652034",
       "title": "Incidence of Infective Endocarditis in Dogs After Balloon Dilatation of Congenital Pulmonic Stenosis Without Peri- and Postoperative Antimicrobial Prophylaxis.",
       "authors": "Zeedijk DI, Szatmári V",
@@ -539,28 +583,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42633770",
-      "title": "Weekly terminal cleaning is recommended to maintain low airborne bacterial counts in operating rooms.",
-      "authors": "Pankowski A, Jeffery N, Wendler K, Douglas P, Rogovsky AS",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42633770/",
-      "abstract": "To identify the maximum recommended duration between terminal cleaning events in small animal veterinary operating rooms (ORs) and explore factors contributing to increased airborne microbial load. An observational study using agar settle plates was completed to measure the Index of Microbial Air contamination (IMA) across ORs in a veterinary teaching hospital over a 2-year period. Plates were exposed for 60 minutes during surgeries and incubated for 48 hours to measure IMA. The median IMA for 1",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42624277",
-      "title": "Underlying causes of thrombocytopenia in dogs from a Mediterranean mixed primary and referral hospital in Barcelona: A retrospective cross-sectional study of 266 cases.",
-      "authors": "Carrasco M, Clanxet J, Feo L, Puig J",
-      "journal": "Vet J",
-      "date": "2026 Aug 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42624277/",
-      "abstract": "Thrombocytopenia is common in dogs and has a wide range of underlying causes, including vector-borne infectious diseases, the relative frequency of which may vary geographically. This retrospective cross-sectional study aimed to characterise the causes and clinicopathological features of thrombocytopenia in a hospital-based cohort of dogs evaluated at a mixed primary and referral veterinary hospital in Barcelona, Spain, and to identify differences across diagnostic categories, particularly those",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "42652017",
       "title": "Geographical Distribution and Molecular Characterization of Dirofilaria spp. in Dogs Across Kazakhstan.",
       "authors": "Almysheva T, Uakhit R, Smagulova A, Sembaeva Z, Lider L",
@@ -591,28 +613,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42633785/",
       "abstract": "To derive a formula to estimate urine osmolality (Uosm) in dogs with urine sodium, potassium, glucose, and urea nitrogen and to compare the performance of the derived formula with published formulae. A prospective observational study was conducted using purpose-bred Beagles housed at a university research facility. Healthy dogs, confirmed by physical examination and laboratory testing, received isotonic or hypotonic IV fluids in a randomized sequence for 48 hours, with a 10-day washout period be",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42624279",
-      "title": "Lesion distribution based on oral biopsy and histopathology in dogs: A retrospective study of 338 cases (2015-2025).",
-      "authors": "Kim CG, Jeong KJ, Kim J, Vapniarsky N, Kang SS",
-      "journal": "Vet J",
-      "date": "2026 Aug 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42624279/",
-      "abstract": "The histopathologic spectrum of canine oral lesions can vary significantly by geographic region and breed demographics. This retrospective study aimed to characterize the distribution of 338 biopsy-confirmed canine oral masses in the Republic of Korea, where small-breed dogs predominate. Lesions were categorized into tumor-like, benign, and malignant groups. Clinicopathologic features and anatomical distributions were compared. Tumor-like (non-neoplastic) lesions accounted for 52.7% of all cases",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42624276",
-      "title": "Mesenchymal stem cells in veterinary clinical practice: Evidence from naturally occurring diseases.",
-      "authors": "Zayed M, Jeong BH",
-      "journal": "Vet J",
-      "date": "2026 Aug 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42624276/",
-      "abstract": "Over the past two decades, the use of mesenchymal stem cells (MSCs) in veterinary medicine has expanded rapidly, although the clinical evidence remains in its early stages. This review discusses clinical studies involving client-owned animals with naturally occurring diseases in which MSCs or MSC-derived extracellular vesicles (EVs) were used as treatments. It covers musculoskeletal disorders, including osteoarthritis, tendon and ligament injuries, and bone diseases; soft-tissue and oral mucosal",
-      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -811,6 +811,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651883/",
       "abstract": "Breast cancer is one of the most prevalent malignancies in women worldwide and the most common malignant tumor in unspayed female dogs, highlighting the comparative relevance of this disease across these species. The release of EVs is increased in mammary tumors compared to normal tissue, with the quantity generally correlating with the tumor's histological grade and aggressiveness. EVs carry a varied molecular load, mainly composed of proteins, RNAs, including microRNAs (miRNAs), lipids, and nu",
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42689095",
+      "title": "Mode-dependent differences in kinetic and selected temporospatial gait parameters in healthy cats walking on a pressure-sensitive treadmill: a pilot study.",
+      "authors": "Mille MA, Weissig D, Dobenecker B, Mille EB, Zablotski Y",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42689095/",
+      "abstract": "Standardized and repeatable assessment of feline gait remains challenging, highlighting the need for controlled measurement systems such as pressure-sensitive treadmills. This study aimed to compare kinetic and temporospatial gait parameters in healthy cats walking on a treadmill operated in standing vs. running mode. We hypothesized that no significant differences would be observed between modes. Ten healthy adult cats were enrolled in a prospective, controlled crossover study. Inclusion criter",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42688045",
+      "title": "Common recorded diagnoses in purebred vs. mixed-breed dogs: a multivariable analysis of primary-care electronic medical records in South Korea.",
+      "authors": "Yang I, Kim AY, Baek JS, Ku B, Jeong HJ",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42688045/",
+      "abstract": "In South Korea, the companion-dog population is strongly skewed toward a small number of small-breed purebred dogs, and distinguishing breed-type differences in recorded diagnoses from confounding by age, neuter status, and healthcare utilization is challenging in primary-care data. This retrospective study used electronic medical records (EMRs) from primary-care veterinary clinics in South Korea, covering January 2016-December 2024, to compare the adjusted odds of the 20 most frequently recorde",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42688043",
+      "title": "A multicenter, retrospective, cross-sectional analysis of fresh and processed Vitis vinifera (grape) ingestion in dogs and cats.",
+      "authors": "Altman KD, Kamat TA, Leicester L, Fraser T, Singleton DA",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42688043/",
+      "abstract": "Vitis vinifera fruits are common household toxicants and domestic pets are often presented to veterinarians following exposure due to risk of acute kidney injury. To develop a regular expression-based method for identifying cases of Vitis vinifera fruit ingestion in electronic health records and to use this dataset to compare outcomes between fresh and processed exposures in canines and felines. Secondary aims were to characterize differences in outcome by species, demographics, seasonality, cho",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42687958",
+      "title": "Physical simulation models for veterinary surgical training: a systematic review.",
+      "authors": "Salas-Guerra J, Sánchez-Margallo JA, Durán-Rey D, Sánchez-Margallo FM",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42687958/",
+      "abstract": "Simulation has become an increasingly important educational strategy in veterinary surgical training. This is driven by ethical considerations, the need to standardize skill acquisition, and limitations associated with training based on live animals and cadavers. However, the characteristics, scope, and validation of simulators used in veterinary surgery remain heterogeneous and insufficiently systematized. This study aimed to systematically review and characterize the simulators used in veterin",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1064,50 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42638830/",
       "abstract": "Traditional follow-up methods in small animal orthopedic surgery are primarily passive. These methods have been shown to result in only moderate owner adherence, and their value has been questioned in recent years. In human medicine, active surveillance has been demonstrated to consistently outperform passive methods in detecting adverse events. Our goal was to obtain preliminary data on the utility of active surveillance after tibial plateau leveling osteotomy (TPLO) for detecting patellar tend",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42631010",
-      "title": "Development and validation of a Quality of Life and Treatment Satisfaction measure in feline osteoarthritis.",
-      "authors": "Gildea E, Thompson J, Cook A, Skingley G, Findley A",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42631010/",
-      "abstract": "Osteoarthritis (OA) in cats causes pain and mobility impairment, negatively impacting quality of life (QoL) of cats and their owners. Owner-perceived treatment satisfaction can influence treatment adherence and subsequent health outcomes for the cat. Currently, no OA-specific instrument for cats assesses all three concepts. This study aimed to address this gap by developing and psychometrically evaluating an owner-completed feline OA-specific measure-the \"Feline OA Quality of Life and Treatment ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42630792",
-      "title": "A simplified feline phantom and Monte-Carlo simulation can be used to evaluate radiation exposure to veterinary staff during [(211)At]NaAt treatment.",
-      "authors": "Sakashita T, Onuma K, Sugasawa A, Sasaki I, Sasaki F",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42630792/",
-      "abstract": "Targeted alpha therapy using 211At offers high therapeutic efficacy with relatively low occupational radiation exposure. However, in veterinary medicine, staff exposure-particularly during close animal handling-remains insufficiently evaluated. We quantitatively evaluated external occupational radiation exposure to veterinary staff during simulated clinical use of 211At-labeled radiopharmaceuticals, utilizing dose measurements and numerical simulations based on a feline phantom model. A spherica",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42626410",
-      "title": "Association between echogenicity of ascites and its classification in dogs.",
-      "authors": "Biondo S, Jakovljevic S, Pascual M, Fernandez M, Fayers B",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42626410/",
-      "abstract": "Ascites in dogs results from a range of systemic and localized disorders. Early distinction between transudative and exudative peritoneal effusions, and between septic and non-septic exudates, is crucial for guiding emergency interventions and treatment strategies. To evaluate the relationship between echogenicity of ascites and results of fluid analysis, and to determine whether echogenicity can help differentiate transudates from exudates. Retrospective study including 100 client-owned dogs wi",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42626406",
-      "title": "Measuring canine impulsivity: translation and validation of a German dog impulsivity assessment scale.",
-      "authors": "Kero D, Dolezal M, Affenzeller N",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42626406/",
-      "abstract": "Psychometric questionnaires are used to assess canine temperament, aiding in the identification of behavioral and affective traits. Impulsivity, defined as a predisposition toward rapid, unplanned reactions to internal or external stimuli, is one such trait and is considered a contributing factor in various behavioral problems, including aggression. This study aimed to translate and validate the Dog Impulsivity Assessment Scale (DIAS) for use in German-speaking populations. Data from 2,788 dog-c",
-      "category": "other",
       "summary_ko": ""
     }
   ]
