@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 00:00 UTC",
+  "updated": "2026-09-04 23:53 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,6 +10,17 @@
     "other": "기타"
   },
   "papers": [
+    {
+      "id": "42692147",
+      "title": "Prevalence, risk factors and outcome of acute thoracic and lumbar myelopathies in non-chondrodystrophic dogs.",
+      "authors": "Comesaña A, de la Fuente C, Viu J, Añor S",
+      "journal": "Vet J",
+      "date": "2026 Sep 3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42692147/",
+      "abstract": "Acute thoracolumbar myelopathies are a common reason for consultation in veterinary neurology; however, the actual prevalence of the different diseases responsible for myelopathic signs in non-chondrodystrophic (NCD) dogs remains unknown. This retrospective, single-center study aimed to determine the prevalence and risk factors of diseases causing acute thoracic and lumbar myelopathies in NCD dogs. In addition, the relationship between prognostic factors, final diagnosis and neurological grade a",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
     {
       "id": "42687403",
       "title": "World Small Animal Veterinary Association global dental guidelines.",
@@ -63,6 +74,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685768/",
       "abstract": "To test the hypothesis that, when used with doxycycline, moxidectin, and prednisone, 2-dose melarsomine would be as safe and effective as 3-dose melarsomine. A randomized clinical trial was conducted from April 2024 to December 2025, comparing compressed 2-dose and 3-dose melarsomine protocols. Dogs with Class 1 or 2 heartworm disease received sustained-release moxidectin, doxycycline, prednisone, and 2 or 3 injections of melarsomine. Melarsomine was administered on days 14 and 15 (2-dose group)",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42691613",
+      "title": "Post-marketing safety monitoring of sodium-glucose cotransporter 2 inhibitors for diabetes in cats: a pharmacovigilance study based on the FDA ADAE database.",
+      "authors": "Lai X, Chen M, Huang Y, Cheng Y",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691613/",
+      "abstract": "Bexagliflozin and velagliflozin are currently the only sodium-glucose cotransporter 2 inhibitors approved by the United States Food and Drug Administration (FDA) for treating diabetes in cats. There are limited real-world safety reports on their associated adverse events (AEs). To analyze AEs associated with bexagliflozin and velagliflozin using real-world data from the FDA Animal Drug Adverse Events (ADAE) database. None. AE reports submitted for cats receiving bexagliflozin and velagliflozin. ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42691612",
+      "title": "Evaluation of basal cortisol and the adrenocorticotropic hormone stimulation test in 982 dogs undergoing investigation for hypoadrenocorticism.",
+      "authors": "Da Silva AJ, Barton SA, Shiel RE, Mooney CT",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691612/",
+      "abstract": "The adrenocorticotropic hormone (ACTH) stimulation test is the gold standard test for diagnosing hypoadrenocorticism. However, basal cortisol is recommended for screening but fails to consider the effect of analytical variation and previous glucocorticoid therapy on test performance and additional information that a stimulation test could provide. To investigate the effect of varied cut-offs and previous glucocorticoid therapy on the diagnostic performance of basal cortisol and whether ACTH stim",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -151,6 +184,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42678295/",
       "abstract": "",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42693626",
+      "title": "2026 iCatCare consensus guidelines on the diagnosis and management of chronic kidney disease in cats.",
+      "authors": "Taylor S, Finch N, Caney S, Elliott J, Geddes R",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693626/",
+      "abstract": "Chronic kidney disease (CKD) is common in senior cats. Early diagnosis can facilitate interventions to slow progression and minimise clinical signs. Management according to the International Renal Interest Society (IRIS) staging system for CKD can lead to prolonged survival and an excellent quality of life for affected cats. The '2026 iCatCare consensus guidelines on the diagnosis and management of chronic kidney disease in cats' provide information on the pathogenesis of CKD, guidance on making",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -517,17 +561,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42633879",
-      "title": "A low dose of dexmedetomidine reduces behavioral activity and visual attention to aggressive faces in dogs.",
-      "authors": "Törnqvist H, Koskela A, Somppi S, Vainio O, Lyyra P",
-      "journal": "Vet J",
-      "date": "2026 Aug 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42633879/",
-      "abstract": "Dexmedetomidine is widely used for sedation and alleviation of fear and anxiety in dogs, but its effects on cognitive processes are not known. We studied the effect of a low dose of dexmedetomidine on dogs' gazing behavior while they observed images of emotional facial expressions of conspecifics. Eight dogs were administered intramuscular dexmedetomidine (2.5&#x202f;&#x3bc;g/kg) and saline-placebo in a randomized cross-over design. Images of neutral and aggressive dog faces were shown on a moni",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42652034",
       "title": "Incidence of Infective Endocarditis in Dogs After Balloon Dilatation of Congenital Pulmonic Stenosis Without Peri- and Postoperative Antimicrobial Prophylaxis.",
       "authors": "Zeedijk DI, Szatmári V",
@@ -546,39 +579,6 @@
       "date": "2026 Aug 21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42652023/",
       "abstract": "Raccoon dog and fox amdoparvovirus (RFAV) has been reported in raccoon dogs and foxes, but natural infection in domestic dogs has not previously been documented. During March-April 2026, samples from four affected Dobermann dogs from a kennel near Novi Sad, Serbia, were submitted for laboratory investigation. After negative testing for canine adenovirus, canine coronavirus, herpesvirus, parvovirus, distemper virus, influenza A virus, and leptospirosis, metagenomic sequencing was performed on sel",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42633783",
-      "title": "Survey of veterinarians' receptivity to a canine vaccine for Rocky Mountain spotted fever reveals a potential vaccine market and opportunities for education.",
-      "authors": "Moore TS, Pikel L, Horiuchi K, Biggerstaff BJ, Brophy MK",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42633783/",
-      "abstract": "To understand veterinary practitioner awareness about Rocky Mountain spotted fever (RMSF) and their receptivity and clients' perceived receptivity to a vaccine to protect dogs from RMSF. The survey tool was developed in collaboration with the CDC and AVMA. Responses were collected June 9, 2025, through July 1, 2025. Respondents were surveyed on whether they had ever diagnosed a case of RMSF and their confidence in identifying the symptoms of RMSF, receptivity to a canine RMSF or anti-tick vaccin",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42633780",
-      "title": "Postoperative rotational instability after tibial plateau-leveling osteotomy is associated with acute cranial cruciate ligament rupture and meniscal injury.",
-      "authors": "Copet A, Fostier-Humbert M, Blondel M, Cachon T",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42633780/",
-      "abstract": "To determine the prevalence and associated risk factors of postoperative rotational instability following tibial plateau-leveling osteotomy (TPLO) in dogs with cranial cruciate ligament (CrCL) rupture. A retrospective analysis of medical records was performed for dogs undergoing TPLO for CrCL rupture at a single referral institution from 2018 through 2025. Rotational instability was defined as persistence of a positive tibial pivot test (TPT) after TPLO requiring placement of an antirotational s",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42633775",
-      "title": "Feasibility of bone-targeted electrochemotherapy for palliation of bone tumors in dogs and cats.",
-      "authors": "Zanasi A, Vigodny A, Finotello R, Tornago R, Cadossi M",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42633775/",
-      "abstract": "Electrochemotherapy (ECT) is a minimally invasive locoregional treatment that combines reversible electroporation with cytotoxic agents to enhance intracellular drug delivery. Although its efficacy is well established in cutaneous malignancies, its role in bone tumors has only recently been explored in veterinary medicine. This narrative review integrates preclinical evidence, human clinical data, and early veterinary experience with an original 4-case series to evaluate the translational potent",
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -602,17 +602,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42652008/",
       "abstract": "Pyonephrosis is a rare, life-threatening suppurative disease of the kidney characterised by the accumulation of purulent exudate within the renal pelvis and the destruction of renal parenchyma. It is typically associated with azotaemia and urinary tract obstruction. Extreme leucocytosis (&gt;100 &#xd7; 103/&#xb5;L), known as a leukemoid reaction, has been rarely reported in feline pyonephrosis. A 13-year-old neutered domestic shorthair female cat was brought to a veterinary clinic with symptoms ",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42633785",
-      "title": "A newly derived formula outperforms published formulae for estimating urine osmolality in healthy dogs receiving intravenous fluids.",
-      "authors": "Jeong Y, Qu Y, Kim MS, Her J",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42633785/",
-      "abstract": "To derive a formula to estimate urine osmolality (Uosm) in dogs with urine sodium, potassium, glucose, and urea nitrogen and to compare the performance of the derived formula with published formulae. A prospective observational study was conducted using purpose-bred Beagles housed at a university research facility. Healthy dogs, confirmed by physical examination and laboratory testing, received isotonic or hypotonic IV fluids in a randomized sequence for 48 hours, with a 10-day washout period be",
-      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -811,6 +800,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651883/",
       "abstract": "Breast cancer is one of the most prevalent malignancies in women worldwide and the most common malignant tumor in unspayed female dogs, highlighting the comparative relevance of this disease across these species. The release of EVs is increased in mammary tumors compared to normal tissue, with the quantity generally correlating with the tumor's histological grade and aggressiveness. EVs carry a varied molecular load, mainly composed of proteins, RNAs, including microRNAs (miRNAs), lipids, and nu",
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42694928",
+      "title": "Dogs display context-dependent behavioral responses to subtle owner-derived multimodal stimuli.",
+      "authors": "Ikeda R, Saito M, Iwata Y, Ozono T, Alemayoh TT",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694928/",
+      "abstract": "Dogs (Canis familiaris) can discriminate explicit human emotions using various sensory modalities. However, their sensitivity to subtle human-derived emotional cues accompanied by physiological changes, but lacking clear behavioral cues, remains poorly understood. This study investigated whether dogs could perceive owner-derived emotional cues when suppressing explicit expressions. Owners were assigned to either stress or relaxation conditions designed to induce stress or relaxation, respectivel",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42694190",
+      "title": "Veterinary student wellbeing and its relationship with dog handling and fear responses during a clinical examination laboratory.",
+      "authors": "Nakonechny L, Pulver V, Artemiou E, Stellato AC",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694190/",
+      "abstract": "Veterinary care can be a significant source of fear and stress for dogs, and handling techniques play a key role in shaping these responses. Emerging evidence suggests that clinician mental wellbeing and stress can influence patient interactions. These challenges extend to veterinary students, who experience high stress during training and represent a critical population for understanding how these influences may emerge in clinical development. During a clinical examination laboratory, we aimed ",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42638871/",
       "abstract": "Canine sarcoptic mange is a highly contagious parasitic skin disease of dogs. On the basis of previous in vitro investigations confirming the acaricidal activity of clove oil, this study evaluated the safety and efficacy of topical clove oil for the treatment of dogs naturally infested with Sarcoptes scabiei var. canis. A total of 100 naturally infected dogs were randomly assigned to 7% clove oil-treated groups, a positive control group, and an untreated control group. Therapeutic efficacy was a",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42638830",
-      "title": "Remote active surveillance following tibial plateau leveling osteotomy: a preliminary study of patellar tendinitis in dogs.",
-      "authors": "Matiasovic M, Hill PJ, Bright SR, Condon AM, Keeley BJ",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42638830/",
-      "abstract": "Traditional follow-up methods in small animal orthopedic surgery are primarily passive. These methods have been shown to result in only moderate owner adherence, and their value has been questioned in recent years. In human medicine, active surveillance has been demonstrated to consistently outperform passive methods in detecting adverse events. Our goal was to obtain preliminary data on the utility of active surveillance after tibial plateau leveling osteotomy (TPLO) for detecting patellar tend",
-      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
