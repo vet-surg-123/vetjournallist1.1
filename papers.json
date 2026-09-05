@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 23:53 UTC",
+  "updated": "2026-09-05 23:44 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,6 +10,17 @@
     "other": "기타"
   },
   "papers": [
+    {
+      "id": "42697028",
+      "title": "Intermittent ventricular pre-excitation in a dog with orthodromic reciprocating atrioventricular tachycardia.",
+      "authors": "Salvati M, Bourguignon C, Ivasovic F",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Sep 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697028/",
+      "abstract": "A four-year-old female neutered Labrador retriever was referred for investigation of paroxysmal tachycardia. On physical examination, a heart rate of 220 beats/min with no heart murmurs was noticed. Cardiac troponin I was significantly increased. A six-lead electrocardiography revealed phases of narrow QRS complexes tachycardia with regular RR intervals and a QP'/P'Q of 0.80, compatible with orthodromic atrioventricular reciprocating tachycardia (OAVRT), alternating with sinus rhythm. On ambulat",
+      "category": "other",
+      "summary_ko": ""
+    },
     {
       "id": "42692147",
       "title": "Prevalence, risk factors and outcome of acute thoracic and lumbar myelopathies in non-chondrodystrophic dogs.",
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42638931/",
       "abstract": "Human-cat interaction (HCI) in rescue settings is often inconsistent, driven by individual caregiver beliefs rather than standardised evidence-based practice. This study evaluates the efficacy of an educational intervention for shelter workers, incorporating evidence based HCI principles designed to promote cat comfort and reduce the risk of cat human-directed aggression. A pre-post study followed employees and volunteers across three timepoints: a pre-intervention baseline (T1, n&#x202f;=&#x202",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42638871",
-      "title": "The safety and efficacy of topical clove oil for the treatment of naturally occurring Sarcoptes scabiei var. canis infestation in dogs.",
-      "authors": "Hu H, Dai L, Ma Y, Yu X, Yang X",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42638871/",
-      "abstract": "Canine sarcoptic mange is a highly contagious parasitic skin disease of dogs. On the basis of previous in vitro investigations confirming the acaricidal activity of clove oil, this study evaluated the safety and efficacy of topical clove oil for the treatment of dogs naturally infested with Sarcoptes scabiei var. canis. A total of 100 naturally infected dogs were randomly assigned to 7% clove oil-treated groups, a positive control group, and an untreated control group. Therapeutic efficacy was a",
-      "category": "other",
       "summary_ko": ""
     }
   ]
