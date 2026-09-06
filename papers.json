@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 23:44 UTC",
+  "updated": "2026-09-06 23:43 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -23,7 +23,7 @@
     },
     {
       "id": "42692147",
-      "title": "Prevalence, risk factors and outcome of acute thoracic and lumbar myelopathies in non-chondrodystrophic dogs.",
+      "title": "Prevalence, risk factors, and outcome of acute thoracic and lumbar myelopathies in non-chondrodystrophic dogs.",
       "authors": "Comesaña A, de la Fuente C, Viu J, Añor S",
       "journal": "Vet J",
       "date": "2026 Sep 3",
@@ -814,6 +814,28 @@
       "summary_ko": ""
     },
     {
+      "id": "42699351",
+      "title": "Efficacy and safety of a fixed-dose oral tramadol-dipyrone combination for postoperative analgesia in dogs undergoing ovariohysterectomy and unilateral mastectomy: a randomized clinical trial.",
+      "authors": "Mastrocinque S, Yazbek KVB, Rossetti RB, Gomes LD, Dos Santos Macedo J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42699351/",
+      "abstract": "To evaluate the analgesic efficacy and safety of an oral tramadol-dipyrone combination (Sindolor&#xae;) compared with tramadol or dipyrone alone in dogs undergoing ovariohysterectomy and unilateral mastectomy. Thirty client-owned female dogs undergoing elective ovariohysterectomy and unilateral mastectomy were randomly assigned to three treatment groups (n&#x202f;=&#x202f;10/group): tramadol-dipyrone combination (GTD), tramadol alone (GT), or dipyrone alone (GD). At the end of surgery, all dogs ",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42698457",
+      "title": "Case Report: Long-term outcomes after surgery for spinal infiltrative lipoma in two dogs.",
+      "authors": "Van Stee LL, Van Rijn SJ, Bergmann W, Meij BP",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42698457/",
+      "abstract": "An eight-year-old male intact shepherd mixed breed dog (case 1) and a 6-month-old intact female Picardy sheepdog (case 2) were referred to a Veterinary Teaching Hospital with the diagnosis of infiltrative lipoma causing spinal cord compression. Case 1 presented with a history of intermittent tremors and right forelimb lameness. Clinical examination revealed an expansive, ill-defined, non-movable, soft tissue mass palpable on the right hemithorax and a mild pelvic limb paraparesis. Computed tomog",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42694928",
       "title": "Dogs display context-dependent behavioral responses to subtle owner-derived multimodal stimuli.",
       "authors": "Ikeda R, Saito M, Iwata Y, Ozono T, Alemayoh TT",
@@ -1086,28 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42643243/",
       "abstract": "Plastic drapes are used prevent surgical site infections by enclosing bacteria within adhesive layers that directly contact the skin during surgery. However, these drapes often peel from the surgical edge, increasing the risk of surgical site infection. This problem has remained unresolved since the development of plastic drapes decades ago. Recently, a basic study using rat skin reported improvements in the structure of these drapes. This study indicated that drape detachment during skin incisi",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42639128",
-      "title": "Case Report: Fatal copper-associated hepatopathy in a Belgian Shepherd Malinois dog initially investigated as suspected malicious poisoning.",
-      "authors": "Kim AY, Jang M, Baek JS, Ku BK, Lee K",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42639128/",
-      "abstract": "Copper-associated hepatopathy (CAH) is a recognized cause of severe liver injury and acute hepatic decompensation in dogs and may present as chronic hepatitis, cirrhosis, or peracute death. This report describes a fatal case of CAH in a 9-year-old, 30-kg female Belgian Shepherd Malinois dog that was initially investigated as suspected malicious poisoning because of sudden death, tongue protrusion, and bloody feces at the scene. At forensic necropsy, approximately 55&#x202f;mL of blood-tinged ple",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42638931",
-      "title": "Sustained improvements in human-cat interaction in the shelter sector: a study of a best-practice educational intervention.",
-      "authors": "Hatam EV, Barcelos AM, Waterman J, Bhatia A, Finka L",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42638931/",
-      "abstract": "Human-cat interaction (HCI) in rescue settings is often inconsistent, driven by individual caregiver beliefs rather than standardised evidence-based practice. This study evaluates the efficacy of an educational intervention for shelter workers, incorporating evidence based HCI principles designed to promote cat comfort and reduce the risk of cat human-directed aggression. A pre-post study followed employees and volunteers across three timepoints: a pre-intervention baseline (T1, n&#x202f;=&#x202",
-      "category": "internal",
       "summary_ko": ""
     }
   ]
