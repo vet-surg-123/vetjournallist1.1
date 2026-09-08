@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06 23:43 UTC",
+  "updated": "2026-09-08 00:08 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,6 +10,50 @@
     "other": "기타"
   },
   "papers": [
+    {
+      "id": "42703016",
+      "title": "Intranasal xylometazoline hydrochloride to reduce intraoperative nasal hemorrhage in dogs undergoing ala-vestibuloplasty for BOAS: A prospective, randomized study.",
+      "authors": "Sek JY, House A, Emeto TI, Lau ACC, Mielke B",
+      "journal": "Vet Surg",
+      "date": "2026 Sep 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703016/",
+      "abstract": "To assess whether intranasal administration of xylometazoline hydrochloride 0.1% reduces intraoperative hemorrhage during ala-vestibuloplasty in dogs undergoing surgical correction for brachycephalic obstructive airway syndrome (BOAS). Prospective, randomized, placebo-controlled clinical trial. A total of 30 client-owned brachycephalic dogs undergoing surgery for BOAS with ala-vestibuloplasty. Dogs were randomly assigned to receive xylometazoline hydrochloride 0.1% or 0.9% saline intranasally be",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42702519",
+      "title": "Quality of Life Shapes Owner Decision-Making in Canine Cancer Care: Insights From Large-Scale Online Discourse.",
+      "authors": "Tarrant GA, Flory A, Rai TS, Wright A, Street TL",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Sep 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702519/",
+      "abstract": "Canine cancer imposes substantial emotional, financial and decisional burden on owners navigating complex referral pathways and treatment options. Understanding how owners experience and interpret these pathways is essential to improving care delivery. We conducted a retrospective social media listening study using Pulsar Platform to retrieve public Anglophone posts relating to canine cancer across multiple platforms. After cleaning, de-duplication and zero-shot large language model relevance fi",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42702299",
+      "title": "Gut Microbiota and Selected Systemic Biomarker Profiling in Dogs with Distinct Osteoarthritis Phenotypes.",
+      "authors": "Agudelo-Giraldo L, López C, Carmona JU",
+      "journal": "Vet J",
+      "date": "2026 Sep 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702299/",
+      "abstract": "Osteoarthritis (OA) is increasingly recognized as a heterogeneous disorder involving metabolic and inflammatory alterations beyond the affected joint. This study evaluated gut microbiota composition and selected systemic biomarkers in client-owned dogs with distinct OA phenotypes. Fecal microbiota profiling was performed using near full-length 16S rRNA Nanopore sequencing in clinically healthy controls (CG), obese OA dogs (OOA), and thin OA dogs (TOA). Alpha and beta diversity analyses were perf",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42702204",
+      "title": "Outcome of Repairing Canine Proximal Tibial Apophyseal-Epiphyseal Salter-Harris Fractures with Apophyseal Pin and Tension-Band Wire as a Sole Fixation Method.",
+      "authors": "Procter RM, Crowley JD, Beierer LH",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Sep 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702204/",
+      "abstract": "The objective of this study is to report radiographic outcomes and complications following repair of proximal tibial apophyseal-epiphyseal fractures with an apophyseal pin and tension-band wire (APTBW). Medical records and radiographs of dogs treated with APTBW alone were retrospectively reviewed. Tibial plateau angle (TPA) and mechanical medial proximal tibial angle (mMPTA) were compared in the fractured limbs at preoperative, postoperative, and follow-up time points and to the contralateral li",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
     {
       "id": "42697028",
       "title": "Intermittent ventricular pre-excitation in a dog with orthodromic reciprocating atrioventricular tachycardia.",
@@ -84,6 +128,17 @@
       "date": "2026 Sep 2",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685768/",
       "abstract": "To test the hypothesis that, when used with doxycycline, moxidectin, and prednisone, 2-dose melarsomine would be as safe and effective as 3-dose melarsomine. A randomized clinical trial was conducted from April 2024 to December 2025, comparing compressed 2-dose and 3-dose melarsomine protocols. Dogs with Class 1 or 2 heartworm disease received sustained-release moxidectin, doxycycline, prednisone, and 2 or 3 injections of melarsomine. Melarsomine was administered on days 14 and 15 (2-dose group)",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42704875",
+      "title": "Evaluation of renal microvascular perfusion in dogs with cardiac disease using Superb Microvascular Imaging.",
+      "authors": "Yasuda R, Nakamura K, Sasaki N, Yokoyama N, Sasaoka K",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704875/",
+      "abstract": "Renal dysfunction in cardiac disease is attributed to both reduced cardiac output and venous congestion; however, relative contributions of these mechanisms are difficult to evaluate clinically. Renal microvascular perfusion assessed by Superb Microvascular Imaging (SMI) would be associated with indices of cardiac output and venous congestion in dogs with cardiac disease. Forty-three client-owned dogs were enrolled: 15 healthy dogs (Control), 21 dogs with cardiac disease but without right-sided ",
       "category": "imaging",
       "summary_ko": ""
     },
@@ -216,17 +271,6 @@
       "date": "2026 Sep",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42677986/",
       "abstract": "A multicenter retrospective study compared ultrasonographic (US) and computed tomographic (CT) characteristics of parathyroid glands in 20 dogs with histopathological confirmation of primary hyperparathyroidism. Twenty-four glands were diseased (17 adenomas and 7 hyperplastic glands). Two blinded radiologists assessed US and CT studies in two readings. A similar total number of glands was visualized (US 59 and CT 63). Intermodality agreement for identification of the same individual glands was s",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42642988",
-      "title": "Head and Neck CT Lymphangiography in a Dog With Cutaneous Lymphangiosarcoma.",
-      "authors": "Bleuet J, Auffret V, Martin E, Paquet M, Murphy M",
-      "journal": "Vet Radiol Ultrasound",
-      "date": "2026 Sep",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42642988/",
-      "abstract": "A 9-year-old neutered male Australian Cattle Dog presented for severe, extensive, and progressive swelling of the neck and face. CT lymphangiography (CTL) of the head and neck demonstrated cervical lymphedema with imaging features of mid-cervical lymphatic obstruction, regional lymphatic leakage, and local lymphadenopathy. A final diagnosis of lymphangiosarcoma was obtained by histopathology, postulated to be the origin of the lymphatic obstruction. To the author's knowledge, this is the first d",
       "category": "imaging",
       "summary_ko": ""
     },
@@ -536,39 +580,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42648343/",
       "abstract": "To investigate the efficacy of synthetically derived activated carbon hemoperfusion (cHP) by measuring serum meloxicam concentration in dogs with meloxicam toxicosis. 5 dogs with meloxicam overdose that underwent cHP at 3 teaching hospitals between January 2023 and March 2026 were identified. Dogs that had serum meloxicam concentrations measured were included. For case 1, in-series cHP and hemodialysis were performed. Based on case 1 data, standalone cHP was used for cases 2 to 5. Serum meloxica",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42642056",
-      "title": "Risk factors associated with lipaemic plasma in a cohort of canine blood donors.",
-      "authors": "Treich C, Mailhot SÈ, Juette T, Blais MC",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Aug 25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42642056/",
-      "abstract": "To assess the prevalence of lipaemic plasma in healthy canine blood donors, identify predisposing factors, including dietary links and provide recommendations to reduce its occurrence. A total of 296 healthy canine blood donors enrolled in a university blood bank were prospectively included. Health was confirmed through physical examination and complete bloodwork including total T4. After successful blood collection and processing, plasma intended for fresh frozen plasma production was assessed ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42642047",
-      "title": "Occurrence of infections in dogs receiving ciclosporin in a single-centre UK referral population.",
-      "authors": "Dormon S, Walker J, Gallow G, Goonan L, Sparks T",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Aug 25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42642047/",
-      "abstract": "The study aimed (a) to describe the occurrence and nature of new infections in dogs receiving oral ciclosporin and (b) to identify any risk factors associated with the development of a new infection whilst receiving ciclosporin. In this retrospective cohort study, medical records of dogs presented to a private UK referral hospital between March 2015 and September 2022 that received ciclosporin were evaluated. The development of a new infection was classified as confirmed or suspected, based on a",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42639852",
-      "title": "The effect of one-lung ventilation on sentinel lymph node mapping in dog lungs.",
-      "authors": "Marvel SJ, Kaschark N, Boscan P, Monnet E",
-      "journal": "Vet Surg",
-      "date": "2026 Aug 25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42639852/",
-      "abstract": "To determine the sentinel lymph node (SLN) for the caudal lung lobe using indocyanine green (ICG) and near infra-red fluorescence (NIRF) in normal dogs. The secondary objective was to determine the effect of one lung ventilation (OLV) on time to SLN detection. Prospective, randomized experimental study. Purpose-bred Beagles (n&#x2009;=&#x2009;21). Dogs were randomized to undergo OLV or normal ventilation (NV) and to undergo right or left caudal lung injections with ICG through lateral intercosta",
-      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -1096,17 +1107,6 @@
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42643296/",
       "abstract": "Dermatophytosis is a superficial, highly contagious mycosis caused mainly by keratinophilic fungi of the genera Microsporum, Trichophyton and Nannizzia. This report describes two clinical cases of dermatophytic kerion in dogs caused by Microsporum canis. In both, direct microscopic examination of hairs revealed ectothrix arthroconidia, and fungal culture yielded colonies morphologically consistent with M. canis. Species identification was confirmed by PCR amplification and partial sequencing of ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42643243",
-      "title": "Comparison of adhesiveness between new improved surgical drapes and existing drapes during contraceptive surgery in 90 cats: a multi-center controlled clinical trial.",
-      "authors": "Namiki R, Uemura A, Shimada K, Tanaka T, Yoshida T",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42643243/",
-      "abstract": "Plastic drapes are used prevent surgical site infections by enclosing bacteria within adhesive layers that directly contact the skin during surgery. However, these drapes often peel from the surgical edge, increasing the risk of surgical site infection. This problem has remained unresolved since the development of plastic drapes decades ago. Recently, a basic study using rat skin reported improvements in the structure of these drapes. This study indicated that drape detachment during skin incisi",
       "category": "orthopedics",
       "summary_ko": ""
     }
