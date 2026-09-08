@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08 00:08 UTC",
+  "updated": "2026-09-08 23:59 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,6 +10,28 @@
     "other": "기타"
   },
   "papers": [
+    {
+      "id": "42706634",
+      "title": "Feline Mammary Carcinomas: Clinical Perspectives on Diagnosis, Staging, Treatment and Prognosis.",
+      "authors": "Petrucci GN, Lobo L, Queiroga FP",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Sep 7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42706634/",
+      "abstract": "Feline mammary carcinomas remain a major therapeutic and prognostic challenge in veterinary oncology because they combine high malignant potential, early dissemination, and substantial heterogeneity in clinicopathologic behaviour. This review summarizes current clinical knowledge on epidemiology, risk factors, diagnostic work-up, staging, treatment, and prognostic assessment of feline mammary carcinomas, highlighting areas of consensus and persistent controversies. Progress in care will require ",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42705596",
+      "title": "Mechanistic-Data Synergy for Predicting Fracture Load in Canine Bone with Appendicular Osteosarcoma.",
+      "authors": "Amirzade B, Zobaer T, Laspley J, Selting K, Selmic LE",
+      "journal": "Vet J",
+      "date": "2026 Sep 7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42705596/",
+      "abstract": "Canine appendicular osteosarcoma substantially increases the risk of pathological fractures. Limb-sparing approaches such as Stereotactic Body Radiation Therapy (SBRT) can extend and improve the quality of life in large-breed dogs; however, recent clinical studies have reported high post-SBRT fracture rates and significant complications following prophylactic stabilization. While patient-specific Finite Element Analysis (FEA) can estimate pre- and post-stabilization fracture-initiation threshold",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
     {
       "id": "42703016",
       "title": "Intranasal xylometazoline hydrochloride to reduce intraoperative nasal hemorrhage in dogs undergoing ala-vestibuloplasty for BOAS: A prospective, randomized study.",
@@ -271,28 +293,6 @@
       "date": "2026 Sep",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42677986/",
       "abstract": "A multicenter retrospective study compared ultrasonographic (US) and computed tomographic (CT) characteristics of parathyroid glands in 20 dogs with histopathological confirmation of primary hyperparathyroidism. Twenty-four glands were diseased (17 adenomas and 7 hyperplastic glands). Two blinded radiologists assessed US and CT studies in two readings. A similar total number of glands was visualized (US 59 and CT 63). Intermodality agreement for identification of the same individual glands was s",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42648162",
-      "title": "Implantation of a LUX-Dx insertable cardiac monitor enables remote heart rhythm monitoring in dogs and cats.",
-      "authors": "van de Watering AE, Melis C, Beijerink NJ",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Jul 29",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42648162/",
-      "abstract": "Remote long-term rhythm monitoring enables arrhythmia diagnosis and treatment evaluation without in-clinic visits. This prospective case series evaluated the safety, feasibility, and clinical utility of the insertable cardiac monitor LUX-Dx&#x2122; and LUX-Dx II/II+&#x2122; in dogs and cats. Patients were divided into two groups. The diagnostic group included patients with unexplained intermittent clinical signs potentially caused by arrhythmia. The therapeutic group included patients with known",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42648161",
-      "title": "Three radiographic methods for assessing left atrial enlargement in dogs: diagnostic performance and correlation with qualitative features.",
-      "authors": "Hwang YE, Kwon N, Kwon M, Namgoong M, Wang S",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Jul 29",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42648161/",
-      "abstract": "Left atrial (LA) enlargement is a critical indicator of cardiac disease progression in dogs. This study compared the diagnostic accuracy of vertebral heart size (VHS), vertebral left atrial size (VLAS), and radiographic left atrial dimension (RLAD) in detecting &#x2265;moderate LA enlargement using an ordinal echocardiographic reference standard and investigated their correlations with qualitative radiographic features. This retrospective study included 177 dogs. Quantitative radiographic measur",
       "category": "imaging",
       "summary_ko": ""
     },
@@ -572,17 +572,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42648343",
-      "title": "Carbon hemoperfusion markedly reduces serum meloxicam concentrations in dogs with meloxicam toxicosis.",
-      "authors": "Shin PT, Zhao L, Vigh Z, Johnson TE, Enomoto H",
-      "journal": "Am J Vet Res",
-      "date": "2026 Aug 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42648343/",
-      "abstract": "To investigate the efficacy of synthetically derived activated carbon hemoperfusion (cHP) by measuring serum meloxicam concentration in dogs with meloxicam toxicosis. 5 dogs with meloxicam overdose that underwent cHP at 3 teaching hospitals between January 2023 and March 2026 were identified. Dogs that had serum meloxicam concentrations measured were included. For case 1, in-series cHP and hemodialysis were performed. Based on case 1 data, standalone cHP was used for cases 2 to 5. Serum meloxica",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "42652034",
       "title": "Incidence of Infective Endocarditis in Dogs After Balloon Dilatation of Congenital Pulmonic Stenosis Without Peri- and Postoperative Antimicrobial Prophylaxis.",
       "authors": "Zeedijk DI, Szatmári V",
@@ -822,6 +811,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651883/",
       "abstract": "Breast cancer is one of the most prevalent malignancies in women worldwide and the most common malignant tumor in unspayed female dogs, highlighting the comparative relevance of this disease across these species. The release of EVs is increased in mammary tumors compared to normal tissue, with the quantity generally correlating with the tumor's histological grade and aggressiveness. EVs carry a varied molecular load, mainly composed of proteins, RNAs, including microRNAs (miRNAs), lipids, and nu",
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42707635",
+      "title": "An investigation of per- and polyfluoroalkyl concentrations in dogs and cats with endocrine disorders.",
+      "authors": "Bardhi A, Serrantoni E, Inauen D, Del Baldo F, Galac S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42707635/",
+      "abstract": "Per- and polyfluoroalkyl substances (PFAS) are persistent environmental contaminants with endocrine-disrupting and potential carcinogenic effects in humans. Data on PFAS exposure in companion animals are limited. This study quantified PFAS concentrations in dog and cat serum and investigated associations with endocrine disorders. This retrospective study included 179 dogs from the Universities of Bologna and Utrecht, and 84 cats from the University of Bologna, sampled between 2021 and 2025. The ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42707619",
+      "title": "The microenvironment in canine mast cell tumors: association between tumor-associated tissue eosinophilia and histological grade.",
+      "authors": "Ezquerra-Durán M, Cardenal-Morales P, Ezquerra-Calvo LJ, Tarazona-Lafarga R, Santella M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42707619/",
+      "abstract": "Canine mast cell tumors (MCTs) are common neoplasms with heterogeneous biological behavior, and histological grading alone may not fully reflect their aggressiveness. The tumor microenvironment, particularly tumor-associated tissue eosinophilia (TATE), may provide complementary information on MCT biology. This study evaluated whether intratumoral eosinophil infiltration, expressed as the eosinophil-to-mast cell ratio (EMR), was associated with histological grade in canine MCTs. A secondary objec",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42656245/",
       "abstract": "Veterinary clinical practice involves complex interactions among clinicians, learners, clients, animals, material objects, and built environments. These interactions shape how care is delivered, how students learn, and how practitioners respond to changing circumstances in real time. However, existing qualitative and ethnographic methods often lack a replicable protocol for capturing how human, animal, and material contributions jointly shape clinical practice as it unfolds. This methodology art",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42643296",
-      "title": "Canine dermatophytic kerion caused by Microsporum canis: two case reports.",
-      "authors": "Dumont-Viollaz A, Gómez-Barris BR, Del Río LC, Moreno C, Thomson P",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42643296/",
-      "abstract": "Dermatophytosis is a superficial, highly contagious mycosis caused mainly by keratinophilic fungi of the genera Microsporum, Trichophyton and Nannizzia. This report describes two clinical cases of dermatophytic kerion in dogs caused by Microsporum canis. In both, direct microscopic examination of hairs revealed ectothrix arthroconidia, and fungal culture yielded colonies morphologically consistent with M. canis. Species identification was confirmed by PCR amplification and partial sequencing of ",
-      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
