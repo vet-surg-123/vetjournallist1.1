@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 00:01 UTC",
+  "updated": "2026-09-10 23:56 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,6 +10,61 @@
     "other": "기타"
   },
   "papers": [
+    {
+      "id": "42717639",
+      "title": "Skeletal modifications after transpelvic urethrostomy as treatment for urethral stricture in a three-month-old cat.",
+      "authors": "Hernández-León D, Agüera-Espejo P, Martin-Bernal C, Aranda-Jiménez F",
+      "journal": "Vet Surg",
+      "date": "2026 Sep 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42717639/",
+      "abstract": "To describe the occurrence, management, and long-term outcome of bilateral lateral displacement of the ischial tuberosities following transpelvic urethrostomy (TPU) performed to treat intrapelvic urethral rupture and obstruction in a skeletally immature cat. One 3-month-old male domestic short-haired cat. Case report. A young cat with intrapelvic urethral rupture secondary to repeated unsuccessful urethral catheterizations was initially managed conservatively and subsequently underwent perineal ",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42717636",
+      "title": "Intraoperative cholangiography during open cholecystectomy in 73 dogs with benign gallbladder disease.",
+      "authors": "Konno R, Kaneko Y, Matsunaga M, Osuga T, Okadera R",
+      "journal": "Vet Surg",
+      "date": "2026 Sep 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42717636/",
+      "abstract": "To evaluate intraoperative cholangiography (IOC) during open cholecystectomy in dogs with benign gallbladder disease, including cases with preoperative common bile duct (CBD) obstruction, and to describe the short-term outcomes. Retrospective case series. A total of 73 client-owned dogs. Medical records (2014-2022) were reviewed. All dogs underwent open cholecystectomy, bile duct flushing (BDF) with saline, and IOC under subtraction fluoroscopy. Cholangiograms were assessed for complete CBD obst",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42716105",
+      "title": "Sepsis and elevated creatinine predict poor outcomes in uncomplicated canine pyometra, and empirically prescribed antibiotics do not match bacterial susceptibility or improve survival.",
+      "authors": "Jones AE, Rishniw M, Raux IL, Rosselli D, Thomas D",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716105/",
+      "abstract": "To identify variables associated with prolonged hospitalization or nonsurvival in the surgical management of pyometra in dogs and to report uterine bacterial susceptibility in comparison with empirically prescribed antibiotics. Retrospective study of dogs that underwent ovariohysterectomy for management of pyometra at 8 tertiary referral centers between December 1, 2008, and December 31, 2023. Data collected included signalment, preoperative/operative data, antibiotic utilization, and clinical f",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42716104",
+      "title": "Cefovecin selects for higher-level and more persistent antimicrobial resistance among gastrointestinal Escherichia coli in some cats compared to amoxicillin-clavulanic acid in an observational longitudinal study.",
+      "authors": "Cazer CL, Siler J, Frye A, Reboul GC, Yu YT",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716104/",
+      "abstract": "This observational study compared the development and persistence of antimicrobial resistance (AMR) in feline microbiota following treatment with cefovecin or amoxicillin-clavulanic acid. Cats treated with cefovecin or amoxicillin-clavulanic acid, at the attending veterinarian's discretion, were recruited from multiple sources between December 2022 and May 2024. Fecal samples were collected on the first day of treatment and 1, 2, 3, 4, 8, and 12 weeks afterward. Samples were cultured for Escheri",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42716084",
+      "title": "BRAFV595E mutation detected across the disease spectrum from non-neoplastic urothelium to invasive urothelial carcinoma in dogs.",
+      "authors": "Dhawan D, Sola MF, Nelson JB, Lanman NA, Enstrom AW",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716084/",
+      "abstract": "The goal was to determine the presence of a driver mutation in dogs with and without detectable cancer to set the stage for future cancer prevention research exploiting processes that inhibit cancer development in the presence of such mutations. The objective was to detect the v-raf murine sarcoma viral oncogene homolog B (BRAF) mutation BRAFV595E across the disease spectrum from non-neoplastic urothelium to invasive urothelial carcinoma (UC) in dogs. Scottish Terriers &#x2265; 6 years old with ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
     {
       "id": "42713725",
       "title": "Assessment of Clinical and Immunological Factors of Local Recurrence in Canine Soft Tissue Sarcoma.",
@@ -374,6 +429,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42717346",
+      "title": "Isolation of feline-derived scFvs against the VP1-CDE region of feline calicivirus from a phage display library and characterization of their antigen-binding and antiviral potential in vitro.",
+      "authors": "Wei Y, Wang H, Han Z, Gou H, Sun D",
+      "journal": "BMC Vet Res",
+      "date": "2026 Jul 27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42717346/",
+      "abstract": "Feline calicivirus (FCV) is a significant causative pathogen of upper respiratory tract disease and virulent systemic infection in feline populations, yet specific targeted antiviral agents for FCV infection remain unavailable. A feline-derived single-chain variable fragment (scFv) phage display library targeting the VP1-CDE neutralizing region of FCV was constructed using peripheral blood mononuclear cells isolated from cats immunized with recombinant VP1-CDE protein. Positive scFv clones were ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42674071",
       "title": "Rabies surveillance in the United States during 2024.",
       "authors": "Keshavamurthy R, Boutelle C, Bonaparte S, Gigante CM, Condori RE",
@@ -682,83 +748,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42651928",
-      "title": "Faecal Steroid Metabolite Profiles and Reproductive Outcomes in Domestic Cat (Felis catus).",
-      "authors": "Volobueva KA, Erofeeva MN, Alekseeva GS, Kim MD, Fetisova AS",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651928/",
-      "abstract": "Research on endocrine patterns associated with reproduction and lactation in felids has focused mainly on rare or endangered species and remains limited in the domestic cat (Felis catus). Using a non-invasive longitudinal approach, we measured faecal glucocorticoid, progesterone, and testosterone metabolites (fGCm, fPm, and fTm) in nine females before mating and during three months of lactation, examining associations with litter characteristics and kitten survival. Lactational concentrations we",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651919",
-      "title": "Effects of Complementary Feed with Postbiotics Derived from Bacillus subtilis on Nutrient Digestibility, Faecal Characteristics, Gut Microbiota, Metabolic and Immune Responses, and Coat Quality in Healthy Senior Dogs.",
-      "authors": "Kahraman O, Wilk M, Bochynek M, Bojanowski K, Quijas G",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651919/",
-      "abstract": "The aim of this study was to evaluate the effects of a Bacillus subtilis-derived postbiotic on apparent total tract nutrient digestibility, faecal fermentation characteristics, gut microbiota, immune response, blood biochemistry, hematological parameters, serum trace minerals, and coat quality in healthy senior dogs. Twenty-one healthy senior Golden Retriever dogs (9 &#xb1; 1.0 years old) were randomly allocated to three dietary treatments for 28 days: a control diet (CON) or the same diet suppl",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651917",
-      "title": "Artemisia argyi Polysaccharides Protect Intestinal Health by Enhancing Antioxidant Capacity in Suckling Lambs Under Cold Exposure.",
-      "authors": "Zheng S, Jin X, Song J, Li X, Han Z",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651917/",
-      "abstract": "Cold exposure severely impairs intestinal homeostasis and growth in young lambs. This study investigated the protective effects of Artemisia argyi polysaccharides (AAPs) on intestinal health in cold-exposed suckling lambs. Twenty-four 7-day-old lambs were randomly allocated to receive a milk replacer supplemented with 0 (Control, C), 0.5 (Low-dose, LA), 1.0 (Medium-dose, MA), or 2.0 g/kg (High-dose, HA) of AAPs for 14 days under cold conditions (-8 &#xb0;C to -5 &#xb0;C). The results showed that",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651913",
-      "title": "Human-Animal Therapeutic Relationships: Communication, Welfare and Interpretative Asymmetry.",
-      "authors": "Grzegorzewski WJ, Mamzer H, Kuchtar M",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651913/",
-      "abstract": "Human-animal therapeutic relationships are commonly evaluated through their effects on human psychological, emotional and social well-being, whereas the experiences and welfare of non-human animals remain less consistently examined. This narrative interdisciplinary review analyses such relationships through interpretative asymmetry, integrating human-animal studies, ethology, animal welfare science and biological approaches to interspecies communication. Selected cultural examples are used only ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651910",
-      "title": "Beyond the Administrative Label: Municipal Shelter Conversion and Dog Outcomes in Korea, 2016-2025.",
-      "authors": "Song BC",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651910/",
-      "abstract": "Municipal conversion of dog shelters from contracted to direct operation often coincides with changes in facilities, staffing, veterinary access, adoption practices, euthanasia policy, and record keeping. The primary objective was to evaluate associations with municipality-level disposition and throughput outcomes; a secondary exploratory objective examined dog-level adoption and euthanasia pathways. We analyzed 68,032 dogs from 22 municipalities in Gyeongsangbuk-do, Korea, during 2016-2025. The",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651905",
-      "title": "Association of Blood Plasma Vascular Endothelial Growth Factor and Testicular Artery Doppler Parameters with Canine Sperm Freezability.",
-      "authors": "Posastiuc FP, Domain G, Spanoghe L, Lannoo J, Banchi P",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651905/",
-      "abstract": "Semen cryopreservation is widely used in canine breeding, but individual variation in post-thaw semen quality limits its efficiency. This study investigated whether testicular artery Doppler-derived blood-flow parameters and circulating vascular endothelial growth factor (VEGF) concentrations are associated with semen quality and sperm freezability in clinically healthy dogs. Sixty-four privately owned male dogs underwent reproductive screening, semen collection, testicular Doppler ultrasonograp",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651895",
-      "title": "Culturable Opportunistic Bacteria and Antimicrobial Susceptibility Patterns in Canine Periodontal Pockets: A Pilot Study.",
-      "authors": "Šakarnytė L, Merkevičienė L, Šiugždinienė R, Ružauskas M",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651895/",
-      "abstract": "Canine periodontitis is one of the most prevalent chronic diseases for dogs over two years of age. Periodontal pockets may serve as a reservoir for opportunistic bacteria including Pasteurella stomatis, Neisseria animaloris, and Streptococcus canis; however, data on their antimicrobial susceptibility and potential One Health relevance remain limited. This pilot study investigated culturable bacterial isolates recovered from periodontal pockets of dogs with different stages of periodontal disease",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
       "id": "42664783",
       "title": "Multicenter transvenous pacemaker implantation in 595 dogs: complications and survival rates.",
       "authors": "Ciccozzi M, Stauthammer C, Whipp C, Visser L, Kellihan H",
@@ -781,14 +770,25 @@
       "summary_ko": ""
     },
     {
-      "id": "42651883",
-      "title": "Extracellular Vesicles as Emerging Tools in Canine Mammary Tumors: Potential Applications and Perspectives.",
-      "authors": "Dos Santos E Silva L, Pires de Campos Zuccari DA, Tamarindo GH, Oliveira C, Anacleto Rinaldi C",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651883/",
-      "abstract": "Breast cancer is one of the most prevalent malignancies in women worldwide and the most common malignant tumor in unspayed female dogs, highlighting the comparative relevance of this disease across these species. The release of EVs is increased in mammary tumors compared to normal tissue, with the quantity generally correlating with the tumor's histological grade and aggressiveness. EVs carry a varied molecular load, mainly composed of proteins, RNAs, including microRNAs (miRNAs), lipids, and nu",
-      "category": "oncology",
+      "id": "42718794",
+      "title": "Image based three-dimensional kinematic mapping to optimize femoral tunnel placement for intra-articular cranial cruciate ligament reconstruction in dogs.",
+      "authors": "Robine-Decourcelle C, Rohan PY, Muth-Seng C, Persohn S, Manassero M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42718794/",
+      "abstract": "The development of synthetic ligaments (SLs) has sparked renewed interest in intra-articular cranial cruciate ligament (CrCL) reconstruction. In this procedure, minimizing changes in graft length through optimal tunnel placement is essential for long-term function. However, three-dimensional (3D) assessment of isometry across the femoral attachment area in dogs remains limited, which prevents evidence-based optimization of tunnel positioning. Thus, the aim of this study was to perform strain-con",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42718565",
+      "title": "Case Report: Distal tibial physeal fracture secondary to septic physitis and osteomyelitis in a Boxer puppy.",
+      "authors": "Sidhu N, Cao JW, Frederick SW, Chambers A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42718565/",
+      "abstract": "Salter-Harris fracture secondary to septic physitis has been reported in foals but not puppies. In this case, a 19-week-old, 13.4 kg male intact Boxer puppy was presented with a 2-day history of acute non-weight-bearing lameness of the left pelvic limb, accompanied by distal limb swelling and lethargy. Orthogonal tibial radiographs were performed, and irregular widening of the distal tibial physis with severe edema of the surrounding soft tissues consistent with septic physitis were identified. ",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
