@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08 23:59 UTC",
+  "updated": "2026-09-10 00:01 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,6 +10,83 @@
     "other": "기타"
   },
   "papers": [
+    {
+      "id": "42713725",
+      "title": "Assessment of Clinical and Immunological Factors of Local Recurrence in Canine Soft Tissue Sarcoma.",
+      "authors": "Mizuta K, Philibert H, Matsuyama A",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Sep 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42713725/",
+      "abstract": "Canine soft tissue sarcomas (STSs) are locally invasive tumours, making local recurrence a major clinical challenge. Time to recurrence (TTR) and associated immune factors remain poorly characterized. This study aimed to characterize the immune microenvironment of canine STS and identify factors associated with TTR. Medical records from 27 dogs with STS that recurred after surgery were reviewed. Histopathological, transcriptomic, and immunological analyses were performed in a tissue-available su",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42710546",
+      "title": "Gilvetmab advances immune checkpoint inhibitor immunotherapy for canine cancer.",
+      "authors": "Chon E, Greene LM, Stock ML",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710546/",
+      "abstract": "Immune checkpoint inhibitors (ICIs) have revolutionized human oncology and are emerging as a promising strategy in veterinary cancer care. These agents unleash antitumor immunity by targeting inhibitory pathways that suppress T-cell function, enabling durable responses in select patients. In dogs, the immune checkpoint programmed cell death protein 1 (PD-1) axis is a primary focus due to conserved structural and functional homology with the PD-1 axis in humans, documented PD-1/programmed death-l",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42710541",
+      "title": "Electrochemotherapy with interleukin-12 gene electrotransfer can turn local tumor ablation into a systemic antitumor response in veterinary patients.",
+      "authors": "Čemažar M, Lampreht Tratar U, Milevoj N, Serša G, Tozon N",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710541/",
+      "abstract": "Veterinary medicine serves as an important translational bridge between preclinical studies and human medicine, offering a valuable model for investigating naturally occurring diseases and generating data unattainable from purely experimental animal models. This is particularly relevant for evaluating novel cancer treatment approaches. Electrochemotherapy (ECT) and gene electrotransfer represent 2 such approaches in both human and veterinary clinical oncology. Current evidence indicates that ECT",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42710537",
+      "title": "Cryptococcus-targeted culture in dogs reveals nasal carriage of Naganishia albida and diverse opportunistic yeasts with potential clinical relevance.",
+      "authors": "Gündüz ES, Gümüşsoy KS, Koç AN",
+      "journal": "Am J Vet Res",
+      "date": "2026 Sep 8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710537/",
+      "abstract": "To investigate the nasal carriage of Cryptococcus-related and other opportunistic yeasts in dogs, molecularly characterize the recovered isolates, and evaluate the epidemiological characteristics of Naganishia albida carriage. Nasal swab samples were collected from July through December 2023 from 100 dogs receiving boarding or hospitalization services at private veterinary clinics and animal hospitals in 4 provinces of T&#xfc;rkiye. Yeast isolates were identified using phenotypic methods, intern",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42710535",
+      "title": "Bioassay and liquid chromatography-mass spectrometry are not equivalent in itraconazole therapeutic drug monitoring in dogs.",
+      "authors": "Hearn K, Gal A, Wiederhold NP, Park S, Hanzlicek A",
+      "journal": "Am J Vet Res",
+      "date": "2026 Sep 8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710535/",
+      "abstract": "To compare itraconazole therapeutic drug monitoring (TDM) results by culture-based bioassay versus liquid chromatography-mass spectrometry (LC-MS) in dogs with blastomycosis and determine how the choice of assay might influence dosage adjustments. This was a retrospective study. Ninety-seven samples from 14 client-owned dogs with blastomycosis were collected from October 2023 through May 2025 and analyzed by bioassay and 3 LC-MS-derived variables: itraconazole alone (ITZ), the hydroxyitraconazol",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42710534",
+      "title": "Computed tomography perfusion indicates reduced portal venous perfusion and relative arterial dominance in canine hepatocellular carcinoma.",
+      "authors": "Wang P, Ishigaki K, Ishikawa C, Shiozawa N, Kimpara M",
+      "journal": "Am J Vet Res",
+      "date": "2026 Sep 8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42710534/",
+      "abstract": "To characterize CT perfusion (CTP) in canine massive hepatocellular carcinoma (HCC) and explore associations with descriptive histomorphologic differentiation categories. This retrospective study included 20 client-owned dogs with surgically excised, histopathologically confirmed HCC of the massive gross phenotype and interpretable preoperative CTP datasets. Hepatic arterial flow (HAF), portal venous flow (PVF), and hepatic perfusion index (HPI) were calculated with a dual-input maximum-slope me",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42711694",
+      "title": "Sero-epidemiological survey of Toxoplasma gondii in water buffalo (Bubalus bubalis) and domestic pig (Sus scrofa domesticus) across upper and lower Egypt.",
+      "authors": "Elmahallawy EK, Abdo W, Cano-Terriza D, Gareh A, Elsheikh HEM",
+      "journal": "BMC Vet Res",
+      "date": "2026 Sep 7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42711694/",
+      "abstract": "Toxoplasma gondii (T. gondii) is a globally prevalent protozoan parasite affecting warm-blooded species, including humans. In Egypt, serological surveys have been conducted in several livestock; however, studies on species such as buffalo and pigs remain scarce. This study aimed to provide updated insights into the seroprevalence of T. gondii in a cohort of 548 domestic animals, comprising 288 water buffaloes (Bubalus bubalis), sampled from both Upper and Lower Egypt, and 260 domestic pigs (Sus ",
+      "category": "other",
+      "summary_ko": ""
+    },
     {
       "id": "42706634",
       "title": "Feline Mammary Carcinomas: Clinical Perspectives on Diagnosis, Staging, Treatment and Prognosis.",
@@ -56,7 +133,7 @@
     },
     {
       "id": "42702299",
-      "title": "Gut Microbiota and Selected Systemic Biomarker Profiling in Dogs with Distinct Osteoarthritis Phenotypes.",
+      "title": "Gut microbiota and selected systemic biomarker profiling in dogs with distinct osteoarthritis phenotypes.",
       "authors": "Agudelo-Giraldo L, López C, Carmona JU",
       "journal": "Vet J",
       "date": "2026 Sep 6",
@@ -297,61 +374,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42651879",
-      "title": "Post-Operative Magnetic Resonance Imaging of Canine Cervical Spine After Ventral Slot Surgery; Evaluation of the Porcine-Derived Hemostatic Compound Spongostan™ Specific Imaging Features.",
-      "authors": "Armellini M, Signore FD, Lombardo R, Zarelli M, Contiero B",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651879/",
-      "abstract": "Porcine-derived gelatin sponge SPONGOSTAN&#x2122; is an adjunct material routinely used in neurosurgery. This study aimed to describe its MRI features, since its imaging features are not available yet in veterinary medicine. Post-operative MR images of dogs that underwent decompressive ventral slot surgery following cervical intervertebral disc extrusion were retrospectively reviewed by three readers; inter-rater association was evaluated using the Spearman's rank correlation coefficient. Sevent",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651874",
-      "title": "Effects of Dietary Rhodotorula mucilaginosa Powder Supplementation on Growth, Coloration, and Health in Fancy Carp (Cyprinus carpio Linn.).",
-      "authors": "Promden W, Wangkahart E, Sutthi N, Prisingkorn W, Phudkliang J",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651874/",
-      "abstract": "Dietary carotenoids and functional feed additives are increasingly used in ornamental aquaculture to improve fish coloration, growth performance, and health. This study evaluated the effects of dietary Rhodotorula mucilaginosa powder on growth performance, feed utilization, pigmentation, physiological responses, hepatic gene expression, and tissue morphology in fancy carp (Cyprinus carpio Linn.). Fish were fed five isonitrogenous and isoenergetic diets containing 0, 0.5, 1, 2, or 4 g/kg R. mucil",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651871",
-      "title": "Bacillus coagulans Improves Performance by Modulating Bile Acid Metabolism to Suppress Hepatic Lipid Accumulation and Attenuating Ovarian Oxidative Stress in Late Laying Hens.",
-      "authors": "Guo S, Lv Z, Duan Y, Peng B, Niu J",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651871/",
-      "abstract": "In the late laying phase, laying hens often accumulate fat in their bodies due to high-fat diets, which in turn affects their production performance. Bacillus coagulans has good tolerance in the digestive system and is beneficial to intestinal health. The objective of this study was to evaluate the effect of Bacillus coagulans on production performance, lipid metabolism, and ovarian function in late-phase laying hens. The experiment involved 180 Hy-Line Grey laying hens (65 weeks of age) with si",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651868",
-      "title": "Dietary Vitamin D(3) Modulates Antioxidant Responses, Immune-Related Gene Expression, and Flesh Quality in Giant Freshwater Prawn (Macrobrachium rosenbergii) Under Pathogenic Vibrio Challenge.",
-      "authors": "Liu Y, Dong Q, Xu Y, Hu C, Yang C",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651868/",
-      "abstract": "The giant freshwater prawn (Macrobrachium rosenbergii) is a commercially pivotal crustacean species in global freshwater aquaculture, while vibriosis caused by non-O1 Vibrio cholerae has become the primary bottleneck restricting its sustainable intensive farming. Vitamin D3 (VD3) is a biologically active fat-soluble nutrient involved in mineral metabolism and immune regulation in animals, yet its effects on the physiological responses of M. rosenbergii under a pathogenic bacterial challenge rema",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651867",
-      "title": "Nutrient Digestibility, Chitin Recovery and Antioxidant Capacity of Tenebrio molitor Larvae Meal in Canine- and Feline-Adapted In Vitro Digestion Using a Conventional Fish Meal as References.",
-      "authors": "Dametti MR, Frazzini S, Ferri I, Dell'Anno M, Spedale C",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651867/",
-      "abstract": "The demand for sustainable protein sources for companion animal nutrition has stimulated interest in insect-derived ingredients. Tenebrio molitor larvae meal is a promising alternative to conventional proteins because of its nutritional composition and functional properties. This study evaluated the nutritional quality, in vitro digestibility, chitin digestibility, and antioxidant properties of T. molitor meal using canine- and feline-adapted in vitro digestion models. Chemical composition, amin",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42674071",
       "title": "Rabies surveillance in the United States during 2024.",
       "authors": "Keshavamurthy R, Boutelle C, Bonaparte S, Gigante CM, Condori RE",
@@ -525,50 +547,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42655881/",
       "abstract": "ObjectiveThis study aimed to report and compare attitudes and practices of veterinarians regarding feline pain management in Eastern and Western Europe.MethodsA questionnaire was developed and divided into demographic data, drug availability/administration and pain management practices. The questionnaire went through content and face validity and was translated into several languages. An internet-based survey was created and responses were collected using a convenience sampling method. Data were",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42648892",
-      "title": "Comparison of coproparasitological diagnoses in cats: evaluation of techniques and their combinations.",
-      "authors": "Gomes APC, de Fortes MCL, de Assis IFO, Grande CO, Ximenes IV",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Aug 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42648892/",
-      "abstract": "To compare the Willis, Sheather, Faust, Ritchie and spontaneous sedimentation techniques,&#xa0;as well as their combinations, for the diagnosis of gastrointestinal parasites in domestic and semi-domesticated felines. Coproparasitological analyses were conducted on domestic cats of both sexes and all age groups, including kittens, adults and senior cats, between August 2024 and August 2025. Upon receipt, they were refrigerated at 4&#xb0;C and processed within a maximum of 24&#x2009;hours using fi",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42648877",
-      "title": "Epidemiological, clinical and diagnostic aspects of feline otitis: a retrospective study of 103 cases from the dermatology service of a veterinary teaching hospital (2020-2022).",
-      "authors": "Humeau L, Do Dinh N, Dropsy H, Cochet-Faivre N",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Aug 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42648877/",
-      "abstract": "To describe the epidemiological characteristics, clinical features, diagnostic findings and underlying causes of feline otitis in cases presented to a French veterinary teaching hospital. Medical records of cats diagnosed with otitis by the dermatology department of a veterinary teaching hospital between September 2020 and March 2022 were retrospectively reviewed. Signalment, clinical history, video-otoscopic findings, cytology, imaging and histopathology results were collected. A total of 103 c",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42648350",
-      "title": "Diagnostic performance of 1,2-O-dilauryl-rac-glycero glutaric acid-(6'-methylresorufin) ester lipase activity in cats presenting to a veterinary referral hospital.",
-      "authors": "Rodriguez Godoy J, Willems A, Ibarrola P, Rishniw M",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42648350/",
-      "abstract": "To determine the prevalence of increased 1,2-O-dilauryl-rac-glycero glutaric acid-(6'-methylresorufin) ester (DGGR) lipase activity in cats with and without pancreatitis, and to evaluate its diagnostic performance relative to a clinical diagnosis of pancreatitis and ultrasonographic assessments. Serum DGGR lipase activity was measured with the Randox lipase assay and considered increased if &gt; 25 U/L. A board-certified internal medicine clinician, blinded to DGGR results, gave each cat a clini",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42648349",
-      "title": "Poorly concentrated urine is associated with an increased risk of developing chronic kidney disease in apparently healthy cats.",
-      "authors": "Rudinsky AJ, Morrison JA, Parker VJ, Spofford N, Topdjian K",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Aug 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42648349/",
-      "abstract": "To evaluate medical records from mature and senior cats stratified by urine specific gravity (USG; &#x2265; 1.035 or &lt; 1.035) to examine the development of presumptive chronic kidney disease (CKD). 15,027 apparently healthy cats were evaluated for inclusion in a 2-year longitudinal retrospective study. Outcome during the study period was a presumptive CKD diagnosis or development of creatinine &gt; 1.6 mg/dL and USG &lt; 1.035 with consistent clinical signs. Cats were grouped by age (mature, ",
-      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -811,6 +789,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42651883/",
       "abstract": "Breast cancer is one of the most prevalent malignancies in women worldwide and the most common malignant tumor in unspayed female dogs, highlighting the comparative relevance of this disease across these species. The release of EVs is increased in mammary tumors compared to normal tissue, with the quantity generally correlating with the tumor's histological grade and aggressiveness. EVs carry a varied molecular load, mainly composed of proteins, RNAs, including microRNAs (miRNAs), lipids, and nu",
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42713429",
+      "title": "Alopecia management from a comparative perspective: pharmacological and pharmaceutical insights in humans, dogs, and cats.",
+      "authors": "Seo J, Yun JH",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42713429/",
+      "abstract": "Hair loss (alopecia) is a multifactorial condition affecting humans and companion animals, including dogs and cats, with etiologies involving hormonal, immune-mediated, genetic, infectious, allergic, parasitic, and behavioral mechanisms. Although androgenetic alopecia and alopecia areata are well characterized in humans, alopecia in veterinary patients more frequently reflects an underlying endocrine, hereditary, infectious, allergic, parasitic, or self-induced disorder. This review provides a c",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42712380",
+      "title": "Case Report: Recurrent vestibular episodes in a dog resembling Meniere's disease.",
+      "authors": "Ladenburger ME, Kuzek K, Schmitz AK, Brühschwein A, Fischer A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42712380/",
+      "abstract": "M&#xe9;ni&#xe8;re's disease, characterized by episodic vertigo, sensorineural hearing loss, and tinnitus, is well-documented in humans but rarely reported in veterinary medicine. This case report describes a 15-year-old male mixed-breed dog with recurrent vestibular episodes lasting 30&#x202f;min to several hours. Clinical signs included ataxia, head tilt, and nystagmus. MRI and diagnostic workups ruled out common structural causes of vestibular signs and ear diseases. Audiometric testing reveal",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
