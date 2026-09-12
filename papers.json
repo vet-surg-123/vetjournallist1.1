@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 23:56 UTC",
+  "updated": "2026-09-12 00:04 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,6 +10,17 @@
     "other": "기타"
   },
   "papers": [
+    {
+      "id": "42723058",
+      "title": "Integrated endocrine-oxidative-metabolic and trace element responses to heat and cold stress in dromedary camels (Camelus dromedarius).",
+      "authors": "Zaki MG, Ramadan ES, Oraby MI, Ryad NM",
+      "journal": "BMC Vet Res",
+      "date": "2026 Sep 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42723058/",
+      "abstract": "The dromedary camel (Camelus dromedarius) possesses remarkable physiological adaptations to withstand harsh desert conditions, including heat stress and drought. This study aimed to evaluate the effects of heat and cold stress on oxidative stress biomarkers, hormones, lipid, and mineral concentrations in dromedary camels. A total of 45 apparently healthy adult male dromedary camels were included in the study. Blood samples were collected, plasma and serum were separated for the determination of ",
+      "category": "internal",
+      "summary_ko": ""
+    },
     {
       "id": "42717639",
       "title": "Skeletal modifications after transpelvic urethrostomy as treatment for urethral stricture in a three-month-old cat.",
@@ -283,6 +294,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685768/",
       "abstract": "To test the hypothesis that, when used with doxycycline, moxidectin, and prednisone, 2-dose melarsomine would be as safe and effective as 3-dose melarsomine. A randomized clinical trial was conducted from April 2024 to December 2025, comparing compressed 2-dose and 3-dose melarsomine protocols. Dogs with Class 1 or 2 heartworm disease received sustained-release moxidectin, doxycycline, prednisone, and 2 or 3 injections of melarsomine. Melarsomine was administered on days 14 and 15 (2-dose group)",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42723064",
+      "title": "Baicalin alleviates Trueperella pyogenes-induced endometritis with associated changes in gut microbiota composition.",
+      "authors": "Peng Z, Gou C, Guan Y, Wang Y, Liu Y",
+      "journal": "BMC Vet Res",
+      "date": "2026 Sep 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42723064/",
+      "abstract": "Endometritis is a prevalent reproductive disorder in livestock characterized by inflammation, oxidative stress, and microbial imbalance; however, the mechanistic links among these processes remain incompletely understood. This study investigated the protective effects of baicalin in a Trueperella pyogenes (T. pyogenes)-induced mouse model of endometritis by integrating network pharmacology, in vivo validation, and gut microbiota profiling. Network pharmacology analysis identified prostaglandin-e",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42723045",
+      "title": "Correction: Clinico-pathological and renal morphological findings in dogs naturally infected with Dirofilaria repens.",
+      "authors": "Szabó KÉ, Aresu L, Müller L, Szilágyi E, Falus FA",
+      "journal": "BMC Vet Res",
+      "date": "2026 Sep 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42723045/",
+      "abstract": "",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42722190",
+      "title": "Canine Flank Alopecia: A Narrative Review of Clinical Presentation, Genetic Basis, and Therapeutic Management.",
+      "authors": "Verschuuren-Tjoeng MUMY, Schlotter YM, van Geijlswijk IM, Gehring R, van Steenbeek FG",
+      "journal": "Vet J",
+      "date": "2026 Sep 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722190/",
+      "abstract": "Canine flank alopecia (CFA) is a seasonally recurrent skin disorder with a strong breed predisposition. Affected dogs display non-inflammatory, often hyperpigmented, well-circumscribed, symmetrical patches of hair loss, typically located on the thoracolumbar flanks. The onset of hair loss occurs during periods of decreasing daylight, usually in autumn or winter, with spontaneous partial or complete regrowth of hair during the following spring or summer. CFA is not associated with systemic sympto",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42725899",
+      "title": "Citation clarification regarding feline eltrombopag in the \"ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats\".",
+      "authors": "Kim J, Kwak D",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42725899/",
+      "abstract": "",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -616,6 +671,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42722611",
+      "title": "Evaluation of the mitral-aortic velocity time integral ratio for severity assessment in dogs with myxomatous mitral valve disease.",
+      "authors": "Kawai S, Suzuki R, Mochizuki Y, Yuchi Y, Kitazawa A",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Aug 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722611/",
+      "abstract": "In dogs, myxomatous mitral valve disease is the most commonly acquired cardiac disorder. Quantitative assessment of mitral regurgitation (MR), particularly regurgitant volume normalized to body weight (RVol/kg), remains challenging. A Doppler-derived mitral-to-aortic velocity time integral (VTI) ratio (calculated as mitral inflow VTI) divided by left ventricular outflow tract VTI]) has been proposed in humans to stratify MR severity. This study evaluated its association with MR severity, America",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42652034",
       "title": "Incidence of Infective Endocarditis in Dogs After Balloon Dilatation of Congenital Pulmonic Stenosis Without Peri- and Postoperative Antimicrobial Prophylaxis.",
       "authors": "Zeedijk DI, Szatmári V",
@@ -671,83 +737,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42651986",
-      "title": "Clinical and Faecal Outcomes in Adult Dogs with Chronic Enteropathy Fed an Hydrolysed Protein Diet with and Without Bacillus velezensis DSM 15544: A Randomised, Double-Blind, Cross-Over Trial.",
-      "authors": "Vecchiato CG, Sportelli F, Masiero E, Pinna C, Crisonà M",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651986/",
-      "abstract": "Chronic enteropathy (CE) is a common cause of persistent gastrointestinal signs in dogs, and dietary management represents the cornerstone of treatment. Probiotics have been proposed as adjunctive strategies to support intestinal health, although evidence of their efficacy remains limited. This randomised, double-blind crossover trial evaluated the effects of a hydrolysed protein diet supplemented or not with Bacillus velezensis DSM 15544 applied during post-extrusion coating. Thirteen CE dogs w",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651972",
-      "title": "Biocultural Ethnoecology of Nasua narica (Procyonidae, Mammalia) in Northeastern Oaxaca, México.",
-      "authors": "Vásquez-Dávila MA, Briones-Salas M, García-Orozco S, Galindo-Aguilar RE, Manzanero-Medina GI",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651972/",
-      "abstract": "Oaxaca is one of the most biocultural diverse regions in Mexico. Although the white-nosed coati (Nasua narica L.; Procyonidae, Mammalia) is widely used by Indigenous and rural communities throughout the Neotropics, its role within subsistence hunting, traditional food systems, and local management practices in Oaxaca has remained undocumented. This study analyzes the biocultural significance of N. narica hunting and consumption among four Indigenous groups in northern Oaxaca. Data were collected",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651971",
-      "title": "Factors Associated with Survival to Discharge in Cats with Spontaneous Hemoperitoneum.",
-      "authors": "Evans D, Guillén A, Cortellini S, Rossanese M",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651971/",
-      "abstract": "This study aims to describe the clinical presentation, treatment and outcomes of cats diagnosed with spontaneous hemoperitoneum and to identify factors associated with survival to discharge. Medical records from 2005 to 2024 were searched and data was reviewed retrospectively. Clinical, diagnostic and treatment variables were evaluated for their association with survival to discharge. Seventy-three cats were included. The most common presenting clinical signs at diagnosis were lethargy, hyporexi",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651962",
-      "title": "Preparing Therapy Dogs for Animal-Assisted Services: Governance, Welfare-Centred Preparation, and a Lifecycle Research Agenda Across Selected European and United States Frameworks.",
-      "authors": "Shajid Pyari M, Guo K, Kargas N",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651962/",
-      "abstract": "Dog-assisted services are employed in healthcare, educational, social-care, and community settings, yet systems for preparing and protecting therapy dogs remain unevenly developed. This narrative review synthesises empirical, conceptual, and governance literature on therapy dog preparation in selected European contexts and the United States. Searches were conducted across academic databases, specialist repositories, and grey-literature sources, with evidence organised thematically around governa",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651958",
-      "title": "Dietary Chlorogenic Acid Attenuates Liver Injury, Lipid Metabolic Disturbance, and Inflammatory Responses in Broilers Under High Stocking Density.",
-      "authors": "Bai D, Zhang Y, Zheng B, Guo F, Zhen W",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651958/",
-      "abstract": "This study evaluated whether chlorogenic acid (CGA) attenuates hepatic injury in broilers under high stocking density (HSD). A total of 216 experimental male Arbor Acres broilers were assigned to normal density without CGA (ND; 14 birds/m2), high density without CGA (HD; 22 birds/m2), normal density with 0.1% CGA (NDCGA), or high density with 0.1% CGA (HDCGA) groups, with six cages per treatment. CGA was supplied from day 7 to 42. At 42 d, live-weight densities were 35.00, 50.25, 34.48, and 49.3",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651954",
-      "title": "Effects of Dietary Protein and Starch Digestion Rates on Jejunal and Cecal Microbial Community States and Feed Efficiency in Raccoon Dogs.",
-      "authors": "Nan W, Jiang R, Duan X, Chen S, Yu S",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651954/",
-      "abstract": "Feed efficiency remains a significant challenge in farmed raccoon dogs, and performance differences can occur even when diets are formulated with similar nutrient levels. Beyond nutrient concentrations, digestion kinetics can alter the timing of carbon and nitrogen availability along the gastrointestinal tract, thereby influencing microbial assembly in a segment-specific way. Twenty 2-month-old male raccoon dogs (Nyctereutes procyonoides) were divided into four dietary groups (n = 5) in a 2 &#xd",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651930",
-      "title": "Effects of Dietary Alpinia officinarum Extract on Performance, Immunity, Microbiota, and Aeromonas hydrophila Resistance in Red Claw Crayfish.",
-      "authors": "Yu ZH, Lu YP, Xu C, Zhang XX, Zhang ZL",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651930/",
-      "abstract": "Plant extracts contain multiple bioactive compounds and have been extensively investigated as alternatives to antibiotic-based feed additives in aquaculture. The present study was designed to evaluate the effects of dietary supplementation with galangal (Alpinia officinarum) extract (AO) on the growth, immune response, intestinal digestive enzyme activities, gut microbiota, and resistance to A. hydrophila in red claw crayfish (Cherax quadricarinatus). Crayfish with an initial body weight of 0.83",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42664783",
       "title": "Multicenter transvenous pacemaker implantation in 595 dogs: complications and survival rates.",
       "authors": "Ciccozzi M, Stauthammer C, Whipp C, Visser L, Kellihan H",
@@ -767,6 +756,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42664782/",
       "abstract": "Right-sided heart failure (RHF) elevates central venous pressure, causing hepatic congestion. Two-dimensional shear wave elastography (2D-SWE) measures shear wave speed (SWS) and dispersion slope (DS), reflecting tissue viscoelasticity and viscosity. The aim was to investigate associations between hepatic SWS and DS and RHF in dogs and evaluate clinical utility. One hundred client-owned dogs with cardiac disease were prospectively classified into RHF (n = 27) and non-RHF (n = 73) groups based on",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42725102",
+      "title": "Case Report: Spinal proliferative meningitis with arachnoid diverticulum formation in a dog.",
+      "authors": "Hajek I, Matiasek K, Caine A, Palus V",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42725102/",
+      "abstract": "This case report describes a 4-year-old Golden Retriever with chronic progressive motor impairment of pelvic limbs. A neurological examination revealed non-painful ambulatory paraparesis, and magnetic resonance imaging detected an eccentric cystic lesion that compressed the thoracic part of the spinal cord. The surgical approach consisted of spinal cord decompression and lesion excision, along with vertebral column stabilization. A neuropathological examination revealed dural and arachnoid hyper",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
