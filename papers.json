@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12 00:04 UTC",
+  "updated": "2026-09-12 23:54 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -294,6 +294,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685768/",
       "abstract": "To test the hypothesis that, when used with doxycycline, moxidectin, and prednisone, 2-dose melarsomine would be as safe and effective as 3-dose melarsomine. A randomized clinical trial was conducted from April 2024 to December 2025, comparing compressed 2-dose and 3-dose melarsomine protocols. Dogs with Class 1 or 2 heartworm disease received sustained-release moxidectin, doxycycline, prednisone, and 2 or 3 injections of melarsomine. Melarsomine was administered on days 14 and 15 (2-dose group)",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42727605",
+      "title": "Magnetic resonance imaging identifies prognostic features in dogs and cats with ischemic cerebrovascular accidents.",
+      "authors": "Desbordes J, Sifouane A, Ruel Y, Agoulon A, Papageorgiou S",
+      "journal": "Am J Vet Res",
+      "date": "2026 Sep 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727605/",
+      "abstract": "To characterize MRI findings, including arterial spin labeling (ASL) perfusion features, in dogs and cats with ischemic cerebrovascular accidents (ICVAs) and to identify prognostic factors. Retrospective, single-center observational study of dogs and cats presenting with acute, nonprogressive brain dysfunction from 2018 through 2024, with MRI findings consistent with ICVA and available ASL perfusion imaging. Ischemic cerebrovascular accidents subtypes; MRI findings, including ASL perfusion chara",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -723,17 +734,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42652008/",
       "abstract": "Pyonephrosis is a rare, life-threatening suppurative disease of the kidney characterised by the accumulation of purulent exudate within the renal pelvis and the destruction of renal parenchyma. It is typically associated with azotaemia and urinary tract obstruction. Extreme leucocytosis (&gt;100 &#xd7; 103/&#xb5;L), known as a leukemoid reaction, has been rarely reported in feline pyonephrosis. A 13-year-old neutered domestic shorthair female cat was brought to a veterinary clinic with symptoms ",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42651994",
-      "title": "Effects of Replacing Dietary Fishmeal with Enzyme-Treated Soybean Protein on Growth Performance, Serum Biochemical Indices, Antioxidant, Digestive Enzyme Activities, Intestinal Barrier Integrity and Relative mRNA Expression Levels of Juvenile Largemouth Bass (Micropterus salmoides).",
-      "authors": "Dong X, Guo J, Xu H, Xiong P, Li L",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42651994/",
-      "abstract": "The enzyme-treated soybean protein (ETSP) could improve their application as an ingredient and substitute for fishmeal (FM) in aquafeeds. In the present research, an eight-week feeding trial was carried out to investigate the effects of using ETSP as a particle substitution in FM on growth performance, serum biochemical indices, antioxidant, intestinal barrier integrity and relative mRNA expression levels in largemouth bass (Micropterus salmoides). A cohort of 450 fish (15.52 &#xb1; 0.04 g/fish)",
-      "category": "other",
       "summary_ko": ""
     },
     {
