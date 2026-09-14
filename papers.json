@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12 23:54 UTC",
+  "updated": "2026-09-14 00:02 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -294,6 +294,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685768/",
       "abstract": "To test the hypothesis that, when used with doxycycline, moxidectin, and prednisone, 2-dose melarsomine would be as safe and effective as 3-dose melarsomine. A randomized clinical trial was conducted from April 2024 to December 2025, comparing compressed 2-dose and 3-dose melarsomine protocols. Dogs with Class 1 or 2 heartworm disease received sustained-release moxidectin, doxycycline, prednisone, and 2 or 3 injections of melarsomine. Melarsomine was administered on days 14 and 15 (2-dose group)",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42731693",
+      "title": "A deep learning framework for histopathological classification of canine testicular tumours.",
+      "authors": "Riccio L, Rosati L, De Falco M, Di Napoli E, Formisano P",
+      "journal": "Vet J",
+      "date": "2026 Sep 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42731693/",
+      "abstract": "Testicular neoplasms are common in dogs, and their histopathological classification may be challenging in selected cases, particularly when morphological patterns overlap, with potential implications for diagnostic consistency and case management. In this study, we propose an artificial intelligence (AI)-based computational pathology approach for the automatic classification of the three main canine testicular neoplasms (Seminoma, Leydig cell tumour, and Sertoli cell tumour) from digitised haema",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42728580",
+      "title": "EXPRESS: What Goes in the Bowl? Evidence-Based Nutrition for Ageing Domestic Cats.",
+      "authors": "Bermingham E, Hoummady S, Schoeman T, Chandler M, Dowgray NJ",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Sep 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42728580/",
+      "abstract": "With the increasing life expectancy of domestic cats, there is a growing imperative to understand and address the unique nutritional needs of senior felines. This review critically examines current knowledge regarding the physiological changes associated with feline ageing, the nutritional requirements of older cats, and the gaps in research and regulatory nutritional standards that persist in this field. Despite the importance of nutrition, there are no official guidelines for senior or geriatr",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -704,39 +726,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42652023",
-      "title": "Natural Infection of Domestic Dogs with Raccoon Dog and Fox Amdoparvovirus During a Severe Disease Outbreak.",
-      "authors": "Gajdov V, Pusic I, Savic S, Lazic G, Zekic M",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42652023/",
-      "abstract": "Raccoon dog and fox amdoparvovirus (RFAV) has been reported in raccoon dogs and foxes, but natural infection in domestic dogs has not previously been documented. During March-April 2026, samples from four affected Dobermann dogs from a kennel near Novi Sad, Serbia, were submitted for laboratory investigation. After negative testing for canine adenovirus, canine coronavirus, herpesvirus, parvovirus, distemper virus, influenza A virus, and leptospirosis, metagenomic sequencing was performed on sel",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42652017",
-      "title": "Geographical Distribution and Molecular Characterization of Dirofilaria spp. in Dogs Across Kazakhstan.",
-      "authors": "Almysheva T, Uakhit R, Smagulova A, Sembaeva Z, Lider L",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42652017/",
-      "abstract": "Canine dirofilariosis caused by Dirofilaria immitis and Dirofilaria repens is a vector-borne zoonotic infection of considerable veterinary and public health importance. Despite reports of the circulation of Dirofilaria spp. in neighboring countries, data on the molecular prevalence, species composition, and genetic diversity of these parasites in dogs from Kazakhstan remain limited. In the present study, owned, shelter, and stray dogs, which serve as the principal reservoirs of infection, were e",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42652008",
-      "title": "Massive Unilateral Pyonephrosis with Extreme Leukocytosis in a Cat: A Case Report.",
-      "authors": "Małż M, Morawska M, Makowska K",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42652008/",
-      "abstract": "Pyonephrosis is a rare, life-threatening suppurative disease of the kidney characterised by the accumulation of purulent exudate within the renal pelvis and the destruction of renal parenchyma. It is typically associated with azotaemia and urinary tract obstruction. Extreme leucocytosis (&gt;100 &#xd7; 103/&#xb5;L), known as a leukemoid reaction, has been rarely reported in feline pyonephrosis. A 13-year-old neutered domestic shorthair female cat was brought to a veterinary clinic with symptoms ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42664783",
       "title": "Multicenter transvenous pacemaker implantation in 595 dogs: complications and survival rates.",
       "authors": "Ciccozzi M, Stauthammer C, Whipp C, Visser L, Kellihan H",
@@ -756,6 +745,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42664782/",
       "abstract": "Right-sided heart failure (RHF) elevates central venous pressure, causing hepatic congestion. Two-dimensional shear wave elastography (2D-SWE) measures shear wave speed (SWS) and dispersion slope (DS), reflecting tissue viscoelasticity and viscosity. The aim was to investigate associations between hepatic SWS and DS and RHF in dogs and evaluate clinical utility. One hundred client-owned dogs with cardiac disease were prospectively classified into RHF (n = 27) and non-RHF (n = 73) groups based on",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42730333",
+      "title": "Behavioral and autonomic manifestations of suspected focal impaired awareness seizures supported by interictal electroencephalographic findings in three dogs: a case series.",
+      "authors": "Czerwik A, Olszewska A, Farke D, Schmidt MJ",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42730333/",
+      "abstract": "Focal epileptic seizures with sensory impairment can be difficult to recognize and are often mistaken for behavioral disorders. Electroencephalography (EEG) can provide important supportive evidence for their epileptic origin when interpreted in conjunction with clinical presentation. This article describes three cases of canine patients: a 2-year-old Border Terrier, a 1-year-old Poodle mix, and a 4-year-old mixed-breed dog. All three were presented with a history of recurrent episodes character",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
