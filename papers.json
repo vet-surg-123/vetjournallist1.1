@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14 00:02 UTC",
+  "updated": "2026-09-15 00:26 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -294,6 +294,39 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42685768/",
       "abstract": "To test the hypothesis that, when used with doxycycline, moxidectin, and prednisone, 2-dose melarsomine would be as safe and effective as 3-dose melarsomine. A randomized clinical trial was conducted from April 2024 to December 2025, comparing compressed 2-dose and 3-dose melarsomine protocols. Dogs with Class 1 or 2 heartworm disease received sustained-release moxidectin, doxycycline, prednisone, and 2 or 3 injections of melarsomine. Melarsomine was administered on days 14 and 15 (2-dose group)",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42733290",
+      "title": "Predictors of clinically significant bleeding in dogs with severe thrombocytopenia: 159 cases (2012-2021).",
+      "authors": "Smith G, Bennet ED, Ridyard AE",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42733290/",
+      "abstract": "To evaluate risk factors for clinically significant bleeding in dogs with severe thrombocytopenia and to assess whether predictors of bleeding differ between immune thrombocytopenia and other causes, and whether platelet mass is more predictive than platelet count. Medical records of dogs presenting to a referral institution between 2012 and 2021 with severe thrombocytopenia (platelet count &lt;50&#x2009;&#xd7;&#x2009;109/L) were retrospectively reviewed. Dogs were classified by underlying cause",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42732994",
+      "title": "Comparative Phenotypic and Molecular Characterisation of Feline Oral Squamous Cell Carcinoma Cell Lines Reveals Marked Biological Heterogeneity.",
+      "authors": "Tanveer Q, Pang LY, Farquharson C, Bergkvist GT",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Sep 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732994/",
+      "abstract": "Feline oral squamous cell carcinoma (FOSCC) is the most common oral malignancy, characterised by aggressive local invasion, frequent bone involvement, and poor prognosis. The limited availability of well-characterised in&#xa0;vitro models has hindered the understanding of tumour heterogeneity and invasive behaviour. This study aimed to establish and comparatively characterise a panel of FOSCC cell lines derived from tumours with and without documented bone invasion to identify intrinsic biologic",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42732914",
+      "title": "Successful use of insect-based (Hermetia illucens) diet in dogs with food-responsive enteropathy.",
+      "authors": "Murtagh K, Stavroulaki E, Carvalho M, J O'Neill E, Mooney CT",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732914/",
+      "abstract": "Diet is an integral component of the management of chronic enteropathy in dogs. The role of insect-based diets in this disease remains unknown. The objective of this study was to evaluate the impact of an insect-based (Hermetia illucens) diet in dogs with presumed food-responsive enteropathy. Twenty-seven client-owned dogs with evidence of chronic enteropathy, in which diet was required as sole management, were enrolled onto this prospective, uncontrolled diet trial. Canine inflammatory bowel di",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -693,17 +726,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42655881",
-      "title": "EXPRESS: Attitudes and practices of veterinarians regarding feline pain management in Western versus Eastern Europe.",
-      "authors": "Bukhari SSUH, Marangoni S, Almendros A, Luna SP, Steagall P",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Aug 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42655881/",
-      "abstract": "ObjectiveThis study aimed to report and compare attitudes and practices of veterinarians regarding feline pain management in Eastern and Western Europe.MethodsA questionnaire was developed and divided into demographic data, drug availability/administration and pain management practices. The questionnaire went through content and face validity and was translated into several languages. An internet-based survey was created and responses were collected using a convenience sampling method. Data were",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42722611",
       "title": "Evaluation of the mitral-aortic velocity time integral ratio for severity assessment in dogs with myxomatous mitral valve disease.",
       "authors": "Kawai S, Suzuki R, Mochizuki Y, Yuchi Y, Kitazawa A",
@@ -712,17 +734,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42722611/",
       "abstract": "In dogs, myxomatous mitral valve disease is the most commonly acquired cardiac disorder. Quantitative assessment of mitral regurgitation (MR), particularly regurgitant volume normalized to body weight (RVol/kg), remains challenging. A Doppler-derived mitral-to-aortic velocity time integral (VTI) ratio (calculated as mitral inflow VTI) divided by left ventricular outflow tract VTI]) has been proposed in humans to stratify MR severity. This study evaluated its association with MR severity, America",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42652034",
-      "title": "Incidence of Infective Endocarditis in Dogs After Balloon Dilatation of Congenital Pulmonic Stenosis Without Peri- and Postoperative Antimicrobial Prophylaxis.",
-      "authors": "Zeedijk DI, Szatmári V",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42652034/",
-      "abstract": "Balloon valvuloplasty is a commonly performed catheter-based procedure in dogs with congenital pulmonic stenosis. Worldwide, veterinary cardiologists often administer peri- and postoperative prophylactic antimicrobials to prevent infectious complications, like bacterial endocarditis. Infective endocarditis of the pulmonary valve is, however, extremely rare in dogs, and it has never been reported after balloon valvuloplasty. The objective of this retrospective case series was to investigate the i",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42656264/",
       "abstract": "A standardized system for grading postoperative complications in veterinary orthopedics was proposed in 2010 by Cook et al. categorizing complications as minor, major, or catastrophic. Despite broad acceptance, complication rates still vary widely between studies. An alternative to the Cook system has been proposed; the adapted Clavien-Dindo (aCD) system, which categorizes five complication grades and distinguishes them from two other outcomes: 'sequelae' and 'failures-to-cure'. The objective of",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42656245",
-      "title": "A participatory rapid ethnographic assessment protocol for studying human-animal-material interactions in veterinary clinical practice.",
-      "authors": "Kliewer BW, Orchard R",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42656245/",
-      "abstract": "Veterinary clinical practice involves complex interactions among clinicians, learners, clients, animals, material objects, and built environments. These interactions shape how care is delivered, how students learn, and how practitioners respond to changing circumstances in real time. However, existing qualitative and ethnographic methods often lack a replicable protocol for capturing how human, animal, and material contributions jointly shape clinical practice as it unfolds. This methodology art",
-      "category": "internal",
       "summary_ko": ""
     }
   ]
