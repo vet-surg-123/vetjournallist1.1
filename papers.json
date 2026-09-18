@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17 00:17 UTC",
+  "updated": "2026-09-18 00:02 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -352,17 +352,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42692147",
-      "title": "Prevalence, risk factors, and outcome of acute thoracic and lumbar myelopathies in non-chondrodystrophic dogs.",
-      "authors": "Comesaña A, de la Fuente C, Viu J, Añor S",
-      "journal": "Vet J",
-      "date": "2026 Sep 3",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42692147/",
-      "abstract": "Acute thoracolumbar myelopathies are a common reason for consultation in veterinary neurology; however, the actual prevalence of the different diseases responsible for myelopathic signs in non-chondrodystrophic (NCD) dogs remains unknown. This retrospective, single-center study aimed to determine the prevalence and risk factors of diseases causing acute thoracic and lumbar myelopathies in NCD dogs. In addition, the relationship between prognostic factors, final diagnosis and neurological grade a",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42738545",
       "title": "Dog Breeds for the Future: Theoretical Assessment of Strategies for Enhancing the Behavioural Reliability of Existing Dog Breeds, or Developing New Ideal Urban Companion Dogs.",
       "authors": "Pongrácz P, Dobos P",
@@ -437,6 +426,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42738513/",
       "abstract": "DNA mismatch repair (MMR) proteins have been investigated as biomarkers in human oncology, but their role in canine PPCs has not been characterized. Immunohistochemistry for MCK, TTF-1, MSH2, and MSH6 was performed and evaluated in relation to clinicopathological parameters. Affected dogs had a median age of 10.6 years. Histologically, 16 tumors were classified as adenocarcinoma and one as adenosquamous carcinoma, with papillary architecture predominating. MCK and TTF-1 immunoreactivity was dete",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42751990",
+      "title": "Age-dependent expression and heritability of owner-reported dermatological symptoms in Labrador retrievers: Implications for breeding strategies.",
+      "authors": "Deboutte B, Lambrecht L, Broeckx BJG",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42751990/",
+      "abstract": "In decentralised breeding programmes, consistent health monitoring can be challenging, yet accurate phenotyping is essential for informed selection. This study evaluated whether a concise owner-based online survey could capture clinically relevant dermatologic signs in a Belgian assistance-dog breeding population, and whether the resulting phenotypes could support breeding decisions. Survey data were collected between June 2024 and October 2025 from 223 Labrador retrievers (median age 2.1&#x2009",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42751987",
+      "title": "Assessment of the long-term outcomes of compartmental excision for treatment of infiltrative lipomas.",
+      "authors": "Tindale C, Major AC, Pilot MA, Langley-Hobbs SJ, Hernon T",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42751987/",
+      "abstract": "To describe the post-operative long-term outcomes including recurrence rate of infiltrative lipoma in dogs following compartmental resection compared to debulking. Twenty-nine client-owned dogs were surgically treated for infiltrative lipoma diagnosed on histopathology or diagnostic imaging with consistent appearance at surgery. Clinical records were evaluated for signalment, history, physical examination, results of diagnostic imaging and clinical pathology, time to recurrence and post-operativ",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42751918",
+      "title": "EXPRESS: Radiographic findings of the femora and tibiae in cats affected by patella fracture and dental anomaly syndrome.",
+      "authors": "Boulton SJ, Hernon T, Dancer S, Dirrig H, Major AC",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42751918/",
+      "abstract": "The objective of the study was to describe radiographic skeletal changes in cats affected by patella fracture and dental anomaly syndrome (PADS), with particular focus on the femora and tibiae including bone density alterations, evidence of stress fractures and femoral morphology. Cats were retrospectively selected from a database of PADS affected cats. Radiographs were independently evaluated by five veterinary radiologists and three orthopaedic surgeons for cortical thickening, medullary opaci",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42751890",
+      "title": "EXPRESS: Detection of Mycoplasma species and respiratory pathogens in cats with rhinitis and healthy cats.",
+      "authors": "Deveci J, Kerner K, Müller E, Zablotski Y, Schulz BS",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42751890/",
+      "abstract": "To investigate the prevalence of Mycoplasma spp. in cats with rhinitis compared to healthy cats and to evaluate factors associated with detection. A total of 46 cats with rhinitis and 37 asymptomatic controls were prospectively enrolled. Nasal swabs were collected, and polymerase chain reaction (PCR) assays for Mycoplasma spp., Mycoplasma felis, feline herpesvirus (FHV), feline calicivirus (FCV), Bordetella bronchiseptica (B. bronchiseptica) and Chlamydia spp. were performed. All Mycoplasma spp.",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42750239",
+      "title": "Retrospective evaluation of outcomes in dogs with non-associative immune-mediated haemolytic anaemia treated with rivaroxaban as a sole or adjunctive thromboprophylaxis agent: 34 cases (2018-2024).",
+      "authors": "Conway S, Jenkins L, Reeve J",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42750239/",
+      "abstract": "To describe clinical outcomes, thromboembolic and haemorrhagic complications, and treatment characteristics in dogs with non-associative immune-mediated haemolytic anaemia treated with rivaroxaban at a UK referral hospital. Retrospective descriptive study of dogs diagnosed with non-associative immune-mediated haemolytic anaemia and prescribed rivaroxaban as part of their management protocol between January 2018 and July 2024. Thirty-four dogs met inclusion criteria. Median admission haematocrit ",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -693,25 +737,36 @@
       "summary_ko": ""
     },
     {
-      "id": "42691613",
-      "title": "Post-marketing safety monitoring of sodium-glucose cotransporter 2 inhibitors for diabetes in cats: a pharmacovigilance study based on the FDA ADAE database.",
-      "authors": "Lai X, Chen M, Huang Y, Cheng Y",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42691613/",
-      "abstract": "Bexagliflozin and velagliflozin are currently the only sodium-glucose cotransporter 2 inhibitors approved by the United States Food and Drug Administration (FDA) for treating diabetes in cats. There are limited real-world safety reports on their associated adverse events (AEs). To analyze AEs associated with bexagliflozin and velagliflozin using real-world data from the FDA Animal Drug Adverse Events (ADAE) database. None. AE reports submitted for cats receiving bexagliflozin and velagliflozin. ",
-      "category": "internal",
+      "id": "42751982",
+      "title": "Differential Diagnosis Using MRI of Canine Intestinal Neoplasms, Including Lymphoma, Adenocarcinoma, and Inflammatory Polyp: Case Series.",
+      "authors": "Tanaka T, Wada Y, Tomihari M, Hasegawa T",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42751982/",
+      "abstract": "No studies have evaluated magnetic resonance imaging (MRI) findings of intestinal neoplasms in veterinary medicine. We hypothesized that MRI findings would differ among intestinal neoplasms in veterinary medicine. This study retrospectively assessed the MRI findings of intestinal neoplasms, including lymphomas (n&#xa0;=&#xa0;6), adenocarcinomas (n&#xa0;=&#xa0;2), and inflammatory polyps (n&#xa0;=&#xa0;4) in dogs. The following MRI parameters were recorded: neoplasm signal intensity (SI) on T1-we",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
-      "id": "42691612",
-      "title": "Evaluation of basal cortisol and the adrenocorticotropic hormone stimulation test in 982 dogs undergoing investigation for hypoadrenocorticism.",
-      "authors": "Da Silva AJ, Barton SA, Shiel RE, Mooney CT",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42691612/",
-      "abstract": "The adrenocorticotropic hormone (ACTH) stimulation test is the gold standard test for diagnosing hypoadrenocorticism. However, basal cortisol is recommended for screening but fails to consider the effect of analytical variation and previous glucocorticoid therapy on test performance and additional information that a stimulation test could provide. To investigate the effect of varied cut-offs and previous glucocorticoid therapy on the diagnostic performance of basal cortisol and whether ACTH stim",
-      "category": "other",
+      "id": "42751978",
+      "title": "Computed Tomographic Features of Intra-Abdominal Testicular Torsion in Cryptorchid Dogs.",
+      "authors": "Kallis G, Whitlock J, Griffin S, Hughes J",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42751978/",
+      "abstract": "Intra-abdominal cryptorchidism and testicular neoplasia are risk factors for the development of intra-abdominal testicular torsion (IATT). Testicular torsion may be associated with complete or incomplete vascular occlusion, leading to ischemia and necrosis, and, therefore, IATT necessitates urgent orchidectomy. This case series describes the CT features of complete (5/6) and incomplete (1/6) IATT in six dogs with surgically and histopathologically confirmed diagnoses, including torsion of both n",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42751962",
+      "title": "Triple-Phase Computed Tomography for Differentiating Canine Cutaneous and Subcutaneous Mast Cell Tumors From Benign Lesions: A Size-Based Evaluation.",
+      "authors": "Morishita M, Kusaka T, Murata M, Tanaka T",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42751962/",
+      "abstract": "Canine cutaneous and subcutaneous mast cell tumors (MCTs) have highly variable clinical presentation, often mimicking benign lesions. This retrospective case-control study aimed to identify triple-phase computed tomography (CT) features that distinguish MCTs from benign lesions, with an emphasis on tumor size. Twenty-three MCTs (10 large [&#x2265;3&#xa0;cm]; 13 small [&lt;3&#xa0;cm]) and seven benign lesions were included. Qualitative features and CT attenuation values were compared among three ",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -737,17 +792,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42693626",
-      "title": "2026 iCatCare consensus guidelines on the diagnosis and management of chronic kidney disease in cats.",
-      "authors": "Taylor S, Finch N, Caney S, Elliott J, Geddes R",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Sep",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693626/",
-      "abstract": "Chronic kidney disease (CKD) is common in senior cats. Early diagnosis can facilitate interventions to slow progression and minimise clinical signs. Management according to the International Renal Interest Society (IRIS) staging system for CKD can lead to prolonged survival and an excellent quality of life for affected cats. The '2026 iCatCare consensus guidelines on the diagnosis and management of chronic kidney disease in cats' provide information on the pathogenesis of CKD, guidance on making",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "42717346",
       "title": "Isolation of feline-derived scFvs against the VP1-CDE region of feline calicivirus from a phage display library and characterization of their antigen-binding and antiviral potential in vitro.",
       "authors": "Wei Y, Wang H, Han Z, Gou H, Sun D",
@@ -756,6 +800,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42717346/",
       "abstract": "Feline calicivirus (FCV) is a significant causative pathogen of upper respiratory tract disease and virulent systemic infection in feline populations, yet specific targeted antiviral agents for FCV infection remain unavailable. A feline-derived single-chain variable fragment (scFv) phage display library targeting the VP1-CDE neutralizing region of FCV was constructed using peripheral blood mononuclear cells isolated from cats immunized with recombinant VP1-CDE protein. Positive scFv clones were ",
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42750033",
+      "title": "Microbiological investigation of conjunctivitis in cats and dogs from Kars, Türkiye (2024-2025): culture- and MALDI-TOF MS-based identification and antimicrobial susceptibility testing of bacterial isolates.",
+      "authors": "Tarhane S, Büyük F",
+      "journal": "BMC Vet Res",
+      "date": "2026 Jul 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42750033/",
+      "abstract": "Conjunctivitis is a common clinical disorder in cats and dogs, frequently associated with bacterial and fungal infections. Accurate identification of pathogens and evaluation of their antimicrobial resistance profiles are essential for effective treatment. Bacterial and fungal agents were analyzed using cultural and MALDI-TOF MS methods in conjunctival swab samples taken from 59 domestic animals (53 cats and 6 dogs) diagnosed with conjunctivitis and presented to veterinary clinics in &#xc7;ank&#",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -913,6 +968,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42751143",
+      "title": "Mitochondria-associated endoplasmic reticulum membranes in canine and feline diabetic kidney disease: mechanistic links and nutritional implications.",
+      "authors": "Yang Q, Sun Y, Zuo L, Xu M, Tan S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42751143/",
+      "abstract": "Diabetic kidney disease in dogs and cats is clinically relevant but mechanistically underdefined, and the dietary management of diabetic pets is still dominated by empirical control of glycemia, body weight, and renal nutrient load. Mitochondria-associated endoplasmic reticulum membranes (MAMs) are dynamic contact domains that coordinate calcium transfer, lipid exchange, ER stress, mitochondrial quality control, inflammatory signaling, and cell death. This review first summarizes the veterinary ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42746025",
       "title": "Radiomics and comparative neuroimaging of canine gliomas and human glioblastomas: a step toward precision medicine.",
       "authors": "Faustino R, Henriques J",
@@ -1042,72 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42698457/",
       "abstract": "An eight-year-old male intact shepherd mixed breed dog (case 1) and a 6-month-old intact female Picardy sheepdog (case 2) were referred to a Veterinary Teaching Hospital with the diagnosis of infiltrative lipoma causing spinal cord compression. Case 1 presented with a history of intermittent tremors and right forelimb lameness. Clinical examination revealed an expansive, ill-defined, non-movable, soft tissue mass palpable on the right hemithorax and a mild pelvic limb paraparesis. Computed tomog",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42694928",
-      "title": "Dogs display context-dependent behavioral responses to subtle owner-derived multimodal stimuli.",
-      "authors": "Ikeda R, Saito M, Iwata Y, Ozono T, Alemayoh TT",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694928/",
-      "abstract": "Dogs (Canis familiaris) can discriminate explicit human emotions using various sensory modalities. However, their sensitivity to subtle human-derived emotional cues accompanied by physiological changes, but lacking clear behavioral cues, remains poorly understood. This study investigated whether dogs could perceive owner-derived emotional cues when suppressing explicit expressions. Owners were assigned to either stress or relaxation conditions designed to induce stress or relaxation, respectivel",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42694190",
-      "title": "Veterinary student wellbeing and its relationship with dog handling and fear responses during a clinical examination laboratory.",
-      "authors": "Nakonechny L, Pulver V, Artemiou E, Stellato AC",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694190/",
-      "abstract": "Veterinary care can be a significant source of fear and stress for dogs, and handling techniques play a key role in shaping these responses. Emerging evidence suggests that clinician mental wellbeing and stress can influence patient interactions. These challenges extend to veterinary students, who experience high stress during training and represent a critical population for understanding how these influences may emerge in clinical development. During a clinical examination laboratory, we aimed ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42689095",
-      "title": "Mode-dependent differences in kinetic and selected temporospatial gait parameters in healthy cats walking on a pressure-sensitive treadmill: a pilot study.",
-      "authors": "Mille MA, Weissig D, Dobenecker B, Mille EB, Zablotski Y",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42689095/",
-      "abstract": "Standardized and repeatable assessment of feline gait remains challenging, highlighting the need for controlled measurement systems such as pressure-sensitive treadmills. This study aimed to compare kinetic and temporospatial gait parameters in healthy cats walking on a treadmill operated in standing vs. running mode. We hypothesized that no significant differences would be observed between modes. Ten healthy adult cats were enrolled in a prospective, controlled crossover study. Inclusion criter",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42688045",
-      "title": "Common recorded diagnoses in purebred vs. mixed-breed dogs: a multivariable analysis of primary-care electronic medical records in South Korea.",
-      "authors": "Yang I, Kim AY, Baek JS, Ku B, Jeong HJ",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42688045/",
-      "abstract": "In South Korea, the companion-dog population is strongly skewed toward a small number of small-breed purebred dogs, and distinguishing breed-type differences in recorded diagnoses from confounding by age, neuter status, and healthcare utilization is challenging in primary-care data. This retrospective study used electronic medical records (EMRs) from primary-care veterinary clinics in South Korea, covering January 2016-December 2024, to compare the adjusted odds of the 20 most frequently recorde",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42688043",
-      "title": "A multicenter, retrospective, cross-sectional analysis of fresh and processed Vitis vinifera (grape) ingestion in dogs and cats.",
-      "authors": "Altman KD, Kamat TA, Leicester L, Fraser T, Singleton DA",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42688043/",
-      "abstract": "Vitis vinifera fruits are common household toxicants and domestic pets are often presented to veterinarians following exposure due to risk of acute kidney injury. To develop a regular expression-based method for identifying cases of Vitis vinifera fruit ingestion in electronic health records and to use this dataset to compare outcomes between fresh and processed exposures in canines and felines. Secondary aims were to characterize differences in outcome by species, demographics, seasonality, cho",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42687958",
-      "title": "Physical simulation models for veterinary surgical training: a systematic review.",
-      "authors": "Salas-Guerra J, Sánchez-Margallo JA, Durán-Rey D, Sánchez-Margallo FM",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42687958/",
-      "abstract": "Simulation has become an increasingly important educational strategy in veterinary surgical training. This is driven by ethical considerations, the need to standardize skill acquisition, and limitations associated with training based on live animals and cadavers. However, the characteristics, scope, and validation of simulators used in veterinary surgery remain heterogeneous and insufficiently systematized. This study aimed to systematically review and characterize the simulators used in veterin",
-      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
