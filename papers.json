@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18 00:02 UTC",
+  "updated": "2026-09-19 00:06 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -110,39 +110,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42710537",
-      "title": "Cryptococcus-targeted culture in dogs reveals nasal carriage of Naganishia albida and diverse opportunistic yeasts with potential clinical relevance.",
-      "authors": "Gündüz ES, Gümüşsoy KS, Koç AN",
-      "journal": "Am J Vet Res",
-      "date": "2026 Sep 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42710537/",
-      "abstract": "To investigate the nasal carriage of Cryptococcus-related and other opportunistic yeasts in dogs, molecularly characterize the recovered isolates, and evaluate the epidemiological characteristics of Naganishia albida carriage. Nasal swab samples were collected from July through December 2023 from 100 dogs receiving boarding or hospitalization services at private veterinary clinics and animal hospitals in 4 provinces of T&#xfc;rkiye. Yeast isolates were identified using phenotypic methods, intern",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42710535",
-      "title": "Bioassay and liquid chromatography-mass spectrometry are not equivalent in itraconazole therapeutic drug monitoring in dogs.",
-      "authors": "Hearn K, Gal A, Wiederhold NP, Park S, Hanzlicek A",
-      "journal": "Am J Vet Res",
-      "date": "2026 Sep 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42710535/",
-      "abstract": "To compare itraconazole therapeutic drug monitoring (TDM) results by culture-based bioassay versus liquid chromatography-mass spectrometry (LC-MS) in dogs with blastomycosis and determine how the choice of assay might influence dosage adjustments. This was a retrospective study. Ninety-seven samples from 14 client-owned dogs with blastomycosis were collected from October 2023 through May 2025 and analyzed by bioassay and 3 LC-MS-derived variables: itraconazole alone (ITZ), the hydroxyitraconazol",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42710534",
-      "title": "Computed tomography perfusion indicates reduced portal venous perfusion and relative arterial dominance in canine hepatocellular carcinoma.",
-      "authors": "Wang P, Ishigaki K, Ishikawa C, Shiozawa N, Kimpara M",
-      "journal": "Am J Vet Res",
-      "date": "2026 Sep 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42710534/",
-      "abstract": "To characterize CT perfusion (CTP) in canine massive hepatocellular carcinoma (HCC) and explore associations with descriptive histomorphologic differentiation categories. This retrospective study included 20 client-owned dogs with surgically excised, histopathologically confirmed HCC of the massive gross phenotype and interpretable preoperative CTP datasets. Hepatic arterial flow (HAF), portal venous flow (PVF), and hepatic perfusion index (HPI) were calculated with a dual-input maximum-slope me",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42738598",
       "title": "Primary Tracheal Leiomyoma in a Dog: A Case Report.",
       "authors": "Ezquerra-Durán M, Durán-Flórez ME, Ezquerra-Calvo LJ, Cardenal-Morales P, Santella M",
@@ -209,72 +176,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42706634",
-      "title": "Feline Mammary Carcinomas: Clinical Perspectives on Diagnosis, Staging, Treatment and Prognosis.",
-      "authors": "Petrucci GN, Lobo L, Queiroga FP",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Sep 7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42706634/",
-      "abstract": "Feline mammary carcinomas remain a major therapeutic and prognostic challenge in veterinary oncology because they combine high malignant potential, early dissemination, and substantial heterogeneity in clinicopathologic behaviour. This review summarizes current clinical knowledge on epidemiology, risk factors, diagnostic work-up, staging, treatment, and prognostic assessment of feline mammary carcinomas, highlighting areas of consensus and persistent controversies. Progress in care will require ",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42705596",
-      "title": "Mechanistic-data synergy for predicting fracture load in canine bone with appendicular osteosarcoma.",
-      "authors": "Amirzade B, Zobaer T, Lapsley J, Selting KA, Selmic LE",
-      "journal": "Vet J",
-      "date": "2026 Sep 7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42705596/",
-      "abstract": "Canine appendicular osteosarcoma substantially increases the risk of pathological fractures. Limb-sparing approaches such as Stereotactic Body Radiation Therapy (SBRT) can extend and improve the quality of life in large-breed dogs; however, recent clinical studies have reported high post-SBRT fracture rates and significant complications following prophylactic stabilization. While patient-specific Finite Element Analysis (FEA) can estimate pre- and post-stabilization fracture-initiation threshold",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42703016",
-      "title": "Intranasal xylometazoline hydrochloride to reduce intraoperative nasal hemorrhage in dogs undergoing ala-vestibuloplasty for BOAS: A prospective, randomized study.",
-      "authors": "Sek JY, House A, Emeto TI, Lau ACC, Mielke B",
-      "journal": "Vet Surg",
-      "date": "2026 Sep 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42703016/",
-      "abstract": "To assess whether intranasal administration of xylometazoline hydrochloride 0.1% reduces intraoperative hemorrhage during ala-vestibuloplasty in dogs undergoing surgical correction for brachycephalic obstructive airway syndrome (BOAS). Prospective, randomized, placebo-controlled clinical trial. A total of 30 client-owned brachycephalic dogs undergoing surgery for BOAS with ala-vestibuloplasty. Dogs were randomly assigned to receive xylometazoline hydrochloride 0.1% or 0.9% saline intranasally be",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42702519",
-      "title": "Quality of Life Shapes Owner Decision-Making in Canine Cancer Care: Insights From Large-Scale Online Discourse.",
-      "authors": "Tarrant GA, Flory A, Rai TS, Wright A, Street TL",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Sep 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702519/",
-      "abstract": "Canine cancer imposes substantial emotional, financial and decisional burden on owners navigating complex referral pathways and treatment options. Understanding how owners experience and interpret these pathways is essential to improving care delivery. We conducted a retrospective social media listening study using Pulsar Platform to retrieve public Anglophone posts relating to canine cancer across multiple platforms. After cleaning, de-duplication and zero-shot large language model relevance fi",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42702299",
-      "title": "Gut microbiota and selected systemic biomarker profiling in dogs with distinct osteoarthritis phenotypes.",
-      "authors": "Agudelo-Giraldo L, López C, Carmona JU",
-      "journal": "Vet J",
-      "date": "2026 Sep 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702299/",
-      "abstract": "Osteoarthritis (OA) is increasingly recognized as a heterogeneous disorder involving metabolic and inflammatory alterations beyond the affected joint. This study evaluated gut microbiota composition and selected systemic biomarkers in client-owned dogs with distinct OA phenotypes. Fecal microbiota profiling was performed using near full-length 16S rRNA Nanopore sequencing in clinically healthy controls (CG), obese OA dogs (OOA), and thin OA dogs (TOA). Alpha and beta diversity analyses were perf",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42702204",
-      "title": "Outcome of Repairing Canine Proximal Tibial Apophyseal-Epiphyseal Salter-Harris Fractures with Apophyseal Pin and Tension-Band Wire as a Sole Fixation Method.",
-      "authors": "Procter RM, Crowley JD, Beierer LH",
-      "journal": "Vet Comp Orthop Traumatol",
-      "date": "2026 Sep 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702204/",
-      "abstract": "The objective of this study is to report radiographic outcomes and complications following repair of proximal tibial apophyseal-epiphyseal fractures with an apophyseal pin and tension-band wire (APTBW). Medical records and radiographs of dogs treated with APTBW alone were retrospectively reviewed. Tibial plateau angle (TPA) and mechanical medial proximal tibial angle (mMPTA) were compared in the fractured limbs at preoperative, postoperative, and follow-up time points and to the contralateral li",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42738579",
       "title": "The Potential of Selective COX-2 Inhibitor Mavacoxib for Extended Analgesia in Sheep Husbandry.",
       "authors": "Fioretto O, Metcalf L, Lomax S",
@@ -305,17 +206,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42738569/",
       "abstract": "Pelvic urethral rupture is an uncommon but serious injury in cats that may result in extensive urine extravasation and severe soft tissue damage. This report describes the surgical management of two cats with pelvic urethral rupture complicated by urine extravasation extending into the femoral region, resulting in urethrocutaneous fistulation and extensive soft tissue necrosis. Two 2-year-old male domestic shorthairs presented with similar injuries, one undergoing retrograde urethrography, the o",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42697028",
-      "title": "Intermittent ventricular pre-excitation in a dog with orthodromic reciprocating atrioventricular tachycardia.",
-      "authors": "Salvati M, Bourguignon C, Ivasovic F",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Sep 4",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42697028/",
-      "abstract": "A four-year-old female neutered Labrador retriever was referred for investigation of paroxysmal tachycardia. On physical examination, a heart rate of 220 beats/min with no heart murmurs was noticed. Cardiac troponin I was significantly increased. A six-lead electrocardiography revealed phases of narrow QRS complexes tachycardia with regular RR intervals and a QP'/P'Q of 0.80, compatible with orthodromic atrioventricular reciprocating tachycardia (OAVRT), alternating with sinus rhythm. On ambulat",
-      "category": "other",
       "summary_ko": ""
     },
     {
@@ -426,6 +316,83 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42738513/",
       "abstract": "DNA mismatch repair (MMR) proteins have been investigated as biomarkers in human oncology, but their role in canine PPCs has not been characterized. Immunohistochemistry for MCK, TTF-1, MSH2, and MSH6 was performed and evaluated in relation to clinicopathological parameters. Affected dogs had a median age of 10.6 years. Histologically, 16 tumors were classified as adenocarcinoma and one as adenosquamous carcinoma, with papillary architecture predominating. MCK and TTF-1 immunoreactivity was dete",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42754359",
+      "title": "A dose-escalated radiation protocol of 10 × 4.0 Gy provides long-term local control in canine apocrine gland anal sac adenocarcinoma.",
+      "authors": "Terauchi M, Fujii Y, Iwasaki R, Mori T",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754359/",
+      "abstract": "To obtain insights for establishing radiation therapy strategies that provide long-term locoregional benefits in canine apocrine gland anal sac adenocarcinoma, we evaluated whether a dose-escalated protocol (10&#x2009;&#xd7;&#x2009;4.0&#x2009;Gy) could improve clinical outcomes, particularly long-term locoregional control, while maintaining acceptable toxicity. This retrospective cohort study included dogs with apocrine gland anal sac adenocarcinoma treated with three-dimensional conformal radia",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42754086",
+      "title": "Three-dimensional ultrasonographic assessment of the cranial cruciate ligament in medium- to large-sized canine cadavers: a feasibility study.",
+      "authors": "Alicia BF, Ignacio OB, Cristina O, Pablo GO, Andrea C",
+      "journal": "Vet J",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754086/",
+      "abstract": "Cranial cruciate ligament (CrCL) rupture is a common cause of stifle instability and pelvic limb lameness in dogs. Although complete ruptures are often suspected based on clinical examination, assessment of the CrCL remains challenging using non-invasive conventional imaging modalities. The aim of this study was to evaluate the feasibility of three-dimensional ultrasonography (3D-US) for visualization and exploratory measurement of the CrCL in medium- to large-sized canine cadavers. An observati",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42754085",
+      "title": "Characterization of the Cystic Cavities of Canine Invasive Micropapillary Mammary Carcinoma Reveals a Complex Tumor Microenvironment.",
+      "authors": "Dos Reys MP, Rodrigues MA, Nakagaki KYR, de Oliveira ALCB, Cassali GD",
+      "journal": "Vet J",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754085/",
+      "abstract": "Invasive micropapillary carcinoma (IMC) of the mammary gland is an aggressive mammary tumor affecting humans, dogs, and other species. This study characterized the cystic cavities and tumor microenvironment in in situ, transitional, and invasive areas of canine IMC, comparing findings to human IMC. Methods included histopathology; histochemistry (PAS, Alcian Blue, Oil Red) for basement membrane and secretion assessment; immunohistochemistry and immunofluorescence for myoepithelial markers (p63, ",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42754084",
+      "title": "Integrative Copy-Number and Dependency Mapping in Canine High-Grade Nodal Lymphoma Identifies Candidates for Targeted Therapy.",
+      "authors": "Garnica TK, Fernandes AC, Lesbon JCC, Espigolan R, Jark PC",
+      "journal": "Vet J",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754084/",
+      "abstract": "High-grade nodal lymphomas (HGNL) in dogs are aggressive malignancies and important comparative models for human non-Hodgkin lymphoma; however, their copy-number architecture remains incompletely defined. This study applied high-density SNP arrays optimized for FFPE DNA to 90 canine HGNLs (77 B-cell [BCL], 13 T-cell [TCL]) to map genome-wide copy-number alterations (CNAs) and recurrent copy-number altered regions (CNARs), and to integrate them with candidate gene drivers and potential therapeuti",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42753810",
+      "title": "Quantification of Caudal Osteointegration Surface Exposure after Uncemented Total Hip Replacement Stem Implantation: Effect of Stem Size and Implantation Depth.",
+      "authors": "Marti J, Malkani RDA, Erwood MF, Motta C",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42753810/",
+      "abstract": "The objectives of this study are to quantify the area of exposed caudal osseointegration surface after implantation of Biomedtrix Biological Fixation (BFX) stems and study the effect of stem size and implantation depth on this measurement as well as to quantify caudal femoral bone defect changes during femoral canal preparation and stem exposure. This is an in vitro, original research. Using 10 canine femoral model specimens, an undersized, an appropriately sized, and an oversized uncemented BFX",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42753794",
+      "title": "Surgical debulking and electrochemotherapy, including a tetrapolar single-needle electrode, are associated with clinical benefit in dogs with intranasal tumors.",
+      "authors": "Rangel MMM, Holanda AGA, Linhares LCM, Suzuki DOH, Bispo GA",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42753794/",
+      "abstract": "To evaluate the feasibility and preliminary clinical outcomes of surgical debulking combined with electrochemotherapy (ECT) using a multielectrode approach, including a tetrapolar single-needle electrode, in dogs with intranasal tumors. This retrospective observational study included client-owned dogs with intranasal tumors treated from 2017 through 2024 at a veterinary oncology referral center. Dogs were included if they underwent at least 1 surgical procedure combined with intraoperative bleom",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42753789",
+      "title": "Cadaveric feline study revealed no significant difference in biomechanical stability following L4-L5 hemilaminectomy versus mini-hemilaminectomy.",
+      "authors": "Ebeling R, Thorwächter C, Zablotski Y, Meyer-Lindenberg A, Volz F",
+      "journal": "Am J Vet Res",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42753789/",
+      "abstract": "To compare the biomechanical effects of hemilaminectomy (HL) and mini-hemilaminectomy (mHL) on the stability of the feline lumbar spine at L4-L5. 20 cadaveric feline vertebral columns were collected from June 26, 2021, through September 15, 2022; the biomechanical testing was conducted from November 23, 2023, through March 6, 2024. Lumbar spines were screened radiographically and by CT, tested in the native state, and then randomly assigned to HL or mHL at L4-L5. Nondestructive cyclic bending in",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -726,14 +693,25 @@
       "summary_ko": ""
     },
     {
-      "id": "42704875",
-      "title": "Evaluation of renal microvascular perfusion in dogs with cardiac disease using Superb Microvascular Imaging.",
-      "authors": "Yasuda R, Nakamura K, Sasaki N, Yokoyama N, Sasaoka K",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42704875/",
-      "abstract": "Renal dysfunction in cardiac disease is attributed to both reduced cardiac output and venous congestion; however, relative contributions of these mechanisms are difficult to evaluate clinically. Renal microvascular perfusion assessed by Superb Microvascular Imaging (SMI) would be associated with indices of cardiac output and venous congestion in dogs with cardiac disease. Forty-three client-owned dogs were enrolled: 15 healthy dogs (Control), 21 dogs with cardiac disease but without right-sided ",
+      "id": "42757671",
+      "title": "Vertebral Vascular Canal Dysplasia in Three Brachycephalic Breeds and Its Relationship With BOAS Grade.",
+      "authors": "de Almeida Coelho M, Maddox T, Ladlow JF, Genain MA",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42757671/",
+      "abstract": "The relationship between vertebral vascular canal dilation and raised intra-abdominal and intrathoracic pressures has been observed in humans. Vertebral vascular canal dysplasia (VVCD) has recently been reported as a vertebral anomaly in brachycephalic dogs. This retrospective, single-institutional study aimed to estimate the prevalence of VVCD number and type in thoracic vertebrae of three brachycephalic breeds and a non-brachycephalic control group, and to correlate the findings with the brach",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42755045",
+      "title": "Ultrasonography in Canine Carpal Disorders.",
+      "authors": "Klußmann S, Meyer-Lindenberg A, Brühschwein A",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755045/",
+      "abstract": "Ultrasonographic studies of canine carpal disorders are scarce and typically limited to case reports or evaluations of single structures. This prospective, single-center study characterized ultrasonographic findings in canine carpal disorders confirmed by a composite reference standard and clinical follow-up, and it assessed the diagnostic role of high-frequency musculoskeletal ultrasound in relation to radiography and selectively performed cross-sectional imaging. Forty-eight carpi in 41 dogs w",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -968,6 +946,72 @@
       "summary_ko": ""
     },
     {
+      "id": "42757232",
+      "title": "Axis-dependent relationships and agreement between whole-body and limb-specific center of pressure measurements in dogs.",
+      "authors": "Lutonsky C, Affenzeller N, Wegscheider J, Aghapour M, Peham C",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42757232/",
+      "abstract": "Static posturography is widely used to assess postural stability in dogs. Considerable methodological variation exists regarding whether center of pressure (COP) parameters are derived from whole-body, forelimb-, or hindlimb-based measurements and whether values are expressed as absolute or base of support (BOS)-normalised parameters. The aims were to examine the associations between whole-body, forelimb-, and hindlimb-based COP measurements in standing dogs and to evaluate the effect of BOS nor",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42757221",
+      "title": "Hydrocolpos in a mixed-breed dog: a case report.",
+      "authors": "Leber C, Rohwedder T, Rehbein-Manchi S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42757221/",
+      "abstract": "A 3.5-year-old, 5.2-kg mixed-breed dog was presented with persistent stranguria after being neutered due to dystocia 6 months ago. Plain abdominal radiographs revealed an intrapelvic soft-tissue attenuating mass that displaced the urinary bladder cranially and constricted the descending colon. Abdominal ultrasonography yielded inconclusive results. Computed tomography revealed the mass as a tubular, hypodense structure compressing the urethra and the descending colon. This finding was defined as",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42756892",
+      "title": "Increased detectability of Apolipoprotein E (ApoE) in cerebrospinal fluid samples of dogs with peracute and acute central nervous system lesions.",
+      "authors": "Prielipp M, Packeiser EM, Bathen-Nöthen A, Mischke R, Tipold A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42756892/",
+      "abstract": "Apolipoprotein E (ApoE), secreted by astrocytes and microglia after neuronal injury, is involved in neuronal regeneration and modulation of inflammatory processes. Inverse associations between ApoE and the proinflammatory mediator C-reactive protein (CRP) are described in mice, but knowledge in dogs is limited. This study investigated ApoE levels in cerebrospinal fluid (CSF) from 141 dogs with central nervous system (CNS) diseases, including idiopathic epilepsy (n = 40), intervertebral disc hern",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42756254",
+      "title": "Owner reported prevalence of autonomic signs in epileptic dogs.",
+      "authors": "Skinner C, Czopowicz M, Gutierrez-Quintana R, Stalin C",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42756254/",
+      "abstract": "Epilepsy is a common neurological disorder in dogs. Autonomic manifestations are commonly recognised but poorly reported in veterinary literature. This study aimed to determine owner reported prevalence and course of autonomic signs in epileptic dogs. A survey for owners of dogs with epilepsy created with Qualtrics was circulated on Facebook between March 2025 and August 2025. There were 1,154 responses, with 704 included in statistical analysis. The overall frequency of autonomic signs was 697/",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42756077",
+      "title": "Ocular temperature measured by infrared thermography in dogs varies with biological and environmental factors.",
+      "authors": "Rostami S, Woodruff KA, McBride A, Shi J, Smith DR",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42756077/",
+      "abstract": "Non-contact temperature assessment is highly valuable for screening animal populations, but its performance can be influenced by various external and biological variables. This study aimed to quantify the association between eye temperature (ET) and rectal temperature (RT) in dogs, and to identify physiological and environmental factors associated with these readings. Field study: ET was obtained with a thermal camera up to 3 times per visit (~10-min intervals), followed by RT measurement. Eye t",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42755814",
+      "title": "Combined enrichment and pharmaceutical intervention reduces excessive arousal in shelter dogs in a randomized controlled trial.",
+      "authors": "Cisneros A, O'Hanley K, Moody CM, Stellato AC",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755814/",
+      "abstract": "Environmental stressors in animal shelters may lead to development of excessive arousal, posing risks to adoptability and behavioral euthanasia. Recommendations regarding excessive arousal in shelter dogs include providing pharmaceuticals and enrichment. A randomized controlled trial was conducted to assess the influence of enrichment and pharmaceutical interventions on shelter dogs (N&#x202f;=&#x202f;50) displaying excessive arousal from a municipal animal shelter in Texas, United States. Data ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42751143",
       "title": "Mitochondria-associated endoplasmic reticulum membranes in canine and feline diabetic kidney disease: mechanistic links and nutritional implications.",
       "authors": "Yang Q, Sun Y, Zuo L, Xu M, Tan S",
@@ -1063,50 +1107,6 @@
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42712380/",
       "abstract": "M&#xe9;ni&#xe8;re's disease, characterized by episodic vertigo, sensorineural hearing loss, and tinnitus, is well-documented in humans but rarely reported in veterinary medicine. This case report describes a 15-year-old male mixed-breed dog with recurrent vestibular episodes lasting 30&#x202f;min to several hours. Clinical signs included ataxia, head tilt, and nystagmus. MRI and diagnostic workups ruled out common structural causes of vestibular signs and ear diseases. Audiometric testing reveal",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42707635",
-      "title": "An investigation of per- and polyfluoroalkyl concentrations in dogs and cats with endocrine disorders.",
-      "authors": "Bardhi A, Serrantoni E, Inauen D, Del Baldo F, Galac S",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42707635/",
-      "abstract": "Per- and polyfluoroalkyl substances (PFAS) are persistent environmental contaminants with endocrine-disrupting and potential carcinogenic effects in humans. Data on PFAS exposure in companion animals are limited. This study quantified PFAS concentrations in dog and cat serum and investigated associations with endocrine disorders. This retrospective study included 179 dogs from the Universities of Bologna and Utrecht, and 84 cats from the University of Bologna, sampled between 2021 and 2025. The ",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42707619",
-      "title": "The microenvironment in canine mast cell tumors: association between tumor-associated tissue eosinophilia and histological grade.",
-      "authors": "Ezquerra-Durán M, Cardenal-Morales P, Ezquerra-Calvo LJ, Tarazona-Lafarga R, Santella M",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42707619/",
-      "abstract": "Canine mast cell tumors (MCTs) are common neoplasms with heterogeneous biological behavior, and histological grading alone may not fully reflect their aggressiveness. The tumor microenvironment, particularly tumor-associated tissue eosinophilia (TATE), may provide complementary information on MCT biology. This study evaluated whether intratumoral eosinophil infiltration, expressed as the eosinophil-to-mast cell ratio (EMR), was associated with histological grade in canine MCTs. A secondary objec",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42699351",
-      "title": "Efficacy and safety of a fixed-dose oral tramadol-dipyrone combination for postoperative analgesia in dogs undergoing ovariohysterectomy and unilateral mastectomy: a randomized clinical trial.",
-      "authors": "Mastrocinque S, Yazbek KVB, Rossetti RB, Gomes LD, Dos Santos Macedo J",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42699351/",
-      "abstract": "To evaluate the analgesic efficacy and safety of an oral tramadol-dipyrone combination (Sindolor&#xae;) compared with tramadol or dipyrone alone in dogs undergoing ovariohysterectomy and unilateral mastectomy. Thirty client-owned female dogs undergoing elective ovariohysterectomy and unilateral mastectomy were randomly assigned to three treatment groups (n&#x202f;=&#x202f;10/group): tramadol-dipyrone combination (GTD), tramadol alone (GT), or dipyrone alone (GD). At the end of surgery, all dogs ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42698457",
-      "title": "Case Report: Long-term outcomes after surgery for spinal infiltrative lipoma in two dogs.",
-      "authors": "Van Stee LL, Van Rijn SJ, Bergmann W, Meij BP",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42698457/",
-      "abstract": "An eight-year-old male intact shepherd mixed breed dog (case 1) and a 6-month-old intact female Picardy sheepdog (case 2) were referred to a Veterinary Teaching Hospital with the diagnosis of infiltrative lipoma causing spinal cord compression. Case 1 presented with a history of intermittent tremors and right forelimb lameness. Clinical examination revealed an expansive, ill-defined, non-movable, soft tissue mass palpable on the right hemithorax and a mild pelvic limb paraparesis. Computed tomog",
       "category": "neurosurgery",
       "summary_ko": ""
     }
