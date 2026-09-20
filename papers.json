@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19 00:06 UTC",
+  "updated": "2026-09-20 00:02 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -66,50 +66,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42716084",
-      "title": "BRAFV595E mutation detected across the disease spectrum from non-neoplastic urothelium to invasive urothelial carcinoma in dogs.",
-      "authors": "Dhawan D, Sola MF, Nelson JB, Lanman NA, Enstrom AW",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Sep 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42716084/",
-      "abstract": "The goal was to determine the presence of a driver mutation in dogs with and without detectable cancer to set the stage for future cancer prevention research exploiting processes that inhibit cancer development in the presence of such mutations. The objective was to detect the v-raf murine sarcoma viral oncogene homolog B (BRAF) mutation BRAFV595E across the disease spectrum from non-neoplastic urothelium to invasive urothelial carcinoma (UC) in dogs. Scottish Terriers &#x2265; 6 years old with ",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42713725",
-      "title": "Assessment of Clinical and Immunological Factors of Local Recurrence in Canine Soft Tissue Sarcoma.",
-      "authors": "Mizuta K, Philibert H, Matsuyama A",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Sep 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42713725/",
-      "abstract": "Canine soft tissue sarcomas (STSs) are locally invasive tumours, making local recurrence a major clinical challenge. Time to recurrence (TTR) and associated immune factors remain poorly characterized. This study aimed to characterize the immune microenvironment of canine STS and identify factors associated with TTR. Medical records from 27 dogs with STS that recurred after surgery were reviewed. Histopathological, transcriptomic, and immunological analyses were performed in a tissue-available su",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42710546",
-      "title": "Gilvetmab advances immune checkpoint inhibitor immunotherapy for canine cancer.",
-      "authors": "Chon E, Greene LM, Stock ML",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Sep 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42710546/",
-      "abstract": "Immune checkpoint inhibitors (ICIs) have revolutionized human oncology and are emerging as a promising strategy in veterinary cancer care. These agents unleash antitumor immunity by targeting inhibitory pathways that suppress T-cell function, enabling durable responses in select patients. In dogs, the immune checkpoint programmed cell death protein 1 (PD-1) axis is a primary focus due to conserved structural and functional homology with the PD-1 axis in humans, documented PD-1/programmed death-l",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42710541",
-      "title": "Electrochemotherapy with interleukin-12 gene electrotransfer can turn local tumor ablation into a systemic antitumor response in veterinary patients.",
-      "authors": "Čemažar M, Lampreht Tratar U, Milevoj N, Serša G, Tozon N",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Sep 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42710541/",
-      "abstract": "Veterinary medicine serves as an important translational bridge between preclinical studies and human medicine, offering a valuable model for investigating naturally occurring diseases and generating data unattainable from purely experimental animal models. This is particularly relevant for evaluating novel cancer treatment approaches. Electrochemotherapy (ECT) and gene electrotransfer represent 2 such approaches in both human and veterinary clinical oncology. Current evidence indicates that ECT",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
       "id": "42738598",
       "title": "Primary Tracheal Leiomyoma in a Dog: A Case Report.",
       "authors": "Ezquerra-Durán M, Durán-Flórez ME, Ezquerra-Calvo LJ, Cardenal-Morales P, Santella M",
@@ -161,17 +117,6 @@
       "date": "2026 Sep 7",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42738592/",
       "abstract": "Feral and domestic felines are continuously exposed to meso- (polymer length: 5-25 mm) and microplastics (polymer length &lt; 5 mm) from environmental or household contaminants. Ingestion and inhalation are the primary pathways for internalization of plastic, non-plastic anthropogenic (e.g., rayon, AP), and natural cellulose particles. However, contamination information is limited for companion animals. This study focused on reproductive tissue of felines by obtaining samples from spay (ovary + ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42711694",
-      "title": "Sero-epidemiological survey of Toxoplasma gondii in water buffalo (Bubalus bubalis) and domestic pig (Sus scrofa domesticus) across upper and lower Egypt.",
-      "authors": "Elmahallawy EK, Abdo W, Cano-Terriza D, Gareh A, Elsheikh HEM",
-      "journal": "BMC Vet Res",
-      "date": "2026 Sep 7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42711694/",
-      "abstract": "Toxoplasma gondii (T. gondii) is a globally prevalent protozoan parasite affecting warm-blooded species, including humans. In Egypt, serological surveys have been conducted in several livestock; however, studies on species such as buffalo and pigs remain scarce. This study aimed to provide updated insights into the seroprevalence of T. gondii in a cohort of 548 domestic animals, comprising 288 water buffaloes (Bubalus bubalis), sampled from both Upper and Lower Egypt, and 260 domestic pigs (Sus ",
       "category": "other",
       "summary_ko": ""
     },
@@ -316,6 +261,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42738513/",
       "abstract": "DNA mismatch repair (MMR) proteins have been investigated as biomarkers in human oncology, but their role in canine PPCs has not been characterized. Immunohistochemistry for MCK, TTF-1, MSH2, and MSH6 was performed and evaluated in relation to clinicopathological parameters. Affected dogs had a median age of 10.6 years. Histologically, 16 tumors were classified as adenocarcinoma and one as adenosquamous carcinoma, with papillary architecture predominating. MCK and TTF-1 immunoreactivity was dete",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42760893",
+      "title": "Higher early radiographic bone healing scores with popliteus muscle preservation during tibial plateau levelling osteotomy in dogs.",
+      "authors": "Sassaroli S, Salvaggio A, Roggiolani F, Fordellone M, Ciabocco F",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760893/",
+      "abstract": "To compare early radiographic bone healing 45&#x2009;days after tibial plateau levelling osteotomy performed with popliteus muscle detachment versus a modified technique preserving the muscle and to determine whether muscle preservation influences post-operative osteotomy stability through measurement of rock-back. In this prospective, blinded, randomised clinical study (2022 to 2025), 100 client-owned dogs with unilateral cranial cruciate ligament rupture were allocated to traditional surgery (",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42760474",
+      "title": "Trial of erythropoietin and platelet rich plasma as adjunctive treatment in dogs with paraplegia and absent pan perception after thoracolumbar intervertebral disc extrusion and surgical decompression: A clinical pilot study.",
+      "authors": "Janzen M, Faissler D, Rozanski E, Kowaleski MP",
+      "journal": "Vet Surg",
+      "date": "2026 Sep 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760474/",
+      "abstract": "To assess the effectiveness of adjunctive treatment with either systemic erythropoietin or local platelet rich plasma administered at the time of decompressive surgery in dogs with severe spinal cord injury (SCI). Prospective randomized study. A total of 32 client owned dogs presented for acute onset of paraplegia and loss of pain perception after a thoracolumbar disc extrusion. All dogs underwent a standard laminectomy within 24&#x2009;h after admission and were randomly assigned to one of the ",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42760277",
+      "title": "Complete surgical excision of a type V-variant dermoid sinus (V/VI overlap) associated with spina bifida in a Shiba Inu dog: A case report.",
+      "authors": "Jeong JE, Kim SY, Kim JI",
+      "journal": "Vet Surg",
+      "date": "2026 Sep 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760277/",
+      "abstract": "To describe the clinical, imaging, surgical, and histopathologic features of a type V/VI overlap dermoid sinus (DS), and highlight diagnostic and therapeutic considerations. Case report. A 16-month-old spayed female Shiba Inu dog. The Shiba Inu initially presented at 4&#x2009;months of age with a dorsal thoracic hair tuft. Radiography and ultrasonography suggested a DS; contrast-enhanced computed tomography (CT) and magnetic resonance imaging (MRI) were declined. The dog presented 12&#x2009;mont",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42759150",
+      "title": "The effectiveness of uterine wall and liver elasticity and liver enzyme ratios in understanding the etiopathology of cystic endometrial hyperplasia-pyometra complex in dogs.",
+      "authors": "Mahzunlar E, Uçmak ZG, Uğur AB, Tek Ç",
+      "journal": "Vet J",
+      "date": "2026 Sep 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759150/",
+      "abstract": "This study aims to quantitatively evaluate the elasticity of the uterine wall and liver in dogs diagnosed with cystic endometrial hyperplasia-pyometra (CEH-P) complex and clinically healthy dogs in the luteal stage using two-dimensional shear wave elastography (2D-SWE), and to determine the relationship among the obtained elastographic parameters and clinical findings, hematological-biochemical data, Doppler ultrasonography findings expressing uterine hemodynamics, and possible prognostic indica",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -946,6 +935,39 @@
       "summary_ko": ""
     },
     {
+      "id": "42760156",
+      "title": "Predominant mitral valve morphology in dogs at different stages of myxomatous mitral valve disease: toward a standardized nomenclature.",
+      "authors": "Bentley A, Fries RC, Kadotani S, Toborowsky C, Javery EA",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Aug 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42760156/",
+      "abstract": "Myxomatous mitral valve disease (MMVD) is the most common heart disease in dogs. Echocardiographic markers of cardiac remodeling are used to assess disease severity, but morphological features of the mitral valve are not systematically considered. Conversely, standardized morphological classification schemes are established in human cardiology and are integral to prognosis and therapeutic planning. Our objective was to adapt and apply a mitral valve morphological classification scheme to canine ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42761083",
+      "title": "Effects of recumbency and tube current on image quality of canine elbow computed tomography.",
+      "authors": "Bellekom SR, Dekkers M, Beukers M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42761083/",
+      "abstract": "Elbow dysplasia is a leading cause of forelimb lameness in medium- to large-breed dogs, and computed tomography (CT) is the imaging modality of choice for assessment of the medial coronoid process. Image quality depends on patient positioning and tube current, but their effects have not been systematically compared. To compare the image quality of two canine elbow CT positioning protocols (dorsal recumbency: head in neutral position, both elbows scanned together vs. lateral recumbency: head/neck",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42761036",
+      "title": "Rapid functional recovery in a Golden Retriever puppy with swimmer puppy syndrome following early conservative management including loose-loop technique: a case report.",
+      "authors": "Kroker L",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42761036/",
+      "abstract": "Swimmer puppy syndrome (SPS) is a rare developmental condition of unknown etiology. The syndrome is characterized by a puppy's inability to adduct the limbs, resulting in lateral limb abduction and an inability to stand or walk. In this case, an almost 4-week-old female Golden Retriever presented for early physiotherapeutic evaluation. Adduction tapes were applied to the forelimbs and hindlimbs. Additionally, the treatment area was covered with a non-slip rubber mat. Further physiotherapeutic in",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42757232",
       "title": "Axis-dependent relationships and agreement between whole-body and limb-specific center of pressure measurements in dogs.",
       "authors": "Lutonsky C, Affenzeller N, Wegscheider J, Aghapour M, Peham C",
@@ -1086,28 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42718565/",
       "abstract": "Salter-Harris fracture secondary to septic physitis has been reported in foals but not puppies. In this case, a 19-week-old, 13.4 kg male intact Boxer puppy was presented with a 2-day history of acute non-weight-bearing lameness of the left pelvic limb, accompanied by distal limb swelling and lethargy. Orthogonal tibial radiographs were performed, and irregular widening of the distal tibial physis with severe edema of the surrounding soft tissues consistent with septic physitis were identified. ",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42713429",
-      "title": "Alopecia management from a comparative perspective: pharmacological and pharmaceutical insights in humans, dogs, and cats.",
-      "authors": "Seo J, Yun JH",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42713429/",
-      "abstract": "Hair loss (alopecia) is a multifactorial condition affecting humans and companion animals, including dogs and cats, with etiologies involving hormonal, immune-mediated, genetic, infectious, allergic, parasitic, and behavioral mechanisms. Although androgenetic alopecia and alopecia areata are well characterized in humans, alopecia in veterinary patients more frequently reflects an underlying endocrine, hereditary, infectious, allergic, parasitic, or self-induced disorder. This review provides a c",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42712380",
-      "title": "Case Report: Recurrent vestibular episodes in a dog resembling Meniere's disease.",
-      "authors": "Ladenburger ME, Kuzek K, Schmitz AK, Brühschwein A, Fischer A",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42712380/",
-      "abstract": "M&#xe9;ni&#xe8;re's disease, characterized by episodic vertigo, sensorineural hearing loss, and tinnitus, is well-documented in humans but rarely reported in veterinary medicine. This case report describes a 15-year-old male mixed-breed dog with recurrent vestibular episodes lasting 30&#x202f;min to several hours. Clinical signs included ataxia, head tilt, and nystagmus. MRI and diagnostic workups ruled out common structural causes of vestibular signs and ear diseases. Audiometric testing reveal",
-      "category": "neurosurgery",
       "summary_ko": ""
     }
   ]
