@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 00:02 UTC",
+  "updated": "2026-09-21 00:04 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -18,50 +18,6 @@
       "date": "2026 Sep 9",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42723058/",
       "abstract": "The dromedary camel (Camelus dromedarius) possesses remarkable physiological adaptations to withstand harsh desert conditions, including heat stress and drought. This study aimed to evaluate the effects of heat and cold stress on oxidative stress biomarkers, hormones, lipid, and mineral concentrations in dromedary camels. A total of 45 apparently healthy adult male dromedary camels were included in the study. Blood samples were collected, plasma and serum were separated for the determination of ",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42717639",
-      "title": "Skeletal modifications after transpelvic urethrostomy as treatment for urethral stricture in a three-month-old cat.",
-      "authors": "Hernández-León D, Agüera-Espejo P, Martin-Bernal C, Aranda-Jiménez F",
-      "journal": "Vet Surg",
-      "date": "2026 Sep 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717639/",
-      "abstract": "To describe the occurrence, management, and long-term outcome of bilateral lateral displacement of the ischial tuberosities following transpelvic urethrostomy (TPU) performed to treat intrapelvic urethral rupture and obstruction in a skeletally immature cat. One 3-month-old male domestic short-haired cat. Case report. A young cat with intrapelvic urethral rupture secondary to repeated unsuccessful urethral catheterizations was initially managed conservatively and subsequently underwent perineal ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42717636",
-      "title": "Intraoperative cholangiography during open cholecystectomy in 73 dogs with benign gallbladder disease.",
-      "authors": "Konno R, Kaneko Y, Matsunaga M, Osuga T, Okadera R",
-      "journal": "Vet Surg",
-      "date": "2026 Sep 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717636/",
-      "abstract": "To evaluate intraoperative cholangiography (IOC) during open cholecystectomy in dogs with benign gallbladder disease, including cases with preoperative common bile duct (CBD) obstruction, and to describe the short-term outcomes. Retrospective case series. A total of 73 client-owned dogs. Medical records (2014-2022) were reviewed. All dogs underwent open cholecystectomy, bile duct flushing (BDF) with saline, and IOC under subtraction fluoroscopy. Cholangiograms were assessed for complete CBD obst",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42716105",
-      "title": "Sepsis and elevated creatinine predict poor outcomes in uncomplicated canine pyometra, and empirically prescribed antibiotics do not match bacterial susceptibility or improve survival.",
-      "authors": "Jones AE, Rishniw M, Raux IL, Rosselli D, Thomas D",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Sep 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42716105/",
-      "abstract": "To identify variables associated with prolonged hospitalization or nonsurvival in the surgical management of pyometra in dogs and to report uterine bacterial susceptibility in comparison with empirically prescribed antibiotics. Retrospective study of dogs that underwent ovariohysterectomy for management of pyometra at 8 tertiary referral centers between December 1, 2008, and December 31, 2023. Data collected included signalment, preoperative/operative data, antibiotic utilization, and clinical f",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42716104",
-      "title": "Cefovecin selects for higher-level and more persistent antimicrobial resistance among gastrointestinal Escherichia coli in some cats compared to amoxicillin-clavulanic acid in an observational longitudinal study.",
-      "authors": "Cazer CL, Siler J, Frye A, Reboul GC, Yu YT",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Sep 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42716104/",
-      "abstract": "This observational study compared the development and persistence of antimicrobial resistance (AMR) in feline microbiota following treatment with cefovecin or amoxicillin-clavulanic acid. Cats treated with cefovecin or amoxicillin-clavulanic acid, at the attending veterinarian's discretion, were recruited from multiple sources between December 2022 and May 2024. Fecal samples were collected on the first day of treatment and 1, 2, 3, 4, 8, and 12 weeks afterward. Samples were cultured for Escheri",
       "category": "internal",
       "summary_ko": ""
     },
@@ -264,6 +220,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42763011",
+      "title": "Ultrasonographic detection of joint lesions in canine leishmaniasis caused by Leishmania infantum.",
+      "authors": "Oliveira PV, Muramoto C, da Costa CF, Estrela-Lima A, da Luz TC",
+      "journal": "Vet J",
+      "date": "2026 Sep 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763011/",
+      "abstract": "Canine leishmaniasis (CanL), caused by Leishmania infantum, is a multisystemic disease with substantial musculoskeletal involvement. We aimed to assess the usefulness of USG in diagnosing joint abnormalities in dogs with CanL using a clinical approach. Forty-three L. infantum PCR-positive dogs underwent comparative orthopedic physical examination and joint USG; 20 (20/43) also underwent radiography. Tarsal joints were systematically imaged, whereas other joints were imaged if they showed orthope",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
       "id": "42760893",
       "title": "Higher early radiographic bone healing scores with popliteus muscle preservation during tibial plateau levelling osteotomy in dogs.",
       "authors": "Sassaroli S, Salvaggio A, Roggiolani F, Fordellone M, Ciabocco F",
@@ -271,6 +238,39 @@
       "date": "2026 Sep 19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42760893/",
       "abstract": "To compare early radiographic bone healing 45&#x2009;days after tibial plateau levelling osteotomy performed with popliteus muscle detachment versus a modified technique preserving the muscle and to determine whether muscle preservation influences post-operative osteotomy stability through measurement of rock-back. In this prospective, blinded, randomised clinical study (2022 to 2025), 100 client-owned dogs with unilateral cranial cruciate ligament rupture were allocated to traditional surgery (",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42762832",
+      "title": "Escherichia coli isolated from canine pyometra show decreased susceptibility to amoxicillin-clavulanic acid in dogs.",
+      "authors": "Fautz Z, Amato N, Windsor R",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762832/",
+      "abstract": "To describe bacterial culture results and antimicrobial susceptibility patterns for dogs undergoing surgical treatment for pyometra. This retrospective study included dogs that underwent ovariohysterectomy at referral hospitals and had a positive bacterial culture of uterine fluid or histopathologic changes consistent with pyometra between January 2020 and December 2024. Data collected from medical records included clinical signs on presentation, hematological and biochemical abnormalities, aero",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42762828",
+      "title": "Surgical site infections in canine tibial plateau leveling osteotomy: a systematic review and meta-analysis.",
+      "authors": "Hansen GC, Todhunter RJ, Welbaum SR, Rassnick KM, Janzen MA",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762828/",
+      "abstract": "Surgical site infections (SSIs) following canine tibial plateau leveling osteotomy (TPLO) represent a significant clinical concern. A universal estimate of SSI incidence and identification of predisposing factors can guide preventive strategies. This systematic review and meta-analysis was reported according to the Preferred Reporting Items for Systematic Review and Meta-Analysis (ie, PRISMA) guidelines. Studies reporting outcomes of TPLO procedures published between January 2000 and August 2024",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42762824",
+      "title": "Eight-week postoperative tibial plateau leveling osteotomy radiographs do not change the prescribed management plan for most dogs.",
+      "authors": "Hancock CL, Frederick SW, Israel SK",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762824/",
+      "abstract": "To determine how frequently routine 8-week tibial plateau leveling osteotomy (TPLO) radiographs resulted in a change to the prescribed postoperative management plan when evaluated by surgery residents versus senior clinicians, and how often the resident and senior clinician plans differed. In this prospective interobserver agreement study, dogs that presented for a routine 8-week TPLO evaluation at a single veterinary referral hospital between October 2024 and July 2025 were eligible for enrollm",
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -320,7 +320,7 @@
     },
     {
       "id": "42754086",
-      "title": "Three-dimensional ultrasonographic assessment of the cranial cruciate ligament in medium- to large-sized canine cadavers: a feasibility study.",
+      "title": "Three-dimensional ultrasonographic assessment of the cranial cruciate ligament in medium- to large-sized canine cadavers: A feasibility study.",
       "authors": "Alicia BF, Ignacio OB, Cristina O, Pablo GO, Andrea C",
       "journal": "Vet J",
       "date": "2026 Sep 17",
@@ -331,7 +331,7 @@
     },
     {
       "id": "42754085",
-      "title": "Characterization of the Cystic Cavities of Canine Invasive Micropapillary Mammary Carcinoma Reveals a Complex Tumor Microenvironment.",
+      "title": "Characterization of the cystic cavities of canine invasive micropapillary mammary carcinoma reveals a complex tumor microenvironment.",
       "authors": "Dos Reys MP, Rodrigues MA, Nakagaki KYR, de Oliveira ALCB, Cassali GD",
       "journal": "Vet J",
       "date": "2026 Sep 17",
@@ -342,7 +342,7 @@
     },
     {
       "id": "42754084",
-      "title": "Integrative Copy-Number and Dependency Mapping in Canine High-Grade Nodal Lymphoma Identifies Candidates for Targeted Therapy.",
+      "title": "Integrative copy-number and dependency mapping in canine high-grade nodal lymphoma identifies candidates for targeted therapy.",
       "authors": "Garnica TK, Fernandes AC, Lesbon JCC, Espigolan R, Jark PC",
       "journal": "Vet J",
       "date": "2026 Sep 17",
@@ -759,28 +759,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42717346",
-      "title": "Isolation of feline-derived scFvs against the VP1-CDE region of feline calicivirus from a phage display library and characterization of their antigen-binding and antiviral potential in vitro.",
-      "authors": "Wei Y, Wang H, Han Z, Gou H, Sun D",
-      "journal": "BMC Vet Res",
-      "date": "2026 Jul 27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717346/",
-      "abstract": "Feline calicivirus (FCV) is a significant causative pathogen of upper respiratory tract disease and virulent systemic infection in feline populations, yet specific targeted antiviral agents for FCV infection remain unavailable. A feline-derived single-chain variable fragment (scFv) phage display library targeting the VP1-CDE neutralizing region of FCV was constructed using peripheral blood mononuclear cells isolated from cats immunized with recombinant VP1-CDE protein. Positive scFv clones were ",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42750033",
-      "title": "Microbiological investigation of conjunctivitis in cats and dogs from Kars, Türkiye (2024-2025): culture- and MALDI-TOF MS-based identification and antimicrobial susceptibility testing of bacterial isolates.",
-      "authors": "Tarhane S, Büyük F",
-      "journal": "BMC Vet Res",
-      "date": "2026 Jul 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42750033/",
-      "abstract": "Conjunctivitis is a common clinical disorder in cats and dogs, frequently associated with bacterial and fungal infections. Accurate identification of pathogens and evaluation of their antimicrobial resistance profiles are essential for effective treatment. Bacterial and fungal agents were analyzed using cultural and MALDI-TOF MS methods in conjunctival swab samples taken from 59 domestic animals (53 cats and 6 dogs) diagnosed with conjunctivitis and presented to veterinary clinics in &#xc7;ank&#",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42738492",
       "title": "Asexual Development and Virulence Are Not Affected by Knockout of Five Sexual-Stage Candidate Genes in Toxoplasma gondii.",
       "authors": "Tian X, Tian CR, Lu XS, Hao WB, Zheng Z",
@@ -946,6 +924,50 @@
       "summary_ko": ""
     },
     {
+      "id": "42761832",
+      "title": "Phenotypic characterisation, quality of life and prevalence of idiopathic epilepsy and epilepsy of unknown cause in the nine Dutch dog breeds.",
+      "authors": "Rolink T, van Rooijen A, Diaz Espineira M, Broeckx B, Bhatti SFM",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42761832/",
+      "abstract": "Canine epilepsy is a common and complex neurological disease that occurs in almost all dogs. In the Netherlands, there are nine pedigree dog breeds, and all of them have numerous small populations, with moderate to high inbreeding coefficients. The goal of this study is to characterise epilepsy within these breeds and to estimate the prevalence for each of these nine breeds: Dutch Partridge dog, three variants of the Dutch Shepherd, Dutch Smoushound, Kooiker dog, Markiesje dog, Saarloos Wolfdog,",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42761244",
+      "title": "Pilot study demonstrating safety and efficacy of intravenous allogeneic uterine-derived mesenchymal stromal cell therapy in cats with naturally occurring osteoarthritis.",
+      "authors": "Williams V, Mick L, Windsor R, Parrish RS, Thompson CM",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42761244/",
+      "abstract": "The objective of this study was to evaluate the tolerability and efficacy at 3 months of intravenous (IV) allogeneic uterine-derived mesenchymal stromal cells (UMSCs) for osteoarthritis (OA) in client-owned cats. This was a randomized, masked, placebo-controlled pilot study conducted across six veterinary clinics. Thirty-five client-owned cats with naturally occurring OA were randomly assigned to receive two intravenous injections, given 14 days apart, of one of three treatments: 5 million (5M) ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42761127",
+      "title": "Cirevetmab, a novel canine anti-TGFβ monoclonal antibody, exerts antifibrotic effects on renal cells in vitro.",
+      "authors": "Kappenman DL, Koehler CL, Prentice RN, Koziar N, Beardow A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42761127/",
+      "abstract": "Transforming Growth Factor-&#x3b2; (TGF-&#x3b2;) has been implicated for its role in fibrosis and progression of chronic kidney disease (CKD) in both humans and rodents. Additionally, CKD is a common and progressive condition in canines, with striking pathological similarities to human disease. However, targeted therapies addressing fibrogenic mediators in dogs remain underexplored. We investigated the role of all three TGF-&#x3b2; isoforms (TGF-&#x3b2;1, TGF-&#x3b2;2, and TGF-&#x3b2;3) in CKD a",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42761122",
+      "title": "Molecular detection of Leishmania spp. in feline squamous cell carcinoma in Portugal.",
+      "authors": "Oliveira C, Santos J, Valença A, Catarino J, Ramilo D",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42761122/",
+      "abstract": "Cutaneous manifestations of feline leishmaniosis may occur at anatomical sites commonly affected by squamous cell carcinoma (SCC), creating potential diagnostic overlap. Although concurrent Leishmania infection and SCC have been described in individual cats, the presence of parasite DNA in feline SCC tissue has not been systematically investigated. This retrospective cross-sectional study evaluated 219 formalin-fixed, paraffin-embedded feline SCC samples submitted to a veterinary diagnostic labo",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
       "id": "42761083",
       "title": "Effects of recumbency and tube current on image quality of canine elbow computed tomography.",
       "authors": "Bellekom SR, Dekkers M, Beukers M",
@@ -1086,28 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42725102/",
       "abstract": "This case report describes a 4-year-old Golden Retriever with chronic progressive motor impairment of pelvic limbs. A neurological examination revealed non-painful ambulatory paraparesis, and magnetic resonance imaging detected an eccentric cystic lesion that compressed the thoracic part of the spinal cord. The surgical approach consisted of spinal cord decompression and lesion excision, along with vertebral column stabilization. A neuropathological examination revealed dural and arachnoid hyper",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42718794",
-      "title": "Image based three-dimensional kinematic mapping to optimize femoral tunnel placement for intra-articular cranial cruciate ligament reconstruction in dogs.",
-      "authors": "Robine-Decourcelle C, Rohan PY, Muth-Seng C, Persohn S, Manassero M",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42718794/",
-      "abstract": "The development of synthetic ligaments (SLs) has sparked renewed interest in intra-articular cranial cruciate ligament (CrCL) reconstruction. In this procedure, minimizing changes in graft length through optimal tunnel placement is essential for long-term function. However, three-dimensional (3D) assessment of isometry across the femoral attachment area in dogs remains limited, which prevents evidence-based optimization of tunnel positioning. Thus, the aim of this study was to perform strain-con",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42718565",
-      "title": "Case Report: Distal tibial physeal fracture secondary to septic physitis and osteomyelitis in a Boxer puppy.",
-      "authors": "Sidhu N, Cao JW, Frederick SW, Chambers A",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42718565/",
-      "abstract": "Salter-Harris fracture secondary to septic physitis has been reported in foals but not puppies. In this case, a 19-week-old, 13.4 kg male intact Boxer puppy was presented with a 2-day history of acute non-weight-bearing lameness of the left pelvic limb, accompanied by distal limb swelling and lethargy. Orthogonal tibial radiographs were performed, and irregular widening of the distal tibial physis with severe edema of the surrounding soft tissues consistent with septic physitis were identified. ",
-      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
