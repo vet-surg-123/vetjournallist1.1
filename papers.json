@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21 00:04 UTC",
+  "updated": "2026-09-22 00:41 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -616,25 +616,36 @@
       "summary_ko": ""
     },
     {
-      "id": "42723045",
-      "title": "Correction: Clinico-pathological and renal morphological findings in dogs naturally infected with Dirofilaria repens.",
-      "authors": "Szabó KÉ, Aresu L, Müller L, Szilágyi E, Falus FA",
-      "journal": "BMC Vet Res",
-      "date": "2026 Sep 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42723045/",
-      "abstract": "",
+      "id": "42765741",
+      "title": "Electroencephalography-functional magnetic resonance imaging using a familial temporal lobe epilepsy model in cats: an exploratory methodological pilot study.",
+      "authors": "Miura T, Asada R, Hasegawa D",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765741/",
+      "abstract": "Reliable methods for identifying the epileptogenic zone (EZ) in veterinary medicine remain limited. Although intracranial electroencephalography (EEG) is considered the most dependable approach for EZ localization, noninvasive simultaneous EEG and functional magnetic resonance imaging (EEG-fMRI) has been applied in human medicine as an alternative. Develop and evaluate EEG-fMRI methodology for clinical application in veterinary medicine and evaluate the methodological feasibility of EEG-fMRI usi",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42765739",
+      "title": "Transforming growth factor-β in kidney disease in dogs and cats: a review of the evidence of its role in renal fibrosis.",
+      "authors": "Cianciolo RE, Elliott J, Nabity MB, Foster JD, Ammons DT",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765739/",
+      "abstract": "A growing body of literature implicates the transforming growth factor (TGF)-&#x3b2; pathway in the progression of chronic kidney disease (CKD) in dogs and cats by promoting renal fibrosis. In rodents and humans, TGF-&#x3b2; is a key player in development of glomerulosclerosis and renal interstitial fibrosis. The pathway is also immunomodulatory, underscoring the complexity of its downstream effects. Recently, evidence for the role of TGF-&#x3b2; in small animal CKD has been presented using mult",
       "category": "internal",
       "summary_ko": ""
     },
     {
-      "id": "42722190",
-      "title": "Canine flank alopecia: A narrative review of clinical presentation, genetic basis, and therapeutic management.",
-      "authors": "Verschuuren-Tjoeng MUMY, Schlotter YM, van Geijlswijk IM, Gehring R, van Steenbeek FG",
-      "journal": "Vet J",
-      "date": "2026 Sep 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722190/",
-      "abstract": "Canine flank alopecia (CFA) is a seasonally recurrent skin disorder with a strong breed predisposition. Affected dogs display non-inflammatory, often hyperpigmented, well-circumscribed, symmetrical patches of hair loss, typically located on the thoracolumbar flanks. The onset of hair loss occurs during periods of decreasing daylight, usually in autumn or winter, with spontaneous partial or complete regrowth of hair during the following spring or summer. CFA is not associated with systemic sympto",
-      "category": "neurosurgery",
+      "id": "42765737",
+      "title": "Response to: citation clarification regarding feline eltrombopag in the ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
+      "authors": "LeVine DN, Goggs R, Kohn B, Mackin AJ, Kidd L",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765737/",
+      "abstract": "",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -898,17 +909,6 @@
       "date": "2026 Aug 22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42738424/",
       "abstract": "Hemp (Cannabis sativa L.) inflorescences have been extensively characterized for their bioactive compounds, whereas less information is available on hemp leaves despite their potential as a source of nutrients and phytochemicals. This study compared leaves and inflorescences of four organically grown hemp cultivars (Finola, Futura 75, Dioica, and Kompolti) in terms of cannabinoid, terpene, and fatty acid profiles, lipid quality indices, and in vitro antibacterial activity. Antibacterial activity",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42722611",
-      "title": "Evaluation of the mitral-aortic velocity time integral ratio for severity assessment in dogs with myxomatous mitral valve disease.",
-      "authors": "Kawai S, Suzuki R, Mochizuki Y, Yuchi Y, Kitazawa A",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Aug 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722611/",
-      "abstract": "In dogs, myxomatous mitral valve disease is the most commonly acquired cardiac disorder. Quantitative assessment of mitral regurgitation (MR), particularly regurgitant volume normalized to body weight (RVol/kg), remains challenging. A Doppler-derived mitral-to-aortic velocity time integral (VTI) ratio (calculated as mitral inflow VTI) divided by left ventricular outflow tract VTI]) has been proposed in humans to stratify MR severity. This study evaluated its association with MR severity, America",
       "category": "other",
       "summary_ko": ""
     },
