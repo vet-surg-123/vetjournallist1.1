@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22 00:41 UTC",
+  "updated": "2026-09-23 00:14 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,17 +10,6 @@
     "other": "기타"
   },
   "papers": [
-    {
-      "id": "42723058",
-      "title": "Integrated endocrine-oxidative-metabolic and trace element responses to heat and cold stress in dromedary camels (Camelus dromedarius).",
-      "authors": "Zaki MG, Ramadan ES, Oraby MI, Ryad NM",
-      "journal": "BMC Vet Res",
-      "date": "2026 Sep 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42723058/",
-      "abstract": "The dromedary camel (Camelus dromedarius) possesses remarkable physiological adaptations to withstand harsh desert conditions, including heat stress and drought. This study aimed to evaluate the effects of heat and cold stress on oxidative stress biomarkers, hormones, lipid, and mineral concentrations in dromedary camels. A total of 45 apparently healthy adult male dromedary camels were included in the study. Blood samples were collected, plasma and serum were separated for the determination of ",
-      "category": "internal",
-      "summary_ko": ""
-    },
     {
       "id": "42738598",
       "title": "Primary Tracheal Leiomyoma in a Dog: A Case Report.",
@@ -140,6 +129,83 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42738553/",
       "abstract": "Functional pet foods are increasingly being developed to support host metabolism and intestinal health. Lycium barbarum polysaccharide (LBP), a major bioactive component of goji berries, has been reported to possess antioxidant, anti-inflammatory, immunomodulatory, and gut microbiota-regulatory activities; however, its effects in domestic cats remain unclear. This study investigated the effects of dietary LBP supplementation on serum metabolomic profiles and gut microbiota in adult cats. Twenty-",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42770669",
+      "title": "Staged caval occlusion enabling en bloc right divisional hepatectomy in two dogs with hepatocellular carcinoma.",
+      "authors": "Ishigaki K, Asano K",
+      "journal": "Vet Surg",
+      "date": "2026 Sep 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42770669/",
+      "abstract": "To describe staged pre-renal caudal vena cava (CVC) occlusion before en bloc right divisional hepatectomy with segmental caval resection in two dogs with right divisional hepatocellular carcinoma (HCC) involving the CVC. Two client-owned, 11-year-old neutered male dogs (Siberian Husky and Shih Tzu). Short case series. Dog 1 (Siberian Husky) had prior hemoperitoneum and biopsy-confirmed HCC; dog 2 (Shih Tzu) had persistent liver enzyme elevations and a suspected hepatic tumor. Computed tomography",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42770651",
+      "title": "The role of fenestration in acute canine thoracolumbar intervertebral disc extrusion: Part 2-The biological and biomechanical effects of fenestration.",
+      "authors": "Crowley JD, Freeman P, Walsh WR",
+      "journal": "Vet Surg",
+      "date": "2026 Sep 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42770651/",
+      "abstract": "Prophylactic fenestration is widely performed to prevent recurrence of canine acute thoracolumbar intervertebral disc extrusion (IVDE); however, there is a paucity of specific data regarding the biological and biomechanical effect of this procedure on the intervertebral disc and vertebral column. To evaluate the biological and biomechanical effect of fenestration by synthesizing data from clinical canine literature and preclinical in vivo and ex vivo (rabbit) models, to provide relevant translat",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42768427",
+      "title": "EXPRESS: EFFECTS OF INTRAMUSCULAR AND INTRANASAL ADMINISTRATION OF MEDETOMIDINE ON SEDATION AND SOME CARDIOPULMONARY VARIABLES IN HEALTHY CATS.",
+      "authors": "Sarra Ferrer M, Faucher S, Didier C, Giry M, Schauvliege S",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Sep 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768427/",
+      "abstract": "ObjectivesTo compare the sedative and cardiopulmonary effects following either intranasal (IN) or intramuscular (IM) administration of medetomidine in healthy male cats undergoing neuter procedure.MethodsA total of 26 client-owned healthy cats, aged 7 - 60 months, weighing 4 [3-6] kg (median [min-max]) presented for neutering were included in this blinded, randomized, prospective clinical study. The cats were randomly assigned in two groups to receive medetomidine (40 &#xb5;g/kg) by IN (16 cats)",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42767796",
+      "title": "Retrospective Comparison of Gastrointestinal Toxicity in Dogs With Lymphoma Receiving Doxorubicin With or Without Prophylactic Trimethoprim-Sulfadiazine.",
+      "authors": "Madden EJ, Chan C",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Sep 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767796/",
+      "abstract": "Doxorubicin is commonly used in the treatment of canine lymphoma and other malignancies but is associated with adverse effects, including gastrointestinal toxicity and myelotoxicosis. Previous veterinary studies have suggested that prophylactic antimicrobial administration may reduce chemotherapy-associated toxicity and hospitalisation. However, the potential benefits of prophylactic antimicrobials must be balanced against risks, including antimicrobial resistance and dysbiosis. This retrospecti",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42767761",
+      "title": "N-methyl-D-aspartate receptor antagonists for controlling pain in dogs.",
+      "authors": "Kronen PW, Lascelles BDX, Monteiro BP, Murrell JC, Robertson SA",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767761/",
+      "abstract": "This is a mini review published by the World Small Animal Veterinary Association's Pain Committee. This article provides an assessment of the scientific evidence of N-methyl-d-aspartate receptor antagonists for controlling pain in dogs while identifying current knowledge gaps. The pathophysiology of chronic pain related to the N-methyl-d-aspartate receptor is reviewed, followed by the clinical application of some drugs in this class in clinical practice, with suggested dosage regimens. N-methyl-",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42767485",
+      "title": "Quantitative electroencephalographic comparison of intranasal midazolam, intranasal saline, and intrarectal diazepam in healthy dogs: A two-session, fixed-order pilot study.",
+      "authors": "Musteata M, Ştefănescu RA, Despa A, Borcea D, Charalambous M",
+      "journal": "Vet J",
+      "date": "2026 Sep 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767485/",
+      "abstract": "Benzodiazepines are the recommended first-line treatment for canine seizure emergencies, and non-parenteral routes are essential when intravenous access is unavailable. Clinical trials show that intranasal midazolam controls emergency seizures more reliably than rectal diazepam, yet the cortical electrophysiological correlates of these routes remain uncharacterised in dogs. In a two-session, fixed-order (non-randomised) study, the quantitative electroencephalographic (qEEG) profiles of intranasa",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42767266",
+      "title": "Zurich Mini Cementless Total Hip Replacement in Cats: Specific Considerations and Short-Term Outcomes in 11 Cats (17 Hips).",
+      "authors": "Vedrine B",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Sep 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767266/",
+      "abstract": "Total hip replacement (THR) in cats remains uncommon due to species-specific anatomical features, including limited acetabular retroversion, mismatch between femoral canal and acetabular size, and technical difficulty during femoral preparation related to sclerosis secondary to slipped capital femoral epiphysis (SCFE), the main indication in this species. These factors complicate implant selection, canal preparation, and cup orientation. This retrospective study reports clinical and radiographic",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -550,69 +616,25 @@
       "summary_ko": ""
     },
     {
-      "id": "42732994",
-      "title": "Comparative Phenotypic and Molecular Characterisation of Feline Oral Squamous Cell Carcinoma Cell Lines Reveals Marked Biological Heterogeneity.",
-      "authors": "Tanveer Q, Pang LY, Farquharson C, Bergkvist GT",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Sep 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42732994/",
-      "abstract": "Feline oral squamous cell carcinoma (FOSCC) is the most common oral malignancy, characterised by aggressive local invasion, frequent bone involvement, and poor prognosis. The limited availability of well-characterised in&#xa0;vitro models has hindered the understanding of tumour heterogeneity and invasive behaviour. This study aimed to establish and comparatively characterise a panel of FOSCC cell lines derived from tumours with and without documented bone invasion to identify intrinsic biologic",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42732914",
-      "title": "Successful use of insect-based (Hermetia illucens) diet in dogs with food-responsive enteropathy.",
-      "authors": "Murtagh K, Stavroulaki E, Carvalho M, J O'Neill E, Mooney CT",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Sep 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42732914/",
-      "abstract": "Diet is an integral component of the management of chronic enteropathy in dogs. The role of insect-based diets in this disease remains unknown. The objective of this study was to evaluate the impact of an insect-based (Hermetia illucens) diet in dogs with presumed food-responsive enteropathy. Twenty-seven client-owned dogs with evidence of chronic enteropathy, in which diet was required as sole management, were enrolled onto this prospective, uncontrolled diet trial. Canine inflammatory bowel di",
+      "id": "42770278",
+      "title": "Evaluation of a canine hemoglobin A1c point-of-care assay: analytical validation, clinical utility, and establishing a population-based reference interval.",
+      "authors": "Adam D, Noto N, Rosser MF, Connolly S, Gal A",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42770278/",
+      "abstract": "Hemoglobin A1c (HbA1c) assay validation is essential for establishing analytical reliability, evaluating discrimination between diabetic and non-diabetic (NDM) dogs, and establishing reference intervals. Validate a canine HbA1c point-of-care analyzer (Vet Chroma&#x2122;), evaluate its diagnostic performance, and establish a reference interval in healthy dogs. Fifty-one diabetic, 44 NDM controls, and 42 healthy client-owned dogs. Prospective validation of precision, linearity, interference, and s",
       "category": "internal",
       "summary_ko": ""
     },
     {
-      "id": "42731693",
-      "title": "A deep learning framework for histopathological classification of canine testicular tumours.",
-      "authors": "Riccio L, Rosati L, De Falco M, Di Napoli E, Formisano P",
-      "journal": "Vet J",
-      "date": "2026 Sep 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42731693/",
-      "abstract": "Testicular neoplasms are common in dogs, and their histopathological classification may be challenging in selected cases, particularly when morphological patterns overlap, with potential implications for diagnostic consistency and case management. In this study, we propose an artificial intelligence (AI)-based computational pathology approach for the automatic classification of the three main canine testicular neoplasms (Seminoma, Leydig cell tumour, and Sertoli cell tumour) from digitised haema",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42728580",
-      "title": "EXPRESS: What Goes in the Bowl? Evidence-Based Nutrition for Ageing Domestic Cats.",
-      "authors": "Bermingham E, Hoummady S, Schoeman T, Chandler M, Dowgray NJ",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Sep 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42728580/",
-      "abstract": "With the increasing life expectancy of domestic cats, there is a growing imperative to understand and address the unique nutritional needs of senior felines. This review critically examines current knowledge regarding the physiological changes associated with feline ageing, the nutritional requirements of older cats, and the gaps in research and regulatory nutritional standards that persist in this field. Despite the importance of nutrition, there are no official guidelines for senior or geriatr",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42727605",
-      "title": "Magnetic resonance imaging identifies prognostic features in dogs and cats with ischemic cerebrovascular accidents.",
-      "authors": "Desbordes J, Sifouane A, Ruel Y, Agoulon A, Papageorgiou S",
-      "journal": "Am J Vet Res",
-      "date": "2026 Sep 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42727605/",
-      "abstract": "To characterize MRI findings, including arterial spin labeling (ASL) perfusion features, in dogs and cats with ischemic cerebrovascular accidents (ICVAs) and to identify prognostic factors. Retrospective, single-center observational study of dogs and cats presenting with acute, nonprogressive brain dysfunction from 2018 through 2024, with MRI findings consistent with ICVA and available ASL perfusion imaging. Ischemic cerebrovascular accidents subtypes; MRI findings, including ASL perfusion chara",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42723064",
-      "title": "Baicalin alleviates Trueperella pyogenes-induced endometritis with associated changes in gut microbiota composition.",
-      "authors": "Peng Z, Gou C, Guan Y, Wang Y, Liu Y",
-      "journal": "BMC Vet Res",
-      "date": "2026 Sep 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42723064/",
-      "abstract": "Endometritis is a prevalent reproductive disorder in livestock characterized by inflammation, oxidative stress, and microbial imbalance; however, the mechanistic links among these processes remain incompletely understood. This study investigated the protective effects of baicalin in a Trueperella pyogenes (T. pyogenes)-induced mouse model of endometritis by integrating network pharmacology, in vivo validation, and gut microbiota profiling. Network pharmacology analysis identified prostaglandin-e",
-      "category": "oncology",
+      "id": "42766861",
+      "title": "Plasma proteomic profiling in dogs with pheochromocytoma.",
+      "authors": "van den Berg MF, Rodríguez-Rojas A, Doulidis PG, Pisoni L, Burgener IA",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766861/",
+      "abstract": "Pheochromocytomas (PCCs) in dogs are challenging to diagnose. Plasma proteomics offers a minimally invasive approach to identify circulating biomarkers and disease-relevant pathways. To compare the plasma proteome of dogs with PCC and controls to (1) identify differentially abundant proteins, (2) characterize altered pathways, and (3) nominate candidate circulating biomarkers and therapeutic targets. Plasma from 10 client-owned PCC dogs and 10 healthy controls. Multicenter, retrospective, observ",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -679,17 +701,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42738496/",
       "abstract": "Severe adverse reactions induced by non-ionic contrast media remain an uncommon complication in veterinary medicine. This report describes the clinical manifestations and sequential computed tomography alterations indicative of acute shock captured during 2 min and 4 min delayed phases in a 10-year-old, castrated male Maltese dog. The patient, previously diagnosed with a cutaneous mast cell tumor on the lip exhibiting incomplete histopathological margins, underwent CT for metastatic evaluation. ",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42725899",
-      "title": "Citation clarification regarding feline eltrombopag in the \"ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats\".",
-      "authors": "Kim J, Kwak D",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42725899/",
-      "abstract": "",
-      "category": "other",
       "summary_ko": ""
     },
     {
@@ -902,6 +913,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42766978",
+      "title": "Use of a novel integrated dilator-needle system for trans-septal puncture in three dogs undergoing left atrial decompression.",
+      "authors": "Sarcinella F, Goodrich S, Glyde K, Smith S, Willis R",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Aug 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766978/",
+      "abstract": "Left atrial decompression (LADEC) is an emerging palliative intervention for dogs with advanced left-sided congestive heart failure. Trans-septal puncture is a critical step of this procedure and is traditionally performed using Brockenbrough-style needles with multiple device exchanges. A novel integrated dilator-needle system (FlexCath Cross&#x2122;, Medtronic) has been developed in human cardiology to allow a zero-exchange approach to trans-septal puncture; however, its use in veterinary pati",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42738424",
       "title": "Bioactive Compounds and In Vitro Antibacterial Activity of Hemp Leaves and Inflorescences as Potential Functional Feed Ingredients for Canine Nutrition.",
       "authors": "Jacuńska W, Biel W, Waligórski P, Witkowicz R, Zych S",
@@ -1086,28 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42745785/",
       "abstract": "Body posture provides clinically relevant information in cats, but behavioral interpretation can be challenging because postural signs are often subtle, context-dependent, and subject to inter-observer variability. We developed and evaluated a non-invasive computer vision framework for extracting clinically interpretable feline posture descriptors from side-view RGB images acquired using low-cost cameras, with the aim of supporting behavioral assessment, welfare monitoring, and future clinical d",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42730333",
-      "title": "Behavioral and autonomic manifestations of suspected focal impaired awareness seizures supported by interictal electroencephalographic findings in three dogs: a case series.",
-      "authors": "Czerwik A, Olszewska A, Farke D, Schmidt MJ",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42730333/",
-      "abstract": "Focal epileptic seizures with sensory impairment can be difficult to recognize and are often mistaken for behavioral disorders. Electroencephalography (EEG) can provide important supportive evidence for their epileptic origin when interpreted in conjunction with clinical presentation. This article describes three cases of canine patients: a 2-year-old Border Terrier, a 1-year-old Poodle mix, and a 4-year-old mixed-breed dog. All three were presented with a history of recurrent episodes character",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42725102",
-      "title": "Case Report: Spinal proliferative meningitis with arachnoid diverticulum formation in a dog.",
-      "authors": "Hajek I, Matiasek K, Caine A, Palus V",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42725102/",
-      "abstract": "This case report describes a 4-year-old Golden Retriever with chronic progressive motor impairment of pelvic limbs. A neurological examination revealed non-painful ambulatory paraparesis, and magnetic resonance imaging detected an eccentric cystic lesion that compressed the thoracic part of the spinal cord. The surgical approach consisted of spinal cord decompression and lesion excision, along with vertebral column stabilization. A neuropathological examination revealed dural and arachnoid hyper",
-      "category": "neurosurgery",
       "summary_ko": ""
     }
   ]
