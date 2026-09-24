@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23 00:14 UTC",
+  "updated": "2026-09-24 00:22 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -151,6 +151,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42770651/",
       "abstract": "Prophylactic fenestration is widely performed to prevent recurrence of canine acute thoracolumbar intervertebral disc extrusion (IVDE); however, there is a paucity of specific data regarding the biological and biomechanical effect of this procedure on the intervertebral disc and vertebral column. To evaluate the biological and biomechanical effect of fenestration by synthesizing data from clinical canine literature and preclinical in vivo and ex vivo (rabbit) models, to provide relevant translat",
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42773435",
+      "title": "Evaluation of urinary biomarkers for detection of renal tubular injury in Vipera berus-envenomated and critically ill dogs with and without clinically apparent acute kidney injury.",
+      "authors": "Selin AK, Lilliehöök I, Strage EM, Larsson A, Pelander L",
+      "journal": "BMC Vet Res",
+      "date": "2026 Sep 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42773435/",
+      "abstract": "Acute kidney injury (AKI) in dogs has high mortality and early diagnosis is essential, but traditional markers are not sensitive enough to detect renal injury in the absence of decreased glomerular filtration rate. The objective of this study was to compare urinary cystatin C (uCysC), N-acetyl-&#x3b2;-D-glucosaminidase (uNAG), and glucose (uGlu) among dogs hospitalised because of envenomation by Vipera berus (EVB) or admitted for intensive care without (IC) or with (AKIAPP) clinically apparent A",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -550,69 +561,14 @@
       "summary_ko": ""
     },
     {
-      "id": "42736627",
-      "title": "EXPRESS: Beyond the bowl: behavioural, sensory and environmental strategies to support healthy ageing in cats.",
-      "authors": "Hoummady S, Schoeman T, Bermingham E, Goyon A, Dowgray NJ",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Sep 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42736627/",
-      "abstract": "Ageing in cats brings a shift in clinical priorities: While extending lifespan remains a primary concern for many owners, the clinical goal moves toward safeguarding healthspan, ensuring that added years are accompanied by maintained function and quality of life. With increasing numbers of aged cats, veterinarians face a growing incidence of dysrexia situations that markedly worsen prognosis, especially in the presence of comorbidities such as chronic kidney disease. Feeding difficulties in olde",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42735743",
-      "title": "Reference intervals and allometric scaling of echocardiographic measurements in small size growing dogs.",
-      "authors": "Huk M, Arioni S, Tórtora M, Batista PR, Arias DO",
-      "journal": "Vet J",
-      "date": "2026 Sep 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42735743/",
-      "abstract": "In growing dogs, echocardiographic studies are scarce and carried out in large and medium breeds. In echocardiography, the most frequently used allometric reference ranges included adult dogs. Therefore, puppy reference values are required to identify normal and abnormal echocardiographic measurements. The aims of this study were 1) to analyse morphological and functional echocardiographic changes in small size dogs during the first 1.5 years of life; 2) to determine the effect of body weight (B",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42735725",
-      "title": "Modified tibial plateau-leveling osteotomy using a precontoured plate achieves single-stage correction with favorable clinical outcomes in small-breed dogs.",
-      "authors": "Lee HK, Kwon TW, Kang BJ",
-      "journal": "Am J Vet Res",
-      "date": "2026 Sep 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42735725/",
-      "abstract": "To evaluate outcomes of modified tibial plateau-leveling osteotomy (TPLO) using a precontoured plate in small-breed dogs with concurrent cranial cruciate ligament (CrCL) rupture and medial patellar luxation (MPL) compared with conventional TPLO. Medical records from March 2023 to March 2026 were retrospectively reviewed for dogs treated with TPLO using a 1.5/2.0 locking plate. Stifles were assigned to the modified TPLO group when concurrent MPL was corrected using a precontoured plate or to the ",
+      "id": "42772022",
+      "title": "Cone reconstruction for severe tricuspid valve dysplasia in a dog.",
+      "authors": "Aoki T, Ueshima A, Iwasaki K, Shimoda H, Fukamachi N",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42772022/",
+      "abstract": "Tricuspid valve dysplasia (TVD) is a congenital cardiac malformation in dogs characterized by abnormal tricuspid valve morphology, leaflet tethering, impaired leaflet coaptation, and right atrial and ventricular remodelling. This report describes cone reconstruction for severe TVD in a dog. A three-year-and-10-month-old female Labrador retriever presented with a grade IV/VI systolic murmur and exercise intolerance. Echocardiography revealed severe tricuspid regurgitation, a right atrial-to-left ",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42735724",
-      "title": "Evidence of neuronal loss and granule cell axon reorganization in the dentate gyrus of cats with temporal lobe epilepsy-like seizures.",
-      "authors": "Baert K, Majinski C, Osting S, DiPaola E, Buckmaster P",
-      "journal": "Am J Vet Res",
-      "date": "2026 Sep 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42735724/",
-      "abstract": "To determine whether some cats with epilepsy and temporal lobe epilepsy (TLE)-like seizures have dentate gyrus neuropathologic changes consistent with TLE, including hilar neuron loss and mossy fiber sprouting. Postmortem hippocampal tissue from 5 cats with a history of seizures and 6 control cats was evaluated. Nissl-stained sections were used to estimate hilar neuron populations within the dentate gyrus by optical fractionator stereology. Timm-stained sections were scored by masked investigato",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42735705",
-      "title": "The updated 2022 Fédération Cynologique Internationale method may lead to changes in hip dysplasia grading in some dogs.",
-      "authors": "Gras J, Goyenvalle É, Jourdain M, Rousseau T, Mahieu B",
-      "journal": "Am J Vet Res",
-      "date": "2026 Sep 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42735705/",
-      "abstract": "To compare Norberg angle (NA) measurements and hip dysplasia (HD) grades obtained from the same radiographs using the F&#xe9;d&#xe9;ration Cynologique Internationale (FCI) 2022 (FCI22) and FCI 2006 methods (FCI06). This retrospective observational study included radiographs submitted for canine HD screening from March 17, 2023, through September 27, 2024. Radiographs meeting FCI quality standards were evaluated under both methods, with NA measurements and HD grades recorded accordingly. Grade ch",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42733290",
-      "title": "Predictors of clinically significant bleeding in dogs with severe thrombocytopenia: 159 cases (2012-2021).",
-      "authors": "Smith G, Bennet ED, Ridyard AE",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Sep 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42733290/",
-      "abstract": "To evaluate risk factors for clinically significant bleeding in dogs with severe thrombocytopenia and to assess whether predictors of bleeding differ between immune thrombocytopenia and other causes, and whether platelet mass is more predictive than platelet count. Medical records of dogs presenting to a referral institution between 2012 and 2021 with severe thrombocytopenia (platelet count &lt;50&#x2009;&#xd7;&#x2009;109/L) were retrospectively reviewed. Dogs were classified by underlying cause",
-      "category": "other",
       "summary_ko": ""
     },
     {
@@ -701,6 +657,39 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42738496/",
       "abstract": "Severe adverse reactions induced by non-ionic contrast media remain an uncommon complication in veterinary medicine. This report describes the clinical manifestations and sequential computed tomography alterations indicative of acute shock captured during 2 min and 4 min delayed phases in a 10-year-old, castrated male Maltese dog. The patient, previously diagnosed with a cutaneous mast cell tumor on the lip exhibiting incomplete histopathological margins, underwent CT for metastatic evaluation. ",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42775493",
+      "title": "Non-Irradiation-Related Complications in Cats Undergoing Radiation Therapy: A Single-Institution Retrospective Study of 167 Cats (2002-2025).",
+      "authors": "Sylvester SR, Gieger TL",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42775493/",
+      "abstract": "The incidence of non-irradiation-related complications in cats receiving radiotherapy has not been previously reported. Medical records of 167 cats treated with radiotherapy under general anesthesia at a single institution (2002-2025) were reviewed. Head/neck tumors were most common (n&#xa0;=&#xa0;119). Ninety-two cats (55%) received short-course radiotherapy (1-8 fractions, median 4), and 75 cats (45%) received longer course radiotherapy (10-19 fractions, median 16). Median treatment duration s",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42775490",
+      "title": "Contrast-Enhanced Voiding Urosonography for Diagnosis of Ectopic Ureters in Five Female Dogs.",
+      "authors": "Trikoupi G, Papazoglou L, Papadopoulou P",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42775490/",
+      "abstract": "The aim of the study was to describe the implementation of contrast-enhanced voiding urosonography (CE-VUS), a new, alternative, radiation-free imaging technique, for diagnosing ectopic ureters (EUs) in dogs. Five dogs were presented for evaluation of recurrent urinary tract infections and urinary incontinence. All dogs were bright and alert on presentation, and physical examination findings, complete blood count, and serum biochemistry results were within reference intervals. Plain radiographs ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42775486",
+      "title": "Computed tomographic Characteristics of Presumed Normal Canine Iliosacral Lymph Nodes.",
+      "authors": "Iqbal MM, Mayer M, Larkin A, Parker S, Sukut S",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42775486/",
+      "abstract": "Computed tomographic (CT) evaluation of medial iliac (MILN), internal iliac (IILN), and sacral (SLN) lymph nodes (LNs) in dogs provides vital staging information in certain neoplastic conditions. This retrospective study aimed to determine minimum transverse diameter (MinTD) and maximum transverse diameter (MaxTD) values for presumed normal iliosacral LNs and assess their utility in evaluating therapeutic response using response evaluation criteria in solid tumors (RECIST) v1.1. LN margins, numb",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -943,6 +932,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42760156/",
       "abstract": "Myxomatous mitral valve disease (MMVD) is the most common heart disease in dogs. Echocardiographic markers of cardiac remodeling are used to assess disease severity, but morphological features of the mitral valve are not systematically considered. Conversely, standardized morphological classification schemes are established in human cardiology and are integral to prognosis and therapeutic planning. Our objective was to adapt and apply a mitral valve morphological classification scheme to canine ",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42774971",
+      "title": "The epidemiological landscape of canine tumors in central Italy: animal cancer registry insights, distribution patterns, and incidence estimates.",
+      "authors": "Carnio A, Cocumelli C, Galietta V, Fonti N, Simeoni S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42774971/",
+      "abstract": "Animal cancer registries (ACRs) monitor companion animal tumors, providing essential data for comparative oncology. Sharing domestic environments and possessing compressed lifespans, dogs serve as \"One Health\" environmental sentinels. This study aimed to provide a descriptive analysis of canine neoplasms recorded in the ACR of the Lazio Region (central Italy) over 15-year period (2009-2023) and generate a survey-adjusted crude incidence estimate. Primary tumors were standardized using Vet-ICD-O-",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
