@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24 00:22 UTC",
+  "updated": "2026-09-25 00:25 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -132,6 +132,50 @@
       "summary_ko": ""
     },
     {
+      "id": "42779179",
+      "title": "EXPRESS: Undenatured type II collagen enhances mobility in cats: a randomized placebo controlled cross over field study.",
+      "authors": "Piemontese C, Stabile M, Vicenti C, Fracassi L, Lacitignola L",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Sep 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42779179/",
+      "abstract": "Objectives This study aimed to evaluate the effects of a complementary feed containing undenatured type II collagen on mobility and degenerative joint disease (DJD)-associated pain in client-owned cats with mild to moderate DJD. Methods This prospective, double-blind, randomized, placebo-controlled, cross-over clinical study (coded 3361) included twenty cats (13 females, 7 males; mean age 8.7&#xb1; 3.5 years; mean weight 4.8 &#xb1; 0.8 Kg). After Ethical Committee approval (n. 01/2021/DETO) and ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42779156",
+      "title": "EXPRESS: Pull-out strength of cannulated compression headless screws and cortical screws in the feline sacrum.",
+      "authors": "Kornmayer M, Klement J, Zablotski Y, Thorwaechter C, Wieser J",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Sep 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42779156/",
+      "abstract": "The aim of this study was to compare the pull-out strength of cannulated compression headless screws (CCHSs) of two different lengths with that of cortical screws in the feline sacrum. In this experimental study, 30 cadavers of adult Domestic Shorthair cats were randomly assigned to three groups: single 2.4 mm cortical screws engaging 60 % of the sacral width (CS 60, n = 10), 2.5 mm CCHSs engaging 60 % of the sacral width (CCHSs 60, n = 10), and 2.5 mm CCHSs engaging 40 % of the sacral width (CC",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42778163",
+      "title": "Canine pleuroperitoneal diaphragmatic hernias: a multicentric, retrospective, observational analysis of 20 dogs (2009-2026).",
+      "authors": "Mitchell F, Charlesworth T, Rossanese M, Cinti F, Riggs J",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778163/",
+      "abstract": "To describe the signalment, clinical presentation, diagnostic findings, surgical management and outcomes of dogs undergoing surgical management for pleuroperitoneal diaphragmatic hernia. Medical records from seven referral hospitals were retrospectively reviewed to identify dogs diagnosed with pleuroperitoneal diaphragmatic hernia during the study period. Data collected included signalment, clinical presentation, diagnostic imaging findings, surgical findings, post-operative complications and ou",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42777771",
+      "title": "Gene electrotransfer for DNA immunotherapy in veterinary oncology: Technical Tutorial Video.",
+      "authors": "Impellizeri JA, Vigodny A, Sanchez E, Aurisicchio L, Conforti A",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42777771/",
+      "abstract": "To demonstrate the technique of gene electrotransfer (GET) for administration of plasmid DNA immunotherapy in veterinary oncology. The method demonstrated in the video is relevant to both canine and feline cancer patients undergoing administration of DNA immunotherapies. This Technical Tutorial Video demonstrates patient preparation, IM plasmid administration, electrode positioning, electroporation pulse delivery, and postprocedural assessment for a GET procedure. Required equipment, procedure w",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42770669",
       "title": "Staged caval occlusion enabling en bloc right divisional hepatectomy in two dogs with hepatocellular carcinoma.",
       "authors": "Ishigaki K, Asano K",
@@ -151,6 +195,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42770651/",
       "abstract": "Prophylactic fenestration is widely performed to prevent recurrence of canine acute thoracolumbar intervertebral disc extrusion (IVDE); however, there is a paucity of specific data regarding the biological and biomechanical effect of this procedure on the intervertebral disc and vertebral column. To evaluate the biological and biomechanical effect of fenestration by synthesizing data from clinical canine literature and preclinical in vivo and ex vivo (rabbit) models, to provide relevant translat",
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42778916",
+      "title": "Part I of \"Navigating the transition\": early-career working conditions, psychosocial demands, and job satisfaction among German, Austrian, and Swiss veterinarians - a first-year survey.",
+      "authors": "Wetter A, Lorenz T, Doherr MG, Jensen KC",
+      "journal": "BMC Vet Res",
+      "date": "2026 Sep 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778916/",
+      "abstract": "Starting a career in veterinary medicine represents a major life transition, accompanied by substantial professional and personal challenges. The study aimed to assess job satisfaction, psychosocial demands, and working conditions of veterinarians during their first year in their profession, and to identify the factors associated with commitment and job satisfaction. Early-career veterinarians in Germany, Austria, and Switzerland were surveyed using an online questionnaire that included the Cope",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -803,105 +858,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42738480",
-      "title": "Seroprevalence and Factors Associated with Toxoplasma gondii Seropositivity in Small Ruminants in Northeastern Portugal.",
-      "authors": "Pereira T, Rodrigues C, Caldeira MJ, Teixeira Rodrigues F, Jacob-Ferreira J",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738480/",
-      "abstract": "Toxoplasma gondii infection is relevant to animal production, food safety, and public health, but current epidemiological data for small ruminants in northeastern Portugal are limited. This cross-sectional study estimated seroprevalence and investigated factors associated with seropositivity in 2678 animals from 149 flocks sampled between May 2022 and December 2024. Serum samples were tested using an indirect enzyme-linked immunosorbent assay, and associated factors were evaluated using mixed-ef",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738468",
-      "title": "Physiological and Proteomic Responses to Chronic Stress and the Effects of Chrysanthemum zawadskii var. latilobum (Maxim.) Kitam. Extract in Beagle Dogs.",
-      "authors": "Yang YJ, Kim MJ, Kim HH, Heo JW, Chun JL",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738468/",
-      "abstract": "Chronic stress activates the hypothalamic-pituitary-adrenal (HPA) axis and induces systemic physiological changes. This study aimed to identify stress-associated serum biomarker candidates in chronically stressed beagle dogs and to evaluate the anti-stress effects of Chrysanthemum zawadskii var. latilobum (Maxim.) Kitam. extract (CZE). Beagle dogs were subjected to movement restriction-induced chronic stress for 42 days, with or without repeated oral administration of CZE. Serum cortisol and cor",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738453",
-      "title": "Comparative Sensitivity of Canine Swim-Up Sperm Fractions Treated with Antifreeze Protein and Trehalose Following Freeze-Thaw.",
-      "authors": "Farshad A, Trzebiatowski L, Wehrend A",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738453/",
-      "abstract": "Sperm cryopreservation is widely used in reproductive biotechnology, but the freeze-thaw process often reduces sperm quality by impairing motility, viability, and DNA integrity. This study assessed how antifreeze protein III (AFP III; 1.5 &#xb5;g/mL) and trehalose (25 mM), alone or combined, influence post-thaw sperm quality in swim-up fractions. After routine semen evaluation, ejaculates were separated into upper, native, and lower fractions and diluted in a Tris-fructose-egg yolk extender cont",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738448",
-      "title": "Investigation of Serum Neurofilament Light Chain as a Surrogate for Cerebrospinal Fluid Neurofilament Light Chain in Canine Cognitive Dysfunction Syndrome.",
-      "authors": "Wu CC, Huang WH, Chang YP",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738448/",
-      "abstract": "The serum neurofilament light chain (NfL) is a promising circulating biomarker for canine cognitive dysfunction syndrome (CCDS). This cross-sectional study evaluated serum NfL (sNfL) as a surrogate for cerebrospinal fluid NfL (cNfL) and assessed the effects of physiological factors on its clinical utility. Biofluid NfL was analyzed using the single-molecule array (Simoa) across 126 clinical samples, comprising 44 cNfL and 25 paired cNfL/sNfL samples in geriatric dogs (&gt;8 years) and 16 paired ",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738446",
-      "title": "Municipal Outsourcing and Animal Welfare Outcomes in Contracted Dog Shelters: A 10-Year Retrospective Policy Evaluation in Korea.",
-      "authors": "Song BC",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738446/",
-      "abstract": "Municipal dog shelters are often grouped as outsourced facilities despite operator differences. We analyzed 33,875 dog admissions and 90 municipality-year observations from 2016 to 2025 across nine Korean municipalities, with three per operator category; operator type was fixed and nested within municipality. Among 32,838 known outcomes, live-release rates were 69.1%, 58.1%, and 40.0%, and euthanasia rates were 14.0%, 22.8%, and 42.5% in corporation-operated, veterinary hospital-operated, and in",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738445",
-      "title": "Impacts of the 'Cost-of-Living Crisis' on UK-Based Owners of Pandemic Puppies.",
-      "authors": "Brand CL, Belshaw Z, O'Neill DG, Bryson GT, Packer RMA",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738445/",
-      "abstract": "Since 2021, United Kingdom (UK) residents have faced a decline in disposable income termed the Cost-of-Living Crisis (COLC). For pet owners, this has been compounded by the costs of veterinary care rising faster than the rate of inflation. Animal welfare charities have reported increased rates of relinquishment and owners making cost-reducing savings on multiple aspects of their dogs' care. This study aimed to quantitatively assess the nature and prevalence of impacts of the COLC on a cohort of ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738443",
-      "title": "Extra-Abdominal Applications of the Greater Omentum in Canine and Feline Surgery: Current Knowledge, Surgical Techniques, and Clinical Perspectives.",
-      "authors": "Zielonka D, Morawska M, Zhalniarovich Y",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738443/",
-      "abstract": "The greater omentum is a highly vascularized and biologically active structure with drainage, immunomodulatory, proangiogenic, and proregenerative properties. Although it is widely used in abdominal surgery, its extra-abdominal application in dogs and cats remains less standardized. This review summarizes the available veterinary literature on extra-abdominal omentalization in small animals, including case reports, case series, experimental studies, and selected comparative data, supplemented by",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738442",
-      "title": "Faunal Deposits in Pre-Beaker Funerary Contexts at Humanejos (Parla, Madrid, Spain).",
-      "authors": "Estaca-Gómez V, Aguilar-Molina L, Herrero-Corral AM, Paulos-Bravo R, Maicas R",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738442/",
-      "abstract": "This study presents the first zooarchaeological analysis of the faunal remains associated with the pre-Beaker funerary contexts of Humanejos (Parla, Madrid, Spain). A total of 3974 animal remains recovered from 31 burial pits were analysed. Species representation was assessed using the NISP and MNI, and bone surface modifications were examined to evaluate human activities. The results indicate that domestic taxa account for 84% of the total MNI and that the faunal remains occur in two distinct t",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738426",
-      "title": "Chromosome-Scale Genome of Zoonotic Eyeworm Thelazia callipaeda from China.",
-      "authors": "Liu Z, Bai Y, Shu Z, Hu H, Jin Y",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738426/",
-      "abstract": "Thelazia callipaeda is a vector-borne zoonotic eyeworm infecting companion animals, wildlife, and humans, but chromosome-scale genomic resources from Chinese clinical material remain limited. We generated a genome supported by Pacific Biosciences (PacBio) high-fidelity (HiFi) sequencing and high-throughput chromosome conformation capture (Hi-C) from 100 adult worms recovered from naturally infected dogs in Beijing and compared its chromosome-scale organization with Portuguese assembly GCA_965194",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42766978",
       "title": "Use of a novel integrated dilator-needle system for trans-septal puncture in three dogs undergoing left atrial decompression.",
       "authors": "Sarcinella F, Goodrich S, Glyde K, Smith S, Willis R",
@@ -909,17 +865,6 @@
       "date": "2026 Aug 22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42766978/",
       "abstract": "Left atrial decompression (LADEC) is an emerging palliative intervention for dogs with advanced left-sided congestive heart failure. Trans-septal puncture is a critical step of this procedure and is traditionally performed using Brockenbrough-style needles with multiple device exchanges. A novel integrated dilator-needle system (FlexCath Cross&#x2122;, Medtronic) has been developed in human cardiology to allow a zero-exchange approach to trans-septal puncture; however, its use in veterinary pati",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738424",
-      "title": "Bioactive Compounds and In Vitro Antibacterial Activity of Hemp Leaves and Inflorescences as Potential Functional Feed Ingredients for Canine Nutrition.",
-      "authors": "Jacuńska W, Biel W, Waligórski P, Witkowicz R, Zych S",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738424/",
-      "abstract": "Hemp (Cannabis sativa L.) inflorescences have been extensively characterized for their bioactive compounds, whereas less information is available on hemp leaves despite their potential as a source of nutrients and phytochemicals. This study compared leaves and inflorescences of four organically grown hemp cultivars (Finola, Futura 75, Dioica, and Kompolti) in terms of cannabinoid, terpene, and fatty acid profiles, lipid quality indices, and in vitro antibacterial activity. Antibacterial activity",
       "category": "other",
       "summary_ko": ""
     },
@@ -932,6 +877,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42760156/",
       "abstract": "Myxomatous mitral valve disease (MMVD) is the most common heart disease in dogs. Echocardiographic markers of cardiac remodeling are used to assess disease severity, but morphological features of the mitral valve are not systematically considered. Conversely, standardized morphological classification schemes are established in human cardiology and are integral to prognosis and therapeutic planning. Our objective was to adapt and apply a mitral valve morphological classification scheme to canine ",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42781415",
+      "title": "Body condition, age, and sex as modulators of peripheral blood immune-cell populations and lymphocyte proliferation in cats.",
+      "authors": "Krüger H, Moritz A, Roshani B, Neumann S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42781415/",
+      "abstract": "Feline obesity is common, and in other species it has been linked to immune dysregulation; yet its immunological consequences in cats, and their modulation by age and sex, remain poorly defined. Whole blood from 78 neutered client-owned cats (37 males, 41 females; 1-16 years) was analyzed by flow cytometry using a panel characterizing T cells (including CD5+CD4+ and CD5+CD8+ subsets), B cells (CD21+) and natural killer (CD56+) cells with their activation (CD80) and proliferation (Ki67) status. C",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42781373",
+      "title": "Case Report: Repeated imaging and surgical treatment of a vascular hamartoma arising from the cervical vertebral column of a cat.",
+      "authors": "Schmitz AK, Buhmann G, Trapp A, Matiasek K, Jurina K",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42781373/",
+      "abstract": "A 3-year-old male neutered Domestic Shorthair cat was presented with a 1-year history of progressive right-lateralized proprioceptive ataxia, ambulatory tetraparesis and cervical spinal pain, with sudden deterioration shortly before presentation. Neurological examination was consistent with a right-sided C6-T2 myelopathy. Magnetic resonance imaging (MRI) revealed a right-sided extradural myelocompressive lesion at the level of the C5 vertebra, associated with osseous proliferation arising from t",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42781032",
+      "title": "Interpreting cranial abdominal coverage after caudal epidural local anesthetic administration in dogs and cats.",
+      "authors": "Nagahama S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42781032/",
+      "abstract": "Caudal epidural local anesthetic administration is used in dogs and cats and may be interpreted as contributing to cranial abdominal coverage, but favorable perioperative outcomes do not identify the cranial extent or completeness of the local-anesthetic block. This conceptual analysis distinguishes anatomical distribution, functional attenuation of predefined stimuli, physiological tolerance, and composite perioperative clinical performance. In feline ovarian surgery, 0.3 ml/kg regimens have pr",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42780817",
+      "title": "Contents under pressure: vascular proliferation and gliosis in the brains of Cavalier King Charles Spaniels with syringomyelia.",
+      "authors": "Atkins C, Rusbridge C, Guil-Luna S, Díaz-Santana P, Constantino-Casas F",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42780817/",
+      "abstract": "Vascular and astroglial changes in the central nervous system of Cavalier King Charles Spaniels (CKCS) affected by Chiari-like malformation (CM) and secondary syringomyelia (SM) and ventriculomegaly (VM) are poorly characterised. CM is a developmental malformation of brachycephalic breeds and is a significant welfare concern, especially for CKCS in which this disorder is considered ubiquitous with varying degrees of severity. A frequent sequela of CM is SM and VM, causing a range of neurological",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42780347",
+      "title": "In vitro effects of apigenin, curcumin, and fumaric acid on intracellular ROS and TNF-α responses in Escherichia coli-stimulated canine PBMCs.",
+      "authors": "Móritz AV, Puskás B, Nagy N, Jerzsele Á, Farkas O",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42780347/",
+      "abstract": "Chronic inflammatory enteropathy (CIE) is a common gastrointestinal disorder in dogs and is associated with dysregulated inflammatory and oxidative responses, potentially contributing to the development of endotoxemia. The present study investigated the effects of apigenin, curcumin, and fumaric acid on inflammatory and oxidative responses in canine peripheral blood mononuclear cells (PBMCs) under endotoxin- and bacteria-associated stimulation. PBMCs obtained from three healthy donor dogs were e",
+      "category": "internal",
       "summary_ko": ""
     },
     {
