@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25 00:25 UTC",
+  "updated": "2026-09-26 00:29 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -110,25 +110,91 @@
       "summary_ko": ""
     },
     {
-      "id": "42738559",
-      "title": "Clinical and Nutritional Management of Gallbladder Mucocele in Dogs: A Four-Case Series.",
-      "authors": "Oliveira NMC, Marchi PH, Príncipe LA, Amaral AR, Moreno GPT",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 3",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738559/",
-      "abstract": "Gallbladder mucocele is a common extrahepatic biliary condition in dogs, traditionally managed with cholecystectomy, while conservative approaches combining clinical and nutritional strategies remain underexplored. This case series reports four dogs diagnosed with gallbladder mucocele, all presenting with hyperlipidemia, three with overweight or obesity, and one with hypothyroidism. The dogs were treated using a multimodal protocol combining pharmacological therapy with nutritional strategies. T",
+      "id": "42786780",
+      "title": "EXPRESS: Surgical management of type I atresia ani using Heineke-Mikulicz-like anoplasty: a case series of eleven kittens (2022-2025).",
+      "authors": "Berlemont L, Bondonny L, Massinon J, Chanoit G, Taroni M",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Sep 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42786780/",
+      "abstract": "Type I atresia ani is rare in cats and there is limited published data on the surgical management and prognosis of this condition in feline patients. Appropriate surgical planning requires thorough examination of the rectum, anus, and perineum to accurately diagnose atresia ani and rule out the presence of a rectovaginal or rectourethral fistula. Type I atresia may be treated with balloon dilatation or bougienage but recurrence may occur and several procedures may be required before complete res",
       "category": "orthopedics",
       "summary_ko": ""
     },
     {
-      "id": "42738553",
-      "title": "Dietary Lycium barbarum Polysaccharide Supplementation Modulates Serum Metabolomic Profiles and Gut Microbiota in Felines.",
-      "authors": "Zhang X, Yang H, Liu X, Tian W, Pu L",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 3",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738553/",
-      "abstract": "Functional pet foods are increasingly being developed to support host metabolism and intestinal health. Lycium barbarum polysaccharide (LBP), a major bioactive component of goji berries, has been reported to possess antioxidant, anti-inflammatory, immunomodulatory, and gut microbiota-regulatory activities; however, its effects in domestic cats remain unclear. This study investigated the effects of dietary LBP supplementation on serum metabolomic profiles and gut microbiota in adult cats. Twenty-",
-      "category": "other",
+      "id": "42786736",
+      "title": "EXPRESS: Meningiomas in four cats with pseudocystic fluid accumulation including one microcystic meningioma.",
+      "authors": "Bitoun A, Berthomé C, Frankar H, Fert S, Cauzinille L",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Sep 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42786736/",
+      "abstract": "Case series summaryFour cats were presented with progressive prosencephalic signs. An extraaxial mass associated with a pseudocystic component was identified in each case on MRI and pseudocystic meningiomas were suspected. The appearance of the fluid accumulation in Case 1 was more suggestive of an actual cyst, whereas the crescent shaped fluid accumulation was more compatible with subdural fluid accumulation in Cases 2,3 and 4. All cases underwent mass removal through craniotomy and were discha",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42785750",
+      "title": "Pathologic Characterization and Clinical Significance of Lymphovascular Invasion in Canine Thyroid Carcinomas.",
+      "authors": "Griffin MA, Stoyle B, Oakes A, Flesner B, Lenz JA",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Sep 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42785750/",
+      "abstract": "The association between lymphovascular invasion (LVI) and outcomes in dogs with thyroid carcinoma is inadequately described, and a standardized definition of LVI is lacking. This study's objectives were to histopathologically and immunohistochemically characterize LVI and to evaluate associated clinical outcomes in dogs with thyroid carcinoma. Inclusion criteria were: dogs that underwent thyroidectomy for thyroid carcinoma with available histopathology samples, and a minimum of 1-year postoperat",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42785358",
+      "title": "Electrochemotherapy achieves high local control of lingual and tonsillar tumors in dogs and cats.",
+      "authors": "Vizcay J, Portillo F, Sabella T, Diaz M, Impellizeri J",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42785358/",
+      "abstract": "To describe local response, progression-free survival (PFS), and overall survival (OS) in dogs and cats with lingual or tonsillar tumors treated with electrochemotherapy (ECT) alone or combined with surgery. Medical records were retrospectively reviewed for dogs and cats with a histologically or cytologically confirmed tumor of the tongue or tonsil treated with ECT alone or combined with surgery, with &#x2265; 1 posttreatment follow-up. Twenty-nine client-owned animals, 7 dogs and 7 cats with li",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42785357",
+      "title": "Urine Molecular Fingerprinting: exploratory study of a promising technology for detecting cancer and nonneoplastic disease in dogs.",
+      "authors": "Robertson J, Issa AS, Dervisis N, McGuire K, Tuohy J",
+      "journal": "Am J Vet Res",
+      "date": "2026 Sep 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42785357/",
+      "abstract": "To describe a novel technology, Urine Molecular Fingerprinting (UMF), for analyzing the composition of urine and its application for neoplastic/nonneoplastic diseases in dogs. Voided urine samples from clinically healthy Bernese Mountain Dogs (n = 263), Golden Retrievers (214), West Highland White Terriers (79), German Shepherd Dogs (21), and other breeds (245). Samples were analyzed using Raman spectroscopy and computational statistics. To illustrate the clinical relevance of UMF, samples from ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42785356",
+      "title": "Feasibility of the ForeSight tissue oximetry system for estimating cerebral and renal tissue oxygen saturation in anesthetized dogs during hyperoxia, normoxia, and hypoxia.",
+      "authors": "Sakata H, Arai S, Gilleland E, Monnet E",
+      "journal": "Am J Vet Res",
+      "date": "2026 Sep 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42785356/",
+      "abstract": "To evaluate the feasibility of the ForeSight tissue oximetry system for assessing regional cerebral and renal tissue oxygen saturation in anesthetized dogs across 3 oxygenation states. 6 anesthetized Beagles were included. ForeSight tissue oximetry sensors were applied to the cranium and left lateral abdomen to estimate regional cerebral oxygen saturation (rScO2) and regional renal oxygen saturation (rSrO2). The left dorsal pedal artery, right femoral vein, and right jugular vein were cannulated",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42781880",
+      "title": "Tolerability and Outcome of Medical Treatment in Feline Nasal Carcinomas: A Multi-Institutional Retrospective Study.",
+      "authors": "Amato F, Gobbetti M, Giuliano A, Treggiari E, Pieri M",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Sep 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42781880/",
+      "abstract": "Carcinomas are the second most common feline intranasal neoplasm. Various treatment options, including radiotherapy, surgery or a combination of both, have been described, but data on medical therapy efficacy are lacking. This retrospective study evaluated the outcome of cats with nasal carcinoma (NC) treated with antineoplastic treatment. Cats with a histopathological or cytopathological diagnosis of NC were included. Patients receiving antineoplastic treatment were compared to patients receivi",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42781877",
+      "title": "Precision-Guided Therapy for Canine Cancers: An Oasis or a Mirage?",
+      "authors": "Modiano JF",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Sep 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42781877/",
+      "abstract": "",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -271,83 +337,6 @@
       "date": "2026 Sep 21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42767266/",
       "abstract": "Total hip replacement (THR) in cats remains uncommon due to species-specific anatomical features, including limited acetabular retroversion, mismatch between femoral canal and acetabular size, and technical difficulty during femoral preparation related to sclerosis secondary to slipped capital femoral epiphysis (SCFE), the main indication in this species. These factors complicate implant selection, canal preparation, and cup orientation. This retrospective study reports clinical and radiographic",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738545",
-      "title": "Dog Breeds for the Future: Theoretical Assessment of Strategies for Enhancing the Behavioural Reliability of Existing Dog Breeds, or Developing New Ideal Urban Companion Dogs.",
-      "authors": "Pongrácz P, Dobos P",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738545/",
-      "abstract": "The original function of many dog breeds no longer fits the requirements of an easy-going companion. Caretakers can also be overdemanding regarding their dogs' ability to cope with societal expectations. We propose and evaluate four strategies for readjusting the dog-human relationship by highlighting their positive and negative outcomes. (1) 'Converge': dog breeds should be changed towards the amicable dog's behavioural characteristics; thus, once the goal is reached, even novice dog owners can",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738532",
-      "title": "Fecal Microbiota Transplantation in Dogs and Cats: Evidence for Gastrointestinal and Emerging Extra-Intestinal Applications.",
-      "authors": "Jin J, Xu C, Bao W",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738532/",
-      "abstract": "Fecal microbiota transplantation (FMT) is an emerging microbiome-directed intervention for dogs and cats, but its clinical role remains incompletely defined. This structured narrative review integrates peer-reviewed clinical, mechanistic, methodological, and safety evidence on companion-animal FMT published between 2005 and 2026, with emphasis on efficacy, tolerability, mechanisms, product preparation, donor screening, and research priorities. In dogs, the most consistent clinical signal concern",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738526",
-      "title": "Extended-Spectrum β-Lactamase-Producing Enterobacterales in Free-Roaming Cats in Israel.",
-      "authors": "Menashri N, Daniels TZ, Shnaiderman-Torban A, Keidar-Friedman D, Tirosh-Levy S",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738526/",
-      "abstract": "Amid the rising prevalence of antimicrobial resistance (AMR), attention is increasingly directed toward investigating additional factors that may contribute to or mediate its development, among which companion animals have emerged as a potential reservoir and transmission interface. Despite this, the contribution of free-roaming animal populations living in proximity to humans and domestic animals has yet to be thoroughly investigated worldwide. Accordingly, this study aimed to determine the pre",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738524",
-      "title": "Concurrent Multidomain Cognitive Assessment and Serum BDNF Level in Aged Dogs: Comparison Between Normal Cognition and Mild Cognitive Impairment.",
-      "authors": "Tanongpitchayes K, Chuasakhonwilai A, Warrit K, Chaisri W, Warin R",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738524/",
-      "abstract": "Early detection of canine cognitive dysfunction syndrome (CDS) is challenged by the limitations of single diagnostic tools, including owner-reported subjectivity and impractical behavioral testing protocols. This study examined a multidomain strategy integrating questionnaires, behavioral testing, and a circulating biomarker to identify measures associated with mild cognitive impairment in aged dogs. A total of 21 aged dogs were classified as cognitively normal (n = 9) or mildly cognitively impa",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738521",
-      "title": "Feline Cutaneous Mycobacteriosis Caused by Mycobacterium farcinogenes: The First Case Report from Asia.",
-      "authors": "Chuenngam T, Promsatit W, Khamduang C, Vilaiwan K, Kanjanasri K",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738521/",
-      "abstract": "A 4-year-old spayed female domestic shorthair cat was referred with history of 8 months of chronic, non-healing draining wounds on the left lateral thigh and left inguinal region. The initial lesions arose from a cat bite wound on the thigh and a concurrent inguinal subcutaneous mass, both of which had failed to respond to empirical antimicrobial therapy. Prior to referral, cytology of the inguinal mass suggested a spindle cell tumor; however, histopathology following surgical excision revealed ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738514",
-      "title": "Clinical Findings, Treatment and Long-Term Outcome in 37 Cats with Non-Associative Immune-Mediated Hemolytic Anemia: A Retrospective Observational Study of Two Treatment Cohorts.",
-      "authors": "Kulmer LM, Doulidis PG, Burgener IA, Luckschander-Zeller N",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738514/",
-      "abstract": "Background: Non-associative immune-mediated hemolytic anemia (IMHA) is uncommon in cats and carries substantial mortality. Glucocorticoids are first-line treatment, and cyclosporin A (CsA) is frequently added, but data on the clinical course and long-term outcome are limited. We describe clinical findings, treatment, adverse events and outcome in cats with non-associative IMHA. Methods: In this retrospective observational single-center study (October 2014-October 2024), 37 cats diagnosed by the ",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738513",
-      "title": "Immunohistochemical Expression of MSH2 and MSH6 Mismatch Repair Proteins and Their Pathological Correlations in Canine Primary Pulmonary Carcinoma.",
-      "authors": "Morar A, Toma C, Hodor D, Gal C, Sall IM",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738513/",
-      "abstract": "DNA mismatch repair (MMR) proteins have been investigated as biomarkers in human oncology, but their role in canine PPCs has not been characterized. Immunohistochemistry for MCK, TTF-1, MSH2, and MSH6 was performed and evaluated in relation to clinicopathological parameters. Affected dogs had a median age of 10.6 years. Histologically, 16 tumors were classified as adenocarcinoma and one as adenosquamous carcinoma, with papillary architecture predominating. MCK and TTF-1 immunoreactivity was dete",
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -682,39 +671,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42738509",
-      "title": "Gaps and Controversies in Feline Food Palatability.",
-      "authors": "van der Vyver Y, Paul A, Blecker C, Danthine S",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738509/",
-      "abstract": "Feline food palatability is fundamental to ensure nutritional intake and the commercial success of pet foods, yet the field has several gaps, unresolved contradictions, and methodological inconsistencies. A literature search identified 141 relevant publications. Critical evaluation of this body of work revealed four recurring areas of tension: the inconsistent definition of palatability, where the same term evaluates different constructs; contradictory behavioral indicators, where the same behav",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738503",
-      "title": "Coprophagy in Healthy Dogs Does Not Alter Fecal Core Microbiota or Increase Carriage of Enteropathogens.",
-      "authors": "Pilla R, Sabetti MC, Antonelli F, Dametti MR, Tagliasacchi F",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738503/",
-      "abstract": "Coprophagy is a common behavior in domestic dogs, yet its effects on the intestinal microbiota and asymptomatic carriage of enteropathogens remain unclear. This study aimed to determine whether healthy coprophagic dogs differ from non-coprophagic dogs in fecal microbiota composition or prevalence of asymptomatic enteropathogen carriage. Forty-four clinically healthy dogs were prospectively enrolled, including 23 coprophagic and 21 non-coprophagic animals as reported by their owners. Ages spanned",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738496",
-      "title": "Computed Tomographic Findings and Clinical Manifestations of Acute Severe Hypersensitivity to a Non-Ionic Iodinated Contrast Agent in a Castrated Male Dog: A Case Report.",
-      "authors": "Chung M, Kwak J, Eom K, Kim J",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738496/",
-      "abstract": "Severe adverse reactions induced by non-ionic contrast media remain an uncommon complication in veterinary medicine. This report describes the clinical manifestations and sequential computed tomography alterations indicative of acute shock captured during 2 min and 4 min delayed phases in a 10-year-old, castrated male Maltese dog. The patient, previously diagnosed with a cutaneous mast cell tumor on the lip exhibiting incomplete histopathological margins, underwent CT for metastatic evaluation. ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42775493",
       "title": "Non-Irradiation-Related Complications in Cats Undergoing Radiation Therapy: A Single-Institution Retrospective Study of 167 Cats (2002-2025).",
       "authors": "Sylvester SR, Gieger TL",
@@ -825,39 +781,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42738492",
-      "title": "Asexual Development and Virulence Are Not Affected by Knockout of Five Sexual-Stage Candidate Genes in Toxoplasma gondii.",
-      "authors": "Tian X, Tian CR, Lu XS, Hao WB, Zheng Z",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738492/",
-      "abstract": "Toxoplasma gondii is a widespread intracellular parasite posing serious risks to immunocompromised individuals and pregnant women, and causing significant economic losses to the livestock industry. Current clinical drugs mainly target acute-stage tachyzoites but are ineffective against chronic cysts, necessitating new interventions. The parasite's sexual stage in the feline intestine remains poorly understood but is critical for transmission. Here, based on our unpublished weighted gene co-expre",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738489",
-      "title": "Long-Term Control of Refractory Cardiogenic Pleural Effusion in a Cat Treated with Sacubitril/Valsartan and Hydrochlorothiazide: A Case Report.",
-      "authors": "Maftei MC, Scîntei LM, Beschea Chiriac SI, Vulpe V, Baisan RA",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738489/",
-      "abstract": "Sacubitril/valsartan is an angiotensin receptor-neprilysin inhibitor (ARNI) widely used in human heart failure and has demonstrated potential cardiorenal and neurohormonal effects in experimental canine studies. Hydrochlorothiazide is a thiazide diuretic that acts at a more distal segment of the nephron than furosemide. Its addition to loop diuretic therapy may enhance sodium and fluid excretion through sequential nephron blockade and thereby improve the diuretic response in cases of refractory ",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42738485",
-      "title": "Nutritional and Functional Effects of Ganoderma lucidum-Fermented Mulberry Leaves in Aged Laying Hens.",
-      "authors": "Liu Z, Chen Q, Bai X, Zhao S, Bai X",
-      "journal": "Animals (Basel)",
-      "date": "2026 Aug 31",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42738485/",
-      "abstract": "Solid-state fermentation (SSF) can reduce antinutritional factors and improve the nutritional value of plant feed substrates. Here, we characterized mulberry leaves fermented with Ganoderma lucidum and evaluated a 3% dietary inclusion level in aged laying hens. Fermentation increased crude protein by 19.51% and increased total, essential, and branched-chain amino acids. Tannin and phytic acid contents decreased by 31.03% and 19.61%, respectively. After 60 days, the FML group showed a laying rate",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42766978",
       "title": "Use of a novel integrated dilator-needle system for trans-septal puncture in three dogs undergoing left atrial decompression.",
       "authors": "Sarcinella F, Goodrich S, Glyde K, Smith S, Willis R",
@@ -877,6 +800,83 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42760156/",
       "abstract": "Myxomatous mitral valve disease (MMVD) is the most common heart disease in dogs. Echocardiographic markers of cardiac remodeling are used to assess disease severity, but morphological features of the mitral valve are not systematically considered. Conversely, standardized morphological classification schemes are established in human cardiology and are integral to prognosis and therapeutic planning. Our objective was to adapt and apply a mitral valve morphological classification scheme to canine ",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42786467",
+      "title": "Taeniid infection in dogs: a coprological and knowledge, attitude and practices study in Gondar and Bahir Dar cities, Ethiopia.",
+      "authors": "Yayeh M, Birhan M, Ayalew A, Menigstu A",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42786467/",
+      "abstract": "The zoonotic cestodes such as Taenia and Echinococcus species belonging to family taeniidae are of paramount importance in the developing world since they pose serious public health impacts. Dogs serve as definitive hosts, shedding eggs into the environment that can infect livestock and humans. To determine the occurrence of Taeniid infections in dogs, assess the risk factors and evaluate the knowledge, attitudes, and practices (KAP) of dog owners. A cross-sectional study was conducted from Sept",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42787561",
+      "title": "A conserved virulence backbone and heterogeneous type III secretion effector profiles in historical canine otitis-associated Pseudomonas aeruginosa from Hungary.",
+      "authors": "Veres MA, Moravcsik B, Mag P, Kaszab E, Fehér E",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787561/",
+      "abstract": "Canine otitis externa provides a chronic, inflamed and frequently antimicrobial-exposed niche in which Pseudomonas aeruginosa can persist through a coordinated repertoire of adhesion, biofilm, iron-acquisition, secretion and toxin systems. We characterized the virulence-associated genomic architecture of a historical Hungarian collection obtained from canine otitis cases in 2010 and 2017. Of the 70 isolate identifiers in the nominal range 70-139, 60 had corresponding long-read assemblies and lin",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42787421",
+      "title": "Case Report: Palliative benefit of hypofractionated radiation therapy (6 Gy × 6 fractions) with temporary tracheostomy in a cat with laryngeal B-cell lymphoma progressing during chemotherapy.",
+      "authors": "Kim J, Kim J, Jeong I, Choi H, Kim Y",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787421/",
+      "abstract": "A 12-year-old spayed female Maine Coon cat was diagnosed with cervical T-cell-rich B-cell lymphoma. During modified L-CHOP-based chemotherapy, the cat developed progressive upper airway obstruction associated with a laryngeal lesion. Initial CT suggested contiguous laryngeal involvement, and follow-up imaging revealed severe laryngeal narrowing. An emergency temporary tracheostomy was performed for airway stabilization, and subsequent punch biopsy of the laryngeal lesion was most consistent with",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42787357",
+      "title": "Zlig ligament reconstruction versus tibial plateau leveling osteotomy for cranial cruciate ligament rupture in dogs: a prospective controlled study.",
+      "authors": "Chwatal S, Volz F, Kornmayer M, Zablotski Y, Meyer-Lindenberg A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787357/",
+      "abstract": "Cranial cruciate ligament rupture (CCLR) is one of the most common causes of hindlimb lameness in dogs, causing stifle instability, osteoarthritis and damage to the medial meniscus. While tibial plateau leveling osteotomy (TPLO) is the most common performed method for cranial cruciate ligament rupture in dogs, intra-articular reconstruction of the cranial cruciate ligament is the gold standard in human medicine. The objective of this prospective clinical study was to investigate whether the synt",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42787174",
+      "title": "Case Report: Multiple mammary carcinomas in a young dog with estrus-associated hyperglycemia: clinicopathological findings and glycemic normalization after ovariohysterectomy.",
+      "authors": "Rosca P, Pasca AS, Hritcu TD, Ciornei SG, Spataru MC",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787174/",
+      "abstract": "Mammary tumors are among the most common neoplasms affecting female dogs and are typically diagnosed in middle-aged or older animals. The occurrence of malignant mammary tumors in very young dogs is uncommon and may present diagnostic and clinical management challenges. This case report describes a young female dog presenting with multiple mammary nodules accompanied by persistent hyperglycemia detected approximately one to 2 weeks before the onset of estrus. Clinical examination, hematological ",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42787157",
+      "title": "Combined tibial plateau leveling osteotomy and autologous conditioned serum for functional recovery and delayed osteoarthritis progression in dogs with cranial cruciate ligament rupture.",
+      "authors": "Ji C, Gao G, Deng G",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787157/",
+      "abstract": "Cranial cruciate ligament rupture (CCLR) is the leading cause of stifle joint instability, chronic pain, and osteoarthritis (OA) in dogs. Although tibial plateau leveling osteotomy (TPLO) is the standard surgical treatment, postoperative inflammation and secondary OA progression remain major challenges. Autologous conditioned serum (ACS) is a biological therapy with anti-inflammatory and chondroprotective properties. In this prospective, randomized controlled trial, 60 stifles (48 client-owned d",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42787045",
+      "title": "A comparative study of wound healing kinetics, efficacy, and profiling of VG111 in canine wounds.",
+      "authors": "Singh KA, Kaur P, Attri S, Shekhar N, Karan M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787045/",
+      "abstract": "The management of naturally occurring canine wounds, such as bite and degloving injuries, remains a major veterinary challenge because standard treatments often struggle to balance infection control and tissue regeneration. Although povidone-iodine (PI) remains a widely used first-line antiseptic in both human and veterinary medicine, there are concerns regarding its potential for cytotoxicity and the inhibition of fibroblast growth, which can delay healing. To address these limitations, a prosp",
+      "category": "other",
       "summary_ko": ""
     },
     {
