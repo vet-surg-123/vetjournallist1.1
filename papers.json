@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27 00:24 UTC",
+  "updated": "2026-09-28 00:29 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -539,39 +539,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42754359",
-      "title": "A dose-escalated radiation protocol of 10 × 4.0 Gy provides long-term local control in canine apocrine gland anal sac adenocarcinoma.",
-      "authors": "Terauchi M, Fujii Y, Iwasaki R, Mori T",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Sep 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42754359/",
-      "abstract": "To obtain insights for establishing radiation therapy strategies that provide long-term locoregional benefits in canine apocrine gland anal sac adenocarcinoma, we evaluated whether a dose-escalated protocol (10&#x2009;&#xd7;&#x2009;4.0&#x2009;Gy) could improve clinical outcomes, particularly long-term locoregional control, while maintaining acceptable toxicity. This retrospective cohort study included dogs with apocrine gland anal sac adenocarcinoma treated with three-dimensional conformal radia",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42754086",
-      "title": "Three-dimensional ultrasonographic assessment of the cranial cruciate ligament in medium- to large-sized canine cadavers: A feasibility study.",
-      "authors": "Alicia BF, Ignacio OB, Cristina O, Pablo GO, Andrea C",
-      "journal": "Vet J",
-      "date": "2026 Sep 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42754086/",
-      "abstract": "Cranial cruciate ligament (CrCL) rupture is a common cause of stifle instability and pelvic limb lameness in dogs. Although complete ruptures are often suspected based on clinical examination, assessment of the CrCL remains challenging using non-invasive conventional imaging modalities. The aim of this study was to evaluate the feasibility of three-dimensional ultrasonography (3D-US) for visualization and exploratory measurement of the CrCL in medium- to large-sized canine cadavers. An observati",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42754085",
-      "title": "Characterization of the cystic cavities of canine invasive micropapillary mammary carcinoma reveals a complex tumor microenvironment.",
-      "authors": "Dos Reys MP, Rodrigues MA, Nakagaki KYR, de Oliveira ALCB, Cassali GD",
-      "journal": "Vet J",
-      "date": "2026 Sep 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42754085/",
-      "abstract": "Invasive micropapillary carcinoma (IMC) of the mammary gland is an aggressive mammary tumor affecting humans, dogs, and other species. This study characterized the cystic cavities and tumor microenvironment in in situ, transitional, and invasive areas of canine IMC, comparing findings to human IMC. Methods included histopathology; histochemistry (PAS, Alcian Blue, Oil Red) for basement membrane and secretion assessment; immunohistochemistry and immunofluorescence for myoepithelial markers (p63, ",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
       "id": "42791769",
       "title": "Comparison of Radiographic Outcomes Between TPLO + TTT and CTWO + TTT in Dogs with Concurrent Cranial Cruciate Ligament Rupture and Medial Patellar Luxation.",
       "authors": "Roh HJ, Seo J, Bae CS",
@@ -679,6 +646,39 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791713/",
       "abstract": "Aneurysmal bone cysts (ABCs) are benign but locally aggressive osteolytic lesions that are rarely reported in dogs and may progress or recur following surgical treatment. This case report describes the diagnosis, surgical management, postoperative progression, and long-term outcome of an ABC affecting the left ulna of a four-month-old Labrador Retriever. Radiography and computed tomography revealed a rapidly progressive, expansile osteolytic lesion with marked cortical thinning. Histopathologica",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42801332",
+      "title": "Effect of low dose azithromycin on the fecal microbiome and fecal bile acids in healthy dogs.",
+      "authors": "Smith C, Husnik R, Gaschen F, Kirk C, Zhu X",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42801332/",
+      "abstract": "Azithromycin has prokinetic effects at low doses in people, cats, and anecdotally, in dogs; however, antibiotics alter the fecal microbiome and metabolome. To prospectively evaluate the effects of low-dose azithromycin, hypothesizing that it would alter the fecal microbiome and fecal bile acids in healthy dogs. Eleven healthy research dogs. Prospective study. Dogs received azithromycin (2&#xa0;mg/kg PO q8h) for 8&#xa0;days. Fecal samples were collected before (day 1), during (day 6), and after a",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42801331",
+      "title": "Idiopathic cholesterol pericarditis in a dog presenting with cardiac tamponade.",
+      "authors": "Wong B, Shankar S, Sarvani E, Civello A, Payne JR",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42801331/",
+      "abstract": "A 7-year, 6-month-old, female neutered, Pug dog presented with lethargy, hyporexia, polydipsia, abdominal distension, and dyspnea. Point-of-care ultrasonography identified tricavitary effusions and cardiac tamponade. Pericardiocentesis yielded 83&#xa0;mL of sanguineous scintillating fluid. Clinical examination, bloodwork, echocardiography, electrocardiography, thoracic and abdominal computed tomography scans, and pericardial fluid analysis including culture and sensitivity did not identify any c",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42800045",
+      "title": "Long-term thyroid outcomes and survival in hyperthyroid cats treated with radioiodine: association with overt and subclinical hypothyroidism and levothyroxine treatment.",
+      "authors": "Peterson ME, Carmody S, Rishniw M",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800045/",
+      "abstract": "Long-term thyroid status and survival after radioiodine treatment of hyperthyroid cats are incompletely characterized, particularly for cats developing iatrogenic hypothyroidism. To determine long-term thyroid outcomes and survival after radioiodine treatment, and to assess associations among thyroid status, hypothyroid remission, levothyroxine treatment, and survival. One thousand three hundred forty-four hyperthyroid cats treated with radioiodine. Prospective longitudinal cohort study. Thyroid",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -792,17 +792,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42755045",
-      "title": "Ultrasonography in Canine Carpal Disorders.",
-      "authors": "Klußmann S, Meyer-Lindenberg A, Brühschwein A",
-      "journal": "Vet Radiol Ultrasound",
-      "date": "2026 Sep",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42755045/",
-      "abstract": "Ultrasonographic studies of canine carpal disorders are scarce and typically limited to case reports or evaluations of single structures. This prospective, single-center study characterized ultrasonographic findings in canine carpal disorders confirmed by a composite reference standard and clinical follow-up, and it assessed the diagnostic role of high-frequency musculoskeletal ultrasound in relation to radiography and selectively performed cross-sectional imaging. Forty-eight carpi in 41 dogs w",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42766978",
       "title": "Use of a novel integrated dilator-needle system for trans-septal puncture in three dogs undergoing left atrial decompression.",
       "authors": "Sarcinella F, Goodrich S, Glyde K, Smith S, Willis R",
@@ -833,6 +822,39 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42786467/",
       "abstract": "The zoonotic cestodes such as Taenia and Echinococcus species belonging to family taeniidae are of paramount importance in the developing world since they pose serious public health impacts. Dogs serve as definitive hosts, shedding eggs into the environment that can infect livestock and humans. To determine the occurrence of Taeniid infections in dogs, assess the risk factors and evaluate the knowledge, attitudes, and practices (KAP) of dog owners. A cross-sectional study was conducted from Sept",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42798654",
+      "title": "A neurotrophic withdrawal hypothesis for multisystem adverse events associated with anti-NGF therapy for canine osteoarthritis pain.",
+      "authors": "Federico G, Ilardi A, Elia V, Chieffi S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798654/",
+      "abstract": "Post-marketing reports in dogs treated with bedinvetmab (Librela&#x2122;, Zoetis), the first anti-nerve growth factor (NGF) monoclonal antibody approved for canine osteoarthritis pain, include musculoskeletal, autonomic, and neurological events. Existing interpretations address these domains separately or focus on the limitations of pharmacovigilance systems. Here, we propose a complementary, integrative interpretation: at least some of these events may share an on-target component arising from ",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42798635",
+      "title": "Case Report: Topical imiquimod (Aldara®) as a palliative option for extensive canine facial cutaneous melanocytoma.",
+      "authors": "Ryu H, Kang M, Cho KW, Jung DI, Bae H",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798635/",
+      "abstract": "Cutaneous melanocytic neoplasms in dogs generally present as benign lesions, unlike their oral or digital counterparts, but treatment can be challenging when complete surgical excision is restricted by anatomical location. A 5-year-old neutered male Shiba Inu was evaluated for a firm, well-circumscribed, black-pigmented nodule measuring 4&#x202f;&#xd7;&#x202f;3.8&#x202f;cm on the left facial region, with surrounding pigmented papules. Histopathological examination of punch biopsy specimens confi",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42798594",
+      "title": "Exploratory analysis of perioperative plasma histamine concentrations in dogs with mast cell tumours.",
+      "authors": "Niwa A, Kadosawa T, Sakai T",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798594/",
+      "abstract": "In this exploratory study, we investigated plasma histamine concentration as a perioperative prognostic marker in dogs with mast cell tumours. Mast cell tumours exhibit marked heterogeneity in biological behaviour, and histological grading is widely used for prognostication; however, grading alone does not directly reflect tumour burden or residual disease following surgery. Histamine has a short half-life in the circulation, and persistently elevated plasma histamine levels may reflect continuo",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1086,28 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42756254/",
       "abstract": "Epilepsy is a common neurological disorder in dogs. Autonomic manifestations are commonly recognised but poorly reported in veterinary literature. This study aimed to determine owner reported prevalence and course of autonomic signs in epileptic dogs. A survey for owners of dogs with epilepsy created with Qualtrics was circulated on Facebook between March 2025 and August 2025. There were 1,154 responses, with 704 included in statistical analysis. The overall frequency of autonomic signs was 697/",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42756077",
-      "title": "Ocular temperature measured by infrared thermography in dogs varies with biological and environmental factors.",
-      "authors": "Rostami S, Woodruff KA, McBride A, Shi J, Smith DR",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42756077/",
-      "abstract": "Non-contact temperature assessment is highly valuable for screening animal populations, but its performance can be influenced by various external and biological variables. This study aimed to quantify the association between eye temperature (ET) and rectal temperature (RT) in dogs, and to identify physiological and environmental factors associated with these readings. Field study: ET was obtained with a thermal camera up to 3 times per visit (~10-min intervals), followed by RT measurement. Eye t",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42755814",
-      "title": "Combined enrichment and pharmaceutical intervention reduces excessive arousal in shelter dogs in a randomized controlled trial.",
-      "authors": "Cisneros A, O'Hanley K, Moody CM, Stellato AC",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42755814/",
-      "abstract": "Environmental stressors in animal shelters may lead to development of excessive arousal, posing risks to adoptability and behavioral euthanasia. Recommendations regarding excessive arousal in shelter dogs include providing pharmaceuticals and enrichment. A randomized controlled trial was conducted to assess the influence of enrichment and pharmaceutical interventions on shelter dogs (N&#x202f;=&#x202f;50) displaying excessive arousal from a municipal animal shelter in Texas, United States. Data ",
-      "category": "other",
       "summary_ko": ""
     }
   ]
