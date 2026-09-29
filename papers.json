@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28 00:29 UTC",
+  "updated": "2026-09-29 01:44 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -107,6 +107,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791669/",
       "abstract": "Pastoralist communities in Karamoja maintain close, multifaceted relationships with animals from early childhood, yet little is known about how children conceptualise animal emotions and cognitive abilities. This pilot study explored these conceptions among Kasimeri Primary School students in Karamoja, Uganda, within the AICS All-In-One Project (AID 012590/04/1). A cross-sectional survey was conducted using a structured questionnaire administered to 326 students (mean age 13 &#xb1; 2 years). Dat",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42803133",
+      "title": "Tibial plateau leveling osteotomy surgical site infections: A systematic review with meta-analysis of prevalence and associated risk factors.",
+      "authors": "Bidjarano AC, Gordon-Evans W, Thomson C",
+      "journal": "Vet Surg",
+      "date": "2026 Sep 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803133/",
+      "abstract": "To determine the overall prevalence of surgical site infection (SSI) following tibial plateau leveling osteotomy (TPLO) in dogs and to evaluate associated risk factors across published studies. Systematic review with meta-analysis. Client-owned dogs that underwent TPLO as described in the published literature. A systematic review of studies reporting SSI following TPLO was conducted using PRISMA guidelines. Included studies were screened for quality, and pooled prevalence estimates were calculat",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42803121",
+      "title": "EXPRESS: Modified transcanal perendoscopic myringotomy and septotomy technique for cats with otitis media - a retrospective study of 38 cats.",
+      "authors": "Wetzels BN, Pickee E, Passon M, Den Hertog E, Ter Haar G",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Sep 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803121/",
+      "abstract": "ObjectivesThis study solely aims to describe a convenient minimally invasive technique for access to the ventromedial compartment of the middle ear in cats with polypoid or non-polypoid otitis media.MethodsPatients' records were retrospectively retrieved from cats with otic symptoms. Cats were included based on the presence of fluid/soft tissue within the tympanic cavity on CT imaging, abnormal tympanic membranes on oto-endoscopy and/or abnormal auditory tube openings upon nasopharyngoscopy.Resu",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42803120",
+      "title": "EXPRESS: Echocardiographic prevalence and attachment-site patterns of left ventricular bands in cats.",
+      "authors": "Van den Noortgate G, Zablotski Y, Wess G",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Sep 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803120/",
+      "abstract": "ObjectivesTo determine the echocardiographic prevalence and attachment-site patterns of left ventricular bands (LVBs) in cats and assess whether LVB counts differed by sex, sedation status, or echocardiographic group.MethodsIn this prospective observational study, 200 cats undergoing complete transthoracic echocardiographic examination were evaluated for the presence, number, and attachment-site patterns of LVBs. LVBs were defined as discrete intracavitary linear structures connecting two myocar",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42802545",
+      "title": "Radio-ulnar ischaemic necrosis in 14 dogs.",
+      "authors": "Clark IMT, Priestnall S, Meeson R",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42802545/",
+      "abstract": "To characterise signalment, imaging features and any associated clinical findings of dogs with a radiographic diagnosis of radio-ulnar ischaemic necrosis. Retrospective case series reviewing medical records (2010 to 2024) of dogs with imaging lesions consistent with a radio-ulnar ischaemic necrosis on computed tomography or digital radiographs. Fourteen dogs had a radiographic radio-ulnar ischaemic necrosis on at least one limb. All dogs identified were adult dogs (1 to 12&#x2009;years), with Sp",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42802502",
+      "title": "Cannabidiol in small animal practice: current evidence, clinical applications and practical recommendations for dogs and cats.",
+      "authors": "Sano T",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42802502/",
+      "abstract": "Cannabidiol has gained increasing attention in small animal practice as a potential adjunctive therapy for a variety of conditions, including osteoarthritis, epilepsy and anxiety-related disorders. This mini-review summarises current clinical evidence in dogs and cats, highlights key limitations and provides practical recommendations for clinicians. Recent studies suggest that cannabidiol may improve pain and mobility in canine osteoarthritis and reduce seizure frequency in refractory epilepsy, ",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -495,17 +550,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42759150",
-      "title": "The effectiveness of uterine wall and liver elasticity and liver enzyme ratios in understanding the etiopathology of cystic endometrial hyperplasia-pyometra complex in dogs.",
-      "authors": "Mahzunlar E, Uçmak ZG, Uğur AB, Tek Ç",
-      "journal": "Vet J",
-      "date": "2026 Sep 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42759150/",
-      "abstract": "This study aims to quantitatively evaluate the elasticity of the uterine wall and liver in dogs diagnosed with cystic endometrial hyperplasia-pyometra (CEH-P) complex and clinically healthy dogs in the luteal stage using two-dimensional shear wave elastography (2D-SWE), and to determine the relationship among the obtained elastographic parameters and clinical findings, hematological-biochemical data, Doppler ultrasonography findings expressing uterine hemodynamics, and possible prognostic indica",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
       "id": "42791785",
       "title": "Internal Fixation Using Vitcone(®) Locking-Plate System for Fractures of Radius and Ulna in Toy- and Small-Breed Dogs: A Retrospective Two-Center Clinical Study.",
       "authors": "Urizzi A, Maggiolini U, Paolini A, Collivignarelli F, Tamburro R",
@@ -649,6 +693,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42803610",
+      "title": "Current knowledge of intermittent photic stimulation for electroencephalography in dogs.",
+      "authors": "Shwarzman RJ, Ford M, Chan AMK, Gaitero L, James FMK",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803610/",
+      "abstract": "Intermittent photic stimulation is a standardized activation procedure for electroencephalography in humans that increases the detection of epileptic activity and improves diagnostic yield. However, its application in veterinary medicine remains inconsistent and methodologically heterogeneous. This narrative review synthesizes current knowledge regarding intermittent photic stimulation in dogs, critically evaluates variability in stimulus design, vigilance state, and electrode montage, and propo",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42801332",
       "title": "Effect of low dose azithromycin on the fecal microbiome and fecal bile acids in healthy dogs.",
       "authors": "Smith C, Husnik R, Gaschen F, Kirk C, Zhu X",
@@ -777,17 +832,6 @@
       "date": "2026 Sep",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42775486/",
       "abstract": "Computed tomographic (CT) evaluation of medial iliac (MILN), internal iliac (IILN), and sacral (SLN) lymph nodes (LNs) in dogs provides vital staging information in certain neoplastic conditions. This retrospective study aimed to determine minimum transverse diameter (MinTD) and maximum transverse diameter (MaxTD) values for presumed normal iliosacral LNs and assess their utility in evaluating therapeutic response using response evaluation criteria in solid tumors (RECIST) v1.1. LN margins, numb",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42757671",
-      "title": "Vertebral Vascular Canal Dysplasia in Three Brachycephalic Breeds and Its Relationship With BOAS Grade.",
-      "authors": "de Almeida Coelho M, Maddox T, Ladlow JF, Genain MA",
-      "journal": "Vet Radiol Ultrasound",
-      "date": "2026 Sep",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42757671/",
-      "abstract": "The relationship between vertebral vascular canal dilation and raised intra-abdominal and intrathoracic pressures has been observed in humans. Vertebral vascular canal dysplasia (VVCD) has recently been reported as a vertebral anomaly in brachycephalic dogs. This retrospective, single-institutional study aimed to estimate the prevalence of VVCD number and type in thoracic vertebrae of three brachycephalic breeds and a non-brachycephalic control group, and to correlate the findings with the brach",
       "category": "imaging",
       "summary_ko": ""
     },
@@ -1064,50 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42761036/",
       "abstract": "Swimmer puppy syndrome (SPS) is a rare developmental condition of unknown etiology. The syndrome is characterized by a puppy's inability to adduct the limbs, resulting in lateral limb abduction and an inability to stand or walk. In this case, an almost 4-week-old female Golden Retriever presented for early physiotherapeutic evaluation. Adduction tapes were applied to the forelimbs and hindlimbs. Additionally, the treatment area was covered with a non-slip rubber mat. Further physiotherapeutic in",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42757232",
-      "title": "Axis-dependent relationships and agreement between whole-body and limb-specific center of pressure measurements in dogs.",
-      "authors": "Lutonsky C, Affenzeller N, Wegscheider J, Aghapour M, Peham C",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42757232/",
-      "abstract": "Static posturography is widely used to assess postural stability in dogs. Considerable methodological variation exists regarding whether center of pressure (COP) parameters are derived from whole-body, forelimb-, or hindlimb-based measurements and whether values are expressed as absolute or base of support (BOS)-normalised parameters. The aims were to examine the associations between whole-body, forelimb-, and hindlimb-based COP measurements in standing dogs and to evaluate the effect of BOS nor",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42757221",
-      "title": "Hydrocolpos in a mixed-breed dog: a case report.",
-      "authors": "Leber C, Rohwedder T, Rehbein-Manchi S",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42757221/",
-      "abstract": "A 3.5-year-old, 5.2-kg mixed-breed dog was presented with persistent stranguria after being neutered due to dystocia 6 months ago. Plain abdominal radiographs revealed an intrapelvic soft-tissue attenuating mass that displaced the urinary bladder cranially and constricted the descending colon. Abdominal ultrasonography yielded inconclusive results. Computed tomography revealed the mass as a tubular, hypodense structure compressing the urethra and the descending colon. This finding was defined as",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42756892",
-      "title": "Increased detectability of Apolipoprotein E (ApoE) in cerebrospinal fluid samples of dogs with peracute and acute central nervous system lesions.",
-      "authors": "Prielipp M, Packeiser EM, Bathen-Nöthen A, Mischke R, Tipold A",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42756892/",
-      "abstract": "Apolipoprotein E (ApoE), secreted by astrocytes and microglia after neuronal injury, is involved in neuronal regeneration and modulation of inflammatory processes. Inverse associations between ApoE and the proinflammatory mediator C-reactive protein (CRP) are described in mice, but knowledge in dogs is limited. This study investigated ApoE levels in cerebrospinal fluid (CSF) from 141 dogs with central nervous system (CNS) diseases, including idiopathic epilepsy (n = 40), intervertebral disc hern",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42756254",
-      "title": "Owner reported prevalence of autonomic signs in epileptic dogs.",
-      "authors": "Skinner C, Czopowicz M, Gutierrez-Quintana R, Stalin C",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42756254/",
-      "abstract": "Epilepsy is a common neurological disorder in dogs. Autonomic manifestations are commonly recognised but poorly reported in veterinary literature. This study aimed to determine owner reported prevalence and course of autonomic signs in epileptic dogs. A survey for owners of dogs with epilepsy created with Qualtrics was circulated on Facebook between March 2025 and August 2025. There were 1,154 responses, with 704 included in statistical analysis. The overall frequency of autonomic signs was 697/",
-      "category": "neurosurgery",
       "summary_ko": ""
     }
   ]
