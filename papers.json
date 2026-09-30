@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29 01:44 UTC",
+  "updated": "2026-09-30 01:11 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -528,28 +528,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42760474",
-      "title": "Trial of erythropoietin and platelet rich plasma as adjunctive treatment in dogs with paraplegia and absent pan perception after thoracolumbar intervertebral disc extrusion and surgical decompression: A clinical pilot study.",
-      "authors": "Janzen M, Faissler D, Rozanski E, Kowaleski MP",
-      "journal": "Vet Surg",
-      "date": "2026 Sep 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42760474/",
-      "abstract": "To assess the effectiveness of adjunctive treatment with either systemic erythropoietin or local platelet rich plasma administered at the time of decompressive surgery in dogs with severe spinal cord injury (SCI). Prospective randomized study. A total of 32 client owned dogs presented for acute onset of paraplegia and loss of pain perception after a thoracolumbar disc extrusion. All dogs underwent a standard laminectomy within 24&#x2009;h after admission and were randomly assigned to one of the ",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42760277",
-      "title": "Complete surgical excision of a type V-variant dermoid sinus (V/VI overlap) associated with spina bifida in a Shiba Inu dog: A case report.",
-      "authors": "Jeong JE, Kim SY, Kim JI",
-      "journal": "Vet Surg",
-      "date": "2026 Sep 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42760277/",
-      "abstract": "To describe the clinical, imaging, surgical, and histopathologic features of a type V/VI overlap dermoid sinus (DS), and highlight diagnostic and therapeutic considerations. Case report. A 16-month-old spayed female Shiba Inu dog. The Shiba Inu initially presented at 4&#x2009;months of age with a dorsal thoracic hair tuft. Radiography and ultrasonography suggested a DS; contrast-enhanced computed tomography (CT) and magnetic resonance imaging (MRI) were declined. The dog presented 12&#x2009;mont",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42791785",
       "title": "Internal Fixation Using Vitcone(®) Locking-Plate System for Fractures of Radius and Ulna in Toy- and Small-Breed Dogs: A Retrospective Two-Center Clinical Study.",
       "authors": "Urizzi A, Maggiolini U, Paolini A, Collivignarelli F, Tamburro R",
@@ -690,6 +668,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791713/",
       "abstract": "Aneurysmal bone cysts (ABCs) are benign but locally aggressive osteolytic lesions that are rarely reported in dogs and may progress or recur following surgical treatment. This case report describes the diagnosis, surgical management, postoperative progression, and long-term outcome of an ABC affecting the left ulna of a four-month-old Labrador Retriever. Radiography and computed tomography revealed a rapidly progressive, expansile osteolytic lesion with marked cortical thinning. Histopathologica",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42806282",
+      "title": "The relationship between urinalysis abnormalities, soiling behavior, and cognitive decline in aging dogs.",
+      "authors": "Rafatpanah Baigi S, Yang CC, Mondino A, Fefer G, Panek WK",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42806282/",
+      "abstract": "In elderly people, dementia and urinary tract dysfunction often exacerbate one another. Aging dogs also suffer cognitive decline but the relationship between cognitive decline, soiling behaviors, and urinalysis abnormalities has not been explored. Soiling behavior is associated with urinalysis abnormalities and cognitive performance in aging dogs. Eighty-four client-owned dogs enrolled in a longitudinal cohort study of aging. In this prospective observational study, dogs were evaluated biannuall",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -847,17 +836,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42760156",
-      "title": "Predominant mitral valve morphology in dogs at different stages of myxomatous mitral valve disease: toward a standardized nomenclature.",
-      "authors": "Bentley A, Fries RC, Kadotani S, Toborowsky C, Javery EA",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Aug 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42760156/",
-      "abstract": "Myxomatous mitral valve disease (MMVD) is the most common heart disease in dogs. Echocardiographic markers of cardiac remodeling are used to assess disease severity, but morphological features of the mitral valve are not systematically considered. Conversely, standardized morphological classification schemes are established in human cardiology and are integral to prognosis and therapeutic planning. Our objective was to adapt and apply a mitral valve morphological classification scheme to canine ",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
       "id": "42786467",
       "title": "Taeniid infection in dogs: a coprological and knowledge, attitude and practices study in Gondar and Bahir Dar cities, Ethiopia.",
       "authors": "Yayeh M, Birhan M, Ayalew A, Menigstu A",
@@ -866,6 +844,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42786467/",
       "abstract": "The zoonotic cestodes such as Taenia and Echinococcus species belonging to family taeniidae are of paramount importance in the developing world since they pose serious public health impacts. Dogs serve as definitive hosts, shedding eggs into the environment that can infect livestock and humans. To determine the occurrence of Taeniid infections in dogs, assess the risk factors and evaluate the knowledge, attitudes, and practices (KAP) of dog owners. A cross-sectional study was conducted from Sept",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42807956",
+      "title": "Diagnostic performance of Vcheck NT-proBNP and cardiac troponin I assays for detection of dilated cardiomyopathy in Doberman Pinschers.",
+      "authors": "Driessen H, Friederich J, Wess G",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42807956/",
+      "abstract": "Dilated cardiomyopathy (DCM) is a common hereditary cardiac disease in Doberman Pinschers. Early myocardial changes can be detected using cardiac biomarkers such as N-terminal pro-B-type natriuretic peptide (NT-proBNP) and cardiac troponin I (cTnI). The Vcheck V200 (Bionote) is a point-of-care immunofluorescence-based assay for in-clinic measurement of these markers. To evaluate the diagnostic performance of NT-proBNP and cTnI measured with the Vcheck V200 point-of-care assays for detecting diff",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42807202",
+      "title": "Machine-driven vs. manual nickel-titanium instrumentation of canine teeth in dogs: a high resolution micro-CT evaluation of canal geometry and obturation quality.",
+      "authors": "Wunderl J, Eberspächer-Schweda M, Handschuh S, Tichy A, Schnabl-Feichter E",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42807202/",
+      "abstract": "Root canal treatment in canine teeth of dogs represents a technically demanding procedure due to complex root canal anatomy and large canal dimensions. The present study aimed to compare different endodontic instrumentation techniques and to evaluate their effects on canal geometry, obturation quality, and procedural safety using high-resolution micro-computed tomography (micro-CT). In addition, the diagnostic value of cone-beam computed tomography (CBCT) in the assessment of postoperative findi",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
