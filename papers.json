@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30 01:11 UTC",
+  "updated": "2026-10-01 01:11 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -107,6 +107,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791669/",
       "abstract": "Pastoralist communities in Karamoja maintain close, multifaceted relationships with animals from early childhood, yet little is known about how children conceptualise animal emotions and cognitive abilities. This pilot study explored these conceptions among Kasimeri Primary School students in Karamoja, Uganda, within the AICS All-In-One Project (AID 012590/04/1). A cross-sectional survey was conducted using a structured questionnaire administered to 326 students (mean age 13 &#xb1; 2 years). Dat",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42813598",
+      "title": "Veterinary point-of-care ultrasound probe orientation and location for detection of pleural effusion in canine cadavers: a pilot study.",
+      "authors": "Di Franco C, Menard J, Romero A, Chalhoub S, Madden V",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Sep 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42813598/",
+      "abstract": "To evaluate whether point-of-care ultrasound probe location (at or below the costochondral junction) and probe orientation (perpendicular or parallel to the ribs) affect operator ability to detect pleural effusion in a canine cadaver model. Twelve intubated canine cadavers with scant to large volume pleural effusion were scanned in sternal recumbency while receiving positive pressure ventilation. Twelve operators (2 emergency and critical care specialists, 2 veterinary students and 8 interns) pe",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -473,17 +484,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42760893",
-      "title": "Higher early radiographic bone healing scores with popliteus muscle preservation during tibial plateau levelling osteotomy in dogs.",
-      "authors": "Sassaroli S, Salvaggio A, Roggiolani F, Fordellone M, Ciabocco F",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Sep 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42760893/",
-      "abstract": "To compare early radiographic bone healing 45&#x2009;days after tibial plateau levelling osteotomy performed with popliteus muscle detachment versus a modified technique preserving the muscle and to determine whether muscle preservation influences post-operative osteotomy stability through measurement of rock-back. In this prospective, blinded, randomised clinical study (2022 to 2025), 100 client-owned dogs with unilateral cranial cruciate ligament rupture were allocated to traditional surgery (",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42791797",
       "title": "Serum Bile Acid Concentrations in Dogs with Exocrine Pancreatic Insufficiency.",
       "authors": "Steiner JM, Humbert L, Rainteau D, Blake AB, Carrière F",
@@ -671,6 +671,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42814655",
+      "title": "Melioidosis in dogs and cats: 18 cases.",
+      "authors": "Lim ZS, Soon K, Neo N, Labrador J, Kelly D",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42814655/",
+      "abstract": "The clinical manifestations and outcomes in dogs and cats with melioidosis have not been described. Describe the presenting signs, treatment, and outcome of dogs and cats with melioidosis. Fifteen dogs and 3 cats from a hospital in Singapore. Retrospective case series. A hospital database search was performed to identify dogs with melioidosis presenting over a 5-year period. Data collected included signalment, clinical signs, test results, treatment, and outcome. Diagnosis was based on positive ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42806282",
       "title": "The relationship between urinalysis abnormalities, soiling behavior, and cognitive decline in aging dogs.",
       "authors": "Rafatpanah Baigi S, Yang CC, Mondino A, Fefer G, Panek WK",
@@ -844,6 +855,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42786467/",
       "abstract": "The zoonotic cestodes such as Taenia and Echinococcus species belonging to family taeniidae are of paramount importance in the developing world since they pose serious public health impacts. Dogs serve as definitive hosts, shedding eggs into the environment that can infect livestock and humans. To determine the occurrence of Taeniid infections in dogs, assess the risk factors and evaluate the knowledge, attitudes, and practices (KAP) of dog owners. A cross-sectional study was conducted from Sept",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42813026",
+      "title": "Correction: Comparison of analgesic efficacy between intrafunicular and intratesticular lidocaine injection in dogs.",
+      "authors": "Frontiers Production Office",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42813026/",
+      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1753113.].",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42812987",
+      "title": "Correction: Templated tibial plateau leveling osteotomy and implant guidance system improves accuracy in novice surgeons: an ex vivo study.",
+      "authors": "Wyatt TJ, Lynch AC, Miniter B",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42812987/",
+      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1729787.].",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1075,39 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42761127/",
       "abstract": "Transforming Growth Factor-&#x3b2; (TGF-&#x3b2;) has been implicated for its role in fibrosis and progression of chronic kidney disease (CKD) in both humans and rodents. Additionally, CKD is a common and progressive condition in canines, with striking pathological similarities to human disease. However, targeted therapies addressing fibrogenic mediators in dogs remain underexplored. We investigated the role of all three TGF-&#x3b2; isoforms (TGF-&#x3b2;1, TGF-&#x3b2;2, and TGF-&#x3b2;3) in CKD a",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42761122",
-      "title": "Molecular detection of Leishmania spp. in feline squamous cell carcinoma in Portugal.",
-      "authors": "Oliveira C, Santos J, Valença A, Catarino J, Ramilo D",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42761122/",
-      "abstract": "Cutaneous manifestations of feline leishmaniosis may occur at anatomical sites commonly affected by squamous cell carcinoma (SCC), creating potential diagnostic overlap. Although concurrent Leishmania infection and SCC have been described in individual cats, the presence of parasite DNA in feline SCC tissue has not been systematically investigated. This retrospective cross-sectional study evaluated 219 formalin-fixed, paraffin-embedded feline SCC samples submitted to a veterinary diagnostic labo",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42761083",
-      "title": "Effects of recumbency and tube current on image quality of canine elbow computed tomography.",
-      "authors": "Bellekom SR, Dekkers M, Beukers M",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42761083/",
-      "abstract": "Elbow dysplasia is a leading cause of forelimb lameness in medium- to large-breed dogs, and computed tomography (CT) is the imaging modality of choice for assessment of the medial coronoid process. Image quality depends on patient positioning and tube current, but their effects have not been systematically compared. To compare the image quality of two canine elbow CT positioning protocols (dorsal recumbency: head in neutral position, both elbows scanned together vs. lateral recumbency: head/neck",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42761036",
-      "title": "Rapid functional recovery in a Golden Retriever puppy with swimmer puppy syndrome following early conservative management including loose-loop technique: a case report.",
-      "authors": "Kroker L",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42761036/",
-      "abstract": "Swimmer puppy syndrome (SPS) is a rare developmental condition of unknown etiology. The syndrome is characterized by a puppy's inability to adduct the limbs, resulting in lateral limb abduction and an inability to stand or walk. In this case, an almost 4-week-old female Golden Retriever presented for early physiotherapeutic evaluation. Adduction tapes were applied to the forelimbs and hindlimbs. Additionally, the treatment area was covered with a non-slip rubber mat. Further physiotherapeutic in",
-      "category": "other",
       "summary_ko": ""
     }
   ]
