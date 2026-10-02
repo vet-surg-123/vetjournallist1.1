@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01 01:11 UTC",
+  "updated": "2026-10-02 01:30 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -107,6 +107,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791669/",
       "abstract": "Pastoralist communities in Karamoja maintain close, multifaceted relationships with animals from early childhood, yet little is known about how children conceptualise animal emotions and cognitive abilities. This pilot study explored these conceptions among Kasimeri Primary School students in Karamoja, Uganda, within the AICS All-In-One Project (AID 012590/04/1). A cross-sectional survey was conducted using a structured questionnaire administered to 326 students (mean age 13 &#xb1; 2 years). Dat",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42815535",
+      "title": "Progressive regurgitation and sialorrhea in a 6-year-old mixed-breed dog.",
+      "authors": "Lucioli J, Stefen FBL, Evangelista CM, Cristóvão WF, Traverso SD",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42815535/",
+      "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42815534",
+      "title": "Computed tomography perfusion parameters may aid preoperative differentiation of canine pheochromocytomas from adrenocortical tumors.",
+      "authors": "Iida K, Ishigaki K, Ishikawa C, Shiozawa N, Kinpara M",
+      "journal": "Am J Vet Res",
+      "date": "2026 Sep 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42815534/",
+      "abstract": "To characterize CT perfusion (CTP)-derived time to highest observed adrenal tissue enhancement (T-peak) and arterial blood flow (AF), evaluate associations with triple-phase CT findings, and assess the diagnostic performance of T-peak, AF, and the tumor-to-contralateral adrenal AF ratio for differentiating pheochromocytomas from adrenocortical tumors. Historical CTP data from 5 healthy Beagles served as controls. Client-owned dogs evaluated from November 21, 2024, through May 31, 2026, underwent",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42815528",
+      "title": "Portable blood glucose meters do not reliably detect hypoglycemia in ferrets (Mustela putorius furo) compared with a point-of-care chemistry analyzer.",
+      "authors": "Rollins K, Rishniw M, Donnelly TM, Kopp L",
+      "journal": "Am J Vet Res",
+      "date": "2026 Sep 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42815528/",
+      "abstract": "To compare blood glucose concentrations measured by a veterinary portable blood glucose meter (v-PBGM; AlphaTrak3; Zoetis Inc), a human portable blood glucose meter (h-PBGM; FreeStyle Precision Neo; Abbott Diabetes Care), and a point-of-care chemistry analyzer (reference analyzer; VetScan VS2; Zoetis Inc) in client-owned ferrets. Residual heparinized jugular venous blood samples from ferrets undergoing unrelated veterinary evaluations were analyzed from June 2025 through April 2026 within 10 min",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42815526",
+      "title": "Is 28 days of doxycycline still justified for canine Lyme arthropathy? A call for a randomized controlled trial.",
+      "authors": "Emdin F, Daneman N, Weese JS",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Sep 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42815526/",
+      "abstract": "Canine Lyme borreliosis is commonly treated with a 28-day course of doxycycline, a regimen based on historical precedent rather than evidence. Most dogs exposed to Borrelia burgdorferi remain clinically normal despite seroconversion; of those that do develop clinical Lyme disease, the most common presentation is acute or recurrent shifting-leg lameness consistent with Lyme arthropathy. This Viewpoint proposes there is clinical equipoise to evaluate shorter durations of 10 days of doxycycline in ",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -473,17 +517,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42763011",
-      "title": "Ultrasonographic detection of joint lesions in canine leishmaniasis caused by Leishmania infantum.",
-      "authors": "Oliveira PV, Muramoto C, da Costa CF, Estrela-Lima A, da Luz TC",
-      "journal": "Vet J",
-      "date": "2026 Sep 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42763011/",
-      "abstract": "Canine leishmaniasis (CanL), caused by Leishmania infantum, is a multisystemic disease with substantial musculoskeletal involvement. We aimed to assess the usefulness of USG in diagnosing joint abnormalities in dogs with CanL using a clinical approach. Forty-three L. infantum PCR-positive dogs underwent comparative orthopedic physical examination and joint USG; 20 (20/43) also underwent radiography. Tarsal joints were systematically imaged, whereas other joints were imaged if they showed orthope",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42791797",
       "title": "Serum Bile Acid Concentrations in Dogs with Exocrine Pancreatic Insufficiency.",
       "authors": "Steiner JM, Humbert L, Rainteau D, Blake AB, Carrière F",
@@ -492,39 +525,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791797/",
       "abstract": "Exocrine pancreatic insufficiency (EPI) is a chronic gastrointestinal disease in dogs that is caused by the insufficient synthesis and secretion of pancreatic digestive enzymes by the exocrine pancreas. Previous studies have described intestinal dysbiosis in dogs with EPI and dysbiosis is often associated with bile acid dysmetabolism. This study aimed to measure the concentration of a variety of bile acids in the serum of dogs with EPI. Serum was collected from 50 dogs with a serum canine trypsi",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42762832",
-      "title": "Escherichia coli isolated from canine pyometra show decreased susceptibility to amoxicillin-clavulanic acid in dogs.",
-      "authors": "Fautz Z, Amato N, Windsor R",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Sep 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762832/",
-      "abstract": "To describe bacterial culture results and antimicrobial susceptibility patterns for dogs undergoing surgical treatment for pyometra. This retrospective study included dogs that underwent ovariohysterectomy at referral hospitals and had a positive bacterial culture of uterine fluid or histopathologic changes consistent with pyometra between January 2020 and December 2024. Data collected from medical records included clinical signs on presentation, hematological and biochemical abnormalities, aero",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42762828",
-      "title": "Surgical site infections in canine tibial plateau leveling osteotomy: a systematic review and meta-analysis.",
-      "authors": "Hansen GC, Todhunter RJ, Welbaum SR, Rassnick KM, Janzen MA",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Sep 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762828/",
-      "abstract": "Surgical site infections (SSIs) following canine tibial plateau leveling osteotomy (TPLO) represent a significant clinical concern. A universal estimate of SSI incidence and identification of predisposing factors can guide preventive strategies. This systematic review and meta-analysis was reported according to the Preferred Reporting Items for Systematic Review and Meta-Analysis (ie, PRISMA) guidelines. Studies reporting outcomes of TPLO procedures published between January 2000 and August 2024",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42762824",
-      "title": "Eight-week postoperative tibial plateau leveling osteotomy radiographs do not change the prescribed management plan for most dogs.",
-      "authors": "Hancock CL, Frederick SW, Israel SK",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Sep 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762824/",
-      "abstract": "To determine how frequently routine 8-week tibial plateau leveling osteotomy (TPLO) radiographs resulted in a change to the prescribed postoperative management plan when evaluated by surgery residents versus senior clinicians, and how often the resident and senior clinician plans differed. In this prospective interobserver agreement study, dogs that presented for a routine 8-week TPLO evaluation at a single veterinary referral hospital between October 2024 and July 2025 were eligible for enrollm",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -671,6 +671,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42815455",
+      "title": "Clinical and molecular genetic description of a Marfan-like syndrome in a Golden Retriever puppy.",
+      "authors": "Lennertz HT, McClosky ME, Fuentes MDM, Niggel JK, Casal ML",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42815455/",
+      "abstract": "Marfan syndrome (MFS) is a genetic fibrillin disorder causing cardiac, ocular, and musculoskeletal pathology; it is not well reported on in dogs, with minimal descriptions of antemortem diagnosis. Use whole-genome sequencing (WGS) to diagnose a dog with suspected MFS to guide prognostication and potential treatment. A client-owned, 10-month-old Golden Retriever presented with signs of possible connective tissue disorder. Blood and DNA samples from a non-affected German Shepherd-Beagle mix and 16",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42814655",
       "title": "Melioidosis in dogs and cats: 18 cases.",
       "authors": "Lim ZS, Soon K, Neo N, Labrador J, Kelly D",
@@ -770,39 +781,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42765741",
-      "title": "Electroencephalography-functional magnetic resonance imaging using a familial temporal lobe epilepsy model in cats: an exploratory methodological pilot study.",
-      "authors": "Miura T, Asada R, Hasegawa D",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42765741/",
-      "abstract": "Reliable methods for identifying the epileptogenic zone (EZ) in veterinary medicine remain limited. Although intracranial electroencephalography (EEG) is considered the most dependable approach for EZ localization, noninvasive simultaneous EEG and functional magnetic resonance imaging (EEG-fMRI) has been applied in human medicine as an alternative. Develop and evaluate EEG-fMRI methodology for clinical application in veterinary medicine and evaluate the methodological feasibility of EEG-fMRI usi",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42765739",
-      "title": "Transforming growth factor-β in kidney disease in dogs and cats: a review of the evidence of its role in renal fibrosis.",
-      "authors": "Cianciolo RE, Elliott J, Nabity MB, Foster JD, Ammons DT",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42765739/",
-      "abstract": "A growing body of literature implicates the transforming growth factor (TGF)-&#x3b2; pathway in the progression of chronic kidney disease (CKD) in dogs and cats by promoting renal fibrosis. In rodents and humans, TGF-&#x3b2; is a key player in development of glomerulosclerosis and renal interstitial fibrosis. The pathway is also immunomodulatory, underscoring the complexity of its downstream effects. Recently, evidence for the role of TGF-&#x3b2; in small animal CKD has been presented using mult",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42765737",
-      "title": "Response to: citation clarification regarding feline eltrombopag in the ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
-      "authors": "LeVine DN, Goggs R, Kohn B, Mackin AJ, Kidd L",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42765737/",
-      "abstract": "",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42775493",
       "title": "Non-Irradiation-Related Complications in Cats Undergoing Radiation Therapy: A Single-Institution Retrospective Study of 167 Cats (2002-2025).",
       "authors": "Sylvester SR, Gieger TL",
@@ -836,6 +814,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42816882",
+      "title": "Brachyspira hyodysenteriae detected in a dog with acute haemorrhagic diarrhoea: a case report.",
+      "authors": "Jeong H, Ahn H, Cheon DS, Oh Y, Yoon WK",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42816882/",
+      "abstract": "Brachyspira hyodysenteriae is a well-known pathogen of swine dysentery, a severe mucohaemorrhagic colitis in pigs. While several Brachyspira species are reported in dogs, natural Brachyspira hyodysenteriae detection in dogs is extremely rare. This case report aims to provide insight into the pathogenic potential and clinical significance of Brachyspira hyodysenteriae in dogs. A 5-year-old male mongrel dog was presented with acute haemorrhagic diarrhoea shortly after being adopted from a shelter,",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42766978",
       "title": "Use of a novel integrated dilator-needle system for trans-septal puncture in three dogs undergoing left atrial decompression.",
       "authors": "Sarcinella F, Goodrich S, Glyde K, Smith S, Willis R",
@@ -855,6 +844,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42786467/",
       "abstract": "The zoonotic cestodes such as Taenia and Echinococcus species belonging to family taeniidae are of paramount importance in the developing world since they pose serious public health impacts. Dogs serve as definitive hosts, shedding eggs into the environment that can infect livestock and humans. To determine the occurrence of Taeniid infections in dogs, assess the risk factors and evaluate the knowledge, attitudes, and practices (KAP) of dog owners. A cross-sectional study was conducted from Sept",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42819399",
+      "title": "Adaptation and validation of the Wylie cephalometric analysis for three-dimensional assessment of canine occlusion in Labrador retrievers.",
+      "authors": "Kudrna KE, Tu TH, Hetzel SJ, Soukup JW",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42819399/",
+      "abstract": "In veterinary medicine, we lack a quantitative method for assessment and classification of occlusion. Current systems of occlusion classification are subjective, limiting the ability for precise treatment planning. A medical record search identified 146 head CTs from Labrador Retrievers from 2007-2022. 3D computer models of skulls were created from DICOM files. Thirty standardized anatomic landmarks were placed on each model to perform cephalometric analysis. A cohort of 96 dogs was used to esta",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42819057",
+      "title": "From antidote to multimodal adjunct: a systematic review of N-acetylcysteine in dogs and cats.",
+      "authors": "Tóth ZT, Tarpataki NK, Nemes-Terényi M, Jerzsele Á, Kerek Á",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42819057/",
+      "abstract": "N-acetylcysteine (NAC) is used in small-animal medicine as an antidote, mucolytic, thiol donor, and cytoprotective adjunct, yet its evidentiary basis varies markedly among indications and between dogs and cats. We systematically evaluated species-specific pharmacokinetic, clinical, experimental, and in vitro evidence to distinguish established uses from extrapolated practice. A 104-record legacy evidence library was re-screened, and an update search of PubMed/MEDLINE, Europe PMC, Crossref-resolv",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42818700",
+      "title": "Effectiveness of a mesotherapy protocol vs. an epidural injection of platelet-rich plasma or methylprednisolone in degenerative lumbosacral stenosis in dogs - a retrospective study.",
+      "authors": "Reis T, Alves JC",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818700/",
+      "abstract": "This study aimed to compare the effectiveness of an intradermal mesotherapy protocol, an intra-articular injection of platelet-rich plasma (PRP), and an epidural injection of methylprednisolone in managing degenerative lumbosacral stenosis in dogs. Retrospective study. 55 dogs. The animals were divided into three treatment groups: a mesotherapy group (MG, n = 30) treated with a combination of lidocaine, dexamethasone, and midazolam; a PRP group (PRPG, n = 15) treated with epidural PRP; and a met",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42818666",
+      "title": "Why incorporating benazepril into a renal diet may improve treatment efficiency and compliance in cats with chronic kidney disease.",
+      "authors": "Bidaud A, Tardiveau J, Couronné A, Pellet T, Batard A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818666/",
+      "abstract": "Treating cats with chronic kidney disease generally requires daily administration of an antiproteinuric drug, which can impact medication compliance with medical outcomes as well as negative implications for the wellbeing of the cat and the owner. In addition, for a given daily dose, benazepril is more effective when administered several times a day but this could increase non compliance. It was therefore conceived to incorporate benazepril into a highly palatable diet for cats with chronic kidn",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -1075,39 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42774971/",
       "abstract": "Animal cancer registries (ACRs) monitor companion animal tumors, providing essential data for comparative oncology. Sharing domestic environments and possessing compressed lifespans, dogs serve as \"One Health\" environmental sentinels. This study aimed to provide a descriptive analysis of canine neoplasms recorded in the ACR of the Lazio Region (central Italy) over 15-year period (2009-2023) and generate a survey-adjusted crude incidence estimate. Primary tumors were standardized using Vet-ICD-O-",
       "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42761832",
-      "title": "Phenotypic characterisation, quality of life and prevalence of idiopathic epilepsy and epilepsy of unknown cause in the nine Dutch dog breeds.",
-      "authors": "Rolink T, van Rooijen A, Diaz Espineira M, Broeckx B, Bhatti SFM",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42761832/",
-      "abstract": "Canine epilepsy is a common and complex neurological disease that occurs in almost all dogs. In the Netherlands, there are nine pedigree dog breeds, and all of them have numerous small populations, with moderate to high inbreeding coefficients. The goal of this study is to characterise epilepsy within these breeds and to estimate the prevalence for each of these nine breeds: Dutch Partridge dog, three variants of the Dutch Shepherd, Dutch Smoushound, Kooiker dog, Markiesje dog, Saarloos Wolfdog,",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42761244",
-      "title": "Pilot study demonstrating safety and efficacy of intravenous allogeneic uterine-derived mesenchymal stromal cell therapy in cats with naturally occurring osteoarthritis.",
-      "authors": "Williams V, Mick L, Windsor R, Parrish RS, Thompson CM",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42761244/",
-      "abstract": "The objective of this study was to evaluate the tolerability and efficacy at 3 months of intravenous (IV) allogeneic uterine-derived mesenchymal stromal cells (UMSCs) for osteoarthritis (OA) in client-owned cats. This was a randomized, masked, placebo-controlled pilot study conducted across six veterinary clinics. Thirty-five client-owned cats with naturally occurring OA were randomly assigned to receive two intravenous injections, given 14 days apart, of one of three treatments: 5 million (5M) ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42761127",
-      "title": "Cirevetmab, a novel canine anti-TGFβ monoclonal antibody, exerts antifibrotic effects on renal cells in vitro.",
-      "authors": "Kappenman DL, Koehler CL, Prentice RN, Koziar N, Beardow A",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42761127/",
-      "abstract": "Transforming Growth Factor-&#x3b2; (TGF-&#x3b2;) has been implicated for its role in fibrosis and progression of chronic kidney disease (CKD) in both humans and rodents. Additionally, CKD is a common and progressive condition in canines, with striking pathological similarities to human disease. However, targeted therapies addressing fibrogenic mediators in dogs remain underexplored. We investigated the role of all three TGF-&#x3b2; isoforms (TGF-&#x3b2;1, TGF-&#x3b2;2, and TGF-&#x3b2;3) in CKD a",
-      "category": "internal",
       "summary_ko": ""
     }
   ]
