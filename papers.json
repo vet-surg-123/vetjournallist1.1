@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03 01:02 UTC",
+  "updated": "2026-10-04 00:27 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -385,17 +385,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42770669",
-      "title": "Staged caval occlusion enabling en bloc right divisional hepatectomy in two dogs with hepatocellular carcinoma.",
-      "authors": "Ishigaki K, Asano K",
-      "journal": "Vet Surg",
-      "date": "2026 Sep 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42770669/",
-      "abstract": "To describe staged pre-renal caudal vena cava (CVC) occlusion before en bloc right divisional hepatectomy with segmental caval resection in two dogs with right divisional hepatocellular carcinoma (HCC) involving the CVC. Two client-owned, 11-year-old neutered male dogs (Siberian Husky and Shih Tzu). Short case series. Dog 1 (Siberian Husky) had prior hemoperitoneum and biopsy-confirmed HCC; dog 2 (Shih Tzu) had persistent liver enzyme elevations and a suspected hepatic tumor. Computed tomography",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42791823",
       "title": "Comparison of Ultrasonographic, Radiographic, Computed Tomographic, and Ex Vivo Measurements of Feline Femoral Trochlear Groove Depth.",
       "authors": "Silva GPD, Carneiro RK, Mattos MPLDS, Filho FTDA, Brose MM",
@@ -415,17 +404,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42778916/",
       "abstract": "Starting a career in veterinary medicine represents a major life transition, accompanied by substantial professional and personal challenges. The study aimed to assess job satisfaction, psychosocial demands, and working conditions of veterinarians during their first year in their profession, and to identify the factors associated with commitment and job satisfaction. Early-career veterinarians in Germany, Austria, and Switzerland were surveyed using an online questionnaire that included the Cope",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42773435",
-      "title": "Evaluation of urinary biomarkers for detection of renal tubular injury in Vipera berus-envenomated and critically ill dogs with and without clinically apparent acute kidney injury.",
-      "authors": "Selin AK, Lilliehöök I, Strage EM, Larsson A, Pelander L",
-      "journal": "BMC Vet Res",
-      "date": "2026 Sep 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42773435/",
-      "abstract": "Acute kidney injury (AKI) in dogs has high mortality and early diagnosis is essential, but traditional markers are not sensitive enough to detect renal injury in the absence of decreased glomerular filtration rate. The objective of this study was to compare urinary cystatin C (uCysC), N-acetyl-&#x3b2;-D-glucosaminidase (uNAG), and glucose (uGlu) among dogs hospitalised because of envenomation by Vipera berus (EVB) or admitted for intensive care without (IC) or with (AKIAPP) clinically apparent A",
-      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -704,47 +682,91 @@
       "summary_ko": ""
     },
     {
-      "id": "42772022",
-      "title": "Cone reconstruction for severe tricuspid valve dysplasia in a dog.",
-      "authors": "Aoki T, Ueshima A, Iwasaki K, Shimoda H, Fukamachi N",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42772022/",
-      "abstract": "Tricuspid valve dysplasia (TVD) is a congenital cardiac malformation in dogs characterized by abnormal tricuspid valve morphology, leaflet tethering, impaired leaflet coaptation, and right atrial and ventricular remodelling. This report describes cone reconstruction for severe TVD in a dog. A three-year-and-10-month-old female Labrador retriever presented with a grade IV/VI systolic murmur and exercise intolerance. Echocardiography revealed severe tricuspid regurgitation, a right atrial-to-left ",
+      "id": "42827366",
+      "title": "EXPRESS: Evaluation of Left Atrial Reservoir Strain by Two-Dimensional Speckle-Tracking Echocardiography in Cats with Stage B1 Hypertrophic Cardiomyopathy.",
+      "authors": "Algan D, Varlik T, Bach MBT, Gleerup CH, Yilmaz Z",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Oct 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42827366/",
+      "abstract": "Left atrial reservoir strain (LA S_R), assessed by two-dimensional speckle-tracking echocardiography (2D-STE), reflects left atrial (LA) function and may reveal subtle alterations in LA mechanics in cats with American College of Veterinary Internal Medicine (ACVIM) stage B1 hypertrophic cardiomyopathy (HCM) compared with healthy cats. This study aimed to determine whether LA S_R differs between cats with HCM (stage B1) and healthy cats using 2D-STE. Sixty-one client-owned cats were retrospective",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42826836",
+      "title": "Efficacy and Safety of Relfovetmab Administered Every Three Months for the Treatment of Pain Associated with Osteoarthritis in Client-Owned Cats.",
+      "authors": "Becskei C, Cheritel H, Taneja G, Hummel BD, Werts A",
+      "journal": "Vet J",
+      "date": "2026 Oct 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826836/",
+      "abstract": "Relfovetmab, a felinized anti-nerve growth factor monoclonal antibody, was evaluated for the control of osteoarthritis-(OA) related pain in a prospective, randomized, multicenter, placebo-controlled, double-masked, parallel-group field trial in 307 client-owned cats (median age, 11.0 years) with OA. Cats were randomized (1:1) to relfovetmab (0.5-1.25mg/kg; n = 153;) or placebo (saline, n = 154), administered subcutaneously (SC) every three months for three doses. Day 90 treatment success (Client",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42826835",
+      "title": "Propofol total intravenous anaesthesia carbon footprint compared to inhalational anaesthesia in small animals undergoing lung lobectomy.",
+      "authors": "Todd H, Nixon R, Ward R, Blacklock KLB",
+      "journal": "Vet J",
+      "date": "2026 Oct 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826835/",
+      "abstract": "Climate change poses an increasing threat to both human and animal health. The provision of both human and animal healthcare is associated with high carbon emissions, and the use of volatile anaesthetic agents has been demonstrated to be particularly carbon intensive. In human healthcare, the use of total intravenous anaesthesia (TIVA) has been demonstrated to generate less carbon emissions than inhalational anaesthetic techniques; however, this has not been assessed in the veterinary context. T",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42826750",
+      "title": "Dogs and cats undergoing surgery for penetrating thoracic trauma have high survival despite frequent complications, and imaging may underestimate injury severity.",
+      "authors": "Pathak N, Lozano B, Wang YW, Berns C, Ahn R",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826750/",
+      "abstract": "To describe clinical and radiographic findings in dogs and cats with surgically confirmed penetrating thoracic trauma and evaluate associations with outcomes. This retrospective, multicenter observational study reviewed records from 5 referral hospitals to identify dogs and cats with surgically confirmed penetrating thoracic trauma between July 1, 2010, and July 31, 2025. Inclusion required thoracic radiographs, surgical reports, and perioperative records. A total of 86 dogs and 5 cats were iden",
       "category": "orthopedics",
       "summary_ko": ""
     },
     {
-      "id": "42775493",
-      "title": "Non-Irradiation-Related Complications in Cats Undergoing Radiation Therapy: A Single-Institution Retrospective Study of 167 Cats (2002-2025).",
-      "authors": "Sylvester SR, Gieger TL",
-      "journal": "Vet Radiol Ultrasound",
-      "date": "2026 Sep",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42775493/",
-      "abstract": "The incidence of non-irradiation-related complications in cats receiving radiotherapy has not been previously reported. Medical records of 167 cats treated with radiotherapy under general anesthesia at a single institution (2002-2025) were reviewed. Head/neck tumors were most common (n&#xa0;=&#xa0;119). Ninety-two cats (55%) received short-course radiotherapy (1-8 fractions, median 4), and 75 cats (45%) received longer course radiotherapy (10-19 fractions, median 16). Median treatment duration s",
+      "id": "42826748",
+      "title": "How can veterinary personnel recognize and protect themselves from domestic cats infected with highly pathogenic avian influenza A(H5N1) viruses?",
+      "authors": "Durand LO, Olsen SJ, Wendling NM, Uyeki TM, Mirabito G",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826748/",
+      "abstract": "Highly pathogenic avian influenza A(H5N1) viruses circulate globally in wild birds, causing poultry outbreaks and spillover infections in mammals and sporadic human infections. Recent detections in domestic cats highlight occupational risks for veterinarians handling cats in areas where A(H5N1) virus is circulating. Although the potential risk for cat-to-human A(H5N1) virus-transmission is currently low, vigilance is warranted. Veterinarians can use published recommendations to evaluate exposure",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42826746",
+      "title": "Most cats with a spinal fracture or luxation recover locomotion within 8 weeks of surgery.",
+      "authors": "Severac L, Piot C, Gibert S, Sériot P, Griffeuille E",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826746/",
+      "abstract": "To evaluate the surgical management of feline vertebral fractures and luxations, with emphasis on neurological recovery. Cats that underwent surgical management of vertebral fractures and luxations, without prior neurological disease, were retrospectively enrolled in this observational study from March 1, 2012, to December 31, 2024. Collected data included signalment, vertebral injury characterization, surgical technique, postoperative reduction, modified Frankel score, and urinary incontinence ",
       "category": "neurosurgery",
       "summary_ko": ""
     },
     {
-      "id": "42775490",
-      "title": "Contrast-Enhanced Voiding Urosonography for Diagnosis of Ectopic Ureters in Five Female Dogs.",
-      "authors": "Trikoupi G, Papazoglou L, Papadopoulou P",
-      "journal": "Vet Radiol Ultrasound",
-      "date": "2026 Sep",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42775490/",
-      "abstract": "The aim of the study was to describe the implementation of contrast-enhanced voiding urosonography (CE-VUS), a new, alternative, radiation-free imaging technique, for diagnosing ectopic ureters (EUs) in dogs. Five dogs were presented for evaluation of recurrent urinary tract infections and urinary incontinence. All dogs were bright and alert on presentation, and physical examination findings, complete blood count, and serum biochemistry results were within reference intervals. Plain radiographs ",
-      "category": "imaging",
+      "id": "42826745",
+      "title": "Trauma, particularly vehicular strikes, causes substantial years of life lost in dogs and cats.",
+      "authors": "Sullivan CG, Zersen KM, Pidcoke HF, Hall K",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826745/",
+      "abstract": "\"Years of life lost\" (YLL) describes the burden of a given cause of death on a population by measuring the years of remaining life expectancy at the time of death. The objective of this study was to quantify the YLL due to trauma in dogs and cats. In this retrospective descriptive study, fatal traumatic injury data for dogs and cats were obtained from the Veterinary Committee on Trauma registry from September 2013 to April 2025. Life expectancies for cats and 5 size categories of dogs were obtai",
+      "category": "other",
       "summary_ko": ""
     },
     {
-      "id": "42775486",
-      "title": "Computed tomographic Characteristics of Presumed Normal Canine Iliosacral Lymph Nodes.",
-      "authors": "Iqbal MM, Mayer M, Larkin A, Parker S, Sukut S",
-      "journal": "Vet Radiol Ultrasound",
-      "date": "2026 Sep",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42775486/",
-      "abstract": "Computed tomographic (CT) evaluation of medial iliac (MILN), internal iliac (IILN), and sacral (SLN) lymph nodes (LNs) in dogs provides vital staging information in certain neoplastic conditions. This retrospective study aimed to determine minimum transverse diameter (MinTD) and maximum transverse diameter (MaxTD) values for presumed normal iliosacral LNs and assess their utility in evaluating therapeutic response using response evaluation criteria in solid tumors (RECIST) v1.1. LN margins, numb",
-      "category": "imaging",
+      "id": "42826744",
+      "title": "Suspected acrylamide toxicosis associated with ingestion of consumer polyacrylamide-based hydrogel migraine caps, eye masks, and wraps in 45 dogs.",
+      "authors": "Wegenast C, Haugen A, Waratuke K, Bader R, Spiegelberg S",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826744/",
+      "abstract": "To describe suspected acute acrylamide toxicosis in dogs following ingestion of consumer polyacrylamide-based hydrogel migraine caps, eye masks, and wraps, and to quantify acrylamide monomer concentrations in associated products. Cases were identified from the American Society for the Prevention of Cruelty to Animals Poison Control's AnTox database (January 1, 2024, through June 1, 2026). Dogs with single product exposures to hydrogel-containing migraine caps, eye masks, or wraps and strong evid",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -777,17 +799,6 @@
       "date": "2026 Oct 1",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42822806/",
       "abstract": "Myxomatous mitral valve disease (MMVD) is a progressive cardiac disorder in Cavalier King Charles Spaniels (CKCS), characterized not only by cardiac enlargement but also by complex morphological remodeling of the cardiac silhouette. This study aimed to evaluate stage-dependent configurational changes in heart shape across the American College of Veterinary Internal Medicine (ACVIM) stages (A-D) using two-dimensional geometric morphometric analysis of thoracic radiographs. A total of 54 CKCS dogs",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42816882",
-      "title": "Brachyspira hyodysenteriae detected in a dog with acute haemorrhagic diarrhoea: a case report.",
-      "authors": "Jeong H, Ahn H, Cheon DS, Oh Y, Yoon WK",
-      "journal": "BMC Vet Res",
-      "date": "2026 Aug 4",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42816882/",
-      "abstract": "Brachyspira hyodysenteriae is a well-known pathogen of swine dysentery, a severe mucohaemorrhagic colitis in pigs. While several Brachyspira species are reported in dogs, natural Brachyspira hyodysenteriae detection in dogs is extremely rare. This case report aims to provide insight into the pathogenic potential and clinical significance of Brachyspira hyodysenteriae in dogs. A 5-year-old male mongrel dog was presented with acute haemorrhagic diarrhoea shortly after being adopted from a shelter,",
       "category": "imaging",
       "summary_ko": ""
     },
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42780347/",
       "abstract": "Chronic inflammatory enteropathy (CIE) is a common gastrointestinal disorder in dogs and is associated with dysregulated inflammatory and oxidative responses, potentially contributing to the development of endotoxemia. The present study investigated the effects of apigenin, curcumin, and fumaric acid on inflammatory and oxidative responses in canine peripheral blood mononuclear cells (PBMCs) under endotoxin- and bacteria-associated stimulation. PBMCs obtained from three healthy donor dogs were e",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42774971",
-      "title": "The epidemiological landscape of canine tumors in central Italy: animal cancer registry insights, distribution patterns, and incidence estimates.",
-      "authors": "Carnio A, Cocumelli C, Galietta V, Fonti N, Simeoni S",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42774971/",
-      "abstract": "Animal cancer registries (ACRs) monitor companion animal tumors, providing essential data for comparative oncology. Sharing domestic environments and possessing compressed lifespans, dogs serve as \"One Health\" environmental sentinels. This study aimed to provide a descriptive analysis of canine neoplasms recorded in the ACR of the Lazio Region (central Italy) over 15-year period (2009-2023) and generate a survey-adjusted crude incidence estimate. Primary tumors were standardized using Vet-ICD-O-",
-      "category": "oncology",
       "summary_ko": ""
     }
   ]
