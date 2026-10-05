@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04 00:27 UTC",
+  "updated": "2026-10-05 00:40 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -341,50 +341,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42779179",
-      "title": "EXPRESS: Undenatured type II collagen enhances mobility in cats: a randomized placebo controlled cross over field study.",
-      "authors": "Piemontese C, Stabile M, Vicenti C, Fracassi L, Lacitignola L",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Sep 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42779179/",
-      "abstract": "Objectives This study aimed to evaluate the effects of a complementary feed containing undenatured type II collagen on mobility and degenerative joint disease (DJD)-associated pain in client-owned cats with mild to moderate DJD. Methods This prospective, double-blind, randomized, placebo-controlled, cross-over clinical study (coded 3361) included twenty cats (13 females, 7 males; mean age 8.7&#xb1; 3.5 years; mean weight 4.8 &#xb1; 0.8 Kg). After Ethical Committee approval (n. 01/2021/DETO) and ",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42779156",
-      "title": "EXPRESS: Pull-out strength of cannulated compression headless screws and cortical screws in the feline sacrum.",
-      "authors": "Kornmayer M, Klement J, Zablotski Y, Thorwaechter C, Wieser J",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Sep 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42779156/",
-      "abstract": "The aim of this study was to compare the pull-out strength of cannulated compression headless screws (CCHSs) of two different lengths with that of cortical screws in the feline sacrum. In this experimental study, 30 cadavers of adult Domestic Shorthair cats were randomly assigned to three groups: single 2.4 mm cortical screws engaging 60 % of the sacral width (CS 60, n = 10), 2.5 mm CCHSs engaging 60 % of the sacral width (CCHSs 60, n = 10), and 2.5 mm CCHSs engaging 40 % of the sacral width (CC",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42778163",
-      "title": "Canine pleuroperitoneal diaphragmatic hernias: a multicentric, retrospective, observational analysis of 20 dogs (2009-2026).",
-      "authors": "Mitchell F, Charlesworth T, Rossanese M, Cinti F, Riggs J",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Sep 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42778163/",
-      "abstract": "To describe the signalment, clinical presentation, diagnostic findings, surgical management and outcomes of dogs undergoing surgical management for pleuroperitoneal diaphragmatic hernia. Medical records from seven referral hospitals were retrospectively reviewed to identify dogs diagnosed with pleuroperitoneal diaphragmatic hernia during the study period. Data collected included signalment, clinical presentation, diagnostic imaging findings, surgical findings, post-operative complications and ou",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42777771",
-      "title": "Gene electrotransfer for DNA immunotherapy in veterinary oncology: Technical Tutorial Video.",
-      "authors": "Impellizeri JA, Vigodny A, Sanchez E, Aurisicchio L, Conforti A",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Sep 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42777771/",
-      "abstract": "To demonstrate the technique of gene electrotransfer (GET) for administration of plasmid DNA immunotherapy in veterinary oncology. The method demonstrated in the video is relevant to both canine and feline cancer patients undergoing administration of DNA immunotherapies. This Technical Tutorial Video demonstrates patient preparation, IM plasmid administration, electrode positioning, electroporation pulse delivery, and postprocedural assessment for a GET procedure. Required equipment, procedure w",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "42791823",
       "title": "Comparison of Ultrasonographic, Radiographic, Computed Tomographic, and Ex Vivo Measurements of Feline Femoral Trochlear Groove Depth.",
       "authors": "Silva GPD, Carneiro RK, Mattos MPLDS, Filho FTDA, Brose MM",
@@ -393,17 +349,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791823/",
       "abstract": "Patellar luxation is a common orthopedic condition in cats, and evaluation of trochlear groove depth is important to determine the need for trochleoplasty during surgical planning. This study compared radiography, ultrasonography, and computed tomography with ex vivo measurements, considered the reference method, for the assessment of trochlear groove depth in cats. Twenty-seven stifle joints from 15 healthy adult cats were evaluated. Trochlear groove depth was measured using skyline radiographi",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42778916",
-      "title": "Part I of \"Navigating the transition\": early-career working conditions, psychosocial demands, and job satisfaction among German, Austrian, and Swiss veterinarians - a first-year survey.",
-      "authors": "Wetter A, Lorenz T, Doherr MG, Jensen KC",
-      "journal": "BMC Vet Res",
-      "date": "2026 Sep 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42778916/",
-      "abstract": "Starting a career in veterinary medicine represents a major life transition, accompanied by substantial professional and personal challenges. The study aimed to assess job satisfaction, psychosocial demands, and working conditions of veterinarians during their first year in their profession, and to identify the factors associated with commitment and job satisfaction. Early-career veterinarians in Germany, Austria, and Switzerland were surveyed using an online questionnaire that included the Cope",
-      "category": "other",
       "summary_ko": ""
     },
     {
@@ -579,6 +524,17 @@
       "date": "2026 Sep 11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791713/",
       "abstract": "Aneurysmal bone cysts (ABCs) are benign but locally aggressive osteolytic lesions that are rarely reported in dogs and may progress or recur following surgical treatment. This case report describes the diagnosis, surgical management, postoperative progression, and long-term outcome of an ABC affecting the left ulna of a four-month-old Labrador Retriever. Radiography and computed tomography revealed a rapidly progressive, expansile osteolytic lesion with marked cortical thinning. Histopathologica",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42828555",
+      "title": "Nasal phaeohyphomycosis in a cat caused by Cladophialophora boppii.",
+      "authors": "McCarthy J, Augusto M, O'Neill E, Otero Balda I, Wyatt E",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828555/",
+      "abstract": "Phaeohyphomycosis is an opportunistic mycosis caused by dematiaceous fungi, typically affecting the cutaneous or subcutaneous tissues of the facial region and distal extremities in cats. This report documents a case of Cladophialophora boppii infection in a cat. A 7-year-old neutered male domestic shorthair cat was presented with a chronic, pigmented nasal lesion, non-productive sneezing, and stertor. Computed tomography, rhinoscopy, and tissue sampling were performed. Fungal culture and molecul",
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -803,6 +759,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42829981",
+      "title": "Clotting and Coagulation Disorders in Cats: A clinical review of causes, diagnosis and management.",
+      "authors": "Evans J, Li RHL",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829981/",
+      "abstract": "Hemostatic disorders in cats, while uncommon, can be life-threatening. In general, they can be diagnosed by utilizing a combination of history, physical examination findings, point-of-care assays and a basic understanding of hemostasis. This review aims to provide a general overview of hemostasis physiology, discuss common hemostatic disorders, diagnosis and interpretation of hemostatic testing, and summarize treatments of hemostatic disorders. The underlying cause of hemostatic disorders can of",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42786467",
       "title": "Taeniid infection in dogs: a coprological and knowledge, attitude and practices study in Gondar and Bahir Dar cities, Ethiopia.",
       "authors": "Yayeh M, Birhan M, Ayalew A, Menigstu A",
@@ -811,6 +778,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42786467/",
       "abstract": "The zoonotic cestodes such as Taenia and Echinococcus species belonging to family taeniidae are of paramount importance in the developing world since they pose serious public health impacts. Dogs serve as definitive hosts, shedding eggs into the environment that can infect livestock and humans. To determine the occurrence of Taeniid infections in dogs, assess the risk factors and evaluate the knowledge, attitudes, and practices (KAP) of dog owners. A cross-sectional study was conducted from Sept",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42828283",
+      "title": "Correction: Pilot study evaluating tolerability and changes in fecal microbiota associated with novel probiotic administration to dogs with diarrhea.",
+      "authors": "Doshier J, Anderson B, Yang F, Stewart SD, Calapa KA",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828283/",
+      "abstract": "[This corrects the article DOI: 10.3389/fvets.2025.1720932.].",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42828236",
+      "title": "Case Report: Clinical and magnetic resonance imaging findings in intracranial hemangiosarcoma in a cat.",
+      "authors": "Marsellés-González I, Benigni L, Cloup E, Fernandes R",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828236/",
+      "abstract": "Hemangiosarcoma (HSA) is a highly malignant tumor of endothelial origin that is infrequently reported in cats, accounting for less than 2% of nonhematopoietic neoplasms. Feline HSA is typically classified into dermal and visceral subtypes, both of which exhibit metastatic potential. While HSA is the tumor most commonly reported to metastasize to the brain in dogs, intracranial involvement in cats remains rare, with only one previously documented metastatic case. This case report details the clin",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42827969",
+      "title": "Editorial: Case reports in veterinary neurology and neurosurgery, volume II.",
+      "authors": "Santifort KM, De Frias JM, Spinillo S, Lopes BA, Monteiro SM",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42827969/",
+      "abstract": "",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42827602",
+      "title": "A retrospective study on cats with incompletely or marginally excised sarcomas treated with a bleomycin-only electrochemotherapy protocol: 66 cases.",
+      "authors": "Hovis K, Souquet Q, Ferguson S, Bryan JN, Tripp C",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42827602/",
+      "abstract": "Electrochemotherapy (ECT) is a novel therapy used as an effective and safe treatment modality for both cats and dogs with various tumor types. This retrospective study aimed to evaluate the disease-free interval (DFI) for cats with incompletely excised or marginally excised sarcomas treated with a bleomycin-only ECT protocol. A single institution retrospective evaluation was performed to identify cats as having undergone surgical removal of their sarcoma tumor followed by ECT from March 2015 to ",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42780817/",
       "abstract": "Vascular and astroglial changes in the central nervous system of Cavalier King Charles Spaniels (CKCS) affected by Chiari-like malformation (CM) and secondary syringomyelia (SM) and ventriculomegaly (VM) are poorly characterised. CM is a developmental malformation of brachycephalic breeds and is a significant welfare concern, especially for CKCS in which this disorder is considered ubiquitous with varying degrees of severity. A frequent sequela of CM is SM and VM, causing a range of neurological",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42780347",
-      "title": "In vitro effects of apigenin, curcumin, and fumaric acid on intracellular ROS and TNF-α responses in Escherichia coli-stimulated canine PBMCs.",
-      "authors": "Móritz AV, Puskás B, Nagy N, Jerzsele Á, Farkas O",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42780347/",
-      "abstract": "Chronic inflammatory enteropathy (CIE) is a common gastrointestinal disorder in dogs and is associated with dysregulated inflammatory and oxidative responses, potentially contributing to the development of endotoxemia. The present study investigated the effects of apigenin, curcumin, and fumaric acid on inflammatory and oxidative responses in canine peripheral blood mononuclear cells (PBMCs) under endotoxin- and bacteria-associated stimulation. PBMCs obtained from three healthy donor dogs were e",
-      "category": "internal",
       "summary_ko": ""
     }
   ]
