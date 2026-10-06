@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05 00:40 UTC",
+  "updated": "2026-10-06 02:09 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -528,6 +528,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42832652",
+      "title": "Retrospective evaluation of lipiduria in urine from 140 dogs and 74 cats.",
+      "authors": "Cervone M, Legroux D, Barral G, Ramery E",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42832652/",
+      "abstract": "Lipiduria has recognized physiopathological and diagnostic relevance in human medicine, while data regarding its relevance in animals remain limited. To determine the frequency of lipiduria in dogs and cats and to assess whether lipiduria represents an epiphenomenon or is associated with animal-related factors. Urinalysis results from 140 dogs and 74 cats. Retrospective study. Cases were included if complete urinalysis data were available. Animals were classified as lipiduric or non-lipiduric. A",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42828555",
       "title": "Nasal phaeohyphomycosis in a cat caused by Cladophialophora boppii.",
       "authors": "McCarthy J, Augusto M, O'Neill E, Otero Balda I, Wyatt E",
@@ -635,6 +646,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42800045/",
       "abstract": "Long-term thyroid status and survival after radioiodine treatment of hyperthyroid cats are incompletely characterized, particularly for cats developing iatrogenic hypothyroidism. To determine long-term thyroid outcomes and survival after radioiodine treatment, and to assess associations among thyroid status, hypothyroid remission, levothyroxine treatment, and survival. One thousand three hundred forty-four hyperthyroid cats treated with radioiodine. Prospective longitudinal cohort study. Thyroid",
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42830157",
+      "title": "Complete Blood Count Interpretation in Dogs and Cats and Its Analytical Compatibility with Vis-NIR Point-of-Care Hematology: A Systematic Literature Review with Narrative Synthesis.",
+      "authors": "Bisiaux T, da Costa JM, Martins RC, Barroso TG",
+      "journal": "Vet J",
+      "date": "2026 Oct 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42830157/",
+      "abstract": "This systematic literature review with narrative synthesis assessed the diagnostic contribution of complete blood count (CBC) interpretation in dogs and cats combined only with anamnesis and physical examination, without biochemistry or imaging, and the compatibility of the CBC variables and CBC-derived indices identified with emerging point-of-care (POC) hematology platforms using visible-short-wave-near-infrared (Vis-NIR) spectroscopy and self-learning artificial intelligence (SLAI). Following",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -1085,28 +1107,6 @@
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42781373/",
       "abstract": "A 3-year-old male neutered Domestic Shorthair cat was presented with a 1-year history of progressive right-lateralized proprioceptive ataxia, ambulatory tetraparesis and cervical spinal pain, with sudden deterioration shortly before presentation. Neurological examination was consistent with a right-sided C6-T2 myelopathy. Magnetic resonance imaging (MRI) revealed a right-sided extradural myelocompressive lesion at the level of the C5 vertebra, associated with osseous proliferation arising from t",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42781032",
-      "title": "Interpreting cranial abdominal coverage after caudal epidural local anesthetic administration in dogs and cats.",
-      "authors": "Nagahama S",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42781032/",
-      "abstract": "Caudal epidural local anesthetic administration is used in dogs and cats and may be interpreted as contributing to cranial abdominal coverage, but favorable perioperative outcomes do not identify the cranial extent or completeness of the local-anesthetic block. This conceptual analysis distinguishes anatomical distribution, functional attenuation of predefined stimuli, physiological tolerance, and composite perioperative clinical performance. In feline ovarian surgery, 0.3 ml/kg regimens have pr",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42780817",
-      "title": "Contents under pressure: vascular proliferation and gliosis in the brains of Cavalier King Charles Spaniels with syringomyelia.",
-      "authors": "Atkins C, Rusbridge C, Guil-Luna S, Díaz-Santana P, Constantino-Casas F",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42780817/",
-      "abstract": "Vascular and astroglial changes in the central nervous system of Cavalier King Charles Spaniels (CKCS) affected by Chiari-like malformation (CM) and secondary syringomyelia (SM) and ventriculomegaly (VM) are poorly characterised. CM is a developmental malformation of brachycephalic breeds and is a significant welfare concern, especially for CKCS in which this disorder is considered ubiquitous with varying degrees of severity. A frequent sequela of CM is SM and VM, causing a range of neurological",
       "category": "neurosurgery",
       "summary_ko": ""
     }
