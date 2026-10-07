@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06 02:09 UTC",
+  "updated": "2026-10-07 01:22 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -282,61 +282,6 @@
       "date": "2026 Sep 24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42785750/",
       "abstract": "The association between lymphovascular invasion (LVI) and outcomes in dogs with thyroid carcinoma is inadequately described, and a standardized definition of LVI is lacking. This study's objectives were to histopathologically and immunohistochemically characterize LVI and to evaluate associated clinical outcomes in dogs with thyroid carcinoma. Inclusion criteria were: dogs that underwent thyroidectomy for thyroid carcinoma with available histopathology samples, and a minimum of 1-year postoperat",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42785358",
-      "title": "Electrochemotherapy achieves high local control of lingual and tonsillar tumors in dogs and cats.",
-      "authors": "Vizcay J, Portillo F, Sabella T, Diaz M, Impellizeri J",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Sep 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42785358/",
-      "abstract": "To describe local response, progression-free survival (PFS), and overall survival (OS) in dogs and cats with lingual or tonsillar tumors treated with electrochemotherapy (ECT) alone or combined with surgery. Medical records were retrospectively reviewed for dogs and cats with a histologically or cytologically confirmed tumor of the tongue or tonsil treated with ECT alone or combined with surgery, with &#x2265; 1 posttreatment follow-up. Twenty-nine client-owned animals, 7 dogs and 7 cats with li",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42785357",
-      "title": "Urine Molecular Fingerprinting: exploratory study of a promising technology for detecting cancer and nonneoplastic disease in dogs.",
-      "authors": "Robertson J, Issa AS, Dervisis N, McGuire K, Tuohy J",
-      "journal": "Am J Vet Res",
-      "date": "2026 Sep 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42785357/",
-      "abstract": "To describe a novel technology, Urine Molecular Fingerprinting (UMF), for analyzing the composition of urine and its application for neoplastic/nonneoplastic diseases in dogs. Voided urine samples from clinically healthy Bernese Mountain Dogs (n = 263), Golden Retrievers (214), West Highland White Terriers (79), German Shepherd Dogs (21), and other breeds (245). Samples were analyzed using Raman spectroscopy and computational statistics. To illustrate the clinical relevance of UMF, samples from ",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42785356",
-      "title": "Feasibility of the ForeSight tissue oximetry system for estimating cerebral and renal tissue oxygen saturation in anesthetized dogs during hyperoxia, normoxia, and hypoxia.",
-      "authors": "Sakata H, Arai S, Gilleland E, Monnet E",
-      "journal": "Am J Vet Res",
-      "date": "2026 Sep 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42785356/",
-      "abstract": "To evaluate the feasibility of the ForeSight tissue oximetry system for assessing regional cerebral and renal tissue oxygen saturation in anesthetized dogs across 3 oxygenation states. 6 anesthetized Beagles were included. ForeSight tissue oximetry sensors were applied to the cranium and left lateral abdomen to estimate regional cerebral oxygen saturation (rScO2) and regional renal oxygen saturation (rSrO2). The left dorsal pedal artery, right femoral vein, and right jugular vein were cannulated",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42781880",
-      "title": "Tolerability and Outcome of Medical Treatment in Feline Nasal Carcinomas: A Multi-Institutional Retrospective Study.",
-      "authors": "Amato F, Gobbetti M, Giuliano A, Treggiari E, Pieri M",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Sep 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42781880/",
-      "abstract": "Carcinomas are the second most common feline intranasal neoplasm. Various treatment options, including radiotherapy, surgery or a combination of both, have been described, but data on medical therapy efficacy are lacking. This retrospective study evaluated the outcome of cats with nasal carcinoma (NC) treated with antineoplastic treatment. Cats with a histopathological or cytopathological diagnosis of NC were included. Patients receiving antineoplastic treatment were compared to patients receivi",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42781877",
-      "title": "Precision-Guided Therapy for Canine Cancers: An Oasis or a Mirage?",
-      "authors": "Modiano JF",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Sep 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42781877/",
-      "abstract": "",
       "category": "oncology",
       "summary_ko": ""
     },
@@ -649,6 +594,72 @@
       "summary_ko": ""
     },
     {
+      "id": "42836268",
+      "title": "Short-term changes in photographed dental calculus coverage and pooled supragingival microbiota after baked dental treats containing a pomegranate-propolis blend or sodium hexametaphosphate in dogs.",
+      "authors": "Baptista LSM, Santos MKR, Soratto TAT, Wagner G, Hauptli L",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Oct 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42836268/",
+      "abstract": "To compare short-term changes in the photographed percentage of visible tooth surface covered by pre-existing dental calculus among dogs receiving additive-free baked treats, sodium hexametaphosphate-containing treats or pomegranate-propolis-containing treats, and to describe pooled supragingival bacterial profiles before and after the intervention. A fixed-side brushing procedure was additionally explored from day 9 onward. Twelve adult dogs (four per group) were enrolled in a 19-day explorator",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42833390",
+      "title": "MRI FINDINGS IN CAUDA EQUINA NERVE ROOTS AND ASSOCIATED CLINICAL SIGNS IN DOGS WITH DEGENERATIVE LUMBOSACRAL STENOSIS.",
+      "authors": "Siauciunaite A, Alder D, Richter H, Steffen F",
+      "journal": "Vet J",
+      "date": "2026 Oct 5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833390/",
+      "abstract": "Magnetic resonance imaging (MRI) is the most commonly used advanced imaging modality for diagnosing degenerative lumbosacral stenosis (DLSS). However, stenosis of the central canal and intervertebral foramina does not reliably correlate with clinical signs, and additional diagnostic imaging criteria would strengthen the validity of MRI. This study aimed to evaluate the size, signal characteristics, position (nerve root sedimentation sign, NRSS), and course (redundant nerve roots, RNR) of cauda e",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42833272",
+      "title": "Clinical outcomes were evaluated in 82 dogs with B-cell lymphoma treated with adoptive T-cell therapy following cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy.",
+      "authors": "Westfall TE, Impellizeri JA",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833272/",
+      "abstract": "To describe clinical outcomes and adverse events in dogs with B-cell lymphoma treated with adoptive T-cell therapy (ACT) following cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) chemotherapy. Medical records of 82 dogs with B-cell lymphoma that received ACT following CHOP chemotherapy between 2017 and 2025 were retrospectively reviewed. Overall survival was defined as the time from lymphoma diagnosis to death from any cause or last follow-up. Post-ACT survival was defined as t",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42833267",
+      "title": "Assessment of bowel preparation quality in dogs undergoing colonoscopy using the Boston Bowel Preparation Scale.",
+      "authors": "Ruedi GL, Kook PH",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833267/",
+      "abstract": "To evaluate the efficacy of a bowel preparation protocol consisting of at-home administration of clear broth and polyethylene glycol 3350 followed by colonic flushing immediately before colonoscopy in dogs. In this single-referral-center retrospective study, dogs with complete video documentation of the colon were included. Colonic cleanliness was assessed using the Boston Bowel Preparation Scale (BBPS), which scores the 3 colonic segments individually (total score range, 0 to 9 with higher scor",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42833263",
+      "title": "Surgical management of cricopharyngeal achalasia in dogs results in low mortality but moderate incidence of recurrence or persistent clinical signs.",
+      "authors": "Zhang RM, Brisson BA, Holt DE, Park B, Ham KM",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833263/",
+      "abstract": "To describe diagnostic and surgical management of cricopharyngeal achalasia (CA) in dogs and to identify patient or management factors that may contribute to postoperative outcomes. Signalment, diagnostic imaging findings, surgical information, complications, and outcomes were retrospectively obtained. Fisher exact and Wilcoxon rank-sum tests were performed to identify predictors of unsatisfactory outcomes using sex, breed, age, videofluoroscopic swallow study findings, laterality of surgery, an",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42833257",
+      "title": "Cytokine priming shifts mitochondrial architecture and extracellular vesicle cargo of feline placental mesenchymal stromal cells toward an immunosuppressive phenotype.",
+      "authors": "Soltero-Rivera M, Arzi B, Marycz K",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833257/",
+      "abstract": "To characterize effects of inflammatory cytokine priming on viability, mitochondrial morphology, and extracellular vesicle (EV) cargo in feline placenta-derived mesenchymal stromal cells (MSCs). Feline placenta-derived MSCs from 7 healthy cats were cultured under control, serum-deprived, or cytokine-stimulated (tumor necrosis factor-&#x3b1;, interferon-&#x3b3;, IL-1, IL-6) conditions in vitro. Viability/apoptosis were assessed by flow cytometry and mitochondrial morphology by confocal microscopy",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
       "id": "42830157",
       "title": "Complete Blood Count Interpretation in Dogs and Cats and Its Analytical Compatibility with Vis-NIR Point-of-Care Hematology: A Systematic Literature Review with Narrative Synthesis.",
       "authors": "Bisiaux T, da Costa JM, Martins RC, Barroso TG",
@@ -672,19 +683,19 @@
     },
     {
       "id": "42826836",
-      "title": "Efficacy and Safety of Relfovetmab Administered Every Three Months for the Treatment of Pain Associated with Osteoarthritis in Client-Owned Cats.",
+      "title": "Efficacy and safety of relfovetmab administered every three months for the treatment of pain associated with osteoarthritis in client-owned cats.",
       "authors": "Becskei C, Cheritel H, Taneja G, Hummel BD, Werts A",
       "journal": "Vet J",
       "date": "2026 Oct 2",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42826836/",
-      "abstract": "Relfovetmab, a felinized anti-nerve growth factor monoclonal antibody, was evaluated for the control of osteoarthritis-(OA) related pain in a prospective, randomized, multicenter, placebo-controlled, double-masked, parallel-group field trial in 307 client-owned cats (median age, 11.0 years) with OA. Cats were randomized (1:1) to relfovetmab (0.5-1.25mg/kg; n = 153;) or placebo (saline, n = 154), administered subcutaneously (SC) every three months for three doses. Day 90 treatment success (Client",
+      "abstract": "Relfovetmab, a felinized anti-nerve growth factor monoclonal antibody, was evaluated for the control of osteoarthritis-(OA) related pain in a prospective, randomized, multicenter, placebo-controlled, double-masked, parallel-group field trial in 307 client-owned cats (median age, 11.0 years) with OA. Cats were randomized (1:1) to relfovetmab (0.5&#x202f;-1.25mg/kg; n&#x202f;=&#x202f;153;) or placebo (saline, n&#x202f;=&#x202f;154), administered subcutaneously (SC) every three months for three dos",
       "category": "other",
       "summary_ko": ""
     },
     {
       "id": "42826835",
       "title": "Propofol total intravenous anaesthesia carbon footprint compared to inhalational anaesthesia in small animals undergoing lung lobectomy.",
-      "authors": "Todd H, Nixon R, Ward R, Blacklock KLB",
+      "authors": "Todd H, Nixon R, Ward R, Bowlt-Blacklock KL",
       "journal": "Vet J",
       "date": "2026 Oct 2",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42826835/",
@@ -799,6 +810,17 @@
       "date": "2026 Aug 12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42786467/",
       "abstract": "The zoonotic cestodes such as Taenia and Echinococcus species belonging to family taeniidae are of paramount importance in the developing world since they pose serious public health impacts. Dogs serve as definitive hosts, shedding eggs into the environment that can infect livestock and humans. To determine the occurrence of Taeniid infections in dogs, assess the risk factors and evaluate the knowledge, attitudes, and practices (KAP) of dog owners. A cross-sectional study was conducted from Sept",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42834927",
+      "title": "Survey-based risk factors and genomic characterization of oral and oropharyngeal Enterobacterales carriage in humans and companion animals: a One Health study.",
+      "authors": "Brookshire WC, Hellmann KT, Robinson DA, Seo KS",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834927/",
+      "abstract": "Antimicrobial-resistant (AMR) Enterobacterales, including extended-spectrum beta-lactamase (ESBL)- and carbapenemase-producing organisms, represent an important One Health concern involving humans, animals, and shared environments. This cross-sectional study evaluated survey-based risk factors for oral and oropharyngeal Enterobacterales carriage in humans and companion animals and characterized selected isolates using whole-genome sequencing (WGS). Human and companion animal samples were collect",
       "category": "other",
       "summary_ko": ""
     },
@@ -1086,28 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42787045/",
       "abstract": "The management of naturally occurring canine wounds, such as bite and degloving injuries, remains a major veterinary challenge because standard treatments often struggle to balance infection control and tissue regeneration. Although povidone-iodine (PI) remains a widely used first-line antiseptic in both human and veterinary medicine, there are concerns regarding its potential for cytotoxicity and the inhibition of fibroblast growth, which can delay healing. To address these limitations, a prosp",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42781415",
-      "title": "Body condition, age, and sex as modulators of peripheral blood immune-cell populations and lymphocyte proliferation in cats.",
-      "authors": "Krüger H, Moritz A, Roshani B, Neumann S",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42781415/",
-      "abstract": "Feline obesity is common, and in other species it has been linked to immune dysregulation; yet its immunological consequences in cats, and their modulation by age and sex, remain poorly defined. Whole blood from 78 neutered client-owned cats (37 males, 41 females; 1-16 years) was analyzed by flow cytometry using a panel characterizing T cells (including CD5+CD4+ and CD5+CD8+ subsets), B cells (CD21+) and natural killer (CD56+) cells with their activation (CD80) and proliferation (Ki67) status. C",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42781373",
-      "title": "Case Report: Repeated imaging and surgical treatment of a vascular hamartoma arising from the cervical vertebral column of a cat.",
-      "authors": "Schmitz AK, Buhmann G, Trapp A, Matiasek K, Jurina K",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42781373/",
-      "abstract": "A 3-year-old male neutered Domestic Shorthair cat was presented with a 1-year history of progressive right-lateralized proprioceptive ataxia, ambulatory tetraparesis and cervical spinal pain, with sudden deterioration shortly before presentation. Neurological examination was consistent with a right-sided C6-T2 myelopathy. Magnetic resonance imaging (MRI) revealed a right-sided extradural myelocompressive lesion at the level of the C5 vertebra, associated with osseous proliferation arising from t",
-      "category": "neurosurgery",
       "summary_ko": ""
     }
   ]
