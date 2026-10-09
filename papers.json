@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08 01:44 UTC",
+  "updated": "2026-10-09 01:56 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,105 +10,6 @@
     "other": "기타"
   },
   "papers": [
-    {
-      "id": "42791701",
-      "title": "Reproductive Ecology of the Lesser Rhea (Rhea pennata) in the Peruvian Andes: Nesting Sites, Phenology, and Social Organization.",
-      "authors": "Samata-Flores DE, Cáceres Apaza DP, Soto-Gamboa M, Contreras JCM",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791701/",
-      "abstract": "The suri, or lesser rhea (Rhea pennata), is a flightless Andean bird facing multiple anthropogenic threats. Despite these pressures, its reproductive ecology remains poorly documented near its distributional limits. This study provides the first comprehensive evaluation of the breeding ecology, nesting distribution, and threats for wild lesser rhea populations at their northern geographic limit in Moquegua, Peru. Across four consecutive breeding seasons (2021-2024), we combined systematic survey",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791700",
-      "title": "Pelvic Girdle Fluctuating Asymmetry in the Domestic Cat (Felis catus): Associations with Age, Sex, and Body Mass.",
-      "authors": "Baranowski P, Grzesiak W",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791700/",
-      "abstract": "Fluctuating asymmetry (FA) is commonly used as a phenotypic indicator related to developmental stability, reflecting variation in an organism's ability to maintain bilateral correspondence during development. Although pelvic morphology has been extensively investigated in the domestic cat (Felis catus), little is known about fluctuating asymmetry of the pelvic girdle and its associations with biological variables such as age, sex, and body mass. This study quantitatively evaluated fluctuating as",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791699",
-      "title": "Patient-Specific Computational Fluid Dynamics of Pulmonary Arterial Hemodynamics in Dogs with and Without Pulmonic Stenosis.",
-      "authors": "Zamora-Perarnau C, Malvè M, Sebastián-Marcos P, Fernández-Parra R",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791699/",
-      "abstract": "Pulmonic stenosis (PS) is one of the most common congenital cardiac diseases in dogs. Although echocardiography and computed tomographic angiography (CTA) provide valuable diagnostic and anatomical information, the hemodynamic consequences of PS remain incompletely characterized. This study describes patient-specific pulmonary artery hemodynamics in dogs with and without PS using computational fluid dynamics (CFD). Contrast-enhanced CTA and echocardiographic data from five dogs with PS and five ",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791690",
-      "title": "Grading Canine Benign Prostatic Hyperplasia: A Survey of Veterinary Practice and the Development of a Web-Based Symptom Index.",
-      "authors": "Zambelli D, Ballotta G, Bucci D, Pagliuca L, Cunto M",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791690/",
-      "abstract": "Benign prostatic hyperplasia (BPH) affects more than 95% of intact male dogs, yet most remain asymptomatic until prostatic enlargement causes clinical signs. Standardised assessment of BPH severity is therefore needed to improve clinical decision-making and enable comparable research outcomes. This study aimed to investigate current diagnostic and therapeutic approaches to canine BPH and to develop and assess a web-based application implementing the Zambelli Symptom Index (ZSI), an established s",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791684",
-      "title": "Ultrasonographic Appearance of Acute Prostatitis and Prostatic Abscesses in Dogs.",
-      "authors": "Spada S, Pagani G, Herbel J, Frehner BL, Rodrigues Carvalho J",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791684/",
-      "abstract": "Prostatitis is one of the most common prostatic disorders in dogs, although its ultrasonographic features remain poorly characterized. The aim of this retrospective study was to describe the ultrasonographic findings of canine prostatitis and prostatic abscessation and to investigate their association with clinical and laboratory abnormalities. Medical records of 35 client-owned dogs with cytologically or histologically confirmed acute prostatitis were reviewed. Clinical, ultrasonographic, labor",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791675",
-      "title": "Welfare Under Transient Pressure: Rethinking Behavioral Assessments and Stress Mitigation for Shelter Dogs.",
-      "authors": "Breithaupt A, Jacobs J",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791675/",
-      "abstract": "Nationally, there is a growing population of shelter dogs that are experiencing longer lengths of stay as euthanasia rates decline. Well-documented shelter-specific stressors can induce physiological and behavioral changes correlated with immediate and future welfare concerns. Dogs vary in their responses to the shelter environment based on genetics, past experiences, and context, leaving some individuals unable to adapt. Those that struggle may display maladaptive coping behaviors perceived as ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791674",
-      "title": "Tibialis Cranialis Extrafusal and Intrafusal Myofibers and Muscle Spindle Pathology in Canine Degenerative Myelopathy.",
-      "authors": "Morgan-Jack B, Katz ML, Kick GR, Coates JR",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791674/",
-      "abstract": "Canine degenerative myelopathy (DM) is a progressive, adult-onset neurodegenerative disease, with similarities to superoxide dismutase 1 (SOD1)-associated ALS. Clinical signs of DM begin with asymmetric pelvic limb general proprioceptive ataxia and spastic paresis that progresses to flaccid tetraplegia and respiratory failure. Although pelvic limb muscle atrophy and peripheral neuropathy have been reported in DM, intramuscular SOD1 accumulation and muscle spindle pathology remain incompletely ch",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791671",
-      "title": "Proteomics in Gastrointestinal Diseases of Companion Animals: Current State and Knowledge Gaps.",
-      "authors": "Yu J, Ruaux C",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791671/",
-      "abstract": "Proteomics, the study of the structure and function of proteins, has been used to investigate candidate biomarkers and study the pathophysiology of various diseases. Biomarkers may be useful in diagnosing, monitoring and assessing treatment responses. This review provides an overview of proteomic techniques, describes the workflow and pipeline for biomarker discovery, and evaluates the current literature on proteomic studies in veterinary gastroenterology in dogs and cats. Current studies in thi",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791669",
-      "title": "Students' Conceptions of Animal Emotions and Cognitive Abilities in Karamoja (Uganda): Implications for Animal Welfare Education and One Health.",
-      "authors": "Uber E, Riggio G, Becchetti M, Marenzoni ML, Menchetti L",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791669/",
-      "abstract": "Pastoralist communities in Karamoja maintain close, multifaceted relationships with animals from early childhood, yet little is known about how children conceptualise animal emotions and cognitive abilities. This pilot study explored these conceptions among Kasimeri Primary School students in Karamoja, Uganda, within the AICS All-In-One Project (AID 012590/04/1). A cross-sectional survey was conducted using a structured questionnaire administered to 326 students (mean age 13 &#xb1; 2 years). Dat",
-      "category": "other",
-      "summary_ko": ""
-    },
     {
       "id": "42815535",
       "title": "Progressive regurgitation and sialorrhea in a 6-year-old mixed-breed dog.",
@@ -264,6 +165,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42843177",
+      "title": "Left atrial mural infective endocarditis complicated by coronary embolism and left ventricular myocardial infarction in a cat.",
+      "authors": "Romito G, Gemma N, Vasylyeva K, Morini M",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843177/",
+      "abstract": "A three-year-old female Devon Rex was referred for postpartum complications. On presentation, physical examination revealed depression, hypothermia, pale mucous membranes and a grade II/VI left apical systolic murmur. Laboratory tests showed severe non-regenerative anaemia, moderate leucocytosis and increased cardiac troponin I (4.16 ng/mL; upper hospital limit &lt;0.2 ng/mL). Transthoracic echocardiography showed no remodelling or dysfunction of either cardiac chamber and no valvular abnormalit",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42791785",
       "title": "Internal Fixation Using Vitcone(®) Locking-Plate System for Fractures of Radius and Ulna in Toy- and Small-Breed Dogs: A Retrospective Two-Center Clinical Study.",
       "authors": "Urizzi A, Maggiolini U, Paolini A, Collivignarelli F, Tamburro R",
@@ -352,6 +264,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42843176",
+      "title": "Rapid arteriotomy or venotomy site closure using a pre-placed purse-string suture technique in dogs.",
+      "authors": "Pierce KV, Scansen BA, English Z, Potter BM, Orton EC",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Sep 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843176/",
+      "abstract": "Ligation of a catheterized vessel after image-guided intervention is common in veterinary medicine, which may affect vascular supply or limit future access. This prospective case series investigated the utility of a preplaced purse-string suture technique for rapid closure of vascular catheterization sites in dogs. Vascular cut down was performed, and a purse-string suture was preplaced around the intended puncture site using 6-0 monofilament, non-absorbable polypropylene suture in 45 vessels fr",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
       "id": "42791729",
       "title": "Effects of 1-Deoxynojirimycin-Enriched Mulberry Extract on Liver and Gut Health in Broilers Under a High-Fat Diet.",
       "authors": "Zhao L, Wang M, Feng Y, Li T, Zhang C",
@@ -371,39 +294,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791724/",
       "abstract": "The domestic dog is the most morphologically diverse domesticated mammalian species. That diversity has arisen from deliberate, sustained artificial selection over the most recent 1% of the domestic dog's evolutionary history. However, artificial selection has pushed many individual breeds so far from the ancestral canine form that many dogs within these breeds can no longer perform the critical biological functions their bodies evolved to serve. Indeed, much of the popularity of many dog breeds",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791717",
-      "title": "Molecular Characterization of a Feline Panleukopenia Virus Strain Isolated from a Dog with Clinical Gastroenteritis in Spain.",
-      "authors": "Prieto A, Valverde S, Díaz P, Díaz-Cao JM, López-Lorenzo G",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791717/",
-      "abstract": "Canine parvovirosis is a fatal disease state traditionally caused by canine parvovirus (CPV), which evolved from feline panleukopenia virus (FPV). While FPV was historically restricted to felids, FPV-like strains were recently reported to be causing clinical disease in dogs. This study aims to characterize an FPV-like strain detected in an eight-week-old unvaccinated female dog in Spain exhibiting hemorrhagic diarrhea and severe leukopenia. After fecal DNA isolation, a 1745-base-pair fragment of",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791714",
-      "title": "The Human-Canine Partnership in Animal-Assisted Crisis Response: A Welfare-Centered Perspective.",
-      "authors": "Jaffe BG",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791714/",
-      "abstract": "Animal-Assisted Crisis Response (AACR) is a specialized form of crisis intervention in which trained handlers and therapy dogs provide emotional support following crises and disasters. Although previous research has examined AACR, less is known about the contribution of the human-canine partnership. This study explored the human-canine partnership and its perceived role in effective crisis response and canine welfare. This qualitative study used semi-structured interviews and demographic surveys",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791713",
-      "title": "Non-Oncological Progression of an Aneurysmal Bone Cyst (ABC) in a Puppy Following Surgical Treatment.",
-      "authors": "Michalska A, Kaczmarek J, Kaup D, Lehmbecker A, Morawska M",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791713/",
-      "abstract": "Aneurysmal bone cysts (ABCs) are benign but locally aggressive osteolytic lesions that are rarely reported in dogs and may progress or recur following surgical treatment. This case report describes the diagnosis, surgical management, postoperative progression, and long-term outcome of an ABC affecting the left ulna of a four-month-old Labrador Retriever. Radiography and computed tomography revealed a rapidly progressive, expansile osteolytic lesion with marked cortical thinning. Histopathologica",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -569,6 +459,72 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42800045/",
       "abstract": "Long-term thyroid status and survival after radioiodine treatment of hyperthyroid cats are incompletely characterized, particularly for cats developing iatrogenic hypothyroidism. To determine long-term thyroid outcomes and survival after radioiodine treatment, and to assess associations among thyroid status, hypothyroid remission, levothyroxine treatment, and survival. One thousand three hundred forty-four hyperthyroid cats treated with radioiodine. Prospective longitudinal cohort study. Thyroid",
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42847738",
+      "title": "Transdiaphragmatic video-assisted lobectomy of caudal and accessory lung lobes: A canine cadaveric feasibility study.",
+      "authors": "Rico-Holgado S, Garcia-Pertierra S, Martinez-Trapero A, Pera-Serrano M, Fontalba-Navas JL",
+      "journal": "Vet Surg",
+      "date": "2026 Oct 8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42847738/",
+      "abstract": "To evaluate the feasibility and technical outcomes of a video-assisted transdiaphragmatic (VATD) approach to perform total lung lobectomy of the caudal and accessory pulmonary lobes in canine cadavers. Cadaveric study. A total of 12 canine cadavers. Cadavers were randomly assigned to left caudal, right caudal or accessory lung lobectomy (n&#x2009;=&#x2009;4/group). A cranial midline celiotomy and transdiaphragmatic approach were performed with rigid videoendoscopic assistance under standardized ",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42844723",
+      "title": "EXPRESS: Metagenomic Oxford Nanopore sequencing of feline aural inflammatory polyps for pathogen discovery.",
+      "authors": "Noland E, Conner K, Brame B, Petersen A, Thaiwong-Nebelung T",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Oct 7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42844723/",
+      "abstract": "ObjectivesFeline aural inflammatory polyps (FIAP) have been proposed to be induced by chronic viral or bacterial infections; however, the cause is still unknown. The aim of this study was to investigate potential etiologies of these polyps using metagenomic sequencing.MethodsPolyp tissue was collected from 13 cats following routine traction and avulsion procedures. Total nucleic acid was extracted and subjected to a host (feline) nucleic acid depletion protocol. Additionally, the Sequence-Indepe",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42844719",
+      "title": "EXPRESS: Assessment of caregiver burden in feline chronic kidney disease.",
+      "authors": "Lim L, Quimby JM, Caney S",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Oct 7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42844719/",
+      "abstract": "ObjectivesThe aim of this study was to investigate caregiver burden associated with management of cats with chronic kidney disease (CKD).MethodsCaregivers who had experience managing a cat with CKD were recruited through social media to anonymously participate in an online Qualtrics survey. The modified Zarit Burden Interview (mZBI) was incorporated into the survey to objectively assess caregiver burden. An mZBI score of &#x2265; 18 represents clinically significant burden.ResultsA total of 339 ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42843446",
+      "title": "Vitamin D supplementation in dogs with chronic biliary tract diseases.",
+      "authors": "Habermaass V, Cogozzo A, Bartoli F, Rocca DJ, Dini R",
+      "journal": "Vet J",
+      "date": "2026 Oct 7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843446/",
+      "abstract": "Extrahepatic cholestasis in dogs is frequently associated with reduced intestinal absorption of fat-soluble vitamins, resulting in suboptimal vitamin D status. This prospective longitudinal study assessed the effects of six-week oral cholecalciferol supplementation (40 IU/kg/day) on serum 25-hydroxycholecalciferol [25(OH)D] in fourteen dogs with chronic biliary disease. Median baseline 25(OH)D concentration was 2.3ng/mL (0.3-11.2), increasing to 4.3ng/mL (2.4-14.0) after treatment, whereas healt",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42843445",
+      "title": "Longitudinal assessment of left and right ventricular systolic function in dogs undergoing chemotherapy with doxorubicin.",
+      "authors": "Wolf M, Lucina SB, Silva VBC, Silveira MF, Silva VG",
+      "journal": "Vet J",
+      "date": "2026 Oct 7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843445/",
+      "abstract": "Cardiotoxicity is a recognized complication of chemotherapy with doxorubicin and is classically associated with left ventricular dysfunction; however, evidence from human cardio-oncology suggests that global cardiac function, including the right ventricle, may also be affected, and that advanced echocardiographic techniques such as global longitudinal strain (GLS) and tissue motion annular displacement (TMAD) may detect subtle myocardial dysfunction earlier than conventional indices. This prospe",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42843409",
+      "title": "Should veterinarians apply a 2-step framework to classify adiposity and diagnose clinical obesity in dogs and cats?",
+      "authors": "Ward E, Churchill J",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843409/",
+      "abstract": "Obesity drugs are entering veterinary trials, and prescribing them should follow a diagnosis. Body condition score is not a diagnosis; it describes a patient's adiposity, not whether it is causing illness. This Viewpoint proposes 2 steps for diagnosing clinical obesity in dogs and cats: describe, then diagnose. Step 1 describes adiposity as overweight or obesity. Step 2, applied only when obesity is documented, assigns a disease stage; clinical obesity requires a documented, clinically meaningfu",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -821,6 +777,50 @@
       "date": "2026 Oct",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42829981/",
       "abstract": "Hemostatic disorders in cats, while uncommon, can be life-threatening. In general, they can be diagnosed by utilizing a combination of history, physical examination findings, point-of-care assays and a basic understanding of hemostasis. This review aims to provide a general overview of hemostasis physiology, discuss common hemostatic disorders, diagnosis and interpretation of hemostatic testing, and summarize treatments of hemostatic disorders. The underlying cause of hemostatic disorders can of",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42846899",
+      "title": "Chronic renal disease detection developments with future potential to improve veterinary clinical practice.",
+      "authors": "Arevalo Turrubiarte M, Rideout H, Whetton AD, Geifman N, Armstrong SK",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846899/",
+      "abstract": "Chronic Kidney Disease (CKD) is a major global human and veterinary health concern. Novel blood and urine biomarkers currently offer significant opportunities to advance early diagnosis, prognosis, and clinical outcomes. Adopting a translational medicine approach, we summarise research performed to date on CKD biomarkers in humans and relate these findings to companion animal CKD biomarker research. Emerging candidates, including microRNAs and multiprotein measurements for diagnostic signatures,",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42846857",
+      "title": "Analgesic effect of methadone constant rate infusion is not superior to fentanyl constant rate infusion in dogs after spinal surgery: a prospective, randomized, blinded, clinical trial.",
+      "authors": "Schütter AF, Kästner SBR, Prause B, Tünsmeier J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846857/",
+      "abstract": "This study aimed to compare the analgesic efficacy of methadone and fentanyl infusions at a 50:1 dose rate in dogs after spinal surgery. In a prospective, randomized, blinded clinical trial, 42 dogs with intervertebral disk disease were evaluated at 1, 2, 4, 18, 24, 42, 48, 66, 72, 90, and 96&#x202f;h after extubation. Based on the treatment groups, the dogs received a presurgical bolus of 0.25&#x202f;mg/kg methadone or 5&#x202f;&#x3bc;g/kg fentanyl, followed by an intraoperative and postoperati",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42846393",
+      "title": "Corridor-based relative severity assessment of the canine anaesthetic course.",
+      "authors": "Kschonek JD, Kästner SBR, Ohland PLS, Lutscher S, Volk HA",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846393/",
+      "abstract": "The Relative Severity Assessment (RELSA) score grades welfare severity based on the magnitude of multivariate deviations from a reference value. Many variables monitored during anaesthesia are homeostatic and become harmful when they leave the normal range in either direction. Building on the corridor concept of the PVS from human intensive care, we conducted a feasibility study to assess the application and behaviour of a corridor extension of RELSA in two canine anaesthesia datasets. Each home",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42846344",
+      "title": "Beyond population size: long-term changes in free-roaming cat population structure during TNR implementation in Seoul.",
+      "authors": "Cho Y, Byun JH, Hwang BR, Lee Y",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42846344/",
+      "abstract": "Free-roaming cats (Felis catus) in urban environments are commonly managed through trap-neuter-return (TNR) programs, yet the long-term population effects of these measures remain inconsistently evaluated, particularly when considering both population size and structural dynamics. This study aimed to assess long-term changes in free-roaming cat populations and population-structure patterns observed in the context of public TNR program in Seoul, Republic of Korea, using multiple demographic and s",
       "category": "other",
       "summary_ko": ""
     },
