@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09 01:56 UTC",
+  "updated": "2026-10-10 01:38 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -275,28 +275,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42791729",
-      "title": "Effects of 1-Deoxynojirimycin-Enriched Mulberry Extract on Liver and Gut Health in Broilers Under a High-Fat Diet.",
-      "authors": "Zhao L, Wang M, Feng Y, Li T, Zhang C",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791729/",
-      "abstract": "In broiler farming, high-fat (HF) diets are frequently incorporated, often leading to hepatic steatosis, oxidative stress, and gut damage. 1-Deoxynojirimycin (DNJ) has emerged as a promising feed additive in animal husbandry due to its significant role in enhancing animal health. This study assessed the protective effects of DNJ-enriched mulberry extract (DNJ) on liver and gut health in broilers subjected to an HF diet, with particular emphasis on the liver-gut interaction. A total of 360 one-da",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791724",
-      "title": "'Teleonomes in Tatters': The Welfare Costs of Selecting Dogs for Extreme Phenotypes, and the Case for Change.",
-      "authors": "McGreevy PD, Mellor DJ, O'Neill D, Packer RM, Henshall C",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791724/",
-      "abstract": "The domestic dog is the most morphologically diverse domesticated mammalian species. That diversity has arisen from deliberate, sustained artificial selection over the most recent 1% of the domestic dog's evolutionary history. However, artificial selection has pushed many individual breeds so far from the ancestral canine form that many dogs within these breeds can no longer perform the critical biological functions their bodies evolved to serve. Indeed, much of the popularity of many dog breeds",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42842766",
       "title": "Palatability assessment of a commercial wet renal diet in healthy cats: an open-label in-home exploratory trial.",
       "authors": "Magalhães TR, Corbee RJ, Queiroga FL, Lourenço AL",
@@ -462,6 +440,28 @@
       "summary_ko": ""
     },
     {
+      "id": "42849778",
+      "title": "GASTROINTESTINAL TRANSIT TIME OF HEALTHY DOGS BEFORE AND AFTER ENEMA ASSESSED BY CONTRAST RADIOGRAPHS WITH BARIUM-IMPREGNATED POLYETHYLENE SPHERES.",
+      "authors": "de Souza MR, da Silva WPR, Xavier RAL, da Silva CCL, Ruiz KC",
+      "journal": "Vet J",
+      "date": "2026 Oct 8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42849778/",
+      "abstract": "In this prospective experimental study, we aimed to assess the gastrointestinal (GI) transit of healthy dogs with and without an enema, using barium-impregnated polyethylene spheres (BIPS). Six healthy dogs underwent two experimental steps: evaluation of the GI transit using BIPS (BIPS group) before and after enema (BIPS+ENEMA group). All animals were fasted for 12hours, the transit was assessed in serial radiographs from 0 to 12h, and BIPS were counted in each segment of the GI tract, calculati",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42849777",
+      "title": "Echocardiographic changes in hyperthyroid cats: comparison of subclinical disease and congestive heart failure.",
+      "authors": "Greil S, Utzinger H, Maerz I",
+      "journal": "Vet J",
+      "date": "2026 Oct 8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42849777/",
+      "abstract": "Hyperthyroidism induces a wide spectrum of cardiovascular changes in cats, yet the factors distinguishing subclinical cardiac involvement from congestive heart failure (CHF) remain poorly defined. Previous studies have focused primarily on structural changes, with limited evaluation of atrial function or right-sided involvement. To compare echocardiographic variables between hyperthyroid cats with subclinical cardiac disease and those presenting in CHF, with emphasis on left atrial remodelling, ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42847738",
       "title": "Transdiaphragmatic video-assisted lobectomy of caudal and accessory lung lobes: A canine cadaveric feasibility study.",
       "authors": "Rico-Holgado S, Garcia-Pertierra S, Martinez-Trapero A, Pera-Serrano M, Fontalba-Navas JL",
@@ -530,7 +530,7 @@
     {
       "id": "42838287",
       "title": "The canine tumour micro-environment and advances in antitumour therapy in canine melanoma.",
-      "authors": "Hindriks E, Mmjm Z, Ajam S, Broere F",
+      "authors": "Hindriks E, Zandvliet MMJM, Sijts AJAM, Broere F",
       "journal": "Vet J",
       "date": "2026 Oct 6",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42838287/",
@@ -551,12 +551,12 @@
     },
     {
       "id": "42838285",
-      "title": "Procedural sedation with subcutaneously administered medetomidine-vatinoxan-butorphanol in dogs - a randomized, controlled, clinical dose-finding study.",
+      "title": "Procedural sedation with subcutaneously administered medetomidine-vatinoxan-butorphanol in dogs - A randomized, controlled, clinical dose-finding study.",
       "authors": "Honkavaara J, Lindh E, Turunen H, Mäki T, Välimäki E",
       "journal": "Vet J",
       "date": "2026 Oct 6",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42838285/",
-      "abstract": "Subcutaneous (SC) drug administration may be better tolerated when compared with the intramuscular (IM) route in some dogs. This study investigated the dose-response to subcutaneously administered medetomidine-vatinoxan-butorphanol in producing sedation for orthopedic radiography. Fifty-three privately-owned, healthy dogs were randomly allocated to receive IM medetomidine 0.6mg/m2 (M0.6-IM), IM medetomidine/vatinoxan 0.6/12mg/m2 (Z0.6-IM), SC medetomidine/vatinoxan 0.6/12 (Z0.6-SC), 0.9/18 (Z0.9",
+      "abstract": "Subcutaneous (SC) drug administration may be better tolerated when compared with the intramuscular (IM) route in some dogs. This study investigated the dose-response to subcutaneously administered medetomidine-vatinoxan-butorphanol in producing sedation for orthopedic radiography. Fifty-three privately-owned, healthy dogs were randomly allocated to receive IM medetomidine 0.6&#x202f;mg/m2 (M0.6-IM), IM medetomidine/vatinoxan 0.6/12&#x202f;mg/m2 (Z0.6-IM), SC medetomidine/vatinoxan 0.6/12 (Z0.6-S",
       "category": "orthopedics",
       "summary_ko": ""
     },
