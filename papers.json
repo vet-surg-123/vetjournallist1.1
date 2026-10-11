@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10 01:38 UTC",
+  "updated": "2026-10-11 00:47 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -121,6 +121,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42854588",
+      "title": "Right-to-left shunting following left atrial decompression in three dogs.",
+      "authors": "Bradley K, Ross E, Zarin J, Cole S",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Sep 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854588/",
+      "abstract": "Three dogs with advanced myxomatous mitral valve disease underwent left atrial decompression (LAD) via transseptal puncture and balloon atrial septostomy as a palliative treatment for refractory left-sided congestive heart failure. Variable degrees of pulmonary hypertension were present at the time of LAD. Each dog initially exhibited predominantly left-to-right shunting across the iatrogenic atrial septal defect but subsequently developed clinically relevant right-to-left shunting in the postop",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42791823",
       "title": "Comparison of Ultrasonographic, Radiographic, Computed Tomographic, and Ex Vivo Measurements of Feline Femoral Trochlear Groove Depth.",
       "authors": "Silva GPD, Carneiro RK, Mattos MPLDS, Filho FTDA, Brose MM",
@@ -154,17 +165,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42791797",
-      "title": "Serum Bile Acid Concentrations in Dogs with Exocrine Pancreatic Insufficiency.",
-      "authors": "Steiner JM, Humbert L, Rainteau D, Blake AB, Carrière F",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791797/",
-      "abstract": "Exocrine pancreatic insufficiency (EPI) is a chronic gastrointestinal disease in dogs that is caused by the insufficient synthesis and secretion of pancreatic digestive enzymes by the exocrine pancreas. Previous studies have described intestinal dysbiosis in dogs with EPI and dysbiosis is often associated with bile acid dysmetabolism. This study aimed to measure the concentration of a variety of bile acids in the serum of dogs with EPI. Serum was collected from 50 dogs with a serum canine trypsi",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "42843177",
       "title": "Left atrial mural infective endocarditis complicated by coronary embolism and left ventricular myocardial infarction in a cat.",
       "authors": "Romito G, Gemma N, Vasylyeva K, Morini M",
@@ -172,94 +172,6 @@
       "date": "2026 Sep 17",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42843177/",
       "abstract": "A three-year-old female Devon Rex was referred for postpartum complications. On presentation, physical examination revealed depression, hypothermia, pale mucous membranes and a grade II/VI left apical systolic murmur. Laboratory tests showed severe non-regenerative anaemia, moderate leucocytosis and increased cardiac troponin I (4.16 ng/mL; upper hospital limit &lt;0.2 ng/mL). Transthoracic echocardiography showed no remodelling or dysfunction of either cardiac chamber and no valvular abnormalit",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791785",
-      "title": "Internal Fixation Using Vitcone(®) Locking-Plate System for Fractures of Radius and Ulna in Toy- and Small-Breed Dogs: A Retrospective Two-Center Clinical Study.",
-      "authors": "Urizzi A, Maggiolini U, Paolini A, Collivignarelli F, Tamburro R",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791785/",
-      "abstract": "This retrospective two-center study describes clinical and radiographic outcomes in dogs weighing up to 10 kg undergoing surgical stabilization of radius-ulna fractures using either the Vitcone&#xae; locking system (Group A) or the Veterinary Instrumentation (Vi&#xae;) locking system (Group B) between January of 2021 and December of 2025. Fractures were stabilized with open reduction and internal fixation using a cranio-medial or cranio-lateral approach. Ninety-three dogs met the inclusion crite",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791779",
-      "title": "Description of an Intraoral Lingual Arch Fixation Technique for the Treatment of Mandibular Body Fractures in Dogs and Its Application in Six Patients.",
-      "authors": "San Román-Llorens F, Blanco A, San Román F, González C, Climent A",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791779/",
-      "abstract": "Mandibular fractures are a common injury in dogs and are associated with relatively high complication rates. The main goals of treatment are to provide stable fixation to promote bone healing, preserve the teeth and surrounding anatomical structures, and restore normal dental occlusion. Several treatment techniques have been described, including external skeletal fixation, bone plates and screws, interdental and intraosseous cerclage wiring, and dental splints used alone or in combination with c",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791776",
-      "title": "Three-Dimensional Planning and Surgical Correction of Bilateral Developmental Valgus Deformity of the Manus in a Dog.",
-      "authors": "Solari FP, Kim MY, Vilaplana Grosso FR, Biedrzycki AH, Lewis DD",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791776/",
-      "abstract": "A one-year-old, 48 kg, male neutered, Great Dane presented for bilateral thoracic limb lameness ascribed to an apparent developmental valgus deformity of both manus. Corrective radial-shaped osteotomies of the four weight-bearing metacarpal bones (II-V) were virtually planned based on CT scan data, and bone models of each corrected manus were three-dimensionally (3D)-printed, sterilized, and used intra-operatively to facilitate the procedure. Corrective radial-shaped osteotomies of metacarpals I",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791769",
-      "title": "Comparison of Radiographic Outcomes Between TPLO + TTT and CTWO + TTT in Dogs with Concurrent Cranial Cruciate Ligament Rupture and Medial Patellar Luxation.",
-      "authors": "Roh HJ, Seo J, Bae CS",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791769/",
-      "abstract": "Cranial cruciate ligament (CrCL) rupture frequently occurs with medial patellar luxation (MPL) in small-breed dogs, and both conditions may be corrected during surgery using a proximal tibial osteotomy-tibial plateau leveling osteotomy (TPLO) or cranial tibial wedge osteotomy (CTWO)-combined with tibial tuberosity transposition (TTT). Because these osteotomies differ in patellar ligament displacement, they may interact differently with TTT. We retrospectively compared TPLO + TTT and CTWO + TTT i",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791753",
-      "title": "Evaluation of Two Commercial DNA-Based Breed Identification Tests for Pit Bull-Type Dogs in Taiwan: A Pilot Study.",
-      "authors": "Yang YY, Lee AN, Chen TC, Huang WH",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791753/",
-      "abstract": "The \"Declaration of Specified Breed Names of Animals Banned from Being Owned, Imported, or Exported\" was promulgated in Taiwan in response to aggression involving pit bull-type dogs. To support enforcement, we developed standards for visual breed identification based on international breed standards and UK guidance. Given the subjectivity of visual identification, samples from 21 healthy dogs, including 12 pit bull-type dogs, were submitted to Embark&#xae; and Orivet Genetic Pet Care for SNP-bas",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791751",
-      "title": "Distilled Water Dilution Increases Measured Fecal pH in Fresh Canine Feces.",
-      "authors": "Marchi PH, Micheletti CD, de Souza JM, Finardi GLF, Fernandes EL",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791751/",
-      "abstract": "Fecal pH is used in canine nutrition studies as an indirect indicator of intestinal fermentation, but sample preparation may affect the measured value. This study evaluated the effect of different feces-to-water dilution ratios on pH determination in canine feces. Thirty-seven samples from 20 healthy dogs were evaluated using five preparation protocols: direct measurement without dilution and dilution with distilled water at 1:1, 1:2, 1:5, and 1:10 feces-to-water ratios, on a weight-to-volume ba",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791744",
-      "title": "Fasting Serum Bile Acid Profiles in Dogs with Food-Responsive and Immunosuppressant-Responsive Chronic Inflammatory Enteropathy: An Exploratory LC-MS/MS Study.",
-      "authors": "Kiss G, Mózes B, Sterczer Á, Lányi K, Németh K",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791744/",
-      "abstract": "Bile acid (BA) dysmetabolism is implicated in canine chronic inflammatory enteropathy (CIE), but fasting serum profiles across treatment-response groups remain poorly characterized. This exploratory observational study analyzed pretreatment serum from dogs subsequently classified as food-responsive enteropathy (FRE; n = 8) or immunosuppressant-responsive enteropathy (IRE; n = 5), with four unmatched purpose-bred Beagle controls. Targeted LC-MS/MS, performed using a published canine serum method,",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791742",
-      "title": "University-Based Animal Welfare Organizations in Ecuador: A National One Health Perspective.",
-      "authors": "Rodríguez-Pazmiño ÁS, Bautista-Arcentales SD, Garcia-Bereguiain MA, Orlando SA",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791742/",
-      "abstract": "University-based animal welfare organizations are grassroots actors involved in managing free-roaming dog and cat populations, yet their role remains poorly characterized, particularly in low- and middle-income countries. This study aimed to identify and describe animal welfare organizations operating within universities in Ecuador and to analyze their potential contributions within a One Health framework. A cross-sectional survey of 63 universities was conducted using publicly available informa",
       "category": "other",
       "summary_ko": ""
     },
@@ -272,6 +184,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42843176/",
       "abstract": "Ligation of a catheterized vessel after image-guided intervention is common in veterinary medicine, which may affect vascular supply or limit future access. This prospective case series investigated the utility of a preplaced purse-string suture technique for rapid closure of vascular catheterization sites in dogs. Vascular cut down was performed, and a purse-string suture was preplaced around the intended puncture site using 6-0 monofilament, non-absorbable polypropylene suture in 45 vessels fr",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42855437",
+      "title": "Presumptive paroxysmal dyskinesia in 41 dogs: is the diet change enough?",
+      "authors": "Reyes HM, Galli G, Burbaitè E, Cocchetto A, Fiorentino E",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855437/",
+      "abstract": "Paroxysmal dyskinesia (PD) in dogs comprises episodic, involuntary, nonepileptic movement disorders. Recent evidence suggests that PD may be associated with gluten sensitivity, paralleling human gluten-related neurologic syndromes. Characterize clinical features, gastrointestinal comorbidities, gluten-related serology, and response to a gluten-free diet (GFD) in dogs with presumptive gluten-sensitive PD. We hypothesized that dietary modification would decrease episode frequency, particularly in ",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42855436",
+      "title": "ClotPro viscoelastic testing in coagulation disorders in dogs: a retrospective analysis.",
+      "authors": "Doulidis PG, Frizzo-Ramos C, Prankch LJ, Rütgen B, Burgener IA",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855436/",
+      "abstract": "Viscoelastic testing provides whole-blood assessment of coagulation, but clinical data on the performance of the ClotPro in dogs with naturally occurring diseases are limited. To evaluate pathway coherence of ClotPro variables with routine coagulation tests and to explore disease-associated viscoelastic phenotypes, fibrinolysis, and hypercoagulability. Eighty-four client-owned dogs admitted to a university hospital. Retrospective cohort study. ClotPro variables (clotting time, amplitude at 10&#x",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42855435",
+      "title": "Prevalence of proprioception deficits in dogs visiting veterinary clinics for non-neurologic reasons: a cross-sectional study.",
+      "authors": "Tam A, Carney P, Merbl Y",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855435/",
+      "abstract": "General proprioception deficits (GPD) detected during neurological exams aid in neurologic assessment and steer practitioners to consider neurological differential diagnoses. However, prevalence of GPD in without clinical signs of neurologic disease is limited. That elderly dogs have GPD that might be undetected in dogs not presenting for neurologic concerns and to determine GPD prevalence in dogs presented to a veterinary teaching hospital. The study included 277 client-owned dogs presenting to",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42855434",
+      "title": "Clinical characteristics of pneumorrhachis in dogs and cats: a retrospective study of 125 cases.",
+      "authors": "Ooms S, Bossens K, Cornelis I, van Soens I, Kromhout K",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855434/",
+      "abstract": "Pneumorrhachis (PR), defined as gas within the vertebral canal, is an uncommon finding, and its clinical relevance and relationship to the vacuum phenomenon (VP) have not been systematically evaluated. To characterize the anatomical distribution of PR in dogs and cats undergoing computed tomography (CT) and to assess its relationship with signalment, VP, and concurrent neurological and non-neurological conditions. One hundred nineteen dogs and 6 cats with PR identified on CT between 2015 and 202",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -437,6 +393,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42800045/",
       "abstract": "Long-term thyroid status and survival after radioiodine treatment of hyperthyroid cats are incompletely characterized, particularly for cats developing iatrogenic hypothyroidism. To determine long-term thyroid outcomes and survival after radioiodine treatment, and to assess associations among thyroid status, hypothyroid remission, levothyroxine treatment, and survival. One thousand three hundred forty-four hyperthyroid cats treated with radioiodine. Prospective longitudinal cohort study. Thyroid",
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42854821",
+      "title": "Development of a feline Cetuximab with therapeutic potential against feline oral squamous cell carcinoma.",
+      "authors": "Altamura G, Finizio A, Napolano A, Capasso C, Raia M",
+      "journal": "Vet J",
+      "date": "2026 Oct 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854821/",
+      "abstract": "Cetuximab is a chimeric murine-human anti-epidermal growth factor receptor (EGFR) monoclonal antibody (mAb) employed in the therapy of head and neck squamous cell carcinoma (HNSCC). Feline oral squamous cell carcinoma (FOSCC), the counterpart of HNSCC, is unresponsive to standard treatments and often lethal for affected cats. As EGFR is highly conserved between humans and cats, our research group attempted to test anti-cancer properties of Cetuximab in EGFR-positive FOSCC preclinical models, obt",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42854722",
+      "title": "Oral trazodone alone or in combination with gabapentin reduces the expression of stress-related behaviors in a randomized controlled trial with shelter dogs.",
+      "authors": "Delabar A, Koch CS, Burling A, Wallace L, Middleton JR",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854722/",
+      "abstract": "To determine the effects of oral trazodone and gabapentin on the expression of stress-related behaviors (SRBs) in shelter dogs. SRBs were compared among shelter dogs treated orally with trazodone (8 mg/kg), gabapentin (25 mg/kg), trazodone (8 mg/kg) with gabapentin (25 mg/kg), or neither (control) the evening before and the morning of surgical neuter (ovariohysterectomy or castration). Dogs were enrolled between September 2020 and October 2021. Video recordings captured the behavior at baseline,",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42854719",
+      "title": "Chronic eyelid ulceration in a domestic longhair cat.",
+      "authors": "Gilbar LR, Richardson S",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854719/",
+      "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42854718",
+      "title": "Predictors of carbapenem-resistant Enterobacterales enteric colonization among patients admitted to a companion animal intensive care unit.",
+      "authors": "Hidalgo Montealegre D, King CA, Mollenkopf DF, Van Balen JC, Cooper ES",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854718/",
+      "abstract": "To estimate prevalence and identify factors associated with carbapenem-resistant Enterobacterales (CRE) enteric colonization in companion animals admitted to an ICU. The study population included canine and feline patients admitted to The Ohio State University Veterinary Medical Center ICU between January 2024 and June 2025. In total, 5,552 rectal swabs were collected from 3,834 patients during routine screening. A retrospective case-control study included all CRE-positive patients (n = 61) and ",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
