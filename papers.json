@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11 00:47 UTC",
+  "updated": "2026-10-12 01:09 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -132,39 +132,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42791823",
-      "title": "Comparison of Ultrasonographic, Radiographic, Computed Tomographic, and Ex Vivo Measurements of Feline Femoral Trochlear Groove Depth.",
-      "authors": "Silva GPD, Carneiro RK, Mattos MPLDS, Filho FTDA, Brose MM",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791823/",
-      "abstract": "Patellar luxation is a common orthopedic condition in cats, and evaluation of trochlear groove depth is important to determine the need for trochleoplasty during surgical planning. This study compared radiography, ultrasonography, and computed tomography with ex vivo measurements, considered the reference method, for the assessment of trochlear groove depth in cats. Twenty-seven stifle joints from 15 healthy adult cats were evaluated. Trochlear groove depth was measured using skyline radiographi",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791818",
-      "title": "Pet Nutrition and the Unmeasured Owner Outcome: A Bidirectional Framework for Relational Value in Human-Animal Relationships.",
-      "authors": "Wang H, Wang W, Chen Q, Ma M, Zhang Y",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 20",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791818/",
-      "abstract": "The emotional benefits of pet ownership depend critically on the pet's physical, behavioural, and cognitive health-all of which can be improved by targeted nutritional interventions that may reduce pain, anxiety, problem behaviours, and cognitive decline. However, almost no studies have tested whether nutrition-induced behavioural improvements translate into measurable gains in owner emotional well-being or relationship satisfaction. It is important to note that the evidence base for cats remain",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42791805",
-      "title": "Urothelial Carcinoma in a Cat with Bilateral Ectopic Ureters.",
-      "authors": "Piazza C, Seidel E, Dhumeaux M, Vallefuoco R, Fina C",
-      "journal": "Animals (Basel)",
-      "date": "2026 Sep 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42791805/",
-      "abstract": "A 10-year-old neutered female Maine Coon was presented with haematuria, weight loss, polyuria/polydipsia and progressive azotaemia. Diagnostic imaging revealed bilateral renal pelvic dilation, ureteral distension and ectopic ureters. Bacterial pyelonephritis was diagnosed, but the azotaemia progressed despite antibiotic therapy, and suspected ureteral obstruction prompted surgical ureteral reimplantation. The visualisation of omental nodules and thickening of the ectopic right ureterovesicular j",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42843177",
       "title": "Left atrial mural infective endocarditis complicated by coronary embolism and left ventricular myocardial infarction in a cat.",
       "authors": "Romito G, Gemma N, Vasylyeva K, Morini M",
@@ -183,6 +150,39 @@
       "date": "2026 Sep 12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42843176/",
       "abstract": "Ligation of a catheterized vessel after image-guided intervention is common in veterinary medicine, which may affect vascular supply or limit future access. This prospective case series investigated the utility of a preplaced purse-string suture technique for rapid closure of vascular catheterization sites in dogs. Vascular cut down was performed, and a purse-string suture was preplaced around the intended puncture site using 6-0 monofilament, non-absorbable polypropylene suture in 45 vessels fr",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42858362",
+      "title": "Prevalence and potential risk factors associated with idiopathic epilepsy in Golden Retrievers.",
+      "authors": "Winnerby M, Rohdin C, Strandberg E, Gredal H",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858362/",
+      "abstract": "Idiopathic epilepsy (IE) in Golden Retrievers (GRs) has a suspected genetic basis with several endogenous risk factors potentially affecting the disease, including sex, breed subtypes, and chronic comorbidities. A subdivision into working (W-GRs) and show (S-GRs) Golden Retrievers presents a unique opportunity to investigate possible line-related risk factors. Define prevalence and investigate risk factors for IE in a population of Swedish GRs. We hypothesized a high prevalence of IE in GRs char",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42858360",
+      "title": "Global longitudinal strain assessment of systolic dysfunction in Doberman Pinschers with ventricular arrhythmias and normal echocardiographic measurements.",
+      "authors": "Hofmeister K, Friederich J, Schöbel J, Hertzsch S, Eberhard J",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858360/",
+      "abstract": "Dilated cardiomyopathy (DCM) in Doberman Pinschers (DPs) often initially manifests as ventricular arrhythmias (stage B1) without echocardiographic evidence of cardiac remodeling (stage B2). Global longitudinal strain (GLS) is a sensitive echocardiographic variable for detecting early systolic dysfunction. To assess whether GLS detects systolic dysfunction in DPs with arrhythmogenic stage B1 and to evaluate the association between arrhythmic burden and GLS. Sixty-three DPs with arrhythmogenic sta",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42858358",
+      "title": "Primary hyperparathyroidism in a 4-month-old German Shepherd mixed breed dog.",
+      "authors": "Aires-Serrano J, Shimali J, Renard J, Bird F, Hrovat A",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858358/",
+      "abstract": "A 4-month-old female-intact German Shepherd mixed breed dog was evaluated for polyuria, polydipsia, oral discomfort, tachypnea, and pyrexia. Blood testing documented total and ionized hypercalcemia with an increased parathyroid hormone concentration. Computed tomography identified bone abnormalities of the mandibule and mild, diffuse pulmonary changes. Ultrasonography of the neck documented one mildly enlarged parathyroid gland that was surgically removed. Histopathology indicated diffuse chief ",
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -396,6 +396,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42859172",
+      "title": "Morpho-molecular assessment of nanomaterials in teleost fish wound healing: a systematic review.",
+      "authors": "Rabea A, Ibrahim I, Mahgoub H, El-Shaieb A",
+      "journal": "BMC Vet Res",
+      "date": "2026 Oct 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42859172/",
+      "abstract": "Teleost fish skin is a vital barrier for regulating osmoregulation, immune defense, and respiration. Cutaneous wounds in farmed fish cause significant economic loss and welfare concerns, as standard treatments, like antibiotics and chemical baths, are often ineffective, toxic, and fail to adhere to mucus-covered surfaces. While nanomaterials show great promise for wound healing, current data on how they work in fish remain incomplete. This systematic review evaluates the performance of these nan",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42854821",
       "title": "Development of a feline Cetuximab with therapeutic potential against feline oral squamous cell carcinoma.",
       "authors": "Altamura G, Finizio A, Napolano A, Capasso C, Raia M",
@@ -441,12 +452,12 @@
     },
     {
       "id": "42849778",
-      "title": "GASTROINTESTINAL TRANSIT TIME OF HEALTHY DOGS BEFORE AND AFTER ENEMA ASSESSED BY CONTRAST RADIOGRAPHS WITH BARIUM-IMPREGNATED POLYETHYLENE SPHERES.",
+      "title": "Gastrointestinal transit time of healthy dogs before and after enema assessed by contrast radiographs with barium-impregnated polyethylene spheres.",
       "authors": "de Souza MR, da Silva WPR, Xavier RAL, da Silva CCL, Ruiz KC",
       "journal": "Vet J",
       "date": "2026 Oct 8",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42849778/",
-      "abstract": "In this prospective experimental study, we aimed to assess the gastrointestinal (GI) transit of healthy dogs with and without an enema, using barium-impregnated polyethylene spheres (BIPS). Six healthy dogs underwent two experimental steps: evaluation of the GI transit using BIPS (BIPS group) before and after enema (BIPS+ENEMA group). All animals were fasted for 12hours, the transit was assessed in serial radiographs from 0 to 12h, and BIPS were counted in each segment of the GI tract, calculati",
+      "abstract": "In this prospective experimental study, we aimed to assess the gastrointestinal (GI) transit of healthy dogs with and without an enema, using barium-impregnated polyethylene spheres (BIPS). Six healthy dogs underwent two experimental steps: evaluation of the GI transit using BIPS (BIPS group) before and after enema (BIPS+ENEMA group). All animals were fasted for 12&#x202f;h, the transit was assessed in serial radiographs from 0 to 12&#x202f;h, and BIPS were counted in each segment of the GI trac",
       "category": "imaging",
       "summary_ko": ""
     },
@@ -501,7 +512,7 @@
       "journal": "Vet J",
       "date": "2026 Oct 7",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42843446/",
-      "abstract": "Extrahepatic cholestasis in dogs is frequently associated with reduced intestinal absorption of fat-soluble vitamins, resulting in suboptimal vitamin D status. This prospective longitudinal study assessed the effects of six-week oral cholecalciferol supplementation (40 IU/kg/day) on serum 25-hydroxycholecalciferol [25(OH)D] in fourteen dogs with chronic biliary disease. Median baseline 25(OH)D concentration was 2.3ng/mL (0.3-11.2), increasing to 4.3ng/mL (2.4-14.0) after treatment, whereas healt",
+      "abstract": "Extrahepatic cholestasis in dogs is frequently associated with reduced intestinal absorption of fat-soluble vitamins, resulting in suboptimal vitamin D status. This prospective longitudinal study assessed the effects of six-week oral cholecalciferol supplementation (40 IU/kg/day) on serum 25-hydroxycholecalciferol [25(OH)D] in fourteen dogs with chronic biliary disease. Median baseline 25(OH)D concentration was 2.3&#x202f;ng/mL (0.3-11.2), increasing to 4.3&#x202f;ng/mL (2.4-14.0) after treatmen",
       "category": "internal",
       "summary_ko": ""
     },
@@ -584,7 +595,7 @@
     },
     {
       "id": "42833390",
-      "title": "MRI FINDINGS IN CAUDA EQUINA NERVE ROOTS AND ASSOCIATED CLINICAL SIGNS IN DOGS WITH DEGENERATIVE LUMBOSACRAL STENOSIS.",
+      "title": "MRI findings in cauda equina nerve roots and associated clinical signs in dogs with degenerative lumbosacral stenosis.",
       "authors": "Siauciunaite A, Alder D, Richter H, Steffen F",
       "journal": "Vet J",
       "date": "2026 Oct 5",
@@ -778,6 +789,39 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42829981/",
       "abstract": "Hemostatic disorders in cats, while uncommon, can be life-threatening. In general, they can be diagnosed by utilizing a combination of history, physical examination findings, point-of-care assays and a basic understanding of hemostasis. This review aims to provide a general overview of hemostasis physiology, discuss common hemostatic disorders, diagnosis and interpretation of hemostatic testing, and summarize treatments of hemostatic disorders. The underlying cause of hemostatic disorders can of",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42857564",
+      "title": "Dog-mediated active-leisure engagement and organised canine sport: a cross-sectional analysis of Hungarian dog owners.",
+      "authors": "Müller A, Lengyel A, Mező K, Bába ÉB, Bendíková E",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42857564/",
+      "abstract": "Companion dogs are widely seen as a route to physical activity, yet owners differ greatly in how actively they engage their animals, and average owner-non-owner comparisons obscure this variation. We asked how strongly an owner's dog-mediated active-leisure engagement is associated with organised physical activity, and whether that engagement is patterned by place of residence and by the economic priority owners assign to their dog's health. Cross-sectional survey data from 954 Hungarian adult d",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42857385",
+      "title": "Erythrocyte membrane lipidomic signatures in canine lymphoma: immunophenotype-specific alterations and prognostic associations.",
+      "authors": "Rinaldi V, Belà B, Porreca A, Fusaro I, Luciani A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42857385/",
+      "abstract": "Lipid metabolic dysregulation is increasingly recognized as a hallmark of cancer. Erythrocyte membrane fatty-acid (FA) profiling may reflect systemic metabolic alterations and provide non-invasive biomarkers of tumor biology. This prospective study investigated the erythrocyte membrane lipidomic profile of dogs with lymphoma and its potential prognostic relevance. Thirty-nine dogs with newly diagnosed lymphoma were enrolled. Clinical staging, flow-cytometric immunophenotyping, and erythrocyte me",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42857113",
+      "title": "Case Report: Computed tomographic diagnosis of asymmetric bilateral uterine horn torsion secondary to benign uterine leiomyomas in a non-gravid dog.",
+      "authors": "Jeong E, Kim J, Kim Y, Eom K, Kim J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42857113/",
+      "abstract": "Uterine torsion is uncommon in dogs and most commonly involves a single uterine horn. An 11-year-old intact female Pomeranian was presented with a 2- to 3-day history of abdominal distension, dyspnea, anorexia, vomiting, and oliguria. Clinicopathologic findings indicated renal compromise, electrolyte abnormalities, tissue injury, and marked systemic inflammation. Radiography and ultrasonography revealed large bilateral abdominal masses with peritoneal effusion, although the organ of origin could",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1063,50 +1107,6 @@
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42807202/",
       "abstract": "Root canal treatment in canine teeth of dogs represents a technically demanding procedure due to complex root canal anatomy and large canal dimensions. The present study aimed to compare different endodontic instrumentation techniques and to evaluate their effects on canal geometry, obturation quality, and procedural safety using high-resolution micro-computed tomography (micro-CT). In addition, the diagnostic value of cone-beam computed tomography (CBCT) in the assessment of postoperative findi",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42798654",
-      "title": "A neurotrophic withdrawal hypothesis for multisystem adverse events associated with anti-NGF therapy for canine osteoarthritis pain.",
-      "authors": "Federico G, Ilardi A, Elia V, Chieffi S",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798654/",
-      "abstract": "Post-marketing reports in dogs treated with bedinvetmab (Librela&#x2122;, Zoetis), the first anti-nerve growth factor (NGF) monoclonal antibody approved for canine osteoarthritis pain, include musculoskeletal, autonomic, and neurological events. Existing interpretations address these domains separately or focus on the limitations of pharmacovigilance systems. Here, we propose a complementary, integrative interpretation: at least some of these events may share an on-target component arising from ",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42798635",
-      "title": "Case Report: Topical imiquimod (Aldara®) as a palliative option for extensive canine facial cutaneous melanocytoma.",
-      "authors": "Ryu H, Kang M, Cho KW, Jung DI, Bae H",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798635/",
-      "abstract": "Cutaneous melanocytic neoplasms in dogs generally present as benign lesions, unlike their oral or digital counterparts, but treatment can be challenging when complete surgical excision is restricted by anatomical location. A 5-year-old neutered male Shiba Inu was evaluated for a firm, well-circumscribed, black-pigmented nodule measuring 4&#x202f;&#xd7;&#x202f;3.8&#x202f;cm on the left facial region, with surrounding pigmented papules. Histopathological examination of punch biopsy specimens confi",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42798594",
-      "title": "Exploratory analysis of perioperative plasma histamine concentrations in dogs with mast cell tumours.",
-      "authors": "Niwa A, Kadosawa T, Sakai T",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798594/",
-      "abstract": "In this exploratory study, we investigated plasma histamine concentration as a perioperative prognostic marker in dogs with mast cell tumours. Mast cell tumours exhibit marked heterogeneity in biological behaviour, and histological grading is widely used for prognostication; however, grading alone does not directly reflect tumour burden or residual disease following surgery. Histamine has a short half-life in the circulation, and persistently elevated plasma histamine levels may reflect continuo",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42798418",
-      "title": "Predicting stage B2 myxomatous mitral valve disease in dogs using machine learning and routine clinical data.",
-      "authors": "Nam H, Jeong K, Seo H, Chae Y, Kang BT",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798418/",
-      "abstract": "Early identification of Stage B2 myxomatous mitral valve disease in dogs is critical for initiating appropriate treatment to delay the onset of heart failure. Although echocardiography is the gold standard for diagnosing Stage B2 cardiac remodeling, it has limitations in general clinical settings owing to the limited availability of specialized equipment and the need for advanced technical expertise. We developed a machine learning model using routine clinical data to identify dogs with Stage B2",
       "category": "imaging",
       "summary_ko": ""
     }
