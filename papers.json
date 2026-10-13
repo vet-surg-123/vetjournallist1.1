@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12 01:09 UTC",
+  "updated": "2026-10-13 02:57 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -374,28 +374,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42801331",
-      "title": "Idiopathic cholesterol pericarditis in a dog presenting with cardiac tamponade.",
-      "authors": "Wong B, Shankar S, Sarvani E, Civello A, Payne JR",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42801331/",
-      "abstract": "A 7-year, 6-month-old, female neutered, Pug dog presented with lethargy, hyporexia, polydipsia, abdominal distension, and dyspnea. Point-of-care ultrasonography identified tricavitary effusions and cardiac tamponade. Pericardiocentesis yielded 83&#xa0;mL of sanguineous scintillating fluid. Clinical examination, bloodwork, echocardiography, electrocardiography, thoracic and abdominal computed tomography scans, and pericardial fluid analysis including culture and sensitivity did not identify any c",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42800045",
-      "title": "Long-term thyroid outcomes and survival in hyperthyroid cats treated with radioiodine: association with overt and subclinical hypothyroidism and levothyroxine treatment.",
-      "authors": "Peterson ME, Carmody S, Rishniw M",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42800045/",
-      "abstract": "Long-term thyroid status and survival after radioiodine treatment of hyperthyroid cats are incompletely characterized, particularly for cats developing iatrogenic hypothyroidism. To determine long-term thyroid outcomes and survival after radioiodine treatment, and to assess associations among thyroid status, hypothyroid remission, levothyroxine treatment, and survival. One thousand three hundred forty-four hyperthyroid cats treated with radioiodine. Prospective longitudinal cohort study. Thyroid",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "42859172",
       "title": "Morpho-molecular assessment of nanomaterials in teleost fish wound healing: a systematic review.",
       "authors": "Rabea A, Ibrahim I, Mahgoub H, El-Shaieb A",
@@ -756,6 +734,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42825706/",
       "abstract": "The infiltrative growth of sarcomas represents a challenge for complete resection, as tumour borders are not easily detectable. Fluorescence guided surgery (FGS) allows improved visualization of tumour margins and could improve resection accuracy. Unfortunately, studies validating the impact of FGS are rare, and direct comparisons of different dyes are not available. Dogs (n&#x2009;=&#x2009;20) that were presented for sarcoma resection were prospectively enrolled and randomized to either receive",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42860568",
+      "title": "Long-term outcomes following modified Blalock-Taussig-Thomas shunt placement in 13 dogs with cyanotic congenital heart disease.",
+      "authors": "Rossanese M, Hannabuss J, Brockman D",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Oct 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860568/",
+      "abstract": "To describe long-term outcome and owner-perceived quality of life in dogs with cyanotic congenital cardiac disease undergoing modified Blalock-Taussig-Thomas shunt procedure. Medical records of dogs that underwent Blalock-Taussig-Thomas shunt between 2009 and 2025 at a small animal referral hospital were retrospectively reviewed. Complications, long-term outcomes and quality of life were assessed via clinical examination and/or contact with owners or referring veterinarians. Thirteen dogs were i",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42860147",
+      "title": "Clinical features, survival, and associated factors for canine mast cell tumors: the role of neutering.",
+      "authors": "da Silva EMG, Mantovani MM, Silva MJB",
+      "journal": "Vet J",
+      "date": "2026 Oct 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860147/",
+      "abstract": "Canine mast cell tumors are among the most common skin neoplasms in dogs and exhibit highly variable biological behavior. Several factors have been associated with their development and prognosis, including breed, body size, and histological grade; however, the influence of neutering status, particularly age at neutering, on the odds of tumor diagnosis and survival remains unclear. This study aimed to evaluate clinical features, factors associated with diagnosis, and survival outcomes in dogs wi",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
