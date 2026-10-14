@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13 02:57 UTC",
+  "updated": "2026-10-14 01:03 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -63,61 +63,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42813598/",
       "abstract": "To evaluate whether point-of-care ultrasound probe location (at or below the costochondral junction) and probe orientation (perpendicular or parallel to the ribs) affect operator ability to detect pleural effusion in a canine cadaver model. Twelve intubated canine cadavers with scant to large volume pleural effusion were scanned in sternal recumbency while receiving positive pressure ventilation. Twelve operators (2 emergency and critical care specialists, 2 veterinary students and 8 interns) pe",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42803133",
-      "title": "Tibial plateau leveling osteotomy surgical site infections: A systematic review with meta-analysis of prevalence and associated risk factors.",
-      "authors": "Bidjarano AC, Gordon-Evans W, Thomson C",
-      "journal": "Vet Surg",
-      "date": "2026 Sep 28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42803133/",
-      "abstract": "To determine the overall prevalence of surgical site infection (SSI) following tibial plateau leveling osteotomy (TPLO) in dogs and to evaluate associated risk factors across published studies. Systematic review with meta-analysis. Client-owned dogs that underwent TPLO as described in the published literature. A systematic review of studies reporting SSI following TPLO was conducted using PRISMA guidelines. Included studies were screened for quality, and pooled prevalence estimates were calculat",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42803121",
-      "title": "EXPRESS: Modified transcanal perendoscopic myringotomy and septotomy technique for cats with otitis media - a retrospective study of 38 cats.",
-      "authors": "Wetzels BN, Pickee E, Passon M, Den Hertog E, Ter Haar G",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Sep 28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42803121/",
-      "abstract": "ObjectivesThis study solely aims to describe a convenient minimally invasive technique for access to the ventromedial compartment of the middle ear in cats with polypoid or non-polypoid otitis media.MethodsPatients' records were retrospectively retrieved from cats with otic symptoms. Cats were included based on the presence of fluid/soft tissue within the tympanic cavity on CT imaging, abnormal tympanic membranes on oto-endoscopy and/or abnormal auditory tube openings upon nasopharyngoscopy.Resu",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42803120",
-      "title": "EXPRESS: Echocardiographic prevalence and attachment-site patterns of left ventricular bands in cats.",
-      "authors": "Van den Noortgate G, Zablotski Y, Wess G",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Sep 28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42803120/",
-      "abstract": "ObjectivesTo determine the echocardiographic prevalence and attachment-site patterns of left ventricular bands (LVBs) in cats and assess whether LVB counts differed by sex, sedation status, or echocardiographic group.MethodsIn this prospective observational study, 200 cats undergoing complete transthoracic echocardiographic examination were evaluated for the presence, number, and attachment-site patterns of LVBs. LVBs were defined as discrete intracavitary linear structures connecting two myocar",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42802545",
-      "title": "Radio-ulnar ischaemic necrosis in 14 dogs.",
-      "authors": "Clark IMT, Priestnall S, Meeson R",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Sep 27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42802545/",
-      "abstract": "To characterise signalment, imaging features and any associated clinical findings of dogs with a radiographic diagnosis of radio-ulnar ischaemic necrosis. Retrospective case series reviewing medical records (2010 to 2024) of dogs with imaging lesions consistent with a radio-ulnar ischaemic necrosis on computed tomography or digital radiographs. Fourteen dogs had a radiographic radio-ulnar ischaemic necrosis on at least one limb. All dogs identified were adult dogs (1 to 12&#x2009;years), with Sp",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42802502",
-      "title": "Cannabidiol in small animal practice: current evidence, clinical applications and practical recommendations for dogs and cats.",
-      "authors": "Sano T",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Sep 27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42802502/",
-      "abstract": "Cannabidiol has gained increasing attention in small animal practice as a potential adjunctive therapy for a variety of conditions, including osteoarthritis, epilepsy and anxiety-related disorders. This mini-review summarises current clinical evidence in dogs and cats, highlights key limitations and provides practical recommendations for clinicians. Recent studies suggest that cannabidiol may improve pain and mobility in canine osteoarthritis and reduce seizure frequency in refractory epilepsy, ",
-      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -341,39 +286,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42806282",
-      "title": "The relationship between urinalysis abnormalities, soiling behavior, and cognitive decline in aging dogs.",
-      "authors": "Rafatpanah Baigi S, Yang CC, Mondino A, Fefer G, Panek WK",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42806282/",
-      "abstract": "In elderly people, dementia and urinary tract dysfunction often exacerbate one another. Aging dogs also suffer cognitive decline but the relationship between cognitive decline, soiling behaviors, and urinalysis abnormalities has not been explored. Soiling behavior is associated with urinalysis abnormalities and cognitive performance in aging dogs. Eighty-four client-owned dogs enrolled in a longitudinal cohort study of aging. In this prospective observational study, dogs were evaluated biannuall",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42803610",
-      "title": "Current knowledge of intermittent photic stimulation for electroencephalography in dogs.",
-      "authors": "Shwarzman RJ, Ford M, Chan AMK, Gaitero L, James FMK",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42803610/",
-      "abstract": "Intermittent photic stimulation is a standardized activation procedure for electroencephalography in humans that increases the detection of epileptic activity and improves diagnostic yield. However, its application in veterinary medicine remains inconsistent and methodologically heterogeneous. This narrative review synthesizes current knowledge regarding intermittent photic stimulation in dogs, critically evaluates variability in stimulus design, vigilance state, and electrode montage, and propo",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42801332",
-      "title": "Effect of low dose azithromycin on the fecal microbiome and fecal bile acids in healthy dogs.",
-      "authors": "Smith C, Husnik R, Gaschen F, Kirk C, Zhu X",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42801332/",
-      "abstract": "Azithromycin has prokinetic effects at low doses in people, cats, and anecdotally, in dogs; however, antibiotics alter the fecal microbiome and metabolome. To prospectively evaluate the effects of low-dose azithromycin, hypothesizing that it would alter the fecal microbiome and fecal bile acids in healthy dogs. Eleven healthy research dogs. Prospective study. Dogs received azithromycin (2&#xa0;mg/kg PO q8h) for 8&#xa0;days. Fecal samples were collected before (day 1), during (day 6), and after a",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42859172",
       "title": "Morpho-molecular assessment of nanomaterials in teleost fish wound healing: a systematic review.",
       "authors": "Rabea A, Ibrahim I, Mahgoub H, El-Shaieb A",
@@ -441,7 +353,7 @@
     },
     {
       "id": "42849777",
-      "title": "Echocardiographic changes in hyperthyroid cats: comparison of subclinical disease and congestive heart failure.",
+      "title": "Echocardiographic changes in hyperthyroid cats: Comparison of subclinical disease and congestive heart failure.",
       "authors": "Greil S, Utzinger H, Maerz I",
       "journal": "Vet J",
       "date": "2026 Oct 8",
@@ -529,7 +441,7 @@
     },
     {
       "id": "42838286",
-      "title": "Dietary Lyophilized Bee Venom from Apis mellifera Enhances Growth Performance, Antioxidant Capacity, Innate Immunity, and Resistance to Vibrio harveyi in Juvenile Pacific White Shrimp (Litopenaeus vannamei).",
+      "title": "Dietary lyophilized bee venom from apis mellifera enhances growth performance, antioxidant capacity, innate immunity, and resistance to Vibrio harveyi in juvenile pacific white shrimp (Litopenaeus vannamei).",
       "authors": "Gamil NM, Elbaghdady HAM, Felefel W, Khalil RH, Elhussieny O",
       "journal": "Vet J",
       "date": "2026 Oct 6",
@@ -737,6 +649,28 @@
       "summary_ko": ""
     },
     {
+      "id": "42866960",
+      "title": "Clinical features, management, short- and long-term outcomes for cats and dogs diagnosed with pyothorax: 103 cases (2015-2021).",
+      "authors": "Bartlett AJ, Dordio AMD, Jerabkova P, Sparks T, Herrtage M",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Oct 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42866960/",
+      "abstract": "To describe canine and feline pyothorax cases, comparing bacteriology, aetiologies and short- and long-term outcomes of medical versus surgical treatment. Clinical records of canine and feline pyothorax cases from two UK referral centres (2015 to 2021) were retrospectively reviewed. Follow-up was obtained from referring practices' records. Sixty-five dogs and 38 cats were included. Medical management was used in 62% of dogs (40/65) and 76% of cats (29/38); survival to discharge was 88% (35/40) a",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42863523",
+      "title": "Usefulness of serum amyloid A to differentiate feline inflammatory lower respiratory tract diseases from cardiac or neoplastic disease: a retrospective study of 22 cats (2021-2024).",
+      "authors": "Berro E, Fastrès A, Lamoureux A",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Oct 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863523/",
+      "abstract": "To evaluate the usefulness of serum amyloid A concentration in differentiating inflammatory lower respiratory tract diseases from cardiac/neoplastic respiratory diseases in cats. A retrospective analysis of medical records of cats presented between 2021 and 2024 to a single referral centre was performed. Cats in respiratory distress with serum amyloid A assay performed within 48&#x2009;hours after admission were included and divided into two groups (inflammatory and cardiac/neoplastic). The infl",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
       "id": "42860568",
       "title": "Long-term outcomes following modified Blalock-Taussig-Thomas shunt placement in 13 dogs with cyanotic congenital heart disease.",
       "authors": "Rossanese M, Hannabuss J, Brockman D",
@@ -788,6 +722,72 @@
       "date": "2026 Oct",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42829981/",
       "abstract": "Hemostatic disorders in cats, while uncommon, can be life-threatening. In general, they can be diagnosed by utilizing a combination of history, physical examination findings, point-of-care assays and a basic understanding of hemostasis. This review aims to provide a general overview of hemostasis physiology, discuss common hemostatic disorders, diagnosis and interpretation of hemostatic testing, and summarize treatments of hemostatic disorders. The underlying cause of hemostatic disorders can of",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42866544",
+      "title": "Effects of quercetin supplementation on the quality and metabolomic characteristics of sex-sorted frozen semen from Australian Wagyu bulls.",
+      "authors": "Yuan C, Yin Y, Wang X, Yu B, Wu J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42866544/",
+      "abstract": "This study aimed to evaluate the effects of different concentrations of quercetin on the post-thaw sperm quality of sex-sorted frozen semen from Australian Wagyu bulls and to investigate the underlying metabolic regulatory mechanisms using untargeted metabolomics. Sex-sorted frozen semen from Australian Wagyu bulls was treated with 0, 10, 50, 100, 150, and 200 &#x3bc;M quercetin. Sperm motility parameters, plasma membrane integrity, acrosome integrity, mitochondrial membrane potential, DNA integ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42866543",
+      "title": "Long-term CT and US imaging of canine prostatic carcinoma after prostatic artery embolization: a 900-day follow-up case report.",
+      "authors": "Isshiki S, Tsuji-Kawahara S, Ogata M, Hisamoto S, Hashimoto M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42866543/",
+      "abstract": "Canine prostatic carcinoma is a highly aggressive malignancy with a poor prognosis and limited long-term treatment options. Prostatic artery embolization (PAE) has emerged as a minimally invasive alternative, but long-term intraprostatic imaging changes after PAE in dogs remain poorly documented. We performed PAE on a 13-year-old neutered male Chihuahua with prostatic carcinoma. Designating PAE as Day 0, we monitored the prostate, bladder, and lungs with computed tomography (CT), ultrasonography",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42866536",
+      "title": "Correction: Statistical shape modeling of the geometric morphology of the canine femur, tibia, and patella.",
+      "authors": "Huart J, Pozzi A, Bleedorn J, Lu TW, Knell S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42866536/",
+      "abstract": "[This corrects the article DOI: 10.3389/fvets.2024.1366827.].",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42866495",
+      "title": "Bleomycin-based electrochemotherapy for recurrent oral CD8-positive epitheliotropic T-cell lymphoma in a dog with durable local control and necrotic regional lymph node changes: a case report.",
+      "authors": "Akiyoshi M, Hisasue M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42866495/",
+      "abstract": "Oral epitheliotropic T-cell lymphoma (ETCL) is an uncommon form of canine cutaneous lymphoma involving the oral mucosa and mucocutaneous junctions. Information regarding optimal treatment strategies and prognosis is limited. Electrochemotherapy (ECT) has demonstrated efficacy against various cutaneous and subcutaneous tumors in dogs and cats; however, reports describing its use for canine oral ETCL are scarce. A 13-year-old male Beagle presented with multiple nodular lesions involving the right ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42866470",
+      "title": "Bovine blood products modulate the effect of ophthalmic antibiotics against common bacterial pathogens in dogs with infectious keratitis.",
+      "authors": "Kim HO, Kubai MA, Brock L, Stinman CC, Gapp J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42866470/",
+      "abstract": "Bacterial keratitis is a common condition that can result in serious complications including vision impairment and loss of the eye if not treated aggressively. Topical blood products are often utilized concurrently with topical antibiotics for their known anti-collagenolytic properties. These blood products contain albumin that could affect the antibiotic efficacy due to drug-protein binding. In this study, serum and plasma were harvested from 10 healthy bovines, utilizing fresh and frozen (1 mo",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42866079",
+      "title": "Hematologic follow-up of metamizole-associated Heinz body anemia in dogs.",
+      "authors": "Richter C, Geisen V, Palić J, Dörfelt R",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42866079/",
+      "abstract": "Heinz body (HB) anemia is uncommon in dogs. Metamizole is described as a potential trigger in isolated cases. The present study describes the course of metamizole-associated HB anemia in dogs with the development of hematocrit, HBs, and eccentrocytes. In addition, the correlation between HBs, eccentrocytes, hematocrit, and reticulocytes is investigated. In this prospective observational study, 25 dogs with metamizole-associated HB anemia were included. Hematologic examinations and blood smear ev",
       "category": "other",
       "summary_ko": ""
     },
