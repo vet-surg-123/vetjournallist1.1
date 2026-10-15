@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 01:03 UTC",
+  "updated": "2026-10-15 00:24 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,61 +10,6 @@
     "other": "기타"
   },
   "papers": [
-    {
-      "id": "42815535",
-      "title": "Progressive regurgitation and sialorrhea in a 6-year-old mixed-breed dog.",
-      "authors": "Lucioli J, Stefen FBL, Evangelista CM, Cristóvão WF, Traverso SD",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Sep 30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42815535/",
-      "abstract": "",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42815534",
-      "title": "Computed tomography perfusion parameters may aid preoperative differentiation of canine pheochromocytomas from adrenocortical tumors.",
-      "authors": "Iida K, Ishigaki K, Ishikawa C, Shiozawa N, Kinpara M",
-      "journal": "Am J Vet Res",
-      "date": "2026 Sep 30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42815534/",
-      "abstract": "To characterize CT perfusion (CTP)-derived time to highest observed adrenal tissue enhancement (T-peak) and arterial blood flow (AF), evaluate associations with triple-phase CT findings, and assess the diagnostic performance of T-peak, AF, and the tumor-to-contralateral adrenal AF ratio for differentiating pheochromocytomas from adrenocortical tumors. Historical CTP data from 5 healthy Beagles served as controls. Client-owned dogs evaluated from November 21, 2024, through May 31, 2026, underwent",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42815528",
-      "title": "Portable blood glucose meters do not reliably detect hypoglycemia in ferrets (Mustela putorius furo) compared with a point-of-care chemistry analyzer.",
-      "authors": "Rollins K, Rishniw M, Donnelly TM, Kopp L",
-      "journal": "Am J Vet Res",
-      "date": "2026 Sep 30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42815528/",
-      "abstract": "To compare blood glucose concentrations measured by a veterinary portable blood glucose meter (v-PBGM; AlphaTrak3; Zoetis Inc), a human portable blood glucose meter (h-PBGM; FreeStyle Precision Neo; Abbott Diabetes Care), and a point-of-care chemistry analyzer (reference analyzer; VetScan VS2; Zoetis Inc) in client-owned ferrets. Residual heparinized jugular venous blood samples from ferrets undergoing unrelated veterinary evaluations were analyzed from June 2025 through April 2026 within 10 min",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42815526",
-      "title": "Is 28 days of doxycycline still justified for canine Lyme arthropathy? A call for a randomized controlled trial.",
-      "authors": "Emdin F, Daneman N, Weese JS",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Sep 30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42815526/",
-      "abstract": "Canine Lyme borreliosis is commonly treated with a 28-day course of doxycycline, a regimen based on historical precedent rather than evidence. Most dogs exposed to Borrelia burgdorferi remain clinically normal despite seroconversion; of those that do develop clinical Lyme disease, the most common presentation is acute or recurrent shifting-leg lameness consistent with Lyme arthropathy. This Viewpoint proposes there is clinical equipoise to evaluate shorter durations of 10 days of doxycycline in ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42813598",
-      "title": "Veterinary point-of-care ultrasound probe orientation and location for detection of pleural effusion in canine cadavers: a pilot study.",
-      "authors": "Di Franco C, Menard J, Romero A, Chalhoub S, Madden V",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Sep 30",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42813598/",
-      "abstract": "To evaluate whether point-of-care ultrasound probe location (at or below the costochondral junction) and probe orientation (perpendicular or parallel to the ribs) affect operator ability to detect pleural effusion in a canine cadaver model. Twelve intubated canine cadavers with scant to large volume pleural effusion were scanned in sternal recumbency while receiving positive pressure ventilation. Twelve operators (2 emergency and critical care specialists, 2 veterinary students and 8 interns) pe",
-      "category": "imaging",
-      "summary_ko": ""
-    },
     {
       "id": "42854588",
       "title": "Right-to-left shunting following left atrial decompression in three dogs.",
@@ -96,6 +41,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42843176/",
       "abstract": "Ligation of a catheterized vessel after image-guided intervention is common in veterinary medicine, which may affect vascular supply or limit future access. This prospective case series investigated the utility of a preplaced purse-string suture technique for rapid closure of vascular catheterization sites in dogs. Vascular cut down was performed, and a purse-string suture was preplaced around the intended puncture site using 6-0 monofilament, non-absorbable polypropylene suture in 45 vessels fr",
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42873829",
+      "title": "Prevalence of antibiotic use in dogs and cats in US and Canadian veterinary teaching hospitals, 2022.",
+      "authors": "Clark H, Bollig ER, Beaudoin AL, Fellman CL, Allano M",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42873829/",
+      "abstract": "Evaluation of current antimicrobial prescribing practices can inform antimicrobial stewardship efforts. Our primary objective was to describe current antibiotic prescribing practice in veterinary schools. Medical records from 1800 animals (1403 dogs, 397 cats) at 31 US and Canadian veterinary schools were included. Hospitals collected data from medical records of animals evaluated on a single date in August 2022. Data included patient signalment, hospitalization status, clinical condition(s), di",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42873828",
+      "title": "Idiopathic facial neuropathy in cats: clinical presentation, magnetic resonance imaging findings, and outcome.",
+      "authors": "Stefaniuk M, Danciu CG, Muñiz Moris L, Ricco C, De Decker S",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42873828/",
+      "abstract": "Idiopathic facial neuropathy (IFN) is commonly described in dogs, but information in cats is lacking. Describe clinical presentation, magnetic resonance imaging (MRI) findings and outcome in cats diagnosed with IFN. Thirteen cats with presumptive diagnosis of IFN. Multicenter retrospective descriptive study with questionnaire-based follow-up. Magnetic resonance imaging was assessed by a single author blinded to clinical signs. Median age was 30&#xa0;months (range, 6-142). Median time of onset to",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42870559",
+      "title": "Reply to letter regarding \"ACVIM-endorsed statement: consensus statement and systematic review on guidelines for the diagnosis and treatment of chronic inflammatory enteropathy in dogs\".",
+      "authors": "Heilmann RM, Jergens AE, Kathrani A, Allenspach K, Schmitz SS",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42870559/",
+      "abstract": "",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42867939",
+      "title": "Myoclonus as a neurologic manifestation of hypoglycemia in dogs.",
+      "authors": "Polidoro D, Liatis T, Álvarez P, Bhatti SFM",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42867939/",
+      "abstract": "Myoclonus consists of brief, shock-like jerks and is not reported in dogs as a neurological manifestation of hypoglycemia. To describe hypoglycemia-associated myoclonus in dogs and report diagnostic findings, treatment, and outcome. Ten dogs presenting myoclonus and concurrent hypoglycemia. Multicenter, retrospective study of dogs presenting hypoglycemia-related myoclonus. All dogs presented with myoclonus. Neurological examination was abnormal in 5/10 (50%). Myoclonus was generalized in 8/10 (8",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42867938",
+      "title": "Letter regarding \"ACVIM-endorsed statement: consensus statement and systematic review on guidelines for the diagnosis and treatment of chronic inflammatory enteropathy in dogs\".",
+      "authors": "Jablonski SA, Tolbert MK",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42867938/",
+      "abstract": "",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -261,28 +261,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42823068/",
       "abstract": "Propriospinal myoclonus (PSM) is characterized by repetitive, brief jerks of the trunk, hips, and knees in humans and has not been reported in dogs. To describe phenotype, diagnostic findings, treatment, and outcomes in presumptive PSM in dogs. Twenty-seven dogs with presumptive PSM. Multicenter, retrospective study of dogs with myoclonus affecting the limbs and trunk without head involvement, identified through online calls for suspected cases. Median age at onset was 9&#xa0;months (range, 2-44",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42815455",
-      "title": "Clinical and molecular genetic description of a Marfan-like syndrome in a Golden Retriever puppy.",
-      "authors": "Lennertz HT, McClosky ME, Fuentes MDM, Niggel JK, Casal ML",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42815455/",
-      "abstract": "Marfan syndrome (MFS) is a genetic fibrillin disorder causing cardiac, ocular, and musculoskeletal pathology; it is not well reported on in dogs, with minimal descriptions of antemortem diagnosis. Use whole-genome sequencing (WGS) to diagnose a dog with suspected MFS to guide prognostication and potential treatment. A client-owned, 10-month-old Golden Retriever presented with signs of possible connective tissue disorder. Blood and DNA samples from a non-affected German Shepherd-Beagle mix and 16",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42814655",
-      "title": "Melioidosis in dogs and cats: 18 cases.",
-      "authors": "Lim ZS, Soon K, Neo N, Labrador J, Kelly D",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42814655/",
-      "abstract": "The clinical manifestations and outcomes in dogs and cats with melioidosis have not been described. Describe the presenting signs, treatment, and outcome of dogs and cats with melioidosis. Fifteen dogs and 3 cats from a hospital in Singapore. Retrospective case series. A hospital database search was performed to identify dogs with melioidosis presenting over a 5-year period. Data collected included signalment, clinical signs, test results, treatment, and outcome. Diagnosis was based on positive ",
-      "category": "other",
       "summary_ko": ""
     },
     {
@@ -649,6 +627,50 @@
       "summary_ko": ""
     },
     {
+      "id": "42872590",
+      "title": "A novel 3D-printed patient-specific limb-sparing radial endoprosthesis for treatment of primary osteosarcoma in a Great Dane.",
+      "authors": "Tavola F, Kaczmarek J, Oxley B, Troedson K",
+      "journal": "Vet Surg",
+      "date": "2026 Oct 14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872590/",
+      "abstract": "To describe a novel titanium three-dimensional-printed patient-specific radial endoprosthesis (3D-PSE) for the successful treatment of a primary osteosarcoma in a 7-year-old female Great Dane. Case report. The dog presented with a 10-day history of swelling of the right distal radius. Computed tomography (CT) revealed an osteolytic lesion involving the distal metaphysis and diaphysis of the radius which was highly suspicious for an osteosarcoma (OSA). Thoracic CT showed no metastases. CT data wa",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42869270",
+      "title": "Evaluation of nanofibrillated cellulose as a urethral bulking agent in female dogs with acquired urethral sphincter mechanism incompetence: a prospective clinical study.",
+      "authors": "Peltokallio NMM, Bolen G, Gordin E, Lepajõe J, Hamaide A",
+      "journal": "Vet J",
+      "date": "2026 Oct 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42869270/",
+      "abstract": "Urethral bulking agent (UBA) implantation is a minimally invasive, effective and safe alternative treatment for refractory urethral sphincter mechanism incompetence (USMI). However, repeated implantations are frequently needed to maintain continence. Therefore, a prospective interventional clinical study with eight client-owned neutered female dogs was designed to evaluate the clinical efficacy and 12-month outcome of nanofibrillated cellulose (NFC), a novel biomaterial as a UBA. Concurrent caus",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42869081",
+      "title": "Low complication rates are reported in cats presenting for neurological complaints and undergoing cerebrospinal fluid collection.",
+      "authors": "Spinoglio GJ, Korman R, Thompson AL",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42869081/",
+      "abstract": "To assess complications, outcomes, and associated risk factors of cats undergoing CSF collection. This was a single-center retrospective cohort study of client-owned cats presenting to 3 referral hospitals for CSF collection from January 2012 through December 2022. Cats were excluded for nonspecific and/or extraneural presenting complaints. If cats had multiple CSF collection presentations, only the first was included. Records were retrospectively assessed for signalment, physical examination fi",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42869074",
+      "title": "Two headless cannulated screws have a higher maximum failure load than screw-and-pin fixation at a 70° fracture angle in 3-dimensionally printed canine femoral neck models.",
+      "authors": "Song I, Kim S, Kim HY, Kim JM",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42869074/",
+      "abstract": "To compare maximum failure load among 3-D-printed canine femoral neck models differing in fracture angle and fixation configuration. This experimental biomechanical study was conducted in a university research laboratory from September 10, 2025, through March 10, 2026. Polycarbonate 3-D-printed models were created using left femoral CT data from a 2-year-old 11.9-kg Shiba Inu. The group configurations were a 50&#xb0; femoral neck fracture stabilized with one 2.5-mm fully threaded headless cannul",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
       "id": "42866960",
       "title": "Clinical features, management, short- and long-term outcomes for cats and dogs diagnosed with pyothorax: 103 cases (2015-2021).",
       "authors": "Bartlett AJ, Dordio AMD, Jerabkova P, Sparks T, Herrtage M",
@@ -656,6 +678,17 @@
       "date": "2026 Oct 13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42866960/",
       "abstract": "To describe canine and feline pyothorax cases, comparing bacteriology, aetiologies and short- and long-term outcomes of medical versus surgical treatment. Clinical records of canine and feline pyothorax cases from two UK referral centres (2015 to 2021) were retrospectively reviewed. Follow-up was obtained from referring practices' records. Sixty-five dogs and 38 cats were included. Medical management was used in 62% of dogs (40/65) and 76% of cats (29/38); survival to discharge was 88% (35/40) a",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42869070",
+      "title": "Biomechanical evaluation of cerclage fixation constructs in a 3-dimensionally printed canine tibial long-oblique fracture model.",
+      "authors": "Park J, Kim JM, Kim HY",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42869070/",
+      "abstract": "To compare the biomechanical performance of cerclage fixation constructs in a standardized 3-D-printed canine tibial long-oblique fracture model. 3 fixation constructs-stainless steel wire cerclage (SSW), FiberWire cerclage (FW), and paraosseous clamp-cerclage stabilization (PCCS)-were compared in a standardized 3-D-printed canine tibial long-oblique fracture model. A standardized mid-diaphyseal long-oblique fracture was created in each specimen. Axial compression testing was performed until fai",
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -722,6 +755,17 @@
       "date": "2026 Oct",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42829981/",
       "abstract": "Hemostatic disorders in cats, while uncommon, can be life-threatening. In general, they can be diagnosed by utilizing a combination of history, physical examination findings, point-of-care assays and a basic understanding of hemostasis. This review aims to provide a general overview of hemostasis physiology, discuss common hemostatic disorders, diagnosis and interpretation of hemostatic testing, and summarize treatments of hemostatic disorders. The underlying cause of hemostatic disorders can of",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42871677",
+      "title": "Case Report: Therapeutic plasma exchange for systemic centipede envenomation in a 2-kg Chihuahua dog.",
+      "authors": "Tang W, Li Y, Sun G, Zheng C, Gao Z",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42871677/",
+      "abstract": "A 2-kg, 8-year-old neutered male Chihuahua was presented after a centipede sting to the interdigital region of the right forepaw, followed by lameness and red urine. Wound care and intravenous fluid therapy were provided at the referring clinic; however, pigmenturia persisted and systemic manifestations developed, prompting referral. On admission, the dog had icteric mucous membranes, mild dehydration, and clinicopathologic evidence of systemic inflammation, tissue injury, hepatocellular damage,",
       "category": "other",
       "summary_ko": ""
     },
@@ -1064,50 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42818666/",
       "abstract": "Treating cats with chronic kidney disease generally requires daily administration of an antiproteinuric drug, which can impact medication compliance with medical outcomes as well as negative implications for the wellbeing of the cat and the owner. In addition, for a given daily dose, benazepril is more effective when administered several times a day but this could increase non compliance. It was therefore conceived to incorporate benazepril into a highly palatable diet for cats with chronic kidn",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42813026",
-      "title": "Correction: Comparison of analgesic efficacy between intrafunicular and intratesticular lidocaine injection in dogs.",
-      "authors": "Frontiers Production Office",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42813026/",
-      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1753113.].",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42812987",
-      "title": "Correction: Templated tibial plateau leveling osteotomy and implant guidance system improves accuracy in novice surgeons: an ex vivo study.",
-      "authors": "Wyatt TJ, Lynch AC, Miniter B",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42812987/",
-      "abstract": "[This corrects the article DOI: 10.3389/fvets.2026.1729787.].",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42807956",
-      "title": "Diagnostic performance of Vcheck NT-proBNP and cardiac troponin I assays for detection of dilated cardiomyopathy in Doberman Pinschers.",
-      "authors": "Driessen H, Friederich J, Wess G",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42807956/",
-      "abstract": "Dilated cardiomyopathy (DCM) is a common hereditary cardiac disease in Doberman Pinschers. Early myocardial changes can be detected using cardiac biomarkers such as N-terminal pro-B-type natriuretic peptide (NT-proBNP) and cardiac troponin I (cTnI). The Vcheck V200 (Bionote) is a point-of-care immunofluorescence-based assay for in-clinic measurement of these markers. To evaluate the diagnostic performance of NT-proBNP and cTnI measured with the Vcheck V200 point-of-care assays for detecting diff",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42807202",
-      "title": "Machine-driven vs. manual nickel-titanium instrumentation of canine teeth in dogs: a high resolution micro-CT evaluation of canal geometry and obturation quality.",
-      "authors": "Wunderl J, Eberspächer-Schweda M, Handschuh S, Tichy A, Schnabl-Feichter E",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42807202/",
-      "abstract": "Root canal treatment in canine teeth of dogs represents a technically demanding procedure due to complex root canal anatomy and large canal dimensions. The present study aimed to compare different endodontic instrumentation techniques and to evaluate their effects on canal geometry, obturation quality, and procedural safety using high-resolution micro-computed tomography (micro-CT). In addition, the diagnostic value of cone-beam computed tomography (CBCT) in the assessment of postoperative findi",
-      "category": "imaging",
       "summary_ko": ""
     }
   ]
