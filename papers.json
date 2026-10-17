@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17 00:16 UTC",
+  "updated": "2026-10-17 23:55 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -107,6 +107,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42882997/",
       "abstract": "Decompressive cholecystocentesis (DCC) was performed in 14 dogs with gallbladder distension (GBD) and primary digestive symptoms non-responsive to conventional symptomatic therapy. All dogs in this uncontrolled, retrospective case series had their fasting estimated gallbladder volume (eGBV) measured by the ellipsoid method. Aspirated volumes were compared to predicted volumes. Common symptomatic characteristics included diurnal inappetence (DI) and bilious vomiting (BV). Total magnesium insuffic",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42887431",
+      "title": "Effect of mitral valve repair on outcomes in dogs with preclinical myxomatous mitral valve disease: a retrospective cohort study.",
+      "authors": "Takahashi E, Shimizu S, Kaneko M, Takahashi A, Nii Y",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Sep 25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42887431/",
+      "abstract": "Mitral valve repair (MVR) for myxomatous mitral valve disease (MMVD) in dogs has favorable results, but its effectiveness compared with medical treatment in preclinical (stage B2) dogs remains unclear. This study investigated whether MVR improves survival in preclinical dogs with MMVD. Dogs diagnosed with stage B2 MMVD between October 2016 and September 2020 were divided into an MVR group and a control group receiving medical treatment. The primary outcome was a composite of all-cause mortality ",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -583,17 +594,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42838284",
-      "title": "Cat Stress Score and hair cortisol concentrations are not associated with subclinical hypertrophic cardiomyopathy in cats.",
-      "authors": "Seo J, Williams M, Munday JS, Connolly DJ, Hunt H",
-      "journal": "Vet J",
-      "date": "2026 Oct 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42838284/",
-      "abstract": "Hypertrophic cardiomyopathy (HCM) is a common heart disease in domestic cats, but most lack an identifiable cause. This prospective case-control study tested the hypothesis that chronic stress predisposes cats to HCM. Ten cats with echocardiographically confirmed subclinical HCM were compared with 10 healthy cats, HCM-negative cats matched for husbandry, age, sex, and neuter status. Stress was assessed via visual Cat-Stress-Score and hair cortisol concentrations, measured using an enzyme-linked ",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
       "id": "42883089",
       "title": "Extended Reality for Image-Guided Small Animal Surgery: Current Evidence, Clinical Applications, and Future Directions.",
       "authors": "Caivano D, Valeri F, Corda A, Bufalari A",
@@ -695,11 +695,11 @@
     {
       "id": "42874844",
       "title": "Comparison of peribulbar anesthesia with neosaxitoxin or bupivacaine in dogs undergoing reconstructive keratoplasty.",
-      "authors": "Ribeiro MR, Ariga BK, Gomes DR, Alves DS, Andrade SMCF",
+      "authors": "Ribeiro MR, Ariga BK, Gomes DR, Alves DS, Andrade SF",
       "journal": "Vet J",
       "date": "2026 Oct 14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42874844/",
-      "abstract": "This study compared the analgesic efficacy of peribulbar anesthesia using neosaxitoxin versus bupivacaine in dogs undergoing reconstructive keratoplasty. Of 28 dogs, four were excluded for not meeting the inclusion criteria. The anesthetic protocol included dexmedetomidine and methadone, propofol and isoflurane. Immediately after intubation, 24 dogs were randomly assigned (12 per group) to receive peribulbar block with either neosaxitoxin (3.5&#xb5;g; NeoSTX group) or 0.5% bupivacaine (0.2mL/kg,",
+      "abstract": "This study compared the analgesic efficacy of peribulbar anesthesia using neosaxitoxin versus bupivacaine in dogs undergoing reconstructive keratoplasty. Of 28 dogs, four were excluded for not meeting the inclusion criteria. The anesthetic protocol included dexmedetomidine and methadone, propofol and isoflurane. Immediately after intubation, 24 dogs were randomly assigned (12 per group) to receive peribulbar block with either neosaxitoxin (3.5&#x202f;&#xb5;g; NeoSTX group) or 0.5% bupivacaine (0",
       "category": "other",
       "summary_ko": ""
     },
@@ -763,7 +763,7 @@
       "title": "Evaluation of nanofibrillated cellulose as a urethral bulking agent in female dogs with acquired urethral sphincter mechanism incompetence: a prospective clinical study.",
       "authors": "Peltokallio NMM, Bolen G, Gordin E, Lepajõe J, Hamaide A",
       "journal": "Vet J",
-      "date": "2026 Oct 13",
+      "date": "2026 Oct 14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42869270/",
       "abstract": "Urethral bulking agent (UBA) implantation is a minimally invasive, effective and safe alternative treatment for refractory urethral sphincter mechanism incompetence (USMI). However, repeated implantations are frequently needed to maintain continence. Therefore, a prospective interventional clinical study with eight client-owned neutered female dogs was designed to evaluate the clinical efficacy and 12-month outcome of nanofibrillated cellulose (NFC), a novel biomaterial as a UBA. Concurrent caus",
       "category": "neurosurgery",
