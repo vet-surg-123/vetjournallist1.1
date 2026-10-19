@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17 23:55 UTC",
+  "updated": "2026-10-19 00:04 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -561,39 +561,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42838287",
-      "title": "The canine tumour micro-environment and advances in antitumour therapy in canine melanoma.",
-      "authors": "Hindriks E, Zandvliet MMJM, Sijts AJAM, Broere F",
-      "journal": "Vet J",
-      "date": "2026 Oct 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42838287/",
-      "abstract": "Cancer poses a substantial health burden in both humans and dogs. Despite significant advances, durable tumour control is often not achieved, highlighting the need for novel targeted therapies and immunotherapies. However, translation of these approaches into human and veterinary oncology has been slow. Comparative oncology offers a valuable translational strategy, as naturally occurring cancers in dogs share significant clinical, molecular, and genetic similarities with human malignancies. This",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42838286",
-      "title": "Dietary lyophilized bee venom from apis mellifera enhances growth performance, antioxidant capacity, innate immunity, and resistance to Vibrio harveyi in juvenile pacific white shrimp (Litopenaeus vannamei).",
-      "authors": "Gamil NM, Elbaghdady HAM, Felefel W, Khalil RH, Elhussieny O",
-      "journal": "Vet J",
-      "date": "2026 Oct 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42838286/",
-      "abstract": "Bee venom, a complex mixture of bioactive peptides and enzymes, is a promising natural immunostimulant for aquaculture applications, particularly as escalating antibiotic resistance necessitates alternative disease-prevention strategies. This study evaluated the dose-dependent effects of dietary lyophilized bee venom (LBV) from Apis mellifera on growth performance, antioxidant capacity, innate immunity, and resistance to Vibrio harveyi in juvenile Pacific white shrimp (Litopenaeus vannamei). LBV",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42838285",
-      "title": "Procedural sedation with subcutaneously administered medetomidine-vatinoxan-butorphanol in dogs - A randomized, controlled, clinical dose-finding study.",
-      "authors": "Honkavaara J, Lindh E, Turunen H, Mäki T, Välimäki E",
-      "journal": "Vet J",
-      "date": "2026 Oct 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42838285/",
-      "abstract": "Subcutaneous (SC) drug administration may be better tolerated when compared with the intramuscular (IM) route in some dogs. This study investigated the dose-response to subcutaneously administered medetomidine-vatinoxan-butorphanol in producing sedation for orthopedic radiography. Fifty-three privately-owned, healthy dogs were randomly allocated to receive IM medetomidine 0.6&#x202f;mg/m2 (M0.6-IM), IM medetomidine/vatinoxan 0.6/12&#x202f;mg/m2 (Z0.6-IM), SC medetomidine/vatinoxan 0.6/12 (Z0.6-S",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42883089",
       "title": "Extended Reality for Image-Guided Small Animal Surgery: Current Evidence, Clinical Applications, and Future Directions.",
       "authors": "Caivano D, Valeri F, Corda A, Bufalari A",
@@ -858,6 +825,50 @@
       "summary_ko": ""
     },
     {
+      "id": "42892694",
+      "title": "Spontaneous tumors in dogs and cats in Algeria: a dual-source descriptive study of practitioner-reported patterns and histopathology-submitted cases.",
+      "authors": "Bouchoukh AS, Boukhechem S, Bougherara H, Chaabi AZ",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892694/",
+      "abstract": "Algeria has no documented national companion-animal cancer registry, and limited information is available on tumors encountered in veterinary practice or reaching histopathological confirmation. This dual-source descriptive study combined two independently analyzed components: a histopathology-based descriptive case series of diagnostic tumor submissions from dogs and cats, and a cross-sectional questionnaire survey of veterinarians practicing in Algeria. The first component characterized tumors",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42890363",
+      "title": "A zingiberene-selenium nanoparticle formulation modulates oxidative, inflammatory, and osteogenic responses during femoral fracture healing in rats.",
+      "authors": "Albarakati AJA",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42890363/",
+      "abstract": "Bone fracture healing involves coordinated inflammatory, oxidative, and remodeling processes. This study evaluated free zingiberene and a zingiberene-selenium nanoparticle (zingiberene-SeNP) formulation in a rat femoral fracture model. Twenty-four adult male Wistar rats were assigned to intact control, fracture control, fracture plus zingiberene (10 mg/kg/day), or fracture plus zingiberene-SeNP formulation (0.5 mg/kg/day, expressed as total administered formulation mass) groups for 35 days. Outc",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42889756",
+      "title": "The veterinary referral process in the DACH region: survey-based insights into obstacles and motivations.",
+      "authors": "Gast C, Hassenstein MJ, Kleinsorgen C, Busse C, Volk HA",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42889756/",
+      "abstract": "As demand for specialised veterinary care increases, referrals between first opinion practices and specialty clinics are becoming an increasingly important part of the chain of care. However, care pathways between these two settings can involve multiple transitions back and forth, each representing a potential opportunity for error or information loss. Issues such as communication failures, lack of information transfer, and delayed discharge letters back to the first opinion practice may occur, ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42889477",
+      "title": "Cross-sectional analysis of 152 hyperthyroid cats presented for radioactive iodine therapy in South Korea.",
+      "authors": "Son D, Chae Y, Yun T, Kim H, Lim JC",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42889477/",
+      "abstract": "Feline hyperthyroidism is one of the most common endocrinopathies in cats; however, its epidemiological characteristics remain poorly understood in South Korea. Although radioactive iodine therapy (RAIT) is a definitive treatment, studies focusing specifically on cats with hyperthyroidism undergoing RAIT are limited. Medical records of 152 cats with hyperthyroidism presented for RAIT were retrospectively reviewed to describe their epidemiological and clinical features. The median age at diagnosi",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42877668",
       "title": "Case Report: Ventriculoperitoneal shunt for management of syringomyelia and Chiari-like malformation in a Cavalier King Charles Spaniel.",
       "authors": "Fernandez Cid A, Tabanez J, Black C, Rusbridge C",
@@ -1096,17 +1107,6 @@
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840567/",
       "abstract": "This study aimed to retrospectively evaluate factors associated with 2-week survival following ovariohysterectomy for pyometra in dogs. This study included 470 intact bitches that underwent ovariohysterectomy for pyometra. In this multi-institutional retrospective cohort study, medical records were reviewed for clinical data, including signalment, duration of clinical signs, blood count findings, presence of septic peritonitis, culture and susceptibility results, antibiotics prescribed and durat",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42840433",
-      "title": "Prognostic utility of red blood cell distribution width-based ratios and their individual components for mortality prediction in dogs with acute pancreatitis.",
-      "authors": "Diaz-Gonzalez A, Espadas-Gonzalez L, Pérez-Merino EM, Martínez-Zafra C, Cristóbal-Verdejo JI",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42840433/",
-      "abstract": "Prognostic assessment is critical in dogs with acute pancreatitis (AP). Composite biomarkers such as the red blood cell distribution width (RDW)-to-albumin ratio (RAR) and hemoglobin-to-RDW ratio (HRR) have shown prognostic value in human critical care but have not been evaluated in canine AP. A retrospective cohort study was conducted in 80 dogs with AP and 10 healthy controls. The diagnostic and prognostic utility of admission HRR and RAR was compared with that of their individual components m",
       "category": "internal",
       "summary_ko": ""
     }
