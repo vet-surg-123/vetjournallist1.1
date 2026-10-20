@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 00:04 UTC",
+  "updated": "2026-10-20 01:00 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -594,6 +594,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42893846",
+      "title": "Doxorubicin-induced Cardiotoxicity in Dogs: A Narrative Review.",
+      "authors": "Sunpongsri S, Roos T, Gerhing R, Zandvliet M, Santarelli G",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Oct 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42893846/",
+      "abstract": "Doxorubicin, an anthracycline widely used in both human and veterinary oncology, is highly effective against a variety of malignancies in dogs, including lymphomas, sarcomas and carcinomas. Despite its efficacy, doxorubicin exposure can be associated with cardiotoxicity, which may present acutely or chronically, potentially leading to severe cardiac arrhythmia and congestive heart failure. Mechanisms underlying cardiotoxicity are multifactorial, including oxidative stress, mitochondrial dysfunct",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42885408",
       "title": "Urinary liver-type fatty acid-binding protein in cats with lower urinary tract disease.",
       "authors": "Culha N, Acar A, Ulutas B, Dinler Ay C",
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840741/",
       "abstract": "A 10-year-old castrated male Pomeranian was evaluated after a fall and presented with tetraparesis, dysphagia, and headturn. Magnetic resonance imaging (MRI) revealed a right occipital condyle fracture that caused brainstem compression and cerebellar infarction from a displaced bony fragment. According to the Anderson and Montesano classification in human medicine, this case was presumed to be Type 3, indicating instability, and surgical correction was considered. A bone fragment located in the ",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42840567",
-      "title": "Prognostic indicators associated with 2-week survival and postoperative antimicrobial use following ovariohysterectomy for canine pyometra from 2012 to 2021: a multicenter retrospective cohort of 470 cases.",
-      "authors": "Langfitt SM, Arun A, Spector DI, Maza FJ, Buoniconti S",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42840567/",
-      "abstract": "This study aimed to retrospectively evaluate factors associated with 2-week survival following ovariohysterectomy for pyometra in dogs. This study included 470 intact bitches that underwent ovariohysterectomy for pyometra. In this multi-institutional retrospective cohort study, medical records were reviewed for clinical data, including signalment, duration of clinical signs, blood count findings, presence of septic peritonitis, culture and susceptibility results, antibiotics prescribed and durat",
-      "category": "internal",
       "summary_ko": ""
     }
   ]
