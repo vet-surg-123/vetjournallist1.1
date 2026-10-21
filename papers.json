@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 01:00 UTC",
+  "updated": "2026-10-21 00:29 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -374,17 +374,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42842761",
-      "title": "Evaluation of serum pancreatic lipase activity in dogs with myxomatous mitral valve disease.",
-      "authors": "Kim C, Chae Y, Yun T, Kang BT, Kim H",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42842761/",
-      "abstract": "Previous studies have evaluated the association between myxomatous mitral valve disease (MMVD) and pancreatic lipase activity, but medications remain unconsidered. Elevated serum pancreatic lipase activity is related to cardiac medication in dogs with MMVD. Eighty-two client-owned dogs without clinical signs of pancreatitis (MMVD, n&#xa0;=&#xa0;67 [stage B1&#xa0;=&#xa0;24; stage B2&#xa0;=&#xa0;22; non-medicated stage C&#xa0;=&#xa0;9; medicated stage C&#xa0;=&#xa0;12]; controls, n&#xa0;=&#xa0;15)",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "42859172",
       "title": "Morpho-molecular assessment of nanomaterials in teleost fish wound healing: a systematic review.",
       "authors": "Rabea A, Ibrahim I, Mahgoub H, El-Shaieb A",
@@ -594,6 +583,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42896600",
+      "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
+      "authors": "Arboit F, Mangini LT, Gasparotto JC, Griebeler LB, Oliveira JO",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896600/",
+      "abstract": "To evaluate serum triglyceride concentrations during target-controlled infusion (TCI) of propofol in healthy cats undergoing elective orchiectomy and to investigate the relationship between cumulative propofol dose and triglyceride concentrations. 8 healthy male cats were anesthetized using propofol administered via a TCI system targeting a plasma concentration of 7 &#xb5;g/mL for 45 minutes. Blood samples were collected at baseline, after premedication, immediately after induction, and at 20 an",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42893846",
       "title": "Doxorubicin-induced Cardiotoxicity in Dogs: A Narrative Review.",
       "authors": "Sunpongsri S, Roos T, Gerhing R, Zandvliet M, Santarelli G",
@@ -602,6 +602,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42893846/",
       "abstract": "Doxorubicin, an anthracycline widely used in both human and veterinary oncology, is highly effective against a variety of malignancies in dogs, including lymphomas, sarcomas and carcinomas. Despite its efficacy, doxorubicin exposure can be associated with cardiotoxicity, which may present acutely or chronically, potentially leading to severe cardiac arrhythmia and congestive heart failure. Mechanisms underlying cardiotoxicity are multifactorial, including oxidative stress, mitochondrial dysfunct",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42897632",
+      "title": "Use of plasma chromogranin a epitopes vasostatin and catestatin as biomarkers for catecholamine-producing tumours in dogs.",
+      "authors": "Prabert J, Hanson J, Ishigaki K, Asano K, Höglund K",
+      "journal": "BMC Vet Res",
+      "date": "2026 Oct 16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897632/",
+      "abstract": "Differentiation of catecholamine-producing tumours from other adrenal tumours remains difficult. Chromogranin A (CgA) is a marker for catecholamine secretion in the body. An assay for quantification of the CgA epitopes vasostatin and catestatin has been validated for use in dogs but not yet evaluated in dogs with catecholamine-producing tumours. The aims were to evaluate the assays foranalysis of plasma concentrations of the CgA epitopes vasostatin and catestatin in dogs with adrenal tumours and",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -772,7 +783,7 @@
     {
       "id": "42866960",
       "title": "Clinical features, management, short- and long-term outcomes for cats and dogs diagnosed with pyothorax: 103 cases (2015-2021).",
-      "authors": "Bartlett AJ, Dordio AMD, Jerabkova P, Sparks T, Herrtage M",
+      "authors": "Bartlett AJ, Dordio AM, Jerabkova P, Sparks T, Herrtage M",
       "journal": "J Small Anim Pract",
       "date": "2026 Oct 13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42866960/",
@@ -844,6 +855,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42892694/",
       "abstract": "Algeria has no documented national companion-animal cancer registry, and limited information is available on tumors encountered in veterinary practice or reaching histopathological confirmation. This dual-source descriptive study combined two independently analyzed components: a histopathology-based descriptive case series of diagnostic tumor submissions from dogs and cats, and a cross-sectional questionnaire survey of veterinarians practicing in Algeria. The first component characterized tumors",
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42898732",
+      "title": "Stability and dermatological safety assessment of Cryptocarya alba (Peumo) and Laureliopsis philippiana (Tepa) essential oil-carrying dry shampoo formulations for dermal use in dogs.",
+      "authors": "Varas M, Jacobs M, Rojas N, Ramos P, Bruna F",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898732/",
+      "abstract": "Antibiotic resistance is a major concern in human and veterinary medicine, supporting the development of alternative topical products for companion animals. This study aimed to develop and evaluate essential oil (EO)-based dry shampoo formulations incorporating EOs from Cryptocarya alba and Laureliopsis philippiana as potential veterinary dermocosmetic platforms for canine skin care and complementary management of superficial pyoderma. Starch-based dry shampoo prototypes containing C. alba or L.",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42898197",
+      "title": "Perioperative analgesic effects of opiranserin in canine castration: a pilot study.",
+      "authors": "Lee S, Oh S, Lee I, Son WG",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898197/",
+      "abstract": "Opiranserin, a non-opioid analgesic acting as a glycine transporter 2 inhibitor and 5-HT2A receptor antagonist, was evaluated for reducing intraoperative rescue analgesia and postoperative pain in dogs undergoing castration under isoflurane anesthesia. Eight healthy male Beagle dogs were randomized to receive a continuous rate infusion of opiranserin (5 mg&#xb7;kg-1&#xb7;h-1 for 1 h before induction, then 0.33 mg&#xb7;kg-1&#xb7;h-1 for 9 h; n = 4) or 0.9% saline (n = 4). Anesthesia was induced w",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1075,39 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42846344/",
       "abstract": "Free-roaming cats (Felis catus) in urban environments are commonly managed through trap-neuter-return (TNR) programs, yet the long-term population effects of these measures remain inconsistently evaluated, particularly when considering both population size and structural dynamics. This study aimed to assess long-term changes in free-roaming cat populations and population-structure patterns observed in the context of public TNR program in Seoul, Republic of Korea, using multiple demographic and s",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42840994",
-      "title": "Work outside of work: after-hours use of the electronic medical record among residents at an academic veterinary teaching hospital.",
-      "authors": "Shah S, Love K, Jenkins D, McCool KE",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42840994/",
-      "abstract": "The electronic medical record (EMR) is a major contributor to clinician workload, with substantial documentation often occurring outside scheduled patient care hours. In human medicine, after-hours EMR use has been associated with clinician burnout, yet it has not been objectively quantified among veterinary residents. The purpose of this study was to quantify after-hours EMR use among veterinary residents, to compare this across specialties and years of training, and to establish baseline metri",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42840743",
-      "title": "Pleuropneumonia and mediastinitis caused by Rhodococcus equi in a dog: a case report.",
-      "authors": "Salarolli T, de Oliveira TS, Ferreira FCB, Zanon IP, Prates IP",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42840743/",
-      "abstract": "Rhodococcus equi is a cosmopolitan bacterium found in the feces of several animals, and it is recognized as a major cause of bronchopneumonia in foals, as well as an opportunistic pathogen causing infections in humans and, rarely, in other species. This report describes a rare and atypical infection by Rhodococcus equi in a mixed-breed dog, associated with a pyogranulomatous pleuropneumonia and mediastinitis with abundant intralesional Gram-positive coccobacilli. The bacterium was isolated and i",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42840741",
-      "title": "Surgical management of an unstable occipital condyle fracture in a dog using a patient-specific CNC-milled titanium implant: a case report.",
-      "authors": "Jeong N, Kim H, Cho C, Jung J",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42840741/",
-      "abstract": "A 10-year-old castrated male Pomeranian was evaluated after a fall and presented with tetraparesis, dysphagia, and headturn. Magnetic resonance imaging (MRI) revealed a right occipital condyle fracture that caused brainstem compression and cerebellar infarction from a displaced bony fragment. According to the Anderson and Montesano classification in human medicine, this case was presumed to be Type 3, indicating instability, and surgical correction was considered. A bone fragment located in the ",
-      "category": "neurosurgery",
       "summary_ko": ""
     }
   ]
