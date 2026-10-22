@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 00:29 UTC",
+  "updated": "2026-10-22 00:33 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -363,17 +363,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42842763",
-      "title": "Low plasma butyrylcholinesterase activity in dogs: prevalence, association with underlying disorders, laboratory variables, and survival.",
-      "authors": "Tesseraux AM, Howard J, Peters LM",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42842763/",
-      "abstract": "Low blood butyrylcholinesterase (BChE) activity is associated with obesity, pancreatitis, inflammation, sepsis, and malignancy in people, often with negative prognostic value. The clinical relevance of BChE activity in dogs remains unclear. Describe the prevalence of low BChE activity in a large population of dogs and its association with selected underlying disorders, outcome, and clinicopathological variables. We hypothesized that low BChE activity would be associated with inflammatory disorde",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42859172",
       "title": "Morpho-molecular assessment of nanomaterials in teleost fish wound healing: a systematic review.",
       "authors": "Rabea A, Ibrahim I, Mahgoub H, El-Shaieb A",
@@ -579,6 +568,17 @@
       "date": "2026 Oct 2",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42883066/",
       "abstract": "Most Leishmania infantum infected dogs remain healthy, with low parasitic loads and negative to low antibody levels, making detection challenging. rKDDR-plus has shown outstanding diagnostic performance in ELISA but has never been tested in dogs thoroughly characterized by physical examination and routine laboratory tests. This study aimed to evaluate the diagnostic performance of rKDDR-plus ELISA in dogs with different L. infantum infection states (n = 94), classified as healthy seronegative (n",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42901211",
+      "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
+      "authors": "Arboit F, Mangini LT, Gasparotto JC, Griebeler LB, Oliveira JO",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901211/",
+      "abstract": "To evaluate serum triglyceride concentrations during target-controlled infusion (TCI) of propofol in healthy cats undergoing elective orchiectomy and to investigate the relationship between cumulative propofol dose and triglyceride concentrations. 8 healthy male cats were anesthetized using propofol administered via a TCI system targeting a plasma concentration of 7 &#xb5;g/mL for 45 minutes. Blood samples were collected at baseline, after premedication, immediately after induction, and at 20 an",
       "category": "other",
       "summary_ko": ""
     },
