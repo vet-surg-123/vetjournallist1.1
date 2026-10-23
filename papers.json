@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 00:33 UTC",
+  "updated": "2026-10-23 00:30 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -187,28 +187,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42843177",
-      "title": "Left atrial mural infective endocarditis complicated by coronary embolism and left ventricular myocardial infarction in a cat.",
-      "authors": "Romito G, Gemma N, Vasylyeva K, Morini M",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Sep 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42843177/",
-      "abstract": "A three-year-old female Devon Rex was referred for postpartum complications. On presentation, physical examination revealed depression, hypothermia, pale mucous membranes and a grade II/VI left apical systolic murmur. Laboratory tests showed severe non-regenerative anaemia, moderate leucocytosis and increased cardiac troponin I (4.16 ng/mL; upper hospital limit &lt;0.2 ng/mL). Transthoracic echocardiography showed no remodelling or dysfunction of either cardiac chamber and no valvular abnormalit",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42843176",
-      "title": "Rapid arteriotomy or venotomy site closure using a pre-placed purse-string suture technique in dogs.",
-      "authors": "Pierce KV, Scansen BA, English Z, Potter BM, Orton EC",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Sep 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42843176/",
-      "abstract": "Ligation of a catheterized vessel after image-guided intervention is common in veterinary medicine, which may affect vascular supply or limit future access. This prospective case series investigated the utility of a preplaced purse-string suture technique for rapid closure of vascular catheterization sites in dogs. Vascular cut down was performed, and a purse-string suture was preplaced around the intended puncture site using 6-0 monofilament, non-absorbable polypropylene suture in 45 vessels fr",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42873829",
       "title": "Prevalence of antibiotic use in dogs and cats in US and Canadian veterinary teaching hospitals, 2022.",
       "authors": "Clark H, Bollig ER, Beaudoin AL, Fellman CL, Allano M",
@@ -338,28 +316,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42855434/",
       "abstract": "Pneumorrhachis (PR), defined as gas within the vertebral canal, is an uncommon finding, and its clinical relevance and relationship to the vacuum phenomenon (VP) have not been systematically evaluated. To characterize the anatomical distribution of PR in dogs and cats undergoing computed tomography (CT) and to assess its relationship with signalment, VP, and concurrent neurological and non-neurological conditions. One hundred nineteen dogs and 6 cats with PR identified on CT between 2015 and 202",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42842766",
-      "title": "Palatability assessment of a commercial wet renal diet in healthy cats: an open-label in-home exploratory trial.",
-      "authors": "Magalhães TR, Corbee RJ, Queiroga FL, Lourenço AL",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42842766/",
-      "abstract": "Wet renal diets are considered the best option for managing cats with chronic kidney disease (CKD), but their palatability is a recurrent concern. Assess the palatability of a commercial wet diet formulated for early-stage CKD in cats. Forty-two healthy cats privately owned by 31 caregivers. An open-label in-home feeding trial was conducted over three 6-day phases, during which cats were offered the wet renal diet (Phase 1), their usual wet diet (Phase 2), and both diets simultaneously (Phase 3)",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42842764",
-      "title": "Bacterial aortic endarteritis with sepsis as a rare complication of aortic dissection in a cat.",
-      "authors": "Lim S, Shekelle KL, Groch KR, Porter BF, Malcolm E",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42842764/",
-      "abstract": "A 14-year-old domestic shorthair cat was examined because of respiratory distress. Thoracic radiography showed a prominent aortic arch and no other abnormalities. Echocardiography documented a mobile flap within the ascending aorta creating 2 lumens, consistent with aortic dissection (AD), mild pericardial effusion with tamponade, left ventricular concentric hypertrophy, and normal left atrial size. Systemic hypertension (200&#xa0;mmHg) was the presumed cause of AD, prompting administration of t",
-      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -525,17 +481,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42843445/",
       "abstract": "Cardiotoxicity is a recognized complication of chemotherapy with doxorubicin and is classically associated with left ventricular dysfunction; however, evidence from human cardio-oncology suggests that global cardiac function, including the right ventricle, may also be affected, and that advanced echocardiographic techniques such as global longitudinal strain (GLS) and tissue motion annular displacement (TMAD) may detect subtle myocardial dysfunction earlier than conventional indices. This prospe",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42843409",
-      "title": "Should veterinarians apply a 2-step framework to classify adiposity and diagnose clinical obesity in dogs and cats?",
-      "authors": "Ward E, Churchill J",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Oct 7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42843409/",
-      "abstract": "Obesity drugs are entering veterinary trials, and prescribing them should follow a diagnosis. Body condition score is not a diagnosis; it describes a patient's adiposity, not whether it is causing illness. This Viewpoint proposes 2 steps for diagnosing clinical obesity in dogs and cats: describe, then diagnose. Step 1 describes adiposity as overweight or obesity. Step 2, applied only when obesity is documented, assigns a disease stage; clinical obesity requires a documented, clinically meaningfu",
-      "category": "other",
       "summary_ko": ""
     },
     {
@@ -855,6 +800,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42892694/",
       "abstract": "Algeria has no documented national companion-animal cancer registry, and limited information is available on tumors encountered in veterinary practice or reaching histopathological confirmation. This dual-source descriptive study combined two independently analyzed components: a histopathology-based descriptive case series of diagnostic tumor submissions from dogs and cats, and a cross-sectional questionnaire survey of veterinarians practicing in Algeria. The first component characterized tumors",
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42904074",
+      "title": "Case Report: Long term multimodality treatment of canine hepatocellular carcinoma with serial monitoring of serum alpha-fetoprotein.",
+      "authors": "Dan TJ, Yang CH, Kim YJ, Kang MH, Kang MA",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42904074/",
+      "abstract": "A 13-year-old spayed female Shih Tzu presented with a several-month history of progressively increasing liver enzyme activities concurrent with managed hyperadrenocorticism. Diagnostic imaging revealed a solitary hepatic mass originating from the caudate process of the caudate lobe adhering to the caudal vena cava. Hepatocellular carcinoma (HCC) was confirmed via histopathological examination of an ultrasound-guided tru-cut biopsy, accompanied by a markedly elevated serum alpha-fetoprotein (AFP)",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42903212",
+      "title": "Epidemiology of voluntarily reported dog and cat bite incidents in a large-scale, multi-site veterinary network in the UK and Ireland.",
+      "authors": "Malkani R, Singleton D, Martin D, Vinke M, Playforth L",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903212/",
+      "abstract": "Dog and cat bites are an occupational risk within veterinary practise. Despite this, there is minimal research exploring the occurrence and details surrounding such incidents. The aim of this study was to use a large veterinary group's existing incident and near miss reporting system in the UK to explore the incidence of dog and cat bite reporting and surrounding details of such incidents. Dog and cat bite incidents were identified from January 2024 to October 2025 covering all clinics in the UK",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42903197",
+      "title": "Manganese dioxide nanozyme alleviates PEDV GIIc-associated growth retardation in neonatal piglets by improving antioxidant status, intestinal morphology, and manganese homeostasis.",
+      "authors": "Wang J, Lai X, Hu M, Liang S, Wu T",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903197/",
+      "abstract": "Porcine epidemic diarrhea virus (PEDV) infection threatens swine production, and growth retardation in neonatal piglets born to infected sows requires practical intervention. This study evaluated the effects of oral manganese dioxide (MnO2) nanozyme supplementation on growth and physiological indices in these piglets. In this study, 16 litters from PEDV GIIc-infected sows were assigned to four treatment groups according to body condition and PEDV RT-qPCR Ct value, with four litters from uninfect",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42903056",
+      "title": "Assessment of radiographic healing after tibial plateau leveling osteotomy in young and older dogs using the modified RUST scoring system.",
+      "authors": "Anderson BL, Frederick SW, Popovitch C",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903056/",
+      "abstract": "To compare radiographic osteotomy healing scores after tibial plateau leveling osteotomy (TPLO) in young (2-5&#x202f;years) and old (8-12&#x202f;years) dogs using the modified Radiographic Union Score for Tibial fractures (mRUST) system, and to evaluate agreement between large language model-assisted interpretation (LLM), surgeon, and surgical resident scoring. Client-owned, 20-40&#x202f;kg dogs treated with unilateral TPLO at ages 2-5 or 8-12&#x202f;years between 2023 and 2025 were retrospectiv",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42903052",
+      "title": "Outcomes and prognostic factors in dogs with subcutaneous and intramuscular hemangiosarcoma treated with hypofractionated radiation therapy and chemotherapy.",
+      "authors": "Rebelo AP, Furtado A, Sellon R, Roberts GD, Fidel J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903052/",
+      "abstract": "Subcutaneous (SC) and intramuscular (IM) hemangiosarcoma (HSA) in dogs are aggressive malignancies with high rates of recurrence and metastasis. Surgery is the primary treatment, but incomplete excision is common, and the role of radiation therapy (RT) remains unclear. This single-institution retrospective study evaluated outcomes and toxicities in dogs with SC and IM HSA treated with hypofractionated RT using either 24 Gy in three 8-Gy fractions (days 0, 7, and 21) or 30 Gy in five 6-Gy fractio",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
