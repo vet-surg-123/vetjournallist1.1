@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 00:30 UTC",
+  "updated": "2026-10-24 00:26 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -183,6 +183,17 @@
       "date": "2026 Sep 21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42854588/",
       "abstract": "Three dogs with advanced myxomatous mitral valve disease underwent left atrial decompression (LAD) via transseptal puncture and balloon atrial septostomy as a palliative treatment for refractory left-sided congestive heart failure. Variable degrees of pulmonary hypertension were present at the time of LAD. Each dog initially exhibited predominantly left-to-right shunting across the iatrogenic atrial septal defect but subsequently developed clinically relevant right-to-left shunting in the postop",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42912657",
+      "title": "The use of cold-stored platelets to provide hemostasis in dogs with thrombocytopenia.",
+      "authors": "Monaco SA, Haines JM, Guess SC, Fiedler SM, Wardrop KJ",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42912657/",
+      "abstract": "Platelet transfusion can be lifesaving in dogs with severe thrombocytopenia and hemorrhage, but platelet products are limited by short shelf life and contamination risk. Cold-stored platelets (CSP) may provide a practical alternative, but in vivo hemostatic efficacy in dogs is unknown. Evaluate the clinical hemostatic efficacy and safety of CSP transfusions in thrombocytopenic dogs. Twenty-four thrombocytopenic dogs from a veterinary teaching hospital population that received CSP transfusions be",
       "category": "other",
       "summary_ko": ""
     },
@@ -396,39 +407,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42849778",
-      "title": "Gastrointestinal transit time of healthy dogs before and after enema assessed by contrast radiographs with barium-impregnated polyethylene spheres.",
-      "authors": "de Souza MR, da Silva WPR, Xavier RAL, da Silva CCL, Ruiz KC",
-      "journal": "Vet J",
-      "date": "2026 Oct 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42849778/",
-      "abstract": "In this prospective experimental study, we aimed to assess the gastrointestinal (GI) transit of healthy dogs with and without an enema, using barium-impregnated polyethylene spheres (BIPS). Six healthy dogs underwent two experimental steps: evaluation of the GI transit using BIPS (BIPS group) before and after enema (BIPS+ENEMA group). All animals were fasted for 12&#x202f;h, the transit was assessed in serial radiographs from 0 to 12&#x202f;h, and BIPS were counted in each segment of the GI trac",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42849777",
-      "title": "Echocardiographic changes in hyperthyroid cats: Comparison of subclinical disease and congestive heart failure.",
-      "authors": "Greil S, Utzinger H, Maerz I",
-      "journal": "Vet J",
-      "date": "2026 Oct 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42849777/",
-      "abstract": "Hyperthyroidism induces a wide spectrum of cardiovascular changes in cats, yet the factors distinguishing subclinical cardiac involvement from congestive heart failure (CHF) remain poorly defined. Previous studies have focused primarily on structural changes, with limited evaluation of atrial function or right-sided involvement. To compare echocardiographic variables between hyperthyroid cats with subclinical cardiac disease and those presenting in CHF, with emphasis on left atrial remodelling, ",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42847738",
-      "title": "Transdiaphragmatic video-assisted lobectomy of caudal and accessory lung lobes: A canine cadaveric feasibility study.",
-      "authors": "Rico-Holgado S, Garcia-Pertierra S, Martinez-Trapero A, Pera-Serrano M, Fontalba-Navas JL",
-      "journal": "Vet Surg",
-      "date": "2026 Oct 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42847738/",
-      "abstract": "To evaluate the feasibility and technical outcomes of a video-assisted transdiaphragmatic (VATD) approach to perform total lung lobectomy of the caudal and accessory pulmonary lobes in canine cadavers. Cadaveric study. A total of 12 canine cadavers. Cadavers were randomly assigned to left caudal, right caudal or accessory lung lobectomy (n&#x2009;=&#x2009;4/group). A cranial midline celiotomy and transdiaphragmatic approach were performed with rigid videoendoscopic assistance under standardized ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42883105",
       "title": "Candida albicans Urinary Tract Infection with Suspected Fungal Hepatobiliary Disease in an Immunosuppressed Dog: A Case Report.",
       "authors": "Norman A, Walton-Clark M",
@@ -437,50 +415,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42883105/",
       "abstract": "Fungal urinary tract infections (UTIs) are uncommon in dogs and are typically associated with immunocompromised patients or those with other predisposing factors. Fungal hepatobiliary disease is rarely reported in the veterinary literature. This case report describes a dog on dual immunosuppressive therapy for suspected immune-mediated polyarthritis that developed a hepatopathy suspected to represent bacterial hepatobiliary disease and was subsequently treated with prolonged amoxicillin-clavulan",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42844723",
-      "title": "EXPRESS: Metagenomic Oxford Nanopore sequencing of feline aural inflammatory polyps for pathogen discovery.",
-      "authors": "Noland E, Conner K, Brame B, Petersen A, Thaiwong-Nebelung T",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Oct 7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42844723/",
-      "abstract": "ObjectivesFeline aural inflammatory polyps (FIAP) have been proposed to be induced by chronic viral or bacterial infections; however, the cause is still unknown. The aim of this study was to investigate potential etiologies of these polyps using metagenomic sequencing.MethodsPolyp tissue was collected from 13 cats following routine traction and avulsion procedures. Total nucleic acid was extracted and subjected to a host (feline) nucleic acid depletion protocol. Additionally, the Sequence-Indepe",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42844719",
-      "title": "EXPRESS: Assessment of caregiver burden in feline chronic kidney disease.",
-      "authors": "Lim L, Quimby JM, Caney S",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Oct 7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42844719/",
-      "abstract": "ObjectivesThe aim of this study was to investigate caregiver burden associated with management of cats with chronic kidney disease (CKD).MethodsCaregivers who had experience managing a cat with CKD were recruited through social media to anonymously participate in an online Qualtrics survey. The modified Zarit Burden Interview (mZBI) was incorporated into the survey to objectively assess caregiver burden. An mZBI score of &#x2265; 18 represents clinically significant burden.ResultsA total of 339 ",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42843446",
-      "title": "Vitamin D supplementation in dogs with chronic biliary tract diseases.",
-      "authors": "Habermaass V, Cogozzo A, Bartoli F, Rocca DJ, Dini R",
-      "journal": "Vet J",
-      "date": "2026 Oct 7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42843446/",
-      "abstract": "Extrahepatic cholestasis in dogs is frequently associated with reduced intestinal absorption of fat-soluble vitamins, resulting in suboptimal vitamin D status. This prospective longitudinal study assessed the effects of six-week oral cholecalciferol supplementation (40 IU/kg/day) on serum 25-hydroxycholecalciferol [25(OH)D] in fourteen dogs with chronic biliary disease. Median baseline 25(OH)D concentration was 2.3&#x202f;ng/mL (0.3-11.2), increasing to 4.3&#x202f;ng/mL (2.4-14.0) after treatmen",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42843445",
-      "title": "Longitudinal assessment of left and right ventricular systolic function in dogs undergoing chemotherapy with doxorubicin.",
-      "authors": "Wolf M, Lucina SB, Silva VBC, Silveira MF, Silva VG",
-      "journal": "Vet J",
-      "date": "2026 Oct 7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42843445/",
-      "abstract": "Cardiotoxicity is a recognized complication of chemotherapy with doxorubicin and is classically associated with left ventricular dysfunction; however, evidence from human cardio-oncology suggests that global cardiac function, including the right ventricle, may also be affected, and that advanced echocardiographic techniques such as global longitudinal strain (GLS) and tissue motion annular displacement (TMAD) may detect subtle myocardial dysfunction earlier than conventional indices. This prospe",
-      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -503,6 +437,94 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42883078/",
       "abstract": "Both canine hemangiosarcoma and human angiosarcoma are aggressive malignancies characterized by clinical and molecular heterogeneity. Current in vitro models rely on individual cell lines, failing to capture this biological complexity. We established a standardized 2D in vitro platform comprising a panel of three canine primary splenic hemangiosarcoma cell lines (EMN009, EMN011, EMN017) and one patient-matched brain metastasis (EMN010) evaluated in parallel. Using gold-standard assays-morphometr",
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42908207",
+      "title": "EXPRESS: Experimental Evaluation of the Immunogenicity of Feline Erythrocyte Antigen 6 (FEA 6) in Transfusion-Naive FEA 6-Negative Cats.",
+      "authors": "Bangash MY, Blais MC",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Oct 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908207/",
+      "abstract": "ObjectivesFeline Erythrocyte Antigen 6 (FEA 6) is a newly identified red blood cell (RBC) antigen in cats discovered following an unintentional sensitization event, suggesting it can be immunogenic. Its ability to consistently induce alloimmunization remains unknown. This prospective study evaluated FEA 6 immunogenicity in transfusion-naive, FEA 6-negative cats by assessing anti-FEA 6 alloantibody production and plasma levels. A secondary objective was to bank polyclonal anti-FEA 6 antibodies.Me",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42908201",
+      "title": "EXPRESS: Mineral Analysis of Feline Treats: Unrecognized Sources of Phosphorus and Calcium in the Management of Chronic Kidney Disease.",
+      "authors": "Harris AN, Harris T, Vaden S",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Oct 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908201/",
+      "abstract": "Dietary phosphorus restriction is a cornerstone of chronic kidney disease (CKD) management in cats. While therapeutic renal diets are formulated to limit phosphorus intake, treats also contribute to total dietary phosphorus and calcium intake. The objective of this study was to quantify the phosphorus and calcium content of some feline pur&#xe9;e-style treats and evaluate their potential contribution to dietary mineral intake in cats with CKD. A convenience sample comprising four flavors of comm",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42908191",
+      "title": "EXPRESS: Assessment of an educational social media campaign on improving feline osteoarthritis pain awareness and knowledge among cat owners.",
+      "authors": "Wong WS, Alcântara H, Bukhari SSUH, Murrell J, Steagall P",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Oct 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908191/",
+      "abstract": "Objectives - Feline osteoarthritis (OA) is highly prevalent but often underdiagnosed, largely owing to owners' difficulty recognising subtle clinical signs. This study evaluated the effects of an evidence-based, peer-reviewed educational social media campaign on cat owners' knowledge and awareness of feline OA.Methods - A prospective, interventional study was conducted with a convenience sample of adult, non-veterinary cat owners recruited via social media. Participants completed a validated onl",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42906618",
+      "title": "Intra-articular 2.5% polyacrylamide hydrogel provides sustained clinical improvement over 1 year in canine elbow osteoarthritis.",
+      "authors": "Corral JA, Levine D, Barnhard JA, Tringali AA, Green MM",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906618/",
+      "abstract": "To evaluate the efficacy, safety, and tolerability of IA 2.5% injectable polyacrylamide hydrogel (iPAAG) in dogs with elbow osteoarthritis (OA). We hypothesized that treatment would improve pain and function, with minimal adverse events. This prospective single-site clinical study enrolled client-owned dogs from October 2023 to October 2024. Dogs with elbow OA confirmed by CT received unilateral or bilateral IA injections with 1 mL of 2.5% iPAAG. Assessments were conducted on day 0 (baseline) an",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42906601",
+      "title": "Intraoperative Measurement of Soft Tissue Tension in Canine Uncemented Total Hip Arthroplasty.",
+      "authors": "Marti J",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Oct 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906601/",
+      "abstract": "This study aimed to quantify the incremental tension forces encountered during trial and final reductions during total hip arthroplasty surgery; determine the contribution to final soft tissue tension of the tenorrhaphy of the partial tenotomy of the deep gluteal tendon during closure; develop an intraoperative protocol of soft tissue tension evaluation, describing the Shuck, Kick and External Rotator tests as subjective tools for assessing tension; and correlate this with short-term clinical ou",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42906597",
+      "title": "Advances in detection canine science at Auburn University.",
+      "authors": "Chester E, Lazarowski L, Wang X, Bartol FF, Johnson CM",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906597/",
+      "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42906593",
+      "title": "Sugammadex at 2 mg/kg provides rapid and sustained reversal of moderate rocuronium-induced neuromuscular blockade in isoflurane-anesthetized dogs.",
+      "authors": "Chang RN, Wang HC, Chang CC, Chen IY",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906593/",
+      "abstract": "To investigate the efficacy of 2 mg/kg sugammadex in reversing moderate rocuronium-induced neuromuscular blockade (NMB) in dogs, focusing on recovery time and recurarization. In this prospective, nonrandomized, unblinded experimental study, 12 healthy adult mixed-breed dogs were evaluated before elective surgery and assigned to a control group (spontaneous recovery; n = 6) or a reversal group (2 mg/kg sugammadex; n = 6). Anesthesia was induced with propofol and maintained with isoflurane without",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42906589",
+      "title": "Acute postoperative hypophosphatemia is a potential sequela following hepatectomy in dogs.",
+      "authors": "Bryant RE, Skinner OT, Barchilon M",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906589/",
+      "abstract": "To describe posthepatectomy hypophosphatemia in dogs and evaluate whether the extent of hepatectomy was associated with postoperative hypophosphatemia. This was a retrospective, observational study of dogs that underwent hepatectomy from January 1, 2019, through December 15, 2025, with serum phosphorus concentrations recorded preoperatively and within 72 hours postoperatively. Dogs with comorbidities or complications expected to influence serum phosphorus were excluded. Data included extent of h",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -792,14 +814,36 @@
       "summary_ko": ""
     },
     {
-      "id": "42892694",
-      "title": "Spontaneous tumors in dogs and cats in Algeria: a dual-source descriptive study of practitioner-reported patterns and histopathology-submitted cases.",
-      "authors": "Bouchoukh AS, Boukhechem S, Bougherara H, Chaabi AZ",
-      "journal": "BMC Vet Res",
-      "date": "2026 Aug 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42892694/",
-      "abstract": "Algeria has no documented national companion-animal cancer registry, and limited information is available on tumors encountered in veterinary practice or reaching histopathological confirmation. This dual-source descriptive study combined two independently analyzed components: a histopathology-based descriptive case series of diagnostic tumor submissions from dogs and cats, and a cross-sectional questionnaire survey of veterinarians practicing in Algeria. The first component characterized tumors",
-      "category": "oncology",
+      "id": "42910107",
+      "title": "Case series: Superficial lipomatous hamartoma in dogs and cats is a previously unreported NLCS-like dermal lesion.",
+      "authors": "Kästner L, Marchewski J, Henrich M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42910107/",
+      "abstract": "In humans nevus lipomatosus cutaneous superficialis (NLCS) is a rare, benign dermal hamartoma characterized by aggregates of adipose tissue within the dermis without any connection to the subcutaneous tissue. Although NLCS is a well-recognized entity, it is considered a rare lesion with limited reports in the human literature. To date, no comparable cases have been reported in dogs and cats. Over the course of one and a half years, six cases (five in dogs, one in a cat), resembling NLCS-like les",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42909056",
+      "title": "Case Report: Allogeneic adipose-derived mesenchymal stem cells for severe chronic kidney disease in a dog.",
+      "authors": "Yu Y, Lv X, Zhou X, Ma Y, Li H",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42909056/",
+      "abstract": "This case report explored the clinical improvement and short-term tolerability of allogeneic adipose-derived mesenchymal stem cells (AD-MSCs) in the treatment of severe chronic kidney disease (CKD) in dogs. A 9-year-old female Pomeranian was diagnosed with chronic kidney disease (CKD) caused by acute kidney injury and, after conventional treatment failed, received intravenous infusion of AD-MSCs from healthy donor dogs. The AD-MSCs were aseptically collected, isolated, cultured, characterized, a",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42908898",
+      "title": "Case Report: Concurrent ventricular septal defect, pulmonic stenosis, and intrapulmonary arteriovenous anastomoses in a Korean raccoon dog (Nyctereutes procyonoides koreensis).",
+      "authors": "Kim S, Kim M, Han JI, Lee K, Yoon H",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908898/",
+      "abstract": "A 3-month-old intact male Korean raccoon dog (Nyctereutes procyonoides koreensis) was rescued and admitted to the Jeonbuk Wildlife Rescue Center with lethargy, dehydration, and dermatologic lesions consistent with Sarcoptes scabiei infestation. Physical examination detected a grade IV/VI systolic murmur, and thoracic radiography revealed generalized cardiomegaly. Transthoracic echocardiography identified a perimembranous ventricular septal defect (VSD) with left-to-right shunting. Although no di",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -1064,50 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42857113/",
       "abstract": "Uterine torsion is uncommon in dogs and most commonly involves a single uterine horn. An 11-year-old intact female Pomeranian was presented with a 2- to 3-day history of abdominal distension, dyspnea, anorexia, vomiting, and oliguria. Clinicopathologic findings indicated renal compromise, electrolyte abnormalities, tissue injury, and marked systemic inflammation. Radiography and ultrasonography revealed large bilateral abdominal masses with peritoneal effusion, although the organ of origin could",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42846899",
-      "title": "Chronic renal disease detection developments with future potential to improve veterinary clinical practice.",
-      "authors": "Arevalo Turrubiarte M, Rideout H, Whetton AD, Geifman N, Armstrong SK",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846899/",
-      "abstract": "Chronic Kidney Disease (CKD) is a major global human and veterinary health concern. Novel blood and urine biomarkers currently offer significant opportunities to advance early diagnosis, prognosis, and clinical outcomes. Adopting a translational medicine approach, we summarise research performed to date on CKD biomarkers in humans and relate these findings to companion animal CKD biomarker research. Emerging candidates, including microRNAs and multiprotein measurements for diagnostic signatures,",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42846857",
-      "title": "Analgesic effect of methadone constant rate infusion is not superior to fentanyl constant rate infusion in dogs after spinal surgery: a prospective, randomized, blinded, clinical trial.",
-      "authors": "Schütter AF, Kästner SBR, Prause B, Tünsmeier J",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846857/",
-      "abstract": "This study aimed to compare the analgesic efficacy of methadone and fentanyl infusions at a 50:1 dose rate in dogs after spinal surgery. In a prospective, randomized, blinded clinical trial, 42 dogs with intervertebral disk disease were evaluated at 1, 2, 4, 18, 24, 42, 48, 66, 72, 90, and 96&#x202f;h after extubation. Based on the treatment groups, the dogs received a presurgical bolus of 0.25&#x202f;mg/kg methadone or 5&#x202f;&#x3bc;g/kg fentanyl, followed by an intraoperative and postoperati",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42846393",
-      "title": "Corridor-based relative severity assessment of the canine anaesthetic course.",
-      "authors": "Kschonek JD, Kästner SBR, Ohland PLS, Lutscher S, Volk HA",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846393/",
-      "abstract": "The Relative Severity Assessment (RELSA) score grades welfare severity based on the magnitude of multivariate deviations from a reference value. Many variables monitored during anaesthesia are homeostatic and become harmful when they leave the normal range in either direction. Building on the corridor concept of the PVS from human intensive care, we conducted a feasibility study to assess the application and behaviour of a corridor extension of RELSA in two canine anaesthesia datasets. Each home",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42846344",
-      "title": "Beyond population size: long-term changes in free-roaming cat population structure during TNR implementation in Seoul.",
-      "authors": "Cho Y, Byun JH, Hwang BR, Lee Y",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42846344/",
-      "abstract": "Free-roaming cats (Felis catus) in urban environments are commonly managed through trap-neuter-return (TNR) programs, yet the long-term population effects of these measures remain inconsistently evaluated, particularly when considering both population size and structural dynamics. This study aimed to assess long-term changes in free-roaming cat populations and population-structure patterns observed in the context of public TNR program in Seoul, Republic of Korea, using multiple demographic and s",
-      "category": "other",
       "summary_ko": ""
     }
   ]
