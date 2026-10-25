@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24 00:26 UTC",
+  "updated": "2026-10-25 00:10 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -40,6 +40,17 @@
       "date": "2026 Sep 30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42883053/",
       "abstract": "Hypertrophic cardiomyopathy (HCM), the most common cardiac disease in cats, is associated with genetic variants, including MYBPC3, which encodes cardiac myosin-binding protein C (cMyBP-C), a key sarcomeric protein involved in myocardial contractility. Although circulating cMyBP-C has emerged as a biomarker of myocardial injury in humans, its clinical relevance in feline HCM remains unclear. This study characterized plasma cMyBP-C and N-terminal pro-B-type natriuretic peptide (NT-proBNP) concentr",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42918707",
+      "title": "A histopathological and immunohistochemical perspective on selected aspects of valvular interstitial and valve endothelial remodelling in canine mitral valve dysplasia and myxomatous degeneration.",
+      "authors": "Janus-Ziółkowska I, Biegańska H, Bubak J, Noszczyk-Nowak A",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Sep 3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918707/",
+      "abstract": "Endothelial-to-mesenchymal transformation (EndMT) is a complex process reported in canine myxomatous mitral valve disease (MMVD) but not previously evaluated in congenital mitral valve dysplasia (MD) in dogs. This study aimed to evaluate the EndMT in canine MD compared with MMVD. The present study was conducted on histopathological specimens obtained from 19 dogs divided into three groups: MMVD group (n = 7), MD group (n = 6) and control group (n = 6). The paraffin blocks were retrieved from the",
       "category": "imaging",
       "summary_ko": ""
     },
@@ -176,17 +187,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42854588",
-      "title": "Right-to-left shunting following left atrial decompression in three dogs.",
-      "authors": "Bradley K, Ross E, Zarin J, Cole S",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Sep 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854588/",
-      "abstract": "Three dogs with advanced myxomatous mitral valve disease underwent left atrial decompression (LAD) via transseptal puncture and balloon atrial septostomy as a palliative treatment for refractory left-sided congestive heart failure. Variable degrees of pulmonary hypertension were present at the time of LAD. Each dog initially exhibited predominantly left-to-right shunting across the iatrogenic atrial septal defect but subsequently developed clinically relevant right-to-left shunting in the postop",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42912657",
       "title": "The use of cold-stored platelets to provide hemostasis in dogs with thrombocytopenia.",
       "authors": "Monaco SA, Haines JM, Guess SC, Fiedler SM, Wardrop KJ",
@@ -286,50 +286,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42855437",
-      "title": "Presumptive paroxysmal dyskinesia in 41 dogs: is the diet change enough?",
-      "authors": "Reyes HM, Galli G, Burbaitè E, Cocchetto A, Fiorentino E",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42855437/",
-      "abstract": "Paroxysmal dyskinesia (PD) in dogs comprises episodic, involuntary, nonepileptic movement disorders. Recent evidence suggests that PD may be associated with gluten sensitivity, paralleling human gluten-related neurologic syndromes. Characterize clinical features, gastrointestinal comorbidities, gluten-related serology, and response to a gluten-free diet (GFD) in dogs with presumptive gluten-sensitive PD. We hypothesized that dietary modification would decrease episode frequency, particularly in ",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42855436",
-      "title": "ClotPro viscoelastic testing in coagulation disorders in dogs: a retrospective analysis.",
-      "authors": "Doulidis PG, Frizzo-Ramos C, Prankch LJ, Rütgen B, Burgener IA",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42855436/",
-      "abstract": "Viscoelastic testing provides whole-blood assessment of coagulation, but clinical data on the performance of the ClotPro in dogs with naturally occurring diseases are limited. To evaluate pathway coherence of ClotPro variables with routine coagulation tests and to explore disease-associated viscoelastic phenotypes, fibrinolysis, and hypercoagulability. Eighty-four client-owned dogs admitted to a university hospital. Retrospective cohort study. ClotPro variables (clotting time, amplitude at 10&#x",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42855435",
-      "title": "Prevalence of proprioception deficits in dogs visiting veterinary clinics for non-neurologic reasons: a cross-sectional study.",
-      "authors": "Tam A, Carney P, Merbl Y",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42855435/",
-      "abstract": "General proprioception deficits (GPD) detected during neurological exams aid in neurologic assessment and steer practitioners to consider neurological differential diagnoses. However, prevalence of GPD in without clinical signs of neurologic disease is limited. That elderly dogs have GPD that might be undetected in dogs not presenting for neurologic concerns and to determine GPD prevalence in dogs presented to a veterinary teaching hospital. The study included 277 client-owned dogs presenting to",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42855434",
-      "title": "Clinical characteristics of pneumorrhachis in dogs and cats: a retrospective study of 125 cases.",
-      "authors": "Ooms S, Bossens K, Cornelis I, van Soens I, Kromhout K",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42855434/",
-      "abstract": "Pneumorrhachis (PR), defined as gas within the vertebral canal, is an uncommon finding, and its clinical relevance and relationship to the vacuum phenomenon (VP) have not been systematically evaluated. To characterize the anatomical distribution of PR in dogs and cats undergoing computed tomography (CT) and to assess its relationship with signalment, VP, and concurrent neurological and non-neurological conditions. One hundred nineteen dogs and 6 cats with PR identified on CT between 2015 and 202",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42859172",
       "title": "Morpho-molecular assessment of nanomaterials in teleost fish wound healing: a systematic review.",
       "authors": "Rabea A, Ibrahim I, Mahgoub H, El-Shaieb A",
@@ -338,50 +294,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42859172/",
       "abstract": "Teleost fish skin is a vital barrier for regulating osmoregulation, immune defense, and respiration. Cutaneous wounds in farmed fish cause significant economic loss and welfare concerns, as standard treatments, like antibiotics and chemical baths, are often ineffective, toxic, and fail to adhere to mucus-covered surfaces. While nanomaterials show great promise for wound healing, current data on how they work in fish remain incomplete. This systematic review evaluates the performance of these nan",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42854821",
-      "title": "Development of a feline Cetuximab with therapeutic potential against feline oral squamous cell carcinoma.",
-      "authors": "Altamura G, Finizio A, Napolano A, Capasso C, Raia M",
-      "journal": "Vet J",
-      "date": "2026 Oct 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854821/",
-      "abstract": "Cetuximab is a chimeric murine-human anti-epidermal growth factor receptor (EGFR) monoclonal antibody (mAb) employed in the therapy of head and neck squamous cell carcinoma (HNSCC). Feline oral squamous cell carcinoma (FOSCC), the counterpart of HNSCC, is unresponsive to standard treatments and often lethal for affected cats. As EGFR is highly conserved between humans and cats, our research group attempted to test anti-cancer properties of Cetuximab in EGFR-positive FOSCC preclinical models, obt",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42854722",
-      "title": "Oral trazodone alone or in combination with gabapentin reduces the expression of stress-related behaviors in a randomized controlled trial with shelter dogs.",
-      "authors": "Delabar A, Koch CS, Burling A, Wallace L, Middleton JR",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Oct 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854722/",
-      "abstract": "To determine the effects of oral trazodone and gabapentin on the expression of stress-related behaviors (SRBs) in shelter dogs. SRBs were compared among shelter dogs treated orally with trazodone (8 mg/kg), gabapentin (25 mg/kg), trazodone (8 mg/kg) with gabapentin (25 mg/kg), or neither (control) the evening before and the morning of surgical neuter (ovariohysterectomy or castration). Dogs were enrolled between September 2020 and October 2021. Video recordings captured the behavior at baseline,",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42854719",
-      "title": "Chronic eyelid ulceration in a domestic longhair cat.",
-      "authors": "Gilbar LR, Richardson S",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Oct 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854719/",
-      "abstract": "",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42854718",
-      "title": "Predictors of carbapenem-resistant Enterobacterales enteric colonization among patients admitted to a companion animal intensive care unit.",
-      "authors": "Hidalgo Montealegre D, King CA, Mollenkopf DF, Van Balen JC, Cooper ES",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Oct 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42854718/",
-      "abstract": "To estimate prevalence and identify factors associated with carbapenem-resistant Enterobacterales (CRE) enteric colonization in companion animals admitted to an ICU. The study population included canine and feline patients admitted to The Ohio State University Veterinary Medical Center ICU between January 2024 and June 2025. In total, 5,552 rectal swabs were collected from 3,834 patients during routine screening. A retrospective case-control study included all CRE-positive patients (n = 61) and ",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -418,6 +330,28 @@
       "summary_ko": ""
     },
     {
+      "id": "42919707",
+      "title": "Echocardiographic assessment of mitral regurgitation severity in dogs.",
+      "authors": "Visser LC, Potter BM",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919707/",
+      "abstract": "Mitral regurgitation (MR) is the most important cardiovascular problem affecting dogs. Transthoracic echocardiography is the most practical imaging modality to characterize the fundamental features of MR, including an assessment of MR severity. The diversity of MR severity in subclinical dogs and advancements in treatments directed at the cause of MR have (re)ignited interest in more comprehensive and quantitative methods of assessing MR severity. This review focuses on evaluating the severity o",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42914951",
+      "title": "The use of contrast-enhanced echocardiography in the evaluation of feline left ventricular wall thickness.",
+      "authors": "Javery E, Kadotani S, Toborowsky C, Prabhakar S, Sumerfield T",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42914951/",
+      "abstract": "Accurate measurement of feline left ventricular wall thickness (LVWT) is challenging due to endocardial and myocardial irregularities, false tendons, and prominent papillary muscles. In human medicine, contrast-enhanced echocardiography (C-Echo) is used to improve left ventricular wall delineation and is more accurate, repeatable, and reliable than standard echocardiography (S-Echo). Our objective was to compare C-Echo and S-Echo measurements of feline LVWT and determine repeatability, reproduci",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42883089",
       "title": "Extended Reality for Image-Guided Small Animal Surgery: Current Evidence, Clinical Applications, and Future Directions.",
       "authors": "Caivano D, Valeri F, Corda A, Bufalari A",
@@ -437,6 +371,72 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42883078/",
       "abstract": "Both canine hemangiosarcoma and human angiosarcoma are aggressive malignancies characterized by clinical and molecular heterogeneity. Current in vitro models rely on individual cell lines, failing to capture this biological complexity. We established a standardized 2D in vitro platform comprising a panel of three canine primary splenic hemangiosarcoma cell lines (EMN009, EMN011, EMN017) and one patient-matched brain metastasis (EMN010) evaluated in parallel. Using gold-standard assays-morphometr",
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42918624",
+      "title": "Retrospective Application of the Current International Myeloma Working Group Disease Definitions in 20 Cats With Immunoglobulin Secreting Neoplasms.",
+      "authors": "Jeffries CM, Harris RA, Vickery K, Avery PR, Rao S",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Oct 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918624/",
+      "abstract": "Studies describing feline myeloma related diseases (MRD) are limited and reported prognostic indicators are inconsistent. Cats more commonly exhibit visceral plasma cell tumours (PCTs) than marrow-predominant disease, suggesting that diagnostic approaches adapted from the International Myeloma Working Group (IMWG) criteria, incorporating extramedullary involvement and myeloma defining events (MDEs), may better capture clinically relevant disease. We sought to evaluate cats with serum protein ele",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42915570",
+      "title": "New World screwworm in livestock production systems: biosecurity, economic considerations, and management for cattle, sheep, goat, horse, and swine producers.",
+      "authors": "Campagnolo ER",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42915570/",
+      "abstract": "New World screwworm (Cochliomyia hominivorax) is a transboundary obligate myiasis-causing parasite that poses serious threats to livestock production through infestation of living tissue, rapid lesion progression, animal suffering, and substantial economic loss. Between June 3 and June 16, 2026, the US confirmed 12 cases of New World screwworm in domestic animals across Texas and New Mexico, marking the first detections in production livestock in the continental US since 1966. Cases have involve",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42915569",
+      "title": "Tablet crushing, but not splitting, alters the pharmacokinetics of extended-release levetiracetam in dogs.",
+      "authors": "Mondino A, Nettifee JA, Simon KE, Papich MG, Muñana KR",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42915569/",
+      "abstract": "To compare the pharmacokinetics of intact, split, and crushed levetiracetam (LEV) extended-release (LEV-XR) tablets in dogs. We hypothesized that splitting produces a pharmacokinetic profile similar to intact tablets, whereas crushing results in earlier and higher maximum concentrations. Healthy research dogs were administered 500 mg LEV-XR orally as intact, split, or crushed tablets in a randomized crossover design. Plasma LEV concentrations were measured over 12 hours by high-pressure liquid c",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42915224",
+      "title": "Systematic review supports the idea that no alternative test presently replaces elimination diet test and oral food challenge to diagnose canine adverse food reactions.",
+      "authors": "Morales-Romero R, Gonzalez-Dominguez MS, Roldán-Villalobos W, Correa-Valencia NM",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42915224/",
+      "abstract": "Adverse food reactions in dogs are clinically heterogeneous and overlap with canine atopic dermatitis, and diagnosis still relies on an elimination diet test followed by oral food challenge (EDT+OFC). Numerous allergen-specific tests have been proposed, but their diagnostic value remains controversial. Our objective was to identify, synthesize, and critically evaluate the diagnostic tests used or investigated for canine food allergy, with emphasis on their clinical validity, applicability, and a",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42915069",
+      "title": "Diagnosis of exocrine pancreatic insufficiency in dogs requires use of a newly adjusted reference range and diagnostic cutoff for measurement of trypsin-like immunoreactivity.",
+      "authors": "Chuang WH, Wu YA, Lidbury JA, Fosgate GT, Chang CH",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42915069/",
+      "abstract": "To adjust the reference interval (RI) for a commercially available canine trypsin-like immunoreactivity (cTLI) assay and the cutoff value for the diagnosis of exocrine pancreatic insufficiency (EPI). Lower limit of the RI was calculated based on the fifth percentile of cTLI concentrations in 102 clinically healthy dogs. Questionnaires were sent to clinicians for cases with serum cTLI concentrations &#x2264; 10 &#xb5;g/L. Five board-certified small animal internists blinded to serum cTLI concentr",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42914003",
+      "title": "Cytoreduction combined with cryosurgery for the treatment of eyelid neoplasms in dogs: Clinical outcomes and histopathological characterization.",
+      "authors": "de Oliveira R, de Vargas Arigony Braga F, de Moraes LAM, Bohm BC, Valente CL",
+      "journal": "Vet J",
+      "date": "2026 Oct 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42914003/",
+      "abstract": "Eyelid neoplasms are among the most common periocular conditions in dogs and can lead to significant ocular morbidity if left untreated. Although surgical excision with blepharoplasty remains the standard of care, cytoreduction combined with cryosurgery has emerged as a less invasive alternative that preserves eyelid integrity. This prospective study evaluated 30 dogs with eyelid masses treated by cytoreductive excision followed by two freeze-thaw cycles delivered via a contact CO&#x2082; cryosu",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
