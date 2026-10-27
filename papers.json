@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26 00:02 UTC",
+  "updated": "2026-10-27 01:21 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -187,6 +187,39 @@
       "summary_ko": ""
     },
     {
+      "id": "42932827",
+      "title": "Sinonasal aspergillosis-associated pneumocephalus in a dog: recovery after endoscopic interventional debridement and antifungal treatment.",
+      "authors": "Costes MTA, Saunders JH, Rickerts V, Daminet S, Rösch S",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932827/",
+      "abstract": "A 16-year-old Border Collie was referred for acute severe apathy and chronic nasal discharge. Computed tomography (CT) performed 2 weeks earlier was suggestive of sinonasal aspergillosis (SNA) with severe turbinate destruction and mucosal thickening in the left nasal cavity and frontal sinus. No treatment was initiated. Magnetic resonance imaging (MRI) at presentation identified intrameningeal pneumocephalus, meningitis, frontal sinusitis with ventral focal frontal bone lysis of the cranial cavi",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42932826",
+      "title": "Prophylactic strategies to reduce cyclophosphamide-induced sterile hemorrhagic cystitis in dogs: a first-opinion practice retrospective study and a referral survey.",
+      "authors": "Ivanovs A, MacKenzie C, Wardle Z, Pinchbeck G, Grieve H",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932826/",
+      "abstract": "Cyclophosphamide occasionally causes sterile hemorrhagic cystitis (SHC) in dogs. Prophylactic coadministration of furosemide reduces SHC risk, yet the extent of the implementation in practice is unknown. To explore the frequency of cyclophosphamide and furosemide coadministration in first opinion practice (FOP) and referral settings. Small Animal Surveillance Network (SAVSNET) searches identified 106 dogs receiving cyclophosphamide, of which 72 met the inclusion criteria. This study was composed",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42932825",
+      "title": "An observational retrospective study of online owner perceptions of diet-related health signs in dogs using social media listening.",
+      "authors": "Kaur JP, Hollands T, Clarke C, Tarrant G, Rai T",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932825/",
+      "abstract": "Dog owners increasingly link health to diet type, and the pet food market has diversified beyond kibble/canned diets (KC) to raw and fresh diets (FD; human-grade, gently/mildly cooked, and home-cooked). However, it remains unclear which owner-reported health-related signs (ORHS) are associated with dietary changes, including KC-FD transitions. Social media listening (SML) enables large-scale capture of naturally-occurring online owner discussions. Investigate owner perceptions of diet-related OR",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42921832",
       "title": "Prospective evaluation of the prevalence and characteristics of heart murmurs and gallop sounds in anemic cats.",
       "authors": "Robertson A, Boswood A, Luis Fuentes V, Lo EJY, Humm K",
@@ -348,6 +381,28 @@
       "date": "2026 Oct 3",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42883078/",
       "abstract": "Both canine hemangiosarcoma and human angiosarcoma are aggressive malignancies characterized by clinical and molecular heterogeneity. Current in vitro models rely on individual cell lines, failing to capture this biological complexity. We established a standardized 2D in vitro platform comprising a panel of three canine primary splenic hemangiosarcoma cell lines (EMN009, EMN011, EMN017) and one patient-matched brain metastasis (EMN010) evaluated in parallel. Using gold-standard assays-morphometr",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42928650",
+      "title": "Comparative Effectiveness of COP and CHOP Chemotherapy Protocols in Feline Intermediate- to Large-Cell Lymphoma: A Systematic Review and Meta-Analysis.",
+      "authors": "Lam YWS, Pimentel PAB, Nekouei O, Giuliano A",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Oct 25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928650/",
+      "abstract": "Feline intermediate- to large-cell lymphoma is commonly treated with COP or CHOP chemotherapy, but the clinical benefit of adding doxorubicin (CHOP) remains controversial given its associated toxicity profile and cost. This systematic review and exploratory meta-analysis summarized response and survival outcomes reported for COP- and CHOP-based protocols in feline intermediate- to large-cell lymphoma. Searching PubMed, Scopus, and CAB Abstracts (2000-2024), we included 21 studies comprising 1054",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42928418",
+      "title": "Differences in DNA Methylation Status Between Epithelial and Mesenchymal Phenotypes in Canine Malignant Mucosal Melanoma.",
+      "authors": "Ishizaki T, Yamazaki J, Aoshima K, Kimura T",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Oct 25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42928418/",
+      "abstract": "Canine malignant mucosal melanoma is one of the common cancers with a high mortality rate. Pathologically, malignant melanomas show multiple morphological patterns including epithelioid, spindle and round, indicating that neoplastic cells change their morphology. Regarding morphological change, epithelial-mesenchymal transition (EMT) has been considered to be an important mechanism. EMT is a reversible biologic process being suggested the correlation with DNA methylation in human cancer. The aim",
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -759,17 +814,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42863523",
-      "title": "Usefulness of serum amyloid A to differentiate feline inflammatory lower respiratory tract diseases from cardiac or neoplastic disease: a retrospective study of 22 cats (2021-2024).",
-      "authors": "Berro E, Fastrès A, Lamoureux A",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Oct 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42863523/",
-      "abstract": "To evaluate the usefulness of serum amyloid A concentration in differentiating inflammatory lower respiratory tract diseases from cardiac/neoplastic respiratory diseases in cats. A retrospective analysis of medical records of cats presented between 2021 and 2024 to a single referral centre was performed. Cats in respiratory distress with serum amyloid A assay performed within 48&#x2009;hours after admission were included and divided into two groups (inflammatory and cardiac/neoplastic). The infl",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
       "id": "42883058",
       "title": "Influence of Breed on Tracheal Diameter and Endotracheal Tube Size Selection in Dogs: A Retrospective Analysis.",
       "authors": "Kim J, Lee I, Son WG, Lee I, Kim H",
@@ -1064,50 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42866543/",
       "abstract": "Canine prostatic carcinoma is a highly aggressive malignancy with a poor prognosis and limited long-term treatment options. Prostatic artery embolization (PAE) has emerged as a minimally invasive alternative, but long-term intraprostatic imaging changes after PAE in dogs remain poorly documented. We performed PAE on a 13-year-old neutered male Chihuahua with prostatic carcinoma. Designating PAE as Day 0, we monitored the prostate, bladder, and lungs with computed tomography (CT), ultrasonography",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42866536",
-      "title": "Correction: Statistical shape modeling of the geometric morphology of the canine femur, tibia, and patella.",
-      "authors": "Huart J, Pozzi A, Bleedorn J, Lu TW, Knell S",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42866536/",
-      "abstract": "[This corrects the article DOI: 10.3389/fvets.2024.1366827.].",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42866495",
-      "title": "Bleomycin-based electrochemotherapy for recurrent oral CD8-positive epitheliotropic T-cell lymphoma in a dog with durable local control and necrotic regional lymph node changes: a case report.",
-      "authors": "Akiyoshi M, Hisasue M",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42866495/",
-      "abstract": "Oral epitheliotropic T-cell lymphoma (ETCL) is an uncommon form of canine cutaneous lymphoma involving the oral mucosa and mucocutaneous junctions. Information regarding optimal treatment strategies and prognosis is limited. Electrochemotherapy (ECT) has demonstrated efficacy against various cutaneous and subcutaneous tumors in dogs and cats; however, reports describing its use for canine oral ETCL are scarce. A 13-year-old male Beagle presented with multiple nodular lesions involving the right ",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42866470",
-      "title": "Bovine blood products modulate the effect of ophthalmic antibiotics against common bacterial pathogens in dogs with infectious keratitis.",
-      "authors": "Kim HO, Kubai MA, Brock L, Stinman CC, Gapp J",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42866470/",
-      "abstract": "Bacterial keratitis is a common condition that can result in serious complications including vision impairment and loss of the eye if not treated aggressively. Topical blood products are often utilized concurrently with topical antibiotics for their known anti-collagenolytic properties. These blood products contain albumin that could affect the antibiotic efficacy due to drug-protein binding. In this study, serum and plasma were harvested from 10 healthy bovines, utilizing fresh and frozen (1 mo",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42866079",
-      "title": "Hematologic follow-up of metamizole-associated Heinz body anemia in dogs.",
-      "authors": "Richter C, Geisen V, Palić J, Dörfelt R",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42866079/",
-      "abstract": "Heinz body (HB) anemia is uncommon in dogs. Metamizole is described as a potential trigger in isolated cases. The present study describes the course of metamizole-associated HB anemia in dogs with the development of hematocrit, HBs, and eccentrocytes. In addition, the correlation between HBs, eccentrocytes, hematocrit, and reticulocytes is investigated. In this prospective observational study, 25 dogs with metamizole-associated HB anemia were included. Hematologic examinations and blood smear ev",
-      "category": "other",
       "summary_ko": ""
     }
   ]
