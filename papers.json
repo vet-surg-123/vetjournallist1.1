@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29 01:41 UTC",
+  "updated": "2026-10-30 01:47 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -22,14 +22,58 @@
       "summary_ko": ""
     },
     {
-      "id": "42887431",
-      "title": "Effect of mitral valve repair on outcomes in dogs with preclinical myxomatous mitral valve disease: a retrospective cohort study.",
-      "authors": "Takahashi E, Shimizu S, Kaneko M, Takahashi A, Nii Y",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Sep 25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42887431/",
-      "abstract": "Mitral valve repair (MVR) for myxomatous mitral valve disease (MMVD) in dogs has favorable results, but its effectiveness compared with medical treatment in preclinical (stage B2) dogs remains unclear. This study investigated whether MVR improves survival in preclinical dogs with MMVD. Dogs diagnosed with stage B2 MMVD between October 2016 and September 2020 were divided into an MVR group and a control group receiving medical treatment. The primary outcome was a composite of all-cause mortality ",
-      "category": "orthopedics",
+      "id": "42955828",
+      "title": "A species comparison of videofloroscopic metrics of swallowing in healthy dogs and cats.",
+      "authors": "Grobman M, Luciani E, Reinero C",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955828/",
+      "abstract": "Videofluoroscopic swallow studies (VFSS) are the criterion standard for diagnosing dysphagia in veterinary species. However, a lack of normative swallowing variables in cats hinders assessment of cats with potential aerodigestive disease. Species variation in swallowing could lead to over- and under-interpretation of findings on VFSS, resulting in misdiagnosis. Compare differences in objective swallowing metrics between cats and dogs using VFSS. We hypothesize that cats will show differences in ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42955826",
+      "title": "Multimodal imaging characteristics and case management of intraspinal Spirocerca lupi infection in a dog.",
+      "authors": "Carrillo AJ, Grosso FRV, Walden HDS, Alas O, Garcia GA",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955826/",
+      "abstract": "A 1-year-old female spayed mixed breed dog was ambulatory with paraparesis and proprioceptive ataxia, absent conscious proprioception in pelvic limbs, and spinal pain with a T3-L3 neurolocalization on presentation. Thoracic radiographs revealed caudal mediastinal mass, pneumothorax, and pleural effusion. Magnetic resonance imaging revealed multiple mediastinal masses with vertebral canal extension, extradural compression at T5-T6, intramedullary T2 hyperintensities at T5 and T9, esophageal compr",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42955824",
+      "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
+      "authors": "Chittick L, Jaffey JA, Hanzlicek AS, Kreisler R, Rayhel LH",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955824/",
+      "abstract": "Disseminated coccidioidomycosis in dogs is associated with substantial morbidity, yet distinguishing pulmonary from disseminated disease can be clinically challenging. Antibody serology might assist in predicting dissemination, but its performance across disease sites requires clarification. To identify clinical and serologic variables associated with disseminated coccidioidomycosis and to evaluate differences in antibody magnitude among common sites of infection. Two hundred fourteen client-own",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42955823",
+      "title": "Utility of the ACTH/cortisol ratio for differentiating pituitary microadenomas from macroadenomas in dogs with pituitary-dependent hypercortisolism.",
+      "authors": "Stylianou G, Vassallo F, Nishii N, Diana A, Tardo AM",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955823/",
+      "abstract": "No simple, blood-based biomarker to estimate tumor size in dogs with pituitary-dependent hypercortisolism (PDH) has been evaluated. Determine whether the adrenocorticotropic hormone (ACTH)/cortisol ratio differentiates pituitary microadenomas from macroadenomas in dogs with PDH and correlates with pituitary size. Seventy privately-owned dogs with PDH (microadenomas, n&#xa0;=&#xa0;30; macroadenomas, n&#xa0;=&#xa0;40). Retrospective multicenter observational study. Endogenous ACTH and cortisol con",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42955822",
+      "title": "Serum fibroblast growth factor-23 concentration in dogs with myxomatous mitral valve disease.",
+      "authors": "Iwasa N, Shimizu M, Okamoto T, Kosuga H, Morikita N",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955822/",
+      "abstract": "Circulating fibroblast growth factor-23 (FGF-23) is primarily a kidney-related biomarker, but also may be influenced by cardiovascular remodeling and hemodynamic load. Verify whether serum FGF-23 concentration increases with myxomatous mitral valve disease (MMVD) severity. Forty-two client-owned dogs with MMVD without overt kidney disease. Retrospective cross-sectional study to evaluate serum FGF-23, N-terminal pro-B-type natriuretic peptide (NT-proBNP), atrial natriuretic peptide (ANP), blood u",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -194,6 +238,72 @@
       "date": "2026 Oct 6",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42914951/",
       "abstract": "Accurate measurement of feline left ventricular wall thickness (LVWT) is challenging due to endocardial and myocardial irregularities, false tendons, and prominent papillary muscles. In human medicine, contrast-enhanced echocardiography (C-Echo) is used to improve left ventricular wall delineation and is more accurate, repeatable, and reliable than standard echocardiography (S-Echo). Our objective was to compare C-Echo and S-Echo measurements of feline LVWT and determine repeatability, reproduci",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42951008",
+      "title": "Predicting the presence of an enlarged pituitary gland in ACTH-dependent hyperadrenocorticism in dogs using T4, TSH and ACTH concentrations.",
+      "authors": "Chamagne A, Desquilbet L, Pichard D, Rosenberg D, Benchekroun G",
+      "journal": "Vet J",
+      "date": "2026 Oct 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951008/",
+      "abstract": "ACTH-dependent hyperadrenocorticism (ADHAC) can be subclassified based on the pituitary height-to-brain area ratio (P/B), a P/B &#x2265; 0.31 defining an enlarged pituitary gland. We aimed to identify dogs with ADHAC and an enlarged pituitary gland using plasma ACTH and serum T4, TSH and IGF-1 concentrations. Twenty-three dogs with ADHAC were retrospectively included (12 with P/B &lt; 0.31, 11 with P/B &#x2265; 0.31). ACTH concentration was significantly higher and T4/TSH ratio significantly low",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42951007",
+      "title": "A 3D Mitral Valve Interstitial Cell Model Recapitulates Selected Transcriptomic Signatures of Degenerative Mitral Valve Disease.",
+      "authors": "Zhao Y, Chen Y, Ding R, Zhang M, Chen S",
+      "journal": "Vet J",
+      "date": "2026 Oct 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951007/",
+      "abstract": "Degenerative mitral valve disease (DMVD) is a highly prevalent cardiovascular disorder in humans, dogs and pigs. However, the molecular mechanisms driving mitral valve interstitial cell (VIC) activation and extracellular matrix (ECM) remodeling remain incompletely understood. In this study, we established a three-dimensional (3D) VIC-collagen model (VIC-COL) to investigate the cellular changes of VIC activation and ECM remodeling in response to transforming growth factor-&#x3b2;1 (TGF-&#x3b2;1) ",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42951006",
+      "title": "Clinical, hematological, biochemical, and biomarker alterations in neonatal canine sepsis.",
+      "authors": "da Mata Fuchs K, Pereira KHNP, Xavier GM, Mendonça JC, da Cunha RA",
+      "journal": "Vet J",
+      "date": "2026 Oct 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951006/",
+      "abstract": "Sepsis is one of the leading causes of mortality during the first weeks of life in canine neonates, and early diagnosis is essential to reduce these rates. This study aimed to evaluate changes in clinical, hematological, biochemical, and biomarker parameters (procalcitonin, C-reactive protein, and troponin I levels) in neonatal sepsis in dogs. Descriptive statistics, normality testing, group comparisons, and Pearson or Spearman correlations were performed, with significance set at p &lt; 0.05. B",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42950428",
+      "title": "Antimicrobial resistance and molecular characterization of extended-spectrum β-lactamase/AmpC β-lactamase-producing Proteus mirabilis isolates from companion dogs in South Korea (2018-2024).",
+      "authors": "Hwang YJ, Lee YH, Ali MS, Choi JH, Park SC",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950428/",
+      "abstract": "To investigate antimicrobial resistance profiles and molecular characteristics of third-generation cephalosporin- and cephamycin-resistant Proteus mirabilis isolated from clinically ill dogs across South Korea from 2018 through 2024. Antimicrobial susceptibility of isolates was assessed by broth microdilution. Molecular characteristics were determined by polymerase chain reaction and multilocus sequence typing. In total, 667 P mirabilis were isolated from skin/ear, feces, and urine/reproductive ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42950426",
+      "title": "Monocortical locking screws in the tibial diaphysis maintain tibial plateau angle and support osteotomy union after tibial plateau leveling osteotomy in dogs.",
+      "authors": "Wong N, Eckart LH, Yu J, Bleakley S, Jermyn K",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950426/",
+      "abstract": "To evaluate the effect of distal monocortical locking screw fixation on construct stability and bone healing following tibial plateau leveling osteotomy (TPLO) in dogs. We hypothesized that monocortical fixation would result in acceptable maintenance of tibial plateau angle (TPA) of &lt; 5&#xb0; and satisfactory osteotomy union. Medical records from a companion animal referral hospital between December 8, 2021, and February 23, 2024, were retrospectively reviewed. Dogs were included if TPLO was ",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42950421",
+      "title": "Extreme morphologies compromise canine health and welfare and require evidence-based breeding reform.",
+      "authors": "Hekman JP, Barton SA, Hecht EE, and the Canine Morphology and Welfare Working Group",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Oct 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950421/",
+      "abstract": "In recent years, morphology-driven welfare issues in the domestic dog have moved from the periphery to the center of public and professional attention, driven by breed-specific legislation and bans, dedicated sessions at major welfare conferences, and sustained scrutiny on social media. While these concerns are supported by a growing body of evidence linking extreme traits to chronic disease and compromised welfare, most research has asked only whether 1 breed or trait extreme differs from anoth",
       "category": "other",
       "summary_ko": ""
     },
@@ -462,28 +572,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42901211",
-      "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
-      "authors": "Arboit F, Mangini LT, Gasparotto JC, Griebeler LB, Oliveira JO",
-      "journal": "Am J Vet Res",
-      "date": "2026 Oct 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42901211/",
-      "abstract": "To evaluate serum triglyceride concentrations during target-controlled infusion (TCI) of propofol in healthy cats undergoing elective orchiectomy and to investigate the relationship between cumulative propofol dose and triglyceride concentrations. 8 healthy male cats were anesthetized using propofol administered via a TCI system targeting a plasma concentration of 7 &#xb5;g/mL for 45 minutes. Blood samples were collected at baseline, after premedication, immediately after induction, and at 20 an",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42896600",
-      "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
-      "authors": "Arboit F, Mangini LT, Gasparotto JC, Griebeler LB, Oliveira JO",
-      "journal": "Am J Vet Res",
-      "date": "2026 Oct 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896600/",
-      "abstract": "To evaluate serum triglyceride concentrations during target-controlled infusion (TCI) of propofol in healthy cats undergoing elective orchiectomy and to investigate the relationship between cumulative propofol dose and triglyceride concentrations. 8 healthy male cats were anesthetized using propofol administered via a TCI system targeting a plasma concentration of 7 &#xb5;g/mL for 45 minutes. Blood samples were collected at baseline, after premedication, immediately after induction, and at 20 an",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42939218",
       "title": "Association Between Pre-Transfusion Systemic Inflammatory Response Syndrome and Transfusion-Associated Adverse Events in Dogs: A Retrospective Study.",
       "authors": "Lee KM, Jeong YK, Jung JY, Sung HJ, Sohn JH",
@@ -492,17 +580,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42939218/",
       "abstract": "Blood transfusion is an important supportive therapy in critically ill dogs, but transfusion reactions (TRs) remain a clinically relevant complication. This retrospective study evaluated whether pre-transfusion systemic inflammatory response syndrome (SIRS) was associated with transfusion-associated adverse events in dogs. Medical records of dogs receiving red-cell-containing blood products at a veterinary referral hospital in the Republic of Korea between December 2023 and May 2026 were reviewe",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42893846",
-      "title": "Doxorubicin-induced Cardiotoxicity in Dogs: A Narrative Review.",
-      "authors": "Sunpongsri S, Roos T, Gerhing R, Zandvliet M, Santarelli G",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Oct 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42893846/",
-      "abstract": "Doxorubicin, an anthracycline widely used in both human and veterinary oncology, is highly effective against a variety of malignancies in dogs, including lymphomas, sarcomas and carcinomas. Despite its efficacy, doxorubicin exposure can be associated with cardiotoxicity, which may present acutely or chronically, potentially leading to severe cardiac arrhythmia and congestive heart failure. Mechanisms underlying cardiotoxicity are multifactorial, including oxidative stress, mitochondrial dysfunct",
-      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -580,28 +657,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42939183/",
       "abstract": "Body condition may be associated with postoperative orthopedic outcomes, but its relationship with early radiographic osteotomy healing following tibial plateau leveling osteotomy (TPLO) remains unclear. This retrospective study evaluated the association between preoperative body condition score (BCS) and early radiographic outcomes after TPLO for canine cranial cruciate ligament disease. Seventy-six stifles from 68 dogs with eligible radiographs obtained 42-70 days postoperatively were included",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42897632",
-      "title": "Use of plasma chromogranin a epitopes vasostatin and catestatin as biomarkers for catecholamine-producing tumours in dogs.",
-      "authors": "Prabert J, Hanson J, Ishigaki K, Asano K, Höglund K",
-      "journal": "BMC Vet Res",
-      "date": "2026 Oct 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42897632/",
-      "abstract": "Differentiation of catecholamine-producing tumours from other adrenal tumours remains difficult. Chromogranin A (CgA) is a marker for catecholamine secretion in the body. An assay for quantification of the CgA epitopes vasostatin and catestatin has been validated for use in dogs but not yet evaluated in dogs with catecholamine-producing tumours. The aims were to evaluate the assays foranalysis of plasma concentrations of the CgA epitopes vasostatin and catestatin in dogs with adrenal tumours and",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42885408",
-      "title": "Urinary liver-type fatty acid-binding protein in cats with lower urinary tract disease.",
-      "authors": "Culha N, Acar A, Ulutas B, Dinler Ay C",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Oct 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42885408/",
-      "abstract": "The aim of this study was to evaluate urinary liver-type fatty acid-binding protein levels in both obstructive and non-obstructive feline lower urinary tract disease. In addition, urinary liver-type fatty acid-binding protein levels were investigated in cats experiencing short-term (&lt;36 hours) and long-term (&#x2265;36 hours) urethral obstruction. The study included 32 cats, classified into two main groups: cats with feline lower urinary tract disease (n =&#x2009;24) and healthy controls (n =",
-      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -799,6 +854,28 @@
       "date": "2026 Oct",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42935475/",
       "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42952495",
+      "title": "Case Report: Presumptive subdural hemorrhage as a rare neurological manifestation of primary immune-mediated thrombocytopenia in a dog.",
+      "authors": "Hong HP, Kei TG, Gagnon NA, Scrivani PV",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952495/",
+      "abstract": "A 10-year-old female spayed mixed-breed dog was presented with a history of seizures and acute progressive intracranial signs. The neurological examination was consistent with multifocal brain disease. Clinical examination revealed ecchymoses, petechiae, and bilateral retinal hemorrhage. Clinicopathological evaluation identified severe thrombocytopenia [a platelet count of 9&#x202f;&#xd7;&#x202f;103/&#x3bc;L without clumps on manual smear evaluation] with an increased mean platelet volume. Coagu",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42952494",
+      "title": "Effects of transient intravascular volume overload on endothelial glycocalyx thickness in healthy anesthetized cats.",
+      "authors": "Yozova ID, Thomson N, Irie M, Owen R, Munday JS",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952494/",
+      "abstract": "Previous studies suggest that the endothelial glycocalyx is damaged by volume overload. This study assessed the effects of transient intravascular volume overload on estimated endothelial glycocalyx thickness in healthy cats, using sidestream dark field videomicroscopy and the Glycocheck&#x2122; software. This was a prospective blinded cross-over single-center experimental study on twenty healthy cats. Cats were randomized to either receive 30&#x202f;mL/kg/10&#x202f;min of Hartman's solution (vo",
       "category": "other",
       "summary_ko": ""
     },
@@ -1031,83 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42903197/",
       "abstract": "Porcine epidemic diarrhea virus (PEDV) infection threatens swine production, and growth retardation in neonatal piglets born to infected sows requires practical intervention. This study evaluated the effects of oral manganese dioxide (MnO2) nanozyme supplementation on growth and physiological indices in these piglets. In this study, 16 litters from PEDV GIIc-infected sows were assigned to four treatment groups according to body condition and PEDV RT-qPCR Ct value, with four litters from uninfect",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42903056",
-      "title": "Assessment of radiographic healing after tibial plateau leveling osteotomy in young and older dogs using the modified RUST scoring system.",
-      "authors": "Anderson BL, Frederick SW, Popovitch C",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903056/",
-      "abstract": "To compare radiographic osteotomy healing scores after tibial plateau leveling osteotomy (TPLO) in young (2-5&#x202f;years) and old (8-12&#x202f;years) dogs using the modified Radiographic Union Score for Tibial fractures (mRUST) system, and to evaluate agreement between large language model-assisted interpretation (LLM), surgeon, and surgical resident scoring. Client-owned, 20-40&#x202f;kg dogs treated with unilateral TPLO at ages 2-5 or 8-12&#x202f;years between 2023 and 2025 were retrospectiv",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42903052",
-      "title": "Outcomes and prognostic factors in dogs with subcutaneous and intramuscular hemangiosarcoma treated with hypofractionated radiation therapy and chemotherapy.",
-      "authors": "Rebelo AP, Furtado A, Sellon R, Roberts GD, Fidel J",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903052/",
-      "abstract": "Subcutaneous (SC) and intramuscular (IM) hemangiosarcoma (HSA) in dogs are aggressive malignancies with high rates of recurrence and metastasis. Surgery is the primary treatment, but incomplete excision is common, and the role of radiation therapy (RT) remains unclear. This single-institution retrospective study evaluated outcomes and toxicities in dogs with SC and IM HSA treated with hypofractionated RT using either 24 Gy in three 8-Gy fractions (days 0, 7, and 21) or 30 Gy in five 6-Gy fractio",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42898732",
-      "title": "Stability and dermatological safety assessment of Cryptocarya alba (Peumo) and Laureliopsis philippiana (Tepa) essential oil-carrying dry shampoo formulations for dermal use in dogs.",
-      "authors": "Varas M, Jacobs M, Rojas N, Ramos P, Bruna F",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42898732/",
-      "abstract": "Antibiotic resistance is a major concern in human and veterinary medicine, supporting the development of alternative topical products for companion animals. This study aimed to develop and evaluate essential oil (EO)-based dry shampoo formulations incorporating EOs from Cryptocarya alba and Laureliopsis philippiana as potential veterinary dermocosmetic platforms for canine skin care and complementary management of superficial pyoderma. Starch-based dry shampoo prototypes containing C. alba or L.",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42898197",
-      "title": "Perioperative analgesic effects of opiranserin in canine castration: a pilot study.",
-      "authors": "Lee S, Oh S, Lee I, Son WG",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42898197/",
-      "abstract": "Opiranserin, a non-opioid analgesic acting as a glycine transporter 2 inhibitor and 5-HT2A receptor antagonist, was evaluated for reducing intraoperative rescue analgesia and postoperative pain in dogs undergoing castration under isoflurane anesthesia. Eight healthy male Beagle dogs were randomized to receive a continuous rate infusion of opiranserin (5 mg&#xb7;kg-1&#xb7;h-1 for 1 h before induction, then 0.33 mg&#xb7;kg-1&#xb7;h-1 for 9 h; n = 4) or 0.9% saline (n = 4). Anesthesia was induced w",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42890363",
-      "title": "A zingiberene-selenium nanoparticle formulation modulates oxidative, inflammatory, and osteogenic responses during femoral fracture healing in rats.",
-      "authors": "Albarakati AJA",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42890363/",
-      "abstract": "Bone fracture healing involves coordinated inflammatory, oxidative, and remodeling processes. This study evaluated free zingiberene and a zingiberene-selenium nanoparticle (zingiberene-SeNP) formulation in a rat femoral fracture model. Twenty-four adult male Wistar rats were assigned to intact control, fracture control, fracture plus zingiberene (10 mg/kg/day), or fracture plus zingiberene-SeNP formulation (0.5 mg/kg/day, expressed as total administered formulation mass) groups for 35 days. Outc",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42889756",
-      "title": "The veterinary referral process in the DACH region: survey-based insights into obstacles and motivations.",
-      "authors": "Gast C, Hassenstein MJ, Kleinsorgen C, Busse C, Volk HA",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42889756/",
-      "abstract": "As demand for specialised veterinary care increases, referrals between first opinion practices and specialty clinics are becoming an increasingly important part of the chain of care. However, care pathways between these two settings can involve multiple transitions back and forth, each representing a potential opportunity for error or information loss. Issues such as communication failures, lack of information transfer, and delayed discharge letters back to the first opinion practice may occur, ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42889477",
-      "title": "Cross-sectional analysis of 152 hyperthyroid cats presented for radioactive iodine therapy in South Korea.",
-      "authors": "Son D, Chae Y, Yun T, Kim H, Lim JC",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42889477/",
-      "abstract": "Feline hyperthyroidism is one of the most common endocrinopathies in cats; however, its epidemiological characteristics remain poorly understood in South Korea. Although radioactive iodine therapy (RAIT) is a definitive treatment, studies focusing specifically on cats with hyperthyroidism undergoing RAIT are limited. Medical records of 152 cats with hyperthyroidism presented for RAIT were retrospectively reviewed to describe their epidemiological and clinical features. The median age at diagnosi",
-      "category": "other",
       "summary_ko": ""
     }
   ]
