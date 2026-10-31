@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 01:47 UTC",
+  "updated": "2026-10-31 01:29 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -19,6 +19,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42918707/",
       "abstract": "Endothelial-to-mesenchymal transformation (EndMT) is a complex process reported in canine myxomatous mitral valve disease (MMVD) but not previously evaluated in congenital mitral valve dysplasia (MD) in dogs. This study aimed to evaluate the EndMT in canine MD compared with MMVD. The present study was conducted on histopathological specimens obtained from 19 dogs divided into three groups: MMVD group (n = 7), MD group (n = 6) and control group (n = 6). The paraffin blocks were retrieved from the",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42960979",
+      "title": "Novel liquid biopsy based on comprehensive small RNA profiling for screening of cancer in dogs utilizing machine learning.",
+      "authors": "Harako S, Yuki M, Noguchi S, Ohno T, Nozaki N",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960979/",
+      "abstract": "Recent investigations have demonstrated the relevance in cancer of a variety of small RNAs, beyond microRNAs (miRNAs). However, the comprehensive application of these RNAs to cancer detection in dogs remains unexplored. We investigated whether combining miRNAs and other small RNAs using a custom database improves the accuracy of machine learning cancer screening in dogs compared with models using only miRNAs. A total of 389 dogs were enrolled: 85 with cancer, 77 with nonmalignant diseases, and 2",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -239,6 +250,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42914951/",
       "abstract": "Accurate measurement of feline left ventricular wall thickness (LVWT) is challenging due to endocardial and myocardial irregularities, false tendons, and prominent papillary muscles. In human medicine, contrast-enhanced echocardiography (C-Echo) is used to improve left ventricular wall delineation and is more accurate, repeatable, and reliable than standard echocardiography (S-Echo). Our objective was to compare C-Echo and S-Echo measurements of feline LVWT and determine repeatability, reproduci",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42960540",
+      "title": "Neurokinin-1 receptor antagonist (maropitant) for treatment of chronic idiopathic rhinitis in dogs: a pilot study.",
+      "authors": "Neittaanmäki H, Rajamäki M, Airas N, Tilamaa A, Viitanen S",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Oct 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960540/",
+      "abstract": "Chronic idiopathic rhinitis is a common canine nasal disease with unknown aetiology and poor response to treatment. Neurokinin-1 receptor activation has been associated with rhinitis in experimental animals. The aim of this pilot study was to compare the effects of oral neurokinin-1 receptor antagonist (maropitant) with placebo on clinical signs of chronic idiopathic rhinitis in dogs. Prospective randomised placebo-controlled double-blinded pilot trial. Eighteen privately owned dogs diagnosed wi",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -561,17 +583,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42906589",
-      "title": "Acute postoperative hypophosphatemia is a potential sequela following hepatectomy in dogs.",
-      "authors": "Bryant RE, Skinner OT, Barchilon M",
-      "journal": "Am J Vet Res",
-      "date": "2026 Oct 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42906589/",
-      "abstract": "To describe posthepatectomy hypophosphatemia in dogs and evaluate whether the extent of hepatectomy was associated with postoperative hypophosphatemia. This was a retrospective, observational study of dogs that underwent hepatectomy from January 1, 2019, through December 15, 2025, with serum phosphorus concentrations recorded preoperatively and within 72 hours postoperatively. Dogs with comorbidities or complications expected to influence serum phosphorus were excluded. Data included extent of h",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42939218",
       "title": "Association Between Pre-Transfusion Systemic Inflammatory Response Syndrome and Transfusion-Associated Adverse Events in Dogs: A Retrospective Study.",
       "authors": "Lee KM, Jeong YK, Jung JY, Sung HJ, Sohn JH",
@@ -858,6 +869,28 @@
       "summary_ko": ""
     },
     {
+      "id": "42959708",
+      "title": "A clinical case series evaluation of cross-linked gelatin foam to treat naturally occurring periodontal pockets and furcation defects in dogs.",
+      "authors": "Stepaniuk KS, Sievers AM, Lalonde AA",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42959708/",
+      "abstract": "This clinical case series evaluated periodontal debridement and the application of a biodegradable liquid scaffold composed of a porcine-derived crosslinked gelatin foam for the treatment of naturally occurring furcation defects and combined suprabony and infrabony defects in client-owned dogs. A total of 21 treated sites in 9 client-owned dogs were evaluated. Periodontal probing, intraoral computed radiography (CR), and cone beam computed tomography (CBCT) under general anesthesia were performe",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42959543",
+      "title": "Clinical outcome and implant accuracy in cervical fractures stabilization using 3D-printed patient-specific drill guides for placement of bicortical screws in 16 dogs.",
+      "authors": "Manzanedo-Delgado A, Oxley B, Behr S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42959543/",
+      "abstract": "To describe the clinical outcome of dogs with cervical fractures undergoing spinal stabilization surgery using 3D-printed patient-specific drill guides, and to evaluate the accuracy of pedicle screw placement with this technique. Retrospective descriptive study. Sixteen dogs. Medical records were searched between August 2015 and January 2025 for dogs with traumatic spinal fracture via CT scan causing signs of cervical myelopathy that underwent spinal stabilization surgery using 3D-printed patien",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42952495",
       "title": "Case Report: Presumptive subdural hemorrhage as a rare neurological manifestation of primary immune-mediated thrombocytopenia in a dog.",
       "authors": "Hong HP, Kei TG, Gagnon NA, Scrivani PV",
@@ -1074,39 +1107,6 @@
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42908898/",
       "abstract": "A 3-month-old intact male Korean raccoon dog (Nyctereutes procyonoides koreensis) was rescued and admitted to the Jeonbuk Wildlife Rescue Center with lethargy, dehydration, and dermatologic lesions consistent with Sarcoptes scabiei infestation. Physical examination detected a grade IV/VI systolic murmur, and thoracic radiography revealed generalized cardiomegaly. Transthoracic echocardiography identified a perimembranous ventricular septal defect (VSD) with left-to-right shunting. Although no di",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42904074",
-      "title": "Case Report: Long term multimodality treatment of canine hepatocellular carcinoma with serial monitoring of serum alpha-fetoprotein.",
-      "authors": "Dan TJ, Yang CH, Kim YJ, Kang MH, Kang MA",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42904074/",
-      "abstract": "A 13-year-old spayed female Shih Tzu presented with a several-month history of progressively increasing liver enzyme activities concurrent with managed hyperadrenocorticism. Diagnostic imaging revealed a solitary hepatic mass originating from the caudate process of the caudate lobe adhering to the caudal vena cava. Hepatocellular carcinoma (HCC) was confirmed via histopathological examination of an ultrasound-guided tru-cut biopsy, accompanied by a markedly elevated serum alpha-fetoprotein (AFP)",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42903212",
-      "title": "Epidemiology of voluntarily reported dog and cat bite incidents in a large-scale, multi-site veterinary network in the UK and Ireland.",
-      "authors": "Malkani R, Singleton D, Martin D, Vinke M, Playforth L",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903212/",
-      "abstract": "Dog and cat bites are an occupational risk within veterinary practise. Despite this, there is minimal research exploring the occurrence and details surrounding such incidents. The aim of this study was to use a large veterinary group's existing incident and near miss reporting system in the UK to explore the incidence of dog and cat bite reporting and surrounding details of such incidents. Dog and cat bite incidents were identified from January 2024 to October 2025 covering all clinics in the UK",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42903197",
-      "title": "Manganese dioxide nanozyme alleviates PEDV GIIc-associated growth retardation in neonatal piglets by improving antioxidant status, intestinal morphology, and manganese homeostasis.",
-      "authors": "Wang J, Lai X, Hu M, Liang S, Wu T",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903197/",
-      "abstract": "Porcine epidemic diarrhea virus (PEDV) infection threatens swine production, and growth retardation in neonatal piglets born to infected sows requires practical intervention. This study evaluated the effects of oral manganese dioxide (MnO2) nanozyme supplementation on growth and physiological indices in these piglets. In this study, 16 litters from PEDV GIIc-infected sows were assigned to four treatment groups according to body condition and PEDV RT-qPCR Ct value, with four litters from uninfect",
       "category": "imaging",
       "summary_ko": ""
     }
