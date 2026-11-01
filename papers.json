@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31 01:29 UTC",
+  "updated": "2026-11-01 00:54 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -19,182 +19,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42918707/",
       "abstract": "Endothelial-to-mesenchymal transformation (EndMT) is a complex process reported in canine myxomatous mitral valve disease (MMVD) but not previously evaluated in congenital mitral valve dysplasia (MD) in dogs. This study aimed to evaluate the EndMT in canine MD compared with MMVD. The present study was conducted on histopathological specimens obtained from 19 dogs divided into three groups: MMVD group (n = 7), MD group (n = 6) and control group (n = 6). The paraffin blocks were retrieved from the",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42960979",
-      "title": "Novel liquid biopsy based on comprehensive small RNA profiling for screening of cancer in dogs utilizing machine learning.",
-      "authors": "Harako S, Yuki M, Noguchi S, Ohno T, Nozaki N",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42960979/",
-      "abstract": "Recent investigations have demonstrated the relevance in cancer of a variety of small RNAs, beyond microRNAs (miRNAs). However, the comprehensive application of these RNAs to cancer detection in dogs remains unexplored. We investigated whether combining miRNAs and other small RNAs using a custom database improves the accuracy of machine learning cancer screening in dogs compared with models using only miRNAs. A total of 389 dogs were enrolled: 85 with cancer, 77 with nonmalignant diseases, and 2",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42955828",
-      "title": "A species comparison of videofloroscopic metrics of swallowing in healthy dogs and cats.",
-      "authors": "Grobman M, Luciani E, Reinero C",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955828/",
-      "abstract": "Videofluoroscopic swallow studies (VFSS) are the criterion standard for diagnosing dysphagia in veterinary species. However, a lack of normative swallowing variables in cats hinders assessment of cats with potential aerodigestive disease. Species variation in swallowing could lead to over- and under-interpretation of findings on VFSS, resulting in misdiagnosis. Compare differences in objective swallowing metrics between cats and dogs using VFSS. We hypothesize that cats will show differences in ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42955826",
-      "title": "Multimodal imaging characteristics and case management of intraspinal Spirocerca lupi infection in a dog.",
-      "authors": "Carrillo AJ, Grosso FRV, Walden HDS, Alas O, Garcia GA",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955826/",
-      "abstract": "A 1-year-old female spayed mixed breed dog was ambulatory with paraparesis and proprioceptive ataxia, absent conscious proprioception in pelvic limbs, and spinal pain with a T3-L3 neurolocalization on presentation. Thoracic radiographs revealed caudal mediastinal mass, pneumothorax, and pleural effusion. Magnetic resonance imaging revealed multiple mediastinal masses with vertebral canal extension, extradural compression at T5-T6, intramedullary T2 hyperintensities at T5 and T9, esophageal compr",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42955824",
-      "title": "Clinical and serologic variables associated with dissemination and seasonal presentation in dogs with newly diagnosed coccidioidomycosis.",
-      "authors": "Chittick L, Jaffey JA, Hanzlicek AS, Kreisler R, Rayhel LH",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955824/",
-      "abstract": "Disseminated coccidioidomycosis in dogs is associated with substantial morbidity, yet distinguishing pulmonary from disseminated disease can be clinically challenging. Antibody serology might assist in predicting dissemination, but its performance across disease sites requires clarification. To identify clinical and serologic variables associated with disseminated coccidioidomycosis and to evaluate differences in antibody magnitude among common sites of infection. Two hundred fourteen client-own",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42955823",
-      "title": "Utility of the ACTH/cortisol ratio for differentiating pituitary microadenomas from macroadenomas in dogs with pituitary-dependent hypercortisolism.",
-      "authors": "Stylianou G, Vassallo F, Nishii N, Diana A, Tardo AM",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955823/",
-      "abstract": "No simple, blood-based biomarker to estimate tumor size in dogs with pituitary-dependent hypercortisolism (PDH) has been evaluated. Determine whether the adrenocorticotropic hormone (ACTH)/cortisol ratio differentiates pituitary microadenomas from macroadenomas in dogs with PDH and correlates with pituitary size. Seventy privately-owned dogs with PDH (microadenomas, n&#xa0;=&#xa0;30; macroadenomas, n&#xa0;=&#xa0;40). Retrospective multicenter observational study. Endogenous ACTH and cortisol con",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42955822",
-      "title": "Serum fibroblast growth factor-23 concentration in dogs with myxomatous mitral valve disease.",
-      "authors": "Iwasa N, Shimizu M, Okamoto T, Kosuga H, Morikita N",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955822/",
-      "abstract": "Circulating fibroblast growth factor-23 (FGF-23) is primarily a kidney-related biomarker, but also may be influenced by cardiovascular remodeling and hemodynamic load. Verify whether serum FGF-23 concentration increases with myxomatous mitral valve disease (MMVD) severity. Forty-two client-owned dogs with MMVD without overt kidney disease. Retrospective cross-sectional study to evaluate serum FGF-23, N-terminal pro-B-type natriuretic peptide (NT-proBNP), atrial natriuretic peptide (ANP), blood u",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42949439",
-      "title": "Effects of a gluten-free hydrolyzed diet in dogs with paroxysmal dyskinesia: a prospective cohort study.",
-      "authors": "Okonji S, Del Baldo F, Garuti E, Vecchiato CG, Di Carlo A",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42949439/",
-      "abstract": "Paroxysmal dyskinesia (PD) is an episodic movement disorder in dogs. Gluten-sensitive etiology has been suggested, but prospective studies in different breeds are lacking. Investigate whether a gluten-free hydrolyzed diet (GFHD) decreases PD episode frequency and gastrointestinal (GI) signs, and evaluate associations with serum anti-gliadin peptide immunoglobulin G (AGA IgG) and anti-transglutaminase-2 immunoglobulin A (TG-2 IgA) titers. Twenty-three client-owned dogs with PD. Prospective cohort",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42949438",
-      "title": "Outcomes of a 42-day course of molnupiravir in cats with feline infectious peritonitis: a prospective descriptive study.",
-      "authors": "Hishinuma K, Inoue A, Fukushima K, Sato M",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42949438/",
-      "abstract": "Antiviral therapy for cats with feline infectious peritonitis (FIP) has traditionally been administered for 84&#xa0;days, although the optimal duration of molnupiravir treatment remains unknown. To evaluate the efficacy of a 42-day course of molnupiravir, orally (PO), for naturally occurring FIP in cats. Nineteen client-owned cats with newly diagnosed FIP. Prospective pilot study. Cats received molnupiravir, PO, q12h for 42&#xa0;days at a median dosage of 11.5&#xa0;mg/kg (IQR, 10.2-12.5&#xa0;mg/",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42949437",
-      "title": "Letter regarding \"Pancreatic lymphangioma and concurrent intestinal lymphangiectasia in a dog:\" long-term follow-up and necropsy findings.",
-      "authors": "Hifumi T, Ishikawa T, Kozuma C, Kozuma M, Kuramoto T",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42949437/",
-      "abstract": "",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42945299",
-      "title": "Diagnostic and stewardship considerations in fungal lower urinary tract infections of dogs and cats.",
-      "authors": "Prior C, Sykes JE, Barrs VR, Rautemaa-Richardson R, Klingspor L",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42945299/",
-      "abstract": "Fungal cystitis in dogs and cats presents a diagnostic and therapeutic challenge, with implications for antifungal stewardship in veterinary medicine. Unlike bacterial cystitis, diagnostic pathways for fungal infection are less well-defined, and antifungal therapy is often empirical. This article discusses key considerations for the diagnosis and management of fungal urinary tract infections, including the interpretation of urine cytology, the potential role and limitations of fungal culture, an",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42945298",
-      "title": "Intestinal angioleiomyoma in a dog.",
-      "authors": "Nivy R, Bruchim Y, Eley T",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42945298/",
-      "abstract": "Angioleiomyoma is a rare, smooth muscle tumor of vascular origin, which primarily affects the skin. A 9-year-old, castrated male dog presented for transient ataxia. Abnormalities were not detected on physical examination, but blood tests revealed a mild, severely microcytic anemia and transferrin saturation of 2.5% (reference interval, 27%-66%). An exhaustive diagnostic work-up ensued but failed to find the cause of the severe iron deficiency in laboratory, imaging, and endoscopic studies. Sever",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42932827",
-      "title": "Sinonasal aspergillosis-associated pneumocephalus in a dog: recovery after endoscopic interventional debridement and antifungal treatment.",
-      "authors": "Costes MTA, Saunders JH, Rickerts V, Daminet S, Rösch S",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932827/",
-      "abstract": "A 16-year-old Border Collie was referred for acute severe apathy and chronic nasal discharge. Computed tomography (CT) performed 2 weeks earlier was suggestive of sinonasal aspergillosis (SNA) with severe turbinate destruction and mucosal thickening in the left nasal cavity and frontal sinus. No treatment was initiated. Magnetic resonance imaging (MRI) at presentation identified intrameningeal pneumocephalus, meningitis, frontal sinusitis with ventral focal frontal bone lysis of the cranial cavi",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42932826",
-      "title": "Prophylactic strategies to reduce cyclophosphamide-induced sterile hemorrhagic cystitis in dogs: a first-opinion practice retrospective study and a referral survey.",
-      "authors": "Ivanovs A, MacKenzie C, Wardle Z, Pinchbeck G, Grieve H",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932826/",
-      "abstract": "Cyclophosphamide occasionally causes sterile hemorrhagic cystitis (SHC) in dogs. Prophylactic coadministration of furosemide reduces SHC risk, yet the extent of the implementation in practice is unknown. To explore the frequency of cyclophosphamide and furosemide coadministration in first opinion practice (FOP) and referral settings. Small Animal Surveillance Network (SAVSNET) searches identified 106 dogs receiving cyclophosphamide, of which 72 met the inclusion criteria. This study was composed",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42932825",
-      "title": "An observational retrospective study of online owner perceptions of diet-related health signs in dogs using social media listening.",
-      "authors": "Kaur JP, Hollands T, Clarke C, Tarrant G, Rai T",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932825/",
-      "abstract": "Dog owners increasingly link health to diet type, and the pet food market has diversified beyond kibble/canned diets (KC) to raw and fresh diets (FD; human-grade, gently/mildly cooked, and home-cooked). However, it remains unclear which owner-reported health-related signs (ORHS) are associated with dietary changes, including KC-FD transitions. Social media listening (SML) enables large-scale capture of naturally-occurring online owner discussions. Investigate owner perceptions of diet-related OR",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42921832",
-      "title": "Prospective evaluation of the prevalence and characteristics of heart murmurs and gallop sounds in anemic cats.",
-      "authors": "Robertson A, Boswood A, Luis Fuentes V, Lo EJY, Humm K",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921832/",
-      "abstract": "Heart murmurs and gallop sounds are common in anemic cats; however, their association with underlying cardiac disease is unclear. Determine the prevalence of murmurs and gallops in anemic cats. Investigate the association of auscultatory abnormalities with anemia severity and heart disease. Investigate whether change in anemia severity affects the audibility of murmurs and gallop sounds. Sixty-four anemic cats (packed cell volume [PCV] below 30%) presenting to a referral hospital. Single-center ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42912657",
-      "title": "The use of cold-stored platelets to provide hemostasis in dogs with thrombocytopenia.",
-      "authors": "Monaco SA, Haines JM, Guess SC, Fiedler SM, Wardrop KJ",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Sep 1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42912657/",
-      "abstract": "Platelet transfusion can be lifesaving in dogs with severe thrombocytopenia and hemorrhage, but platelet products are limited by short shelf life and contamination risk. Cold-stored platelets (CSP) may provide a practical alternative, but in vivo hemostatic efficacy in dogs is unknown. Evaluate the clinical hemostatic efficacy and safety of CSP transfusions in thrombocytopenic dogs. Twenty-four thrombocytopenic dogs from a veterinary teaching hospital population that received CSP transfusions be",
-      "category": "other",
       "summary_ko": ""
     },
     {
@@ -250,6 +74,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42914951/",
       "abstract": "Accurate measurement of feline left ventricular wall thickness (LVWT) is challenging due to endocardial and myocardial irregularities, false tendons, and prominent papillary muscles. In human medicine, contrast-enhanced echocardiography (C-Echo) is used to improve left ventricular wall delineation and is more accurate, repeatable, and reliable than standard echocardiography (S-Echo). Our objective was to compare C-Echo and S-Echo measurements of feline LVWT and determine repeatability, reproduci",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42963937",
+      "title": "Characterization and in Vitro Radiation Response Analysis of Patient-Derived Heterogeneous Cells From Canine Oral Melanoma.",
+      "authors": "Hwang G, Oh SJ, Hong IH, Choi MY, Lee SL",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Oct 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963937/",
+      "abstract": "Conventional cancer cell lines often fail to capture tumour heterogeneity, limiting their translational relevance for radiation response studies. This study aimed to establish a low-passage, patient-derived heterogeneous culture and to evaluate its radiation response characteristics. Tumour tissue obtained from a canine oral melanoma patient was used to generate the culture. Cellular heterogeneity was confirmed by morphological features and the expression of stem cell-associated markers (CD133+C",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42963785",
+      "title": "In vivo minimally invasive reduction and fixation of sacroiliac luxation using a dedicated novel instrument system.",
+      "authors": "Meilleur SJ, Podsiedlik M, Dejardin LM",
+      "journal": "Vet Surg",
+      "date": "2026 Oct 30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963785/",
+      "abstract": "To evaluate the clinical safety and efficacy of a dedicated sacroiliac luxation instrument system (SILIS) featuring a minimally invasive lucent aiming device (MILAD) during osteosynthesis of sacroiliac luxation/fracture (SIL/F). We hypothesized that SILIS-MILAD assisted surgeries would be safe and as or more accurate than reported minimally invasive osteosynthesis (MIO) and open reduction and internal fixation (ORIF) techniques. Prospective, observational case series. A total of 10 client owned ",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -583,6 +429,39 @@
       "summary_ko": ""
     },
     {
+      "id": "42906589",
+      "title": "Acute postoperative hypophosphatemia is a potential sequela following hepatectomy in dogs.",
+      "authors": "Bryant RE, Skinner OT, Barchilon M",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906589/",
+      "abstract": "To describe posthepatectomy hypophosphatemia in dogs and evaluate whether the extent of hepatectomy was associated with postoperative hypophosphatemia. This was a retrospective, observational study of dogs that underwent hepatectomy from January 1, 2019, through December 15, 2025, with serum phosphorus concentrations recorded preoperatively and within 72 hours postoperatively. Dogs with comorbidities or complications expected to influence serum phosphorus were excluded. Data included extent of h",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42901211",
+      "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
+      "authors": "Arboit F, Mangini LT, Gasparotto JC, Griebeler LB, Oliveira JO",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901211/",
+      "abstract": "To evaluate serum triglyceride concentrations during target-controlled infusion (TCI) of propofol in healthy cats undergoing elective orchiectomy and to investigate the relationship between cumulative propofol dose and triglyceride concentrations. 8 healthy male cats were anesthetized using propofol administered via a TCI system targeting a plasma concentration of 7 &#xb5;g/mL for 45 minutes. Blood samples were collected at baseline, after premedication, immediately after induction, and at 20 an",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42896600",
+      "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
+      "authors": "Arboit F, Mangini LT, Gasparotto JC, Griebeler LB, Oliveira JO",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896600/",
+      "abstract": "To evaluate serum triglyceride concentrations during target-controlled infusion (TCI) of propofol in healthy cats undergoing elective orchiectomy and to investigate the relationship between cumulative propofol dose and triglyceride concentrations. 8 healthy male cats were anesthetized using propofol administered via a TCI system targeting a plasma concentration of 7 &#xb5;g/mL for 45 minutes. Blood samples were collected at baseline, after premedication, immediately after induction, and at 20 an",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42939218",
       "title": "Association Between Pre-Transfusion Systemic Inflammatory Response Syndrome and Transfusion-Associated Adverse Events in Dogs: A Retrospective Study.",
       "authors": "Lee KM, Jeong YK, Jung JY, Sung HJ, Sohn JH",
@@ -591,6 +470,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42939218/",
       "abstract": "Blood transfusion is an important supportive therapy in critically ill dogs, but transfusion reactions (TRs) remain a clinically relevant complication. This retrospective study evaluated whether pre-transfusion systemic inflammatory response syndrome (SIRS) was associated with transfusion-associated adverse events in dogs. Medical records of dogs receiving red-cell-containing blood products at a veterinary referral hospital in the Republic of Korea between December 2023 and May 2026 were reviewe",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42893846",
+      "title": "Doxorubicin-induced Cardiotoxicity in Dogs: A Narrative Review.",
+      "authors": "Sunpongsri S, Roos T, Gerhing R, Zandvliet M, Santarelli G",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Oct 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42893846/",
+      "abstract": "Doxorubicin, an anthracycline widely used in both human and veterinary oncology, is highly effective against a variety of malignancies in dogs, including lymphomas, sarcomas and carcinomas. Despite its efficacy, doxorubicin exposure can be associated with cardiotoxicity, which may present acutely or chronically, potentially leading to severe cardiac arrhythmia and congestive heart failure. Mechanisms underlying cardiotoxicity are multifactorial, including oxidative stress, mitochondrial dysfunct",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -667,6 +557,17 @@
       "date": "2026 Oct 16",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42939183/",
       "abstract": "Body condition may be associated with postoperative orthopedic outcomes, but its relationship with early radiographic osteotomy healing following tibial plateau leveling osteotomy (TPLO) remains unclear. This retrospective study evaluated the association between preoperative body condition score (BCS) and early radiographic outcomes after TPLO for canine cranial cruciate ligament disease. Seventy-six stifles from 68 dogs with eligible radiographs obtained 42-70 days postoperatively were included",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42897632",
+      "title": "Use of plasma chromogranin a epitopes vasostatin and catestatin as biomarkers for catecholamine-producing tumours in dogs.",
+      "authors": "Prabert J, Hanson J, Ishigaki K, Asano K, Höglund K",
+      "journal": "BMC Vet Res",
+      "date": "2026 Oct 16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897632/",
+      "abstract": "Differentiation of catecholamine-producing tumours from other adrenal tumours remains difficult. Chromogranin A (CgA) is a marker for catecholamine secretion in the body. An assay for quantification of the CgA epitopes vasostatin and catestatin has been validated for use in dogs but not yet evaluated in dogs with catecholamine-producing tumours. The aims were to evaluate the assays foranalysis of plasma concentrations of the CgA epitopes vasostatin and catestatin in dogs with adrenal tumours and",
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -866,6 +767,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42935475/",
       "abstract": "",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42929748",
+      "title": "Imaging Features of Adrenal Glands Infiltration by Multicentric Lymphoma in Dogs and Cats.",
+      "authors": "Negro L, Pey P, Specchi S, Penninck D, Diana A",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42929748/",
+      "abstract": "Few case reports describe the imaging features of lymphoma involving the adrenal glands (AGs) in dogs and cats. This retrospective, descriptive, and multicentric study aimed to describe the ultrasound (US), computed tomography (CT), and magnetic resonance imaging (MRI) findings of confirmed lymphomatous AG infiltration in patients with multicentric lymphoma. The inclusion criteria required cytological or histological confirmation of AG lymphoma and at least one imaging study. Eleven patients wer",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42964095",
+      "title": "Case Report: (18)F-FDG PET/CT findings and SUVmax characterization in a dog with apocrine gland anal sac adenocarcinoma.",
+      "authors": "Shim B, Kim Y, Lee S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42964095/",
+      "abstract": "Apocrine gland anal sac adenocarcinoma (AGASACA) is a malignant epithelial tumor in dogs that commonly metastasizes to regional lymph nodes. Although 18F-fluorodeoxyglucose (18F-FDG) positron emission tomography/computed tomography (PET/CT) has been mentioned as a staging modality for this tumor, detailed imaging findings and maximum standardized uptake values (SUVmax) have not previously been reported. A 10-year-old castrated male Maltese was referred for a right anal sac mass and suspected lym",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -1108,6 +1031,83 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42908898/",
       "abstract": "A 3-month-old intact male Korean raccoon dog (Nyctereutes procyonoides koreensis) was rescued and admitted to the Jeonbuk Wildlife Rescue Center with lethargy, dehydration, and dermatologic lesions consistent with Sarcoptes scabiei infestation. Physical examination detected a grade IV/VI systolic murmur, and thoracic radiography revealed generalized cardiomegaly. Transthoracic echocardiography identified a perimembranous ventricular septal defect (VSD) with left-to-right shunting. Although no di",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42904074",
+      "title": "Case Report: Long term multimodality treatment of canine hepatocellular carcinoma with serial monitoring of serum alpha-fetoprotein.",
+      "authors": "Dan TJ, Yang CH, Kim YJ, Kang MH, Kang MA",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42904074/",
+      "abstract": "A 13-year-old spayed female Shih Tzu presented with a several-month history of progressively increasing liver enzyme activities concurrent with managed hyperadrenocorticism. Diagnostic imaging revealed a solitary hepatic mass originating from the caudate process of the caudate lobe adhering to the caudal vena cava. Hepatocellular carcinoma (HCC) was confirmed via histopathological examination of an ultrasound-guided tru-cut biopsy, accompanied by a markedly elevated serum alpha-fetoprotein (AFP)",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42903212",
+      "title": "Epidemiology of voluntarily reported dog and cat bite incidents in a large-scale, multi-site veterinary network in the UK and Ireland.",
+      "authors": "Malkani R, Singleton D, Martin D, Vinke M, Playforth L",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903212/",
+      "abstract": "Dog and cat bites are an occupational risk within veterinary practise. Despite this, there is minimal research exploring the occurrence and details surrounding such incidents. The aim of this study was to use a large veterinary group's existing incident and near miss reporting system in the UK to explore the incidence of dog and cat bite reporting and surrounding details of such incidents. Dog and cat bite incidents were identified from January 2024 to October 2025 covering all clinics in the UK",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42903197",
+      "title": "Manganese dioxide nanozyme alleviates PEDV GIIc-associated growth retardation in neonatal piglets by improving antioxidant status, intestinal morphology, and manganese homeostasis.",
+      "authors": "Wang J, Lai X, Hu M, Liang S, Wu T",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903197/",
+      "abstract": "Porcine epidemic diarrhea virus (PEDV) infection threatens swine production, and growth retardation in neonatal piglets born to infected sows requires practical intervention. This study evaluated the effects of oral manganese dioxide (MnO2) nanozyme supplementation on growth and physiological indices in these piglets. In this study, 16 litters from PEDV GIIc-infected sows were assigned to four treatment groups according to body condition and PEDV RT-qPCR Ct value, with four litters from uninfect",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42903056",
+      "title": "Assessment of radiographic healing after tibial plateau leveling osteotomy in young and older dogs using the modified RUST scoring system.",
+      "authors": "Anderson BL, Frederick SW, Popovitch C",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903056/",
+      "abstract": "To compare radiographic osteotomy healing scores after tibial plateau leveling osteotomy (TPLO) in young (2-5&#x202f;years) and old (8-12&#x202f;years) dogs using the modified Radiographic Union Score for Tibial fractures (mRUST) system, and to evaluate agreement between large language model-assisted interpretation (LLM), surgeon, and surgical resident scoring. Client-owned, 20-40&#x202f;kg dogs treated with unilateral TPLO at ages 2-5 or 8-12&#x202f;years between 2023 and 2025 were retrospectiv",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42903052",
+      "title": "Outcomes and prognostic factors in dogs with subcutaneous and intramuscular hemangiosarcoma treated with hypofractionated radiation therapy and chemotherapy.",
+      "authors": "Rebelo AP, Furtado A, Sellon R, Roberts GD, Fidel J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903052/",
+      "abstract": "Subcutaneous (SC) and intramuscular (IM) hemangiosarcoma (HSA) in dogs are aggressive malignancies with high rates of recurrence and metastasis. Surgery is the primary treatment, but incomplete excision is common, and the role of radiation therapy (RT) remains unclear. This single-institution retrospective study evaluated outcomes and toxicities in dogs with SC and IM HSA treated with hypofractionated RT using either 24 Gy in three 8-Gy fractions (days 0, 7, and 21) or 30 Gy in five 6-Gy fractio",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42898732",
+      "title": "Stability and dermatological safety assessment of Cryptocarya alba (Peumo) and Laureliopsis philippiana (Tepa) essential oil-carrying dry shampoo formulations for dermal use in dogs.",
+      "authors": "Varas M, Jacobs M, Rojas N, Ramos P, Bruna F",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898732/",
+      "abstract": "Antibiotic resistance is a major concern in human and veterinary medicine, supporting the development of alternative topical products for companion animals. This study aimed to develop and evaluate essential oil (EO)-based dry shampoo formulations incorporating EOs from Cryptocarya alba and Laureliopsis philippiana as potential veterinary dermocosmetic platforms for canine skin care and complementary management of superficial pyoderma. Starch-based dry shampoo prototypes containing C. alba or L.",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42898197",
+      "title": "Perioperative analgesic effects of opiranserin in canine castration: a pilot study.",
+      "authors": "Lee S, Oh S, Lee I, Son WG",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898197/",
+      "abstract": "Opiranserin, a non-opioid analgesic acting as a glycine transporter 2 inhibitor and 5-HT2A receptor antagonist, was evaluated for reducing intraoperative rescue analgesia and postoperative pain in dogs undergoing castration under isoflurane anesthesia. Eight healthy male Beagle dogs were randomized to receive a continuous rate infusion of opiranserin (5 mg&#xb7;kg-1&#xb7;h-1 for 1 h before induction, then 0.33 mg&#xb7;kg-1&#xb7;h-1 for 9 h; n = 4) or 0.9% saline (n = 4). Anesthesia was induced w",
+      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
