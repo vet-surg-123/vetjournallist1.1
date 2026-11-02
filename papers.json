@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01 00:54 UTC",
+  "updated": "2026-11-02 01:25 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -451,17 +451,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42896600",
-      "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
-      "authors": "Arboit F, Mangini LT, Gasparotto JC, Griebeler LB, Oliveira JO",
-      "journal": "Am J Vet Res",
-      "date": "2026 Oct 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896600/",
-      "abstract": "To evaluate serum triglyceride concentrations during target-controlled infusion (TCI) of propofol in healthy cats undergoing elective orchiectomy and to investigate the relationship between cumulative propofol dose and triglyceride concentrations. 8 healthy male cats were anesthetized using propofol administered via a TCI system targeting a plasma concentration of 7 &#xb5;g/mL for 45 minutes. Blood samples were collected at baseline, after premedication, immediately after induction, and at 20 an",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42939218",
       "title": "Association Between Pre-Transfusion Systemic Inflammatory Response Syndrome and Transfusion-Associated Adverse Events in Dogs: A Retrospective Study.",
       "authors": "Lee KM, Jeong YK, Jung JY, Sung HJ, Sohn JH",
@@ -470,17 +459,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42939218/",
       "abstract": "Blood transfusion is an important supportive therapy in critically ill dogs, but transfusion reactions (TRs) remain a clinically relevant complication. This retrospective study evaluated whether pre-transfusion systemic inflammatory response syndrome (SIRS) was associated with transfusion-associated adverse events in dogs. Medical records of dogs receiving red-cell-containing blood products at a veterinary referral hospital in the Republic of Korea between December 2023 and May 2026 were reviewe",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42893846",
-      "title": "Doxorubicin-induced Cardiotoxicity in Dogs: A Narrative Review.",
-      "authors": "Sunpongsri S, Roos T, Gerhing R, Zandvliet M, Santarelli G",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Oct 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42893846/",
-      "abstract": "Doxorubicin, an anthracycline widely used in both human and veterinary oncology, is highly effective against a variety of malignancies in dogs, including lymphomas, sarcomas and carcinomas. Despite its efficacy, doxorubicin exposure can be associated with cardiotoxicity, which may present acutely or chronically, potentially leading to severe cardiac arrhythmia and congestive heart failure. Mechanisms underlying cardiotoxicity are multifactorial, including oxidative stress, mitochondrial dysfunct",
-      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -693,6 +671,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42966325",
+      "title": "Third-degree atrioventricular block secondary to intracardiac paraganglioma in a dog.",
+      "authors": "Corda A, Pentcheva P, Corda F, Pinna Parpaglia ML, Perego M",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42966325/",
+      "abstract": "A 14-year-old, 6-kg dog was referred for lethargy, exercise intolerance, and syncope. Electrocardiography revealed complete atrioventricular (AV) block with a narrow QRS escape rhythm at 40 bpm. Echocardiography identified a solitary mass involving the interatrial septum with extension into the interventricular septum, associated with valvular regurgitation and chamber enlargement. Despite medical management of congestive heart failure, the dog died suddenly 10 days later. Necropsy revealed a la",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
       "id": "42939141",
       "title": "Baicalein and Neohesperidin Dihydrochalcone Improve Post-Thaw Sperm Quality and Modulate the Semen Supernatant Metabolome in Qinchuan Bulls.",
       "authors": "Yang B, Zhang Z, Gao S, Zheng R, Zan L",
@@ -778,6 +767,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42929748/",
       "abstract": "Few case reports describe the imaging features of lymphoma involving the adrenal glands (AGs) in dogs and cats. This retrospective, descriptive, and multicentric study aimed to describe the ultrasound (US), computed tomography (CT), and magnetic resonance imaging (MRI) findings of confirmed lymphomatous AG infiltration in patients with multicentric lymphoma. The inclusion criteria required cytological or histological confirmation of AG lymphoma and at least one imaging study. Eleven patients wer",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42964361",
+      "title": "Effects of violet light exposure on aging dogs: a pilot study.",
+      "authors": "Miyamoto K, Ono N, Kondo S, Miwa Y, Tsubota K",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42964361/",
+      "abstract": "Aging in dogs is known to induce various physical and brain alterations similar to dementia in humans. Concurrently with the recent extension of canine life expectancy, these age-related changes have imposed growing burdens on both dogs and their owners, emerging as a significant social issue. However, no curative treatment has yet been established, and the current mainstay of management focuses on improving the quality of life through symptomatic therapies, such as environmental modifications a",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
