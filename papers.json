@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02 01:25 UTC",
+  "updated": "2026-11-03 03:25 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,17 +10,6 @@
     "other": "기타"
   },
   "papers": [
-    {
-      "id": "42918707",
-      "title": "A histopathological and immunohistochemical perspective on selected aspects of valvular interstitial and valve endothelial remodelling in canine mitral valve dysplasia and myxomatous degeneration.",
-      "authors": "Janus-Ziółkowska I, Biegańska H, Bubak J, Noszczyk-Nowak A",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Sep 3",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42918707/",
-      "abstract": "Endothelial-to-mesenchymal transformation (EndMT) is a complex process reported in canine myxomatous mitral valve disease (MMVD) but not previously evaluated in congenital mitral valve dysplasia (MD) in dogs. This study aimed to evaluate the EndMT in canine MD compared with MMVD. The present study was conducted on histopathological specimens obtained from 19 dogs divided into three groups: MMVD group (n = 7), MD group (n = 6) and control group (n = 6). The paraffin blocks were retrieved from the",
-      "category": "imaging",
-      "summary_ko": ""
-    },
     {
       "id": "42939097",
       "title": "Microsatellite and Mitochondrial DNA Reveal Spatial Genetic Variation and Domestic Cat Admixture in Hungarian European Wildcats.",
@@ -116,13 +105,13 @@
       "journal": "Vet J",
       "date": "2026 Oct 28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42951008/",
-      "abstract": "ACTH-dependent hyperadrenocorticism (ADHAC) can be subclassified based on the pituitary height-to-brain area ratio (P/B), a P/B &#x2265; 0.31 defining an enlarged pituitary gland. We aimed to identify dogs with ADHAC and an enlarged pituitary gland using plasma ACTH and serum T4, TSH and IGF-1 concentrations. Twenty-three dogs with ADHAC were retrospectively included (12 with P/B &lt; 0.31, 11 with P/B &#x2265; 0.31). ACTH concentration was significantly higher and T4/TSH ratio significantly low",
+      "abstract": "ACTH-dependent hyperadrenocorticism (ADHAC) can be subclassified based on the pituitary height-to-brain area ratio (P/B), a P/B &#x2265;&#x202f;0.31 defining an enlarged pituitary gland. We aimed to identify dogs with ADHAC and an enlarged pituitary gland using plasma ACTH and serum T4, TSH and IGF-1 concentrations. Twenty-three dogs with ADHAC were retrospectively included (12 with P/B &lt; 0.31, 11 with P/B &#x2265; 0.31). ACTH concentration was significantly higher and T4/TSH ratio significan",
       "category": "neurosurgery",
       "summary_ko": ""
     },
     {
       "id": "42951007",
-      "title": "A 3D Mitral Valve Interstitial Cell Model Recapitulates Selected Transcriptomic Signatures of Degenerative Mitral Valve Disease.",
+      "title": "A 3D mitral valve interstitial cell model recapitulates selected transcriptomic signatures of degenerative mitral valve disease.",
       "authors": "Zhao Y, Chen Y, Ding R, Zhang M, Chen S",
       "journal": "Vet J",
       "date": "2026 Oct 28",
@@ -539,17 +528,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42897632",
-      "title": "Use of plasma chromogranin a epitopes vasostatin and catestatin as biomarkers for catecholamine-producing tumours in dogs.",
-      "authors": "Prabert J, Hanson J, Ishigaki K, Asano K, Höglund K",
-      "journal": "BMC Vet Res",
-      "date": "2026 Oct 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42897632/",
-      "abstract": "Differentiation of catecholamine-producing tumours from other adrenal tumours remains difficult. Chromogranin A (CgA) is a marker for catecholamine secretion in the body. An assay for quantification of the CgA epitopes vasostatin and catestatin has been validated for use in dogs but not yet evaluated in dogs with catecholamine-producing tumours. The aims were to evaluate the assays foranalysis of plasma concentrations of the CgA epitopes vasostatin and catestatin in dogs with adrenal tumours and",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42939175",
       "title": "Dietary Chitosan Oligosaccharides Modulate Oxidative Status, Inflammatory and Apoptosis-Related Markers in Immune Organs of Heat-Stressed Broilers.",
       "authors": "Cai H, Liu H, Wang Y, Cao X, Yu X",
@@ -755,6 +733,50 @@
       "date": "2026 Oct",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42935475/",
       "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42969556",
+      "title": "Bendamustine induces peripheral lymphodepletion in dogs with relapsed lymphoma.",
+      "authors": "Lenz JA, Upton L, Ma J, Talone MM, Peng B",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969556/",
+      "abstract": "Chimeric antigen receptor (CAR) T-cell therapy has improved outcomes for many human patients with B-cell lymphoma and provides a rational template for analogous canine patients. To date, the expansion, persistence, and activity of CAR T cells in dogs have been limited. Lymphodepletion supports CAR T-cell engraftment and antitumor activity. In human medical oncology, bendamustine has emerged as a well-tolerated lymphodepleting agent. However, prospective use of bendamustine for dogs with lymphoma",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42968222",
+      "title": "EXPRESS: Hyperammonemia in cats with acute (on chronic) kidney disease: associations with urea cycle amino acids, azotemia and acid-base status.",
+      "authors": "McFadden K, Labato MA, Linder DE, Webster CR",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Nov 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968222/",
+      "abstract": "ObjectivesHyperammonemia occurs in cats with kidney disease although the pathophysiology is poorly understood. The objective of this study was to determine if hyperammonemia in cats with kidney disease is associated with decreased concentrations of plasma amino acids involved in the urea cycle and more severe acid-base derangements.MethodsTwenty cats presenting with acute kidney injury (AKI) and acute on chronic kidney disease (AoCKD) were prospectively enrolled. Fasting blood samples were analy",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42968221",
+      "title": "EXPRESS: Elbow luxation treatment in cats using external fixation.",
+      "authors": "Yener K, Hurma MS, Karadağ MS, Dikmen Ilginoğlu K, Hünerli H",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Nov 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968221/",
+      "abstract": "ObjectivesTo describe outcomes and complications of open reduction, collateral ligament repair and temporary epoxy resin Type Ia transarticular external skeletal fixation (TaESF) in cats with traumatic lateral elbow luxation after failed closed treatment.MethodsTen cats were referred 3-4 days after injury. Closed reduction failed in four cats and reluxation occurred in six after reduction and Robert Jones bandaging. All underwent open reduction, apposition of identifiable collateral ligament end",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42968215",
+      "title": "EXPRESS: Feline granulocytic anaplasmosis in Europe: anamnesis, clinicopathological abnormalities, bacterial DNA load, treatment, and outcome.",
+      "authors": "Meyer L, Moritz A, Baneth G, Strube C, Jindal K",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Nov 1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968215/",
+      "abstract": "Feline granulocytic anaplasmosis (FGA) is caused by Anaplasma (A.) phagocytophilum. Fever and thrombocytopenia are the most common clinicopathological abnormalities.ObjectivesThe aim was to investigate regionality, seasonality, clinicopathological parameters, treatment, and outcomes in cats with FGA.MethodsThe database of a commercial laboratory was retrospectively screened for A. phagocytophilum-polymerase chain (PCR)-results on EDTA-blood submitted by European veterinarians from 01/2022 to 12/",
       "category": "other",
       "summary_ko": ""
     },
@@ -1085,28 +1107,6 @@
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42903052/",
       "abstract": "Subcutaneous (SC) and intramuscular (IM) hemangiosarcoma (HSA) in dogs are aggressive malignancies with high rates of recurrence and metastasis. Surgery is the primary treatment, but incomplete excision is common, and the role of radiation therapy (RT) remains unclear. This single-institution retrospective study evaluated outcomes and toxicities in dogs with SC and IM HSA treated with hypofractionated RT using either 24 Gy in three 8-Gy fractions (days 0, 7, and 21) or 30 Gy in five 6-Gy fractio",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42898732",
-      "title": "Stability and dermatological safety assessment of Cryptocarya alba (Peumo) and Laureliopsis philippiana (Tepa) essential oil-carrying dry shampoo formulations for dermal use in dogs.",
-      "authors": "Varas M, Jacobs M, Rojas N, Ramos P, Bruna F",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42898732/",
-      "abstract": "Antibiotic resistance is a major concern in human and veterinary medicine, supporting the development of alternative topical products for companion animals. This study aimed to develop and evaluate essential oil (EO)-based dry shampoo formulations incorporating EOs from Cryptocarya alba and Laureliopsis philippiana as potential veterinary dermocosmetic platforms for canine skin care and complementary management of superficial pyoderma. Starch-based dry shampoo prototypes containing C. alba or L.",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42898197",
-      "title": "Perioperative analgesic effects of opiranserin in canine castration: a pilot study.",
-      "authors": "Lee S, Oh S, Lee I, Son WG",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42898197/",
-      "abstract": "Opiranserin, a non-opioid analgesic acting as a glycine transporter 2 inhibitor and 5-HT2A receptor antagonist, was evaluated for reducing intraoperative rescue analgesia and postoperative pain in dogs undergoing castration under isoflurane anesthesia. Eight healthy male Beagle dogs were randomized to receive a continuous rate infusion of opiranserin (5 mg&#xb7;kg-1&#xb7;h-1 for 1 h before induction, then 0.33 mg&#xb7;kg-1&#xb7;h-1 for 9 h; n = 4) or 0.9% saline (n = 4). Anesthesia was induced w",
       "category": "orthopedics",
       "summary_ko": ""
     }
