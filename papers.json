@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03 03:25 UTC",
+  "updated": "2026-11-04 02:05 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -95,6 +95,17 @@
       "date": "2026 Oct 30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42960540/",
       "abstract": "Chronic idiopathic rhinitis is a common canine nasal disease with unknown aetiology and poor response to treatment. Neurokinin-1 receptor activation has been associated with rhinitis in experimental animals. The aim of this pilot study was to compare the effects of oral neurokinin-1 receptor antagonist (maropitant) with placebo on clinical signs of chronic idiopathic rhinitis in dogs. Prospective randomised placebo-controlled double-blinded pilot trial. Eighteen privately owned dogs diagnosed wi",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42972575",
+      "title": "Clinically relevant hypomagnesemia during recovery from severe leptospirosis-associated acute kidney injury in a dog treated with continuous renal replacement therapy: a case report.",
+      "authors": "Cho J, Kang S, Kim S, Kim M, Park C",
+      "journal": "BMC Vet Res",
+      "date": "2026 Oct 3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972575/",
+      "abstract": "Leptospirosis is an important cause of acute kidney injury (AKI) in dogs and commonly induces renal tubular dysfunction. Although electrolyte abnormalities are frequently recognized during the course of leptospirosis, clinically relevant hypomagnesemia associated with neurological manifestations has rarely been reported in dogs. This report describes a dog that developed severe symptomatic hypomagnesemia during recovery from severe leptospirosis-associated AKI treated with continuous renal repla",
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -418,28 +429,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42906589",
-      "title": "Acute postoperative hypophosphatemia is a potential sequela following hepatectomy in dogs.",
-      "authors": "Bryant RE, Skinner OT, Barchilon M",
-      "journal": "Am J Vet Res",
-      "date": "2026 Oct 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42906589/",
-      "abstract": "To describe posthepatectomy hypophosphatemia in dogs and evaluate whether the extent of hepatectomy was associated with postoperative hypophosphatemia. This was a retrospective, observational study of dogs that underwent hepatectomy from January 1, 2019, through December 15, 2025, with serum phosphorus concentrations recorded preoperatively and within 72 hours postoperatively. Dogs with comorbidities or complications expected to influence serum phosphorus were excluded. Data included extent of h",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42901211",
-      "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
-      "authors": "Arboit F, Mangini LT, Gasparotto JC, Griebeler LB, Oliveira JO",
-      "journal": "Am J Vet Res",
-      "date": "2026 Oct 19",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42901211/",
-      "abstract": "To evaluate serum triglyceride concentrations during target-controlled infusion (TCI) of propofol in healthy cats undergoing elective orchiectomy and to investigate the relationship between cumulative propofol dose and triglyceride concentrations. 8 healthy male cats were anesthetized using propofol administered via a TCI system targeting a plasma concentration of 7 &#xb5;g/mL for 45 minutes. Blood samples were collected at baseline, after premedication, immediately after induction, and at 20 an",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "42939218",
       "title": "Association Between Pre-Transfusion Systemic Inflammatory Response Syndrome and Transfusion-Associated Adverse Events in Dogs: A Retrospective Study.",
       "authors": "Lee KM, Jeong YK, Jung JY, Sung HJ, Sohn JH",
@@ -649,6 +638,28 @@
       "summary_ko": ""
     },
     {
+      "id": "42970993",
+      "title": "Multicenter, retrospective study of balloon valvuloplasty-associated pulmonary artery dissection in dogs with pulmonary valve stenosis.",
+      "authors": "Wesselowski S, Saunders AB, Scansen BA, Potter BM, Abbott-Johnson K",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970993/",
+      "abstract": "Pulmonary artery dissection (PAD) is a rare complication in dogs with pulmonary valve stenosis (PS) that undergo balloon valvuloplasty (BVP). This study aimed to describe demographic, interventional, and survival data in a cohort of dogs with PS that experienced PAD during BVP. Fifty-three dogs were included in this retrospective, multicenter study, with medical records and available stored images reviewed. Dogs that developed PAD during BVP had a median body weight of 12.5 kg (range: 1.1-50.7 k",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42970992",
+      "title": "Sotalol and flecainide dual therapy in a dog with paroxysmal atrial fibrillation.",
+      "authors": "Mishra SU, Seo J",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970992/",
+      "abstract": "A four-year-old Doberman pinscher was diagnosed with atrial fibrillation (AF) and equivocal dilated cardiomyopathy phenotype. Electrical cardioversion (ECV) was performed following two weeks of amiodarone treatment; however, the dog developed recurrent AF within one week post ECV. Following two additional months of amiodarone therapy, the dog represented with sinus rhythm and new hepatopathy. In-hospital electrocardiographic monitoring identified paroxysmal AF during sleep. Amiodarone therapy wa",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42966325",
       "title": "Third-degree atrioventricular block secondary to intracardiac paraganglioma in a dog.",
       "authors": "Corda A, Pentcheva P, Corda F, Pinna Parpaglia ML, Perego M",
@@ -737,6 +748,28 @@
       "summary_ko": ""
     },
     {
+      "id": "42974710",
+      "title": "Feasibility of Shallow Whole-Genome Sequencing-Based Circulating Tumour DNA Analysis in Canine Multicentric Lymphoma: A Pilot Study.",
+      "authors": "Kim GH, Jang JH, Kim SH, Ryu MO, Kwon CH",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Nov 3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42974710/",
+      "abstract": "Lymphoma is a common canine malignancy with high morbidity and variable prognosis. Circulating tumour DNA (ctDNA) has emerged as a minimally invasive biomarker for tumour burden, treatment response and prognosis in human lymphoma. However, the feasibility of applying shallow whole-genome sequencing (sWGS)-based ctDNA analysis to canine lymphoma remains unclear. In this pilot study, plasma cell-free DNA (cfDNA) was quantitatively assessed and additional genomic features were evaluated using sWGS ",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42971172",
+      "title": "Therapeutic approaches to the companion animal pneumothorax: A review for veterinary practice.",
+      "authors": "Nishigaki AM, DeRoche MW, Strickland R, Rossanese M, Previdelli RL",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42971172/",
+      "abstract": "This narrative literature review critically evaluates current evidence on the management of pneumothorax in dogs and cats, reviewing surgical and nonsurgical treatment strategies according to underlying etiology to support evidence-based clinical decision-making. Published studies involving dogs and cats with pneumothorax were reviewed, with emphasis on the pathophysiology, diagnosis, and management of the condition and outcomes associated with surgical and nonsurgical treatments across differen",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
       "id": "42969556",
       "title": "Bendamustine induces peripheral lymphodepletion in dogs with relapsed lymphoma.",
       "authors": "Lenz JA, Upton L, Ma J, Talone MM, Peng B",
@@ -789,6 +822,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42929748/",
       "abstract": "Few case reports describe the imaging features of lymphoma involving the adrenal glands (AGs) in dogs and cats. This retrospective, descriptive, and multicentric study aimed to describe the ultrasound (US), computed tomography (CT), and magnetic resonance imaging (MRI) findings of confirmed lymphomatous AG infiltration in patients with multicentric lymphoma. The inclusion criteria required cytological or histological confirmation of AG lymphoma and at least one imaging study. Eleven patients wer",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42974042",
+      "title": "Partners or tools? Ethical framings shape welfare research on dogs and horses in animal-assisted services.",
+      "authors": "Zenker F, Thodberg K, Sandøe P",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42974042/",
+      "abstract": "The welfare of dogs and horses involved in animal-assisted services (AAS) has received increasing scholarly attention, reflecting growing recognition of the ethical complexity of human-animal interactions in these settings. However, ethical framings of animal welfare in research on AAS vary substantially, ranging from an emphasis on avoiding harm to animals while pursuing human benefit to the view that AAS should create mutual benefits for both humans and animals. This critical review examines h",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42973850",
+      "title": "Development of a sandwich ELISA for recombinant feline GM-CSF and determination of its serum half-life.",
+      "authors": "Yu C, Wang M, Chen L, Wang T, Zhao Y",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42973850/",
+      "abstract": "Feline granulocyte-macrophage colony-stimulating factor (GM-CSF) is a key cytokine involved in the regulation of myeloid immune responses and represents an important therapeutic target for leukopenia. However, the rapid in vivo clearance of native GM-CSF requires frequent administration, which limits its clinical translation. To overcome this limitation, a recombinant GM-CSF-Fc protein was constructed using Fc fusion technology. Pharmacokinetic evaluation of GM-CSF-Fc, however, is constrained by",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -1053,61 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42908898/",
       "abstract": "A 3-month-old intact male Korean raccoon dog (Nyctereutes procyonoides koreensis) was rescued and admitted to the Jeonbuk Wildlife Rescue Center with lethargy, dehydration, and dermatologic lesions consistent with Sarcoptes scabiei infestation. Physical examination detected a grade IV/VI systolic murmur, and thoracic radiography revealed generalized cardiomegaly. Transthoracic echocardiography identified a perimembranous ventricular septal defect (VSD) with left-to-right shunting. Although no di",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42904074",
-      "title": "Case Report: Long term multimodality treatment of canine hepatocellular carcinoma with serial monitoring of serum alpha-fetoprotein.",
-      "authors": "Dan TJ, Yang CH, Kim YJ, Kang MH, Kang MA",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42904074/",
-      "abstract": "A 13-year-old spayed female Shih Tzu presented with a several-month history of progressively increasing liver enzyme activities concurrent with managed hyperadrenocorticism. Diagnostic imaging revealed a solitary hepatic mass originating from the caudate process of the caudate lobe adhering to the caudal vena cava. Hepatocellular carcinoma (HCC) was confirmed via histopathological examination of an ultrasound-guided tru-cut biopsy, accompanied by a markedly elevated serum alpha-fetoprotein (AFP)",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42903212",
-      "title": "Epidemiology of voluntarily reported dog and cat bite incidents in a large-scale, multi-site veterinary network in the UK and Ireland.",
-      "authors": "Malkani R, Singleton D, Martin D, Vinke M, Playforth L",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903212/",
-      "abstract": "Dog and cat bites are an occupational risk within veterinary practise. Despite this, there is minimal research exploring the occurrence and details surrounding such incidents. The aim of this study was to use a large veterinary group's existing incident and near miss reporting system in the UK to explore the incidence of dog and cat bite reporting and surrounding details of such incidents. Dog and cat bite incidents were identified from January 2024 to October 2025 covering all clinics in the UK",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42903197",
-      "title": "Manganese dioxide nanozyme alleviates PEDV GIIc-associated growth retardation in neonatal piglets by improving antioxidant status, intestinal morphology, and manganese homeostasis.",
-      "authors": "Wang J, Lai X, Hu M, Liang S, Wu T",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903197/",
-      "abstract": "Porcine epidemic diarrhea virus (PEDV) infection threatens swine production, and growth retardation in neonatal piglets born to infected sows requires practical intervention. This study evaluated the effects of oral manganese dioxide (MnO2) nanozyme supplementation on growth and physiological indices in these piglets. In this study, 16 litters from PEDV GIIc-infected sows were assigned to four treatment groups according to body condition and PEDV RT-qPCR Ct value, with four litters from uninfect",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42903056",
-      "title": "Assessment of radiographic healing after tibial plateau leveling osteotomy in young and older dogs using the modified RUST scoring system.",
-      "authors": "Anderson BL, Frederick SW, Popovitch C",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903056/",
-      "abstract": "To compare radiographic osteotomy healing scores after tibial plateau leveling osteotomy (TPLO) in young (2-5&#x202f;years) and old (8-12&#x202f;years) dogs using the modified Radiographic Union Score for Tibial fractures (mRUST) system, and to evaluate agreement between large language model-assisted interpretation (LLM), surgeon, and surgical resident scoring. Client-owned, 20-40&#x202f;kg dogs treated with unilateral TPLO at ages 2-5 or 8-12&#x202f;years between 2023 and 2025 were retrospectiv",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42903052",
-      "title": "Outcomes and prognostic factors in dogs with subcutaneous and intramuscular hemangiosarcoma treated with hypofractionated radiation therapy and chemotherapy.",
-      "authors": "Rebelo AP, Furtado A, Sellon R, Roberts GD, Fidel J",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903052/",
-      "abstract": "Subcutaneous (SC) and intramuscular (IM) hemangiosarcoma (HSA) in dogs are aggressive malignancies with high rates of recurrence and metastasis. Surgery is the primary treatment, but incomplete excision is common, and the role of radiation therapy (RT) remains unclear. This single-institution retrospective study evaluated outcomes and toxicities in dogs with SC and IM HSA treated with hypofractionated RT using either 24 Gy in three 8-Gy fractions (days 0, 7, and 21) or 30 Gy in five 6-Gy fractio",
-      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
