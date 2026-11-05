@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04 02:05 UTC",
+  "updated": "2026-11-05 02:09 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -10,6 +10,17 @@
     "other": "기타"
   },
   "papers": [
+    {
+      "id": "42977613",
+      "title": "Mitral annular disjunction associated with myxomatous mitral valve disease, infundibular pulmonic stenosis and ventricular septal defect in a dog: a case report.",
+      "authors": "Tavares LCJ, Santos BA, Goldfeder GT",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Sep 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42977613/",
+      "abstract": "Mitral annular disjunction is an abnormality of the mitral valve characterized by a displacement of the mitral annulus in which the annulus is functionally decoupled from the left ventricle and moves toward the atrium during systole. In human medicine, it is commonly associated with an increased risk of mitral valve prolapse, cardiac arrhythmias, and sudden cardiac death but rarely described in veterinary medicine. This article describes a case report of a six-year-old male Shih tzu dog with sig",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
     {
       "id": "42939097",
       "title": "Microsatellite and Mitochondrial DNA Reveal Spatial Genetic Variation and Domestic Cat Admixture in Hungarian European Wildcats.",
@@ -396,39 +407,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42906601",
-      "title": "Intraoperative Measurement of Soft Tissue Tension in Canine Uncemented Total Hip Arthroplasty.",
-      "authors": "Marti J",
-      "journal": "Vet Comp Orthop Traumatol",
-      "date": "2026 Oct 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42906601/",
-      "abstract": "This study aimed to quantify the incremental tension forces encountered during trial and final reductions during total hip arthroplasty surgery; determine the contribution to final soft tissue tension of the tenorrhaphy of the partial tenotomy of the deep gluteal tendon during closure; develop an intraoperative protocol of soft tissue tension evaluation, describing the Shuck, Kick and External Rotator tests as subjective tools for assessing tension; and correlate this with short-term clinical ou",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42906597",
-      "title": "Advances in detection canine science at Auburn University.",
-      "authors": "Chester E, Lazarowski L, Wang X, Bartol FF, Johnson CM",
-      "journal": "Am J Vet Res",
-      "date": "2026 Oct 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42906597/",
-      "abstract": "",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42906593",
-      "title": "Sugammadex at 2 mg/kg provides rapid and sustained reversal of moderate rocuronium-induced neuromuscular blockade in isoflurane-anesthetized dogs.",
-      "authors": "Chang RN, Wang HC, Chang CC, Chen IY",
-      "journal": "Am J Vet Res",
-      "date": "2026 Oct 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42906593/",
-      "abstract": "To investigate the efficacy of 2 mg/kg sugammadex in reversing moderate rocuronium-induced neuromuscular blockade (NMB) in dogs, focusing on recovery time and recurarization. In this prospective, nonrandomized, unblinded experimental study, 12 healthy adult mixed-breed dogs were evaluated before elective surgery and assigned to a control group (spontaneous recovery; n = 6) or a reversal group (2 mg/kg sugammadex; n = 6). Anesthesia was induced with propofol and maintained with isoflurane without",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42939218",
       "title": "Association Between Pre-Transfusion Systemic Inflammatory Response Syndrome and Transfusion-Associated Adverse Events in Dogs: A Retrospective Study.",
       "authors": "Lee KM, Jeong YK, Jung JY, Sung HJ, Sohn JH",
@@ -748,6 +726,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42976480",
+      "title": "Long-term, longitudinal companion dog research at a nationwide scale.",
+      "authors": "Creevy K",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976480/",
+      "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42974710",
       "title": "Feasibility of Shallow Whole-Genome Sequencing-Based Circulating Tumour DNA Analysis in Canine Multicentric Lymphoma: A Pilot Study.",
       "authors": "Kim GH, Jang JH, Kim SH, Ryu MO, Kwon CH",
@@ -822,6 +811,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42929748/",
       "abstract": "Few case reports describe the imaging features of lymphoma involving the adrenal glands (AGs) in dogs and cats. This retrospective, descriptive, and multicentric study aimed to describe the ultrasound (US), computed tomography (CT), and magnetic resonance imaging (MRI) findings of confirmed lymphomatous AG infiltration in patients with multicentric lymphoma. The inclusion criteria required cytological or histological confirmation of AG lymphoma and at least one imaging study. Eleven patients wer",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42979426",
+      "title": "Functional peptide therapeutics for veterinary osteoarthritis: mechanisms, delivery systems, and translational priorities.",
+      "authors": "Choi SC, Song MG, Yi SY, Lee SH, Lee IA",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979426/",
+      "abstract": "Veterinary osteoarthritis (OA) is a chronic whole-joint disorder that causes pain, gait impairment, reduced activity, and diminished quality of life in companion and performance animals. Current multimodal management includes weight control, rehabilitation, non-steroidal anti-inflammatory drugs, prostaglandin E2 EP4 receptor antagonists, anti-nerve growth factor monoclonal antibodies, intra-articular therapies, and nutraceuticals. Although these interventions improve pain and function, they gene",
+      "category": "internal",
       "summary_ko": ""
     },
     {
