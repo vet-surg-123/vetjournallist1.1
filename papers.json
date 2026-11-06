@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05 02:09 UTC",
+  "updated": "2026-11-06 02:10 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -63,17 +63,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42919707/",
       "abstract": "Mitral regurgitation (MR) is the most important cardiovascular problem affecting dogs. Transthoracic echocardiography is the most practical imaging modality to characterize the fundamental features of MR, including an assessment of MR severity. The diversity of MR severity in subclinical dogs and advancements in treatments directed at the cause of MR have (re)ignited interest in more comprehensive and quantitative methods of assessing MR severity. This review focuses on evaluating the severity o",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42914951",
-      "title": "The use of contrast-enhanced echocardiography in the evaluation of feline left ventricular wall thickness.",
-      "authors": "Javery E, Kadotani S, Toborowsky C, Prabhakar S, Sumerfield T",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Oct 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42914951/",
-      "abstract": "Accurate measurement of feline left ventricular wall thickness (LVWT) is challenging due to endocardial and myocardial irregularities, false tendons, and prominent papillary muscles. In human medicine, contrast-enhanced echocardiography (C-Echo) is used to improve left ventricular wall delineation and is more accurate, repeatable, and reliable than standard echocardiography (S-Echo). Our objective was to compare C-Echo and S-Echo measurements of feline LVWT and determine repeatability, reproduci",
-      "category": "other",
       "summary_ko": ""
     },
     {
@@ -149,7 +138,7 @@
       "journal": "Vet J",
       "date": "2026 Oct 28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42951006/",
-      "abstract": "Sepsis is one of the leading causes of mortality during the first weeks of life in canine neonates, and early diagnosis is essential to reduce these rates. This study aimed to evaluate changes in clinical, hematological, biochemical, and biomarker parameters (procalcitonin, C-reactive protein, and troponin I levels) in neonatal sepsis in dogs. Descriptive statistics, normality testing, group comparisons, and Pearson or Spearman correlations were performed, with significance set at p &lt; 0.05. B",
+      "abstract": "Sepsis is one of the leading causes of mortality during the first weeks of life in canine neonates, and early diagnosis is essential to reduce these rates. This study aimed to evaluate changes in clinical, hematological, biochemical, and biomarker parameters (procalcitonin, C-reactive protein, and troponin I levels) in neonatal sepsis in dogs. Descriptive statistics, normality testing, group comparisons, and Pearson or Spearman correlations were performed, with significance set at p&#x202f;&lt;&",
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -308,28 +297,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42915069",
-      "title": "Diagnosis of exocrine pancreatic insufficiency in dogs requires use of a newly adjusted reference range and diagnostic cutoff for measurement of trypsin-like immunoreactivity.",
-      "authors": "Chuang WH, Wu YA, Lidbury JA, Fosgate GT, Chang CH",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Oct 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42915069/",
-      "abstract": "To adjust the reference interval (RI) for a commercially available canine trypsin-like immunoreactivity (cTLI) assay and the cutoff value for the diagnosis of exocrine pancreatic insufficiency (EPI). Lower limit of the RI was calculated based on the fifth percentile of cTLI concentrations in 102 clinically healthy dogs. Questionnaires were sent to clinicians for cases with serum cTLI concentrations &#x2264; 10 &#xb5;g/L. Five board-certified small animal internists blinded to serum cTLI concentr",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42914003",
-      "title": "Cytoreduction combined with cryosurgery for the treatment of eyelid neoplasms in dogs: Clinical outcomes and histopathological characterization.",
-      "authors": "de Oliveira R, de Vargas Arigony Braga F, de Moraes LAM, Bohm BC, Valente CL",
-      "journal": "Vet J",
-      "date": "2026 Oct 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42914003/",
-      "abstract": "Eyelid neoplasms are among the most common periocular conditions in dogs and can lead to significant ocular morbidity if left untreated. Although surgical excision with blepharoplasty remains the standard of care, cytoreduction combined with cryosurgery has emerged as a less invasive alternative that preserves eyelid integrity. This prospective study evaluated 30 dogs with eyelid masses treated by cytoreductive excision followed by two freeze-thaw cycles delivered via a contact CO&#x2082; cryosu",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "42939252",
       "title": "Free-Ranging Cat Predation on Wildlife in East Asia: A Scoping Review of Ecological Evidence and Knowledge Gaps.",
       "authors": "Zhou MZ, Wright CS",
@@ -360,50 +327,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42939246/",
       "abstract": "This study evaluated the effects of different water salinities (0, 10, 20 [control], 30, and 40; Practical Salinity Scale, dimensionless) over 56 days on growth performance, muscle biochemical composition, and antioxidant responses in serum and liver of Planiliza haematocheilus. After one-week pre-acclimation at 20, juveniles were directly transferred to the experimental salinities; thus, all groups except the 20 control experienced acute salinity transfer followed by 56-day exposure. Therefore,",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42908207",
-      "title": "EXPRESS: Experimental Evaluation of the Immunogenicity of Feline Erythrocyte Antigen 6 (FEA 6) in Transfusion-Naive FEA 6-Negative Cats.",
-      "authors": "Bangash MY, Blais MC",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Oct 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42908207/",
-      "abstract": "ObjectivesFeline Erythrocyte Antigen 6 (FEA 6) is a newly identified red blood cell (RBC) antigen in cats discovered following an unintentional sensitization event, suggesting it can be immunogenic. Its ability to consistently induce alloimmunization remains unknown. This prospective study evaluated FEA 6 immunogenicity in transfusion-naive, FEA 6-negative cats by assessing anti-FEA 6 alloantibody production and plasma levels. A secondary objective was to bank polyclonal anti-FEA 6 antibodies.Me",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42908201",
-      "title": "EXPRESS: Mineral Analysis of Feline Treats: Unrecognized Sources of Phosphorus and Calcium in the Management of Chronic Kidney Disease.",
-      "authors": "Harris AN, Harris T, Vaden S",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Oct 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42908201/",
-      "abstract": "Dietary phosphorus restriction is a cornerstone of chronic kidney disease (CKD) management in cats. While therapeutic renal diets are formulated to limit phosphorus intake, treats also contribute to total dietary phosphorus and calcium intake. The objective of this study was to quantify the phosphorus and calcium content of some feline pur&#xe9;e-style treats and evaluate their potential contribution to dietary mineral intake in cats with CKD. A convenience sample comprising four flavors of comm",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42908191",
-      "title": "EXPRESS: Assessment of an educational social media campaign on improving feline osteoarthritis pain awareness and knowledge among cat owners.",
-      "authors": "Wong WS, Alcântara H, Bukhari SSUH, Murrell J, Steagall P",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Oct 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42908191/",
-      "abstract": "Objectives - Feline osteoarthritis (OA) is highly prevalent but often underdiagnosed, largely owing to owners' difficulty recognising subtle clinical signs. This study evaluated the effects of an evidence-based, peer-reviewed educational social media campaign on cat owners' knowledge and awareness of feline OA.Methods - A prospective, interventional study was conducted with a convenience sample of adult, non-veterinary cat owners recruited via social media. Participants completed a validated onl",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42906618",
-      "title": "Intra-articular 2.5% polyacrylamide hydrogel provides sustained clinical improvement over 1 year in canine elbow osteoarthritis.",
-      "authors": "Corral JA, Levine D, Barnhard JA, Tringali AA, Green MM",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Oct 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42906618/",
-      "abstract": "To evaluate the efficacy, safety, and tolerability of IA 2.5% injectable polyacrylamide hydrogel (iPAAG) in dogs with elbow osteoarthritis (OA). We hypothesized that treatment would improve pain and function, with minimal adverse events. This prospective single-site clinical study enrolled client-owned dogs from October 2023 to October 2024. Dogs with elbow OA confirmed by CT received unilateral or bilateral IA injections with 1 mL of 2.5% iPAAG. Assessments were conducted on day 0 (baseline) an",
-      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -726,6 +649,61 @@
       "summary_ko": ""
     },
     {
+      "id": "42983717",
+      "title": "Determination of reference intervals for symmetric dimethylarginine (SDMA) in Lacaune sheep.",
+      "authors": "Kiene F, Wagener MG, Röhrig P, Ganter M",
+      "journal": "BMC Vet Res",
+      "date": "2026 Nov 5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983717/",
+      "abstract": "Traditional biomarkers such as serum creatinine and urea often fail to reflect early renal dysfunction, particularly in emaciated animals, as they depend on muscle mass or dietary protein intake. Symmetric dimethylarginine (SDMA), a novel renal biomarker, has shown promise in other species for earlier and more sensitive detection of kidney disease. However, reference intervals for SDMA in ovine species remain undocumented. This study aimed to establish reference intervals for serum SDMA in clini",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42981719",
+      "title": "A case-case-control study of cefovecin use and third-generation cephalosporin-resistant Escherichia coli infections in cats.",
+      "authors": "Frye A, Kim H, Rosenthal C, Angel CC, Chikara Y",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981719/",
+      "abstract": "To determine if cefovecin administration increased the risk of third-generation cephalosporin (3GC)-resistant Escherichia coli infections in cats. In this retrospective case-case-control study, cases were cats with 3GC-susceptible or 3GC-resistant E coli infections at the Cornell University Hospital for Animals from 2009 to 2023; controls were randomly selected from all feline patients seen during the study period. Exposure data were collected via review of medical records. Direct acyclic graph-",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42981718",
+      "title": "Laryngeal paralysis in 72 cats: a multicenter study on epidemiology and treatment.",
+      "authors": "Gobbetti M, Rossanese M, Tremolada G, Pisani G, Cinti F",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981718/",
+      "abstract": "To describe the etiology, treatment, and outcomes of cats with laryngeal paralysis (LP) and identify factors associated with survival. Retrospective, multicenter, observational study. Medical records from 7 referral hospitals (Italy, UK, US) were reviewed to identify cats with LP (2003 to 2024). Survival was assessed using Kaplan-Meier and Cox regression analyses. 72 cats were included. Primary idiopathic LP was diagnosed in 49 cats (68%) and secondary LP in 17 (24%), most commonly associated wi",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42981717",
+      "title": "Elimination kinetics of nonsteroidal anti-inflammatory drugs during carbon hemoperfusion in 19 dogs with toxicosis.",
+      "authors": "Her J, Labato MA, Langston CE, Butty EM",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981717/",
+      "abstract": "To describe the elimination kinetics of NSAIDs during carbon hemoperfusion (cHP) in dogs with toxicosis, specifically the apparent elimination rate constant, half-life, and plasma reduction. 19 client-owned dogs (median age, 2.5 years; median body weight, 22 kg) with ibuprofen (n = 10), carprofen (5), or naproxen (4) toxicosis treated with cHP at 2 academic veterinary teaching hospitals from November 30, 2022, through July 7, 2024. Dogs were presented after known or suspected ingestion at median",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42981710",
+      "title": "Comparison of the pharmacokinetics and sedative effects of Zenalpha (medetomidine and vatinoxan) administered intramuscularly and oral transmucosally in dogs.",
+      "authors": "Lathan AW, Smith CK, Kleine SA, Smith JS, Ng Z",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981710/",
+      "abstract": "To evaluate the sedative effects and pharmacokinetic profile of medetomidine and vatinoxan (Zenalpha) administered via the oral transmucosal (OTM) route. We hypothesized that sedation scores obtained from Zenalpha OTM (ZOTM) would not differ from Zenalpha IM (ZIM). Dogs received 20 &#xb5;g/kg ZIM or 80 &#xb5;g/kg ZOTM. Sedation, anxiolytic, and handling scores were collected at 0, 15, 30, 30, 45, 60, 75, 90, 120, 150, and 180 minutes after administration of Zenalpha. Normality was tested using t",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42976480",
       "title": "Long-term, longitudinal companion dog research at a nationwide scale.",
       "authors": "Creevy K",
@@ -811,6 +789,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42929748/",
       "abstract": "Few case reports describe the imaging features of lymphoma involving the adrenal glands (AGs) in dogs and cats. This retrospective, descriptive, and multicentric study aimed to describe the ultrasound (US), computed tomography (CT), and magnetic resonance imaging (MRI) findings of confirmed lymphomatous AG infiltration in patients with multicentric lymphoma. The inclusion criteria required cytological or histological confirmation of AG lymphoma and at least one imaging study. Eleven patients wer",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42985581",
+      "title": "Comparative assessment of benzyl alcohol and m-cresol as preservatives in maropitant injectable formulation: implications for pain & tolerability.",
+      "authors": "Pawar V, Trivedi J, Muchhara J, Dharvadiya N, Patel S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985581/",
+      "abstract": "The selection of an optimal preservative in multi-dose injectable veterinary formulations requires antimicrobial efficacy with local tissue compatibility. While m-cresol provides potent broad-spectrum efficacy in multi-dose veterinary injectables, subcutaneous administration causes acute injection-site pain and distress, compromising compliance despite recommended low-temperature management. We hypothesized that a benzyl alcohol-preserved maropitant formulation (BAF) would result in lower acute ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42985444",
+      "title": "Decision tree models to guide endotracheal tube selection in dogs.",
+      "authors": "Ngamlertwong N, Punyapornwithaya V, Siriyakhun S, Seymour C, Seki S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985444/",
+      "abstract": "Choosing an endotracheal tube (ETT) of an appropriate size is critical for effective airway management in dogs undergoing anesthesia or emergency care. Conventional methods often rely on body weight (BW), palpation of external tracheal diameter, nasal septum width, or subjective clinician experience. However, these approaches are frequently imprecise and lack well-established guidelines. Therefore, this study aimed to develop a machine learning-based decision tree model to standardize ETT size u",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42985006",
+      "title": "Precision nutrition in companion animals: a response-based framework linking dietary strategies, metabolic function, and measurable clinical outcomes.",
+      "authors": "Du X, Zhang H, Tian W, Chen J, Wen M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985006/",
+      "abstract": "Population-level nutrient recommendations provide the foundation for complete and balanced diets in dogs and cats, but they do not fully account for inter-individual variation in nutritional requirements, metabolic phenotypes, and dietary responses. Precision nutrition provides a response-guided framework that integrates individual characteristics with monitored dietary responses to refine nutritional management through repeated reassessment. This review examines the conceptual framework, host d",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42984832",
+      "title": "Metabolomic and lipidomic signatures of aging in cats reveal shifts in energy metabolism and inflammation: an 11-year longitudinal study.",
+      "authors": "Hartvigsson O, Ross AB, Moesta A, Heiser A, Lee E",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42984832/",
+      "abstract": "Aging encompasses multiple biochemical changes, some of which may be associated with the development of age-related diseases. The dynamics of aging in relation to metabolism in cats has not been established and understanding this could identify targets for early intervention. The aim of this longitudinal study was to identify changes in the plasma and fecal metabolome and lipidome of cats from 1 to 11 years of age. Twenty-one cats from a research colony had plasma and fecal samples collected yea",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42984630",
+      "title": "Wound healing complications after tooth extraction in dogs.",
+      "authors": "Šparaš L, Pavlica M, Lukanc B, Nemec A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42984630/",
+      "abstract": "This prospective clinical study aimed to assess incidence of wound healing complications associated with extraction sites following permanent tooth extractions in healthy dogs. Eighty-seven client-owned healthy adult dogs undergoing clinically indicated closed or open dental extractions, comprising 404 extraction sites, were included in the study. No perioperative and immediate postoperative antibiotics or antiseptics were used in any of the dogs. All dogs were discharged on the day of the proce",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1075,39 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42921062/",
       "abstract": "Canine atopic dermatitis (AD) is a chronic inflammatory and pruritic skin disease affecting up to 15% of dogs, with clinical expression shaped by genetic, environmental, and microbial factors. Although the International Committee for Allergic Diseases of Animals (ICADA) established COSCAD as a core outcome set providing standardized outcome measures for evaluating treatment efficacy, comparatively little attention has been given to the upstream methodological considerations that determine the va",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42910107",
-      "title": "Case series: Superficial lipomatous hamartoma in dogs and cats is a previously unreported NLCS-like dermal lesion.",
-      "authors": "Kästner L, Marchewski J, Henrich M",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42910107/",
-      "abstract": "In humans nevus lipomatosus cutaneous superficialis (NLCS) is a rare, benign dermal hamartoma characterized by aggregates of adipose tissue within the dermis without any connection to the subcutaneous tissue. Although NLCS is a well-recognized entity, it is considered a rare lesion with limited reports in the human literature. To date, no comparable cases have been reported in dogs and cats. Over the course of one and a half years, six cases (five in dogs, one in a cat), resembling NLCS-like les",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42909056",
-      "title": "Case Report: Allogeneic adipose-derived mesenchymal stem cells for severe chronic kidney disease in a dog.",
-      "authors": "Yu Y, Lv X, Zhou X, Ma Y, Li H",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42909056/",
-      "abstract": "This case report explored the clinical improvement and short-term tolerability of allogeneic adipose-derived mesenchymal stem cells (AD-MSCs) in the treatment of severe chronic kidney disease (CKD) in dogs. A 9-year-old female Pomeranian was diagnosed with chronic kidney disease (CKD) caused by acute kidney injury and, after conventional treatment failed, received intravenous infusion of AD-MSCs from healthy donor dogs. The AD-MSCs were aseptically collected, isolated, cultured, characterized, a",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42908898",
-      "title": "Case Report: Concurrent ventricular septal defect, pulmonic stenosis, and intrapulmonary arteriovenous anastomoses in a Korean raccoon dog (Nyctereutes procyonoides koreensis).",
-      "authors": "Kim S, Kim M, Han JI, Lee K, Yoon H",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42908898/",
-      "abstract": "A 3-month-old intact male Korean raccoon dog (Nyctereutes procyonoides koreensis) was rescued and admitted to the Jeonbuk Wildlife Rescue Center with lethargy, dehydration, and dermatologic lesions consistent with Sarcoptes scabiei infestation. Physical examination detected a grade IV/VI systolic murmur, and thoracic radiography revealed generalized cardiomegaly. Transthoracic echocardiography identified a perimembranous ventricular septal defect (VSD) with left-to-right shunting. Although no di",
-      "category": "imaging",
       "summary_ko": ""
     }
   ]
