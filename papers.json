@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06 02:10 UTC",
+  "updated": "2026-11-07 01:45 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -44,25 +44,14 @@
       "summary_ko": ""
     },
     {
-      "id": "42925801",
-      "title": "Contrast-enhanced echocardiographic assessment of left ventricular wall measurements in cats.",
-      "authors": "Novo Matos J, Harding I, Partington C",
+      "id": "42987688",
+      "title": "Incidence, risk factors, and clinical features of postoperative new-onset atrial fibrillation in dogs undergoing mitral valve repair surgery.",
+      "authors": "Kurogochi K, Nishiyama M, Furusato S, Nii Y, Mizuno M",
       "journal": "J Vet Cardiol",
-      "date": "2026 Oct 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925801/",
-      "abstract": "Hypertrophic cardiomyopathy (HCM) is defined by increased left ventricular wall thickness (LVWT), making accurate measurement essential. Contrast-enhanced echocardiography (C-ECHO) improves myocardial border delineation. We aimed to evaluate whether C-ECHO provides more reliable LVWT measurements in cats than standard echocardiography (S-ECHO). Forty-five cats (32 with an LVWT &lt;6 mm and 13 with an LVWT &#x2265;6 mm) were prospectively enrolled in the study. Two-dimensional right parasternal s",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42919707",
-      "title": "Echocardiographic assessment of mitral regurgitation severity in dogs.",
-      "authors": "Visser LC, Potter BM",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Oct 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42919707/",
-      "abstract": "Mitral regurgitation (MR) is the most important cardiovascular problem affecting dogs. Transthoracic echocardiography is the most practical imaging modality to characterize the fundamental features of MR, including an assessment of MR severity. The diversity of MR severity in subclinical dogs and advancements in treatments directed at the cause of MR have (re)ignited interest in more comprehensive and quantitative methods of assessing MR severity. This review focuses on evaluating the severity o",
-      "category": "imaging",
+      "date": "2026 Oct 7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987688/",
+      "abstract": "Postoperative atrial fibrillation (POAF) is a potential complication following cardiac surgery. This study aims to identify POAF risk factors and describe its clinical features following mitral valve repair (MVR) in dogs. Dogs that underwent MVR between January 2020 and December 2023 were included in the study. Dogs with pre-operative atrial fibrillation or those that died intra-operatively were excluded. Potential risk factors for new-onset POAF were assessed based on selected parameters, and P",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -250,50 +239,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42926012/",
       "abstract": "Osteoarthritis (OA) is a prevalent cause of chronic pain in dogs. Previous clinical studies suggest potential benefits of collagen hydrolysate (CH) supplementation, yet limitations in patient selection and study design have hindered definitive conclusions. This randomized, double-blind, placebo-controlled study evaluated the efficacy of a CH-enriched diet compared to an isocaloric placebo diet over 12 weeks in dogs with radiographically confirmed OA and mild clinical signs. Clinical efficacy was",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42918624",
-      "title": "Retrospective Application of the Current International Myeloma Working Group Disease Definitions in 20 Cats With Immunoglobulin Secreting Neoplasms.",
-      "authors": "Jeffries CM, Harris RA, Vickery K, Avery PR, Rao S",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Oct 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42918624/",
-      "abstract": "Studies describing feline myeloma related diseases (MRD) are limited and reported prognostic indicators are inconsistent. Cats more commonly exhibit visceral plasma cell tumours (PCTs) than marrow-predominant disease, suggesting that diagnostic approaches adapted from the International Myeloma Working Group (IMWG) criteria, incorporating extramedullary involvement and myeloma defining events (MDEs), may better capture clinically relevant disease. We sought to evaluate cats with serum protein ele",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42915570",
-      "title": "New World screwworm in livestock production systems: biosecurity, economic considerations, and management for cattle, sheep, goat, horse, and swine producers.",
-      "authors": "Campagnolo ER",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Oct 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42915570/",
-      "abstract": "New World screwworm (Cochliomyia hominivorax) is a transboundary obligate myiasis-causing parasite that poses serious threats to livestock production through infestation of living tissue, rapid lesion progression, animal suffering, and substantial economic loss. Between June 3 and June 16, 2026, the US confirmed 12 cases of New World screwworm in domestic animals across Texas and New Mexico, marking the first detections in production livestock in the continental US since 1966. Cases have involve",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42915569",
-      "title": "Tablet crushing, but not splitting, alters the pharmacokinetics of extended-release levetiracetam in dogs.",
-      "authors": "Mondino A, Nettifee JA, Simon KE, Papich MG, Muñana KR",
-      "journal": "Am J Vet Res",
-      "date": "2026 Oct 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42915569/",
-      "abstract": "To compare the pharmacokinetics of intact, split, and crushed levetiracetam (LEV) extended-release (LEV-XR) tablets in dogs. We hypothesized that splitting produces a pharmacokinetic profile similar to intact tablets, whereas crushing results in earlier and higher maximum concentrations. Healthy research dogs were administered 500 mg LEV-XR orally as intact, split, or crushed tablets in a randomized crossover design. Plasma LEV concentrations were measured over 12 hours by high-pressure liquid c",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42915224",
-      "title": "Systematic review supports the idea that no alternative test presently replaces elimination diet test and oral food challenge to diagnose canine adverse food reactions.",
-      "authors": "Morales-Romero R, Gonzalez-Dominguez MS, Roldán-Villalobos W, Correa-Valencia NM",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Oct 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42915224/",
-      "abstract": "Adverse food reactions in dogs are clinically heterogeneous and overlap with canine atopic dermatitis, and diagnosis still relies on an elimination diet test followed by oral food challenge (EDT+OFC). Numerous allergen-specific tests have been proposed, but their diagnostic value remains controversial. Our objective was to identify, synthesize, and critically evaluate the diagnostic tests used or investigated for canine food allergy, with emphasis on their clinical validity, applicability, and a",
-      "category": "other",
       "summary_ko": ""
     },
     {
@@ -649,6 +594,39 @@
       "summary_ko": ""
     },
     {
+      "id": "42988701",
+      "title": "Corrigendum to \"Development of a feline Cetuximab with therapeutic potential against feline oral squamous cell carcinoma\" [Vet. J. 320 (2026) 106918].",
+      "authors": "Altamura G, Finizio A, Napolano A, Capasso C, Raia M",
+      "journal": "Vet J",
+      "date": "2026 Nov 5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988701/",
+      "abstract": "",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42987509",
+      "title": "Heat-inactivated Bifidobacterium adolescentis LA20 alleviates doxorubicin-induced senescence and barrier dysfunction in feline intestinal epithelial cells.",
+      "authors": "Wang H, Liu T, Bai H, Jin H, Li Y",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987509/",
+      "abstract": "To investigate the protective effects and molecular mechanisms of heat-inactivated Bifidobacterium adolescentis LA-20 (HT-LA20) against doxorubicin (DOX)-induced senescent injury in feline intestinal epithelial cells (FIECs). This in vitro experimental study was conducted from November 1, 2025, through August 31, 2026, and involved only FIECs. No clinical patients or animals were included. The DOX-induced injury and senescence model was established in FIECs. The effects of HT-LA20 on cellular se",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42987508",
+      "title": "Advanced heartworm disease in dogs is associated with marked right heart and pulmonary artery remodeling.",
+      "authors": "Kim M, Seo MW, Cho J, Park C",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987508/",
+      "abstract": "To characterize echocardiographic findings of right heart and pulmonary artery remodeling in dogs with heartworm disease. Medical records were searched for those of client-owned dogs with heartworm infection diagnosed from July 2020 through February 2023 and with no major systemic diseases not attributable to heartworm infection. Results for variables of interest were compared for dogs grouped by heartworm clinical class (classes 1 and 2 [mild] vs classes 3 and 4 [advanced]), pulmonary hypertens",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42983717",
       "title": "Determination of reference intervals for symmetric dimethylarginine (SDMA) in Lacaune sheep.",
       "authors": "Kiene F, Wagener MG, Röhrig P, Ganter M",
@@ -726,6 +704,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42993774",
+      "title": "Blood serotonin, ionized magnesium, cardiac troponin I, N-terminal pro-brain natriuretic peptide concentrations, and mitral valve billowing in horses with mitral valve regurgitation.",
+      "authors": "Demeyere M, Dufourni A, Verhaeghe LM, Paulussen E, Heirman L",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993774/",
+      "abstract": "Serotonin, ionized magnesium (iMg), cardiac biomarkers, and mitral valve prolapse are extensively investigated in humans and dogs with mitral valve regurgitation (MR), but not in horses. To investigate serotonin, iMg, cardiac troponin I (cTnI), and N-terminal pro-brain natriuretic peptide (NT-proBNP) concentrations and degree of mitral valve billowing (MVB) in horses with MR. Eighty controls (no/trivial MR), 122 horses with MR (92 mild, 24 moderate, 6 severe). Prospective cross-sectional observa",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42971172",
       "title": "Therapeutic approaches to the companion animal pneumothorax: A review for veterinary practice.",
       "authors": "Nishigaki AM, DeRoche MW, Strickland R, Rossanese M, Previdelli RL",
@@ -789,6 +778,83 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42929748/",
       "abstract": "Few case reports describe the imaging features of lymphoma involving the adrenal glands (AGs) in dogs and cats. This retrospective, descriptive, and multicentric study aimed to describe the ultrasound (US), computed tomography (CT), and magnetic resonance imaging (MRI) findings of confirmed lymphomatous AG infiltration in patients with multicentric lymphoma. The inclusion criteria required cytological or histological confirmation of AG lymphoma and at least one imaging study. Eleven patients wer",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42992355",
+      "title": "C-reactive protein concentrations, clinical presentation, and short-term outcome in dogs with acute vomiting: a retrospective primary care cohort.",
+      "authors": "Park SW, Baek SH, Oh MK, Do YJ, Ro WB",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42992355/",
+      "abstract": "Vomiting is a common reason for dogs to be presented to veterinary hospitals and may accompany disorders of widely varying severity. C-reactive protein (CRP) is a major acute-phase protein in dogs, but its clinical relevance in dogs with acute vomiting in primary care remains poorly defined. This study aimed to characterize initial plasma CRP concentrations, evaluate their associations with clinical presentation and short-term outcome, and describe their distribution across underlying diagnoses.",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42991649",
+      "title": "Blood-panel patterns across feline creatinine strata and shared baseline effects on ratio associations.",
+      "authors": "Shin H, Kim JY, Yun JE, Kang SR, Jang J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991649/",
+      "abstract": "Cats with similar creatinine (CRE) values can have different accompanying blood-panel findings, but the relevance of these patterns to subsequent change is uncertain. We examined routine blood panels across seven clinically proposed creatinine strata, refined through retrospective review. The dataset comprised 5,743 episode-anchored visits from 3,006 cats; chronic kidney disease (CKD) diagnoses were unavailable. A broad candidate review yielded 33 calculable markers for screening. The ratios of ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42991619",
+      "title": "Deep learning for diagnostic and clinical decision support in companion animals: a systematic review of CNN- and LSTM-based approaches.",
+      "authors": "Guevara-Flores JJ, López-Rojas J, Vásquez-Coronel JA",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991619/",
+      "abstract": "Early disease detection prior to the onset of advanced clinical signs remains a critical imperative in veterinary medicine. This systematic review provides a methodological synthesis of Convolutional Neural Networks and Long Short-Term Memory networks applied to diagnostic and clinical decision support in canine and feline patients, evaluating both algorithmic performance and clinical feasibility. Adhering to the PICO-CS framework and PRISMA 2020 guidelines, we queried Scopus and Web of Science ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42991501",
+      "title": "Dietary acrylamide and AGE products in processed pet food: a review of the evidence and implications for safety thresholds in dogs and cats.",
+      "authors": "Hopf A, Muir M, England A, Dehghani F",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991501/",
+      "abstract": "Traditionally processed pet foods, including kibble (dry), and retorted or canned formats (wet), are manufactured using high-temperature thermal processing methods that drive the formation of Maillard reaction products (MRPs) and acrylamide (AA). Dogs and cats commonly consume the same traditionally processed food as a daily dietary staple over prolonged periods, resulting in chronic, sustained dietary exposure to these compounds. In humans and rodents, dietary advanced glycation end products (A",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42991092",
+      "title": "Baseline erythrocyte sedimentation rate is associated with mortality in dogs with chronic kidney disease.",
+      "authors": "Moon CH, Joo JB, Ro WB, Lee CM",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991092/",
+      "abstract": "Chronic kidney disease (CKD) in dogs has variable survival outcomes and systemic complications not fully captured by renal excretory markers. Erythrocyte sedimentation rate (ESR) may reflect cumulative systemic disease burden, but its prognostic relevance in canine CKD remains unclear. To evaluate the prognostic value of baseline ESR in dogs with CKD and its contribution to mortality risk stratification with conventional clinical and renal variables. Animals: A total of 272 dogs were included: 1",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42991084",
+      "title": "Circulating osteocrin is associated with cardiac remodeling in canine myxomatous mitral valve disease and skeletal alterations in a rat pressure-overload model.",
+      "authors": "Komatsu M, Udagawa H, Araki R, Hamamoto Y, Nam E",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991084/",
+      "abstract": "Myxomatous mitral valve disease (MMVD) is the most common acquired cardiac disease in dogs and is increasingly recognized as a systemic disorder associated with extracardiac remodeling. Osteocrin (OSTN), a secreted peptide implicated in natriuretic peptide biology and skeletal homeostasis, has emerged as a potential candidate biomarker of cardiovascular-skeletal interactions. However, circulating OSTN dynamics during cardiovascular disease progression remain incompletely characterized. We employ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42991074",
+      "title": "Propolis as an alternative treatment for companion animal skin infections: addressing antimicrobial resistance.",
+      "authors": "Adra C, Olsson MA, Horn R, Tran TD",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991074/",
+      "abstract": "Bacterial skin infections are among the most prevalent health concerns in companion animals and represent a primary driver for antimicrobial prescriptions within veterinary practices. The widespread use of empirical broad-spectrum antibiotic prescribing has contributed to the emergence of antimicrobial-resistant pathogens, including Staphylococcus pseudintermedius and Pseudomonas aeruginosa in veterinary dermatology. This resistance complicates treatment outcomes and raises broader public health",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -1041,72 +1107,6 @@
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42936201/",
       "abstract": "Caregivers play a central role in shaping the dietary habits and nutritional health of dependents. However, the diversity of available diets and feeding advice can complicate everyday food decisions. This qualitative study explored how caregivers make feeding decisions for their children and pets, focusing on factors influencing diet choice, feeding practices, perceptions of nutrition, and emotional attachment to dependents. UK-based caregivers aged 18 years or older, responsible for at least on",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42921406",
-      "title": "Clinical reasoning in canine meningoencephalitis of unknown origin and glioma: the role of signalment, history and neurological examination.",
-      "authors": "Spohn F, Abani S, Dickinson PJ, Vernau KM, Toedebusch CM",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921406/",
-      "abstract": "Meningoencephalitis of unknown origin (MUO) is a group of presumed immune-mediated inflammatory diseases of the central nervous system (CNS) in dogs. Differentiating MUO from intracranial diseases such as glioma can be challenging based on magnetic resonance imaging (MRI) and cerebrospinal fluid (CSF) analysis. Because glioma represents an important differential diagnosis in dogs clinically suspected to have MUO, distinguishing these diseases is relevant for diagnostic reasoning, therapeutic pla",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42921401",
-      "title": "Case Report: Surgical treatment of feline pituitary apoplexy in 3 cases.",
-      "authors": "van Schaik MA, van Stee LL, Grinwis GCM, Meij BP",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921401/",
-      "abstract": "Surgical treatment of feline pituitary apoplexy has not been previously described. To describe the clinical course and follow-up of 3 cases of feline pituitary apoplexy. Cases were selected based on histopathological confirmation of pituitary masses with haemorrhagic lesions, following transsphenoidal hypophysectomy. Details of physical examination, diagnostic test results, treatment and follow-up course were retrospectively acquired by review of medical and imaging records. Two cats were presen",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42921373",
-      "title": "Short-course letrozole restores fertility in aged azoospermic dogs.",
-      "authors": "Liu B, Zhang L, Zhu F, Jin X, Liu T",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921373/",
-      "abstract": "Age-related azoospermia is a clinically important cause of male infertility in dogs, yet effective pharmacological treatments for aged males remain limited. Whether transient aromatase inhibition can restore fertility in aged azoospermic dogs without prolonged exposure is unclear. This study evaluated whether a 1-week course of letrozole, an aromatase inhibitor, could restore spermatogenesis and fertility in aged azoospermic male dogs. Untreated aged azoospermic and young fertile dogs served as ",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42921341",
-      "title": "Fluid balance, electrolyte, and neurohormonal responses to isotonic vs. hypotonic maintenance crystalloids in healthy Beagle dogs.",
-      "authors": "Her J, Gordon D, Kim K, Wallinger J, Langston C",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921341/",
-      "abstract": "To compare the effects of isotonic vs. hypotonic maintenance crystalloid therapy on fluid balance, urine output, and electrolyte homeostasis in healthy Beagles. In this 2-phase clinical study, nine healthy Beagles received intravenous isotonic (lactated Ringer's solution with 5% dextrose plus 26 mEq/L KCl) and hypotonic (Normosol-M and 5% dextrose plus 17 mEq/L KCl) crystalloids at an allometric maintenance rate for 48 h, with a 10-day washout between treatments from July 3 to September 29, 2021",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42921323",
-      "title": "A proposed framework for practical multimodal management of osteoarthritis in adult dogs.",
-      "authors": "Marcellin-Little DJ, Huntingford J, Grubb T, Pechette Markley A, Brunke MW",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921323/",
-      "abstract": "Osteoarthritis (OA) affects nearly half of adult dogs and has physiological, physical, and functional consequences. The physiological impact of OA includes joint inflammation, progressive cartilage degeneration, and pain. Physically, OA changes commonly result in reduced limb strength, muscle atrophy, and, in some cases, decreased joint range of motion. Functionally, OA manifests as diminished willingness or ability to climb stairs, jump, play, exercise, or perform routine activities. These func",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42921062",
-      "title": "Canine atopic dermatitis clinical trials: study design and methodological considerations.",
-      "authors": "Klotsman M, Sagiv SK, Anderson WH, Santoro D",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921062/",
-      "abstract": "Canine atopic dermatitis (AD) is a chronic inflammatory and pruritic skin disease affecting up to 15% of dogs, with clinical expression shaped by genetic, environmental, and microbial factors. Although the International Committee for Allergic Diseases of Animals (ICADA) established COSCAD as a core outcome set providing standardized outcome measures for evaluating treatment efficacy, comparatively little attention has been given to the upstream methodological considerations that determine the va",
       "category": "other",
       "summary_ko": ""
     }
