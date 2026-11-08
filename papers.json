@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07 01:45 UTC",
+  "updated": "2026-11-08 01:15 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -184,61 +184,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42947187/",
       "abstract": "There is a lack of consensus regarding the diagnosis and treatment of bacterial pyelonephritis (PN) in dogs and cats. The aim of this scoping review was to increase knowledge by describing published scientific literature on the subject, specifically to collate definitions and diagnostic criteria, antimicrobial regimens, reported outcomes, and to identify knowledge gaps. A structured search was performed of the bibliographic databases Biosis, CAB Abstracts, Medline, Web of Science Core Collection",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42934855",
-      "title": "EXPRESS:Management of Distal Hindlimb Injuries in Cats Using an Exvet External Skeletal Fixation System: A Multicenter Retrospective Study.",
-      "authors": "Uygur S, Dogan A, Yardımcı C, Ulusan S, Beale BS",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Oct 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42934855/",
-      "abstract": "To evaluate the clinical use of an Exvet external skeletal fixation (ESF) system applied using minimally invasive techniques for the management of distal hindlimb injuries in cats. Cats with distal hindlimb injuries treated using the Exvet Tarsal Fixator (ETF) at four institutions between September 2022 and January 2026 were included. Data collected included fracture type, surgical approach, postoperative complications and additional treatments, time to first limb use, time to fixator removal, r",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42934851",
-      "title": "EXPRESS: BENEFITS OF CONTRAST-ENHANCED COMPUTED TOMOGRAPHY OVER PLAIN COMPUTED TOMOGRAPHY FOR HEAD TRAUMA IN 41 CATS.",
-      "authors": "Mariaud V, Arinal P, Masson A, Mortier J",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Oct 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42934851/",
-      "abstract": "The aim of this study is to evaluate whether contrast-enhanced computed tomography (CECT) provides clinically useful information beyond Plain computed tomography (PCT) in cats with head trauma, and whether this benefit is influenced by the radiologist's level of experience. Forty-one cats that underwent head CT with both pre- and post-contrast sequences were included. Images were independently reviewed by three radiologists with different experience levels, assessing extracranial soft tissue inj",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42928650",
-      "title": "Comparative Effectiveness of COP and CHOP Chemotherapy Protocols in Feline Intermediate- to Large-Cell Lymphoma: A Systematic Review and Meta-Analysis.",
-      "authors": "Lam YWS, Pimentel PAB, Nekouei O, Giuliano A",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Oct 25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42928650/",
-      "abstract": "Feline intermediate- to large-cell lymphoma is commonly treated with COP or CHOP chemotherapy, but the clinical benefit of adding doxorubicin (CHOP) remains controversial given its associated toxicity profile and cost. This systematic review and exploratory meta-analysis summarized response and survival outcomes reported for COP- and CHOP-based protocols in feline intermediate- to large-cell lymphoma. Searching PubMed, Scopus, and CAB Abstracts (2000-2024), we included 21 studies comprising 1054",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42928418",
-      "title": "Differences in DNA Methylation Status Between Epithelial and Mesenchymal Phenotypes in Canine Malignant Mucosal Melanoma.",
-      "authors": "Ishizaki T, Yamazaki J, Aoshima K, Kimura T",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Oct 25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42928418/",
-      "abstract": "Canine malignant mucosal melanoma is one of the common cancers with a high mortality rate. Pathologically, malignant melanomas show multiple morphological patterns including epithelioid, spindle and round, indicating that neoplastic cells change their morphology. Regarding morphological change, epithelial-mesenchymal transition (EMT) has been considered to be an important mechanism. EMT is a reversible biologic process being suggested the correlation with DNA methylation in human cancer. The aim",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42926012",
-      "title": "Placebo-controlled randomized clinical study using a collagen hydrolysate-enriched diet in dogs with osteoarthritis.",
-      "authors": "Blees NR, Teunissen M, Smit IH, Verseijden F, Meij BP",
-      "journal": "Vet J",
-      "date": "2026 Oct 24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42926012/",
-      "abstract": "Osteoarthritis (OA) is a prevalent cause of chronic pain in dogs. Previous clinical studies suggest potential benefits of collagen hydrolysate (CH) supplementation, yet limitations in patient selection and study design have hindered definitive conclusions. This randomized, double-blind, placebo-controlled study evaluated the efficacy of a CH-enriched diet compared to an isocaloric placebo diet over 12 weeks in dogs with radiographically confirmed OA and mild clinical signs. Clinical efficacy was",
-      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -561,6 +506,17 @@
       "summary_ko": ""
     },
     {
+      "id": "42995017",
+      "title": "Pitfalls of M-mode echocardiography end-diastolic and end-systolic measurements: a study of 154 dogs with myxomatous mitral valve disease.",
+      "authors": "Lobo L, Pereira GGCM, Pires MJ",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995017/",
+      "abstract": "Echocardiographic assessment of myxomatous mitral valve disease (MMVD) includes measurement of the left ventricular internal dimension at the end-diastole (LVIDd) and at the end-systole (LVIDs), using established cardiac cycle markers. The LVIDd is measured at the QRS onset, which may not coincide with the maximal internal dimension. The LVIDs is obtained at maximum septal contraction, which in dogs with non-synchronous contraction (NSC) between the septal and free wall, may not correspond to th",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42939116",
       "title": "Clinical Reasoning in Veterinary Ophthalmology: A Pathophysiology-Centered Framework for Canine and Feline Clinical Practice.",
       "authors": "Kanemaki N",
@@ -591,6 +547,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42935475/",
       "abstract": "",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42994409",
+      "title": "Tibial Anatomy and Functional Outcome in Growing Dogs with Tibial Tuberosity Avulsion Fracture Repair Followed by Implant Removal.",
+      "authors": "Hayes SN, Franklin AL, Franklin SP",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Nov 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994409/",
+      "abstract": "The aims of this study were to compare tibial anatomy between a cohort of dogs that had implants removed following repair of tibial tuberosity avulsion fracture and a historical cohort that had implants left in situ, and to objectively quantify patient function to determine if deformity resulted in impaired function. Dogs that had open reduction and fixation of tibial tuberosity avulsion fracture with subsequent implant removal (Cohort A) had radiographs of both hindlimbs and objective gait anal",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42994099",
+      "title": "Surgical outcomes of congenital cleft palate repair in dogs: a scoping review.",
+      "authors": "Elazegui E, Wolfs E",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994099/",
+      "abstract": "Congenital cleft palate (CFP) is a common orofacial malformation in dogs associated with substantial morbidity and neonatal mortality. The objective of this scoping review was to map the current veterinary literature describing surgical approaches, reported outcomes, complications, and evidence gaps following surgical repair of canine CFPs. A scoping review was conducted and reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping R",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42994090",
+      "title": "Pregabalin and gabapentin in fractious cats: an exploratory comparison of handling-related outcomes and adverse effect profiles.",
+      "authors": "Measson C, Fournier F, Sarcey G, Béata C",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994090/",
+      "abstract": "To compare pregabalin and gabapentin on manageability, ease of placing into a carrier, ease of transport, and adverse effects in cats exhibiting fractious behavior. An exploratory double-blind, randomized crossover study enrolled 32 cats with a history of fractious behavior. Each cat received pregabalin (5 mg/kg; Bonqat) or gabapentin (compounded, 20 mg/kg), administered 2 hours before examination, with treatments allocated in random order 15 days apart. Outcomes included manageability (veterina",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42994089",
+      "title": "Coagulopathic manifestations as a primary presentation of canine angiostrongylosis: a retrospective case series.",
+      "authors": "Van Heuckelom E, Biscop A, Bhatti SFM, Stammeleer L, Decorte B",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994089/",
+      "abstract": "To describe the clinical presentations, diagnostic findings, and treatment outcomes of 3 dogs with atypical, predominantly coagulopathic manifestations of Angiostrongylus vasorum infection and to highlight the associated diagnostic challenges. 3 client-owned dogs presented at a veterinary referral hospital in Flanders, Belgium, between March 2018 and April 2022. Cases were eligible for inclusion if coagulopathic manifestations were a predominant component of the clinical presentation and canine ",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42994086",
+      "title": "Premedication with medetomidine compared to acepromazine reduces the risk of hypotension and mild acute kidney injury in healthy dogs undergoing gonadectomy surgery: results of a randomized clinical trial.",
+      "authors": "Quinn CT, Walton AN",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994086/",
+      "abstract": "To compare premedication with medetomidine or acepromazine in regard to hypotension and acute kidney injury (AKI) in dogs undergoing elective gonadectomy. This randomized clinical trial included healthy dogs &#x2265; 6 months of age undergoing gonadectomy in a university teaching hospital. Exclusion criteria were weight &lt; 4 kg, American Society of Anesthesiologists risk &gt; 2, or cardiovascular/renal disease. Premedication consisted of methadone and medetomidine at 0.3 to 5 &#xb5;g/kg or ace",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -767,17 +778,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42968215/",
       "abstract": "Feline granulocytic anaplasmosis (FGA) is caused by Anaplasma (A.) phagocytophilum. Fever and thrombocytopenia are the most common clinicopathological abnormalities.ObjectivesThe aim was to investigate regionality, seasonality, clinicopathological parameters, treatment, and outcomes in cats with FGA.MethodsThe database of a commercial laboratory was retrospectively screened for A. phagocytophilum-polymerase chain (PCR)-results on EDTA-blood submitted by European veterinarians from 01/2022 to 12/",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42929748",
-      "title": "Imaging Features of Adrenal Glands Infiltration by Multicentric Lymphoma in Dogs and Cats.",
-      "authors": "Negro L, Pey P, Specchi S, Penninck D, Diana A",
-      "journal": "Vet Radiol Ultrasound",
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42929748/",
-      "abstract": "Few case reports describe the imaging features of lymphoma involving the adrenal glands (AGs) in dogs and cats. This retrospective, descriptive, and multicentric study aimed to describe the ultrasound (US), computed tomography (CT), and magnetic resonance imaging (MRI) findings of confirmed lymphomatous AG infiltration in patients with multicentric lymphoma. The inclusion criteria required cytological or histological confirmation of AG lymphoma and at least one imaging study. Eleven patients wer",
-      "category": "imaging",
       "summary_ko": ""
     },
     {
