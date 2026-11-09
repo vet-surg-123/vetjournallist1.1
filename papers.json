@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08 01:15 UTC",
+  "updated": "2026-11-09 01:35 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -19,28 +19,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42977613/",
       "abstract": "Mitral annular disjunction is an abnormality of the mitral valve characterized by a displacement of the mitral annulus in which the annulus is functionally decoupled from the left ventricle and moves toward the atrium during systole. In human medicine, it is commonly associated with an increased risk of mitral valve prolapse, cardiac arrhythmias, and sudden cardiac death but rarely described in veterinary medicine. This article describes a case report of a six-year-old male Shih tzu dog with sig",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939097",
-      "title": "Microsatellite and Mitochondrial DNA Reveal Spatial Genetic Variation and Domestic Cat Admixture in Hungarian European Wildcats.",
-      "authors": "Fehér P, Frank K, Ninausz N, Hámor F, Sándorová L",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939097/",
-      "abstract": "The European wildcat (Felis silvestris) is threatened due to habitat loss and hybridisation with domestic cats (Felis catus), representing a significant conservation challenge in Hungary. We genotyped 118 field-collected cats from seven Hungarian sub-regions and 30 domestic cat references at 14 autosomal microsatellites, and sequenced a 669 bp mitochondrial ND5 fragment from the field samples. At K = 2, STRUCTURE assigned 84 field samples to the wildcat-associated cluster, 18 to the domestic-cat",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939094",
-      "title": "Gastrointestinal Diets with Different Fiber Compositions and Energy Densities for Management of Chronic Inflammatory Enteropathy in Dogs: A Prospective, Multicenter Study.",
-      "authors": "Rochon J, Vecchio M, Dito D, Oruz N, Charles H",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939094/",
-      "abstract": "Dogs with chronic gastrointestinal (GI) signs are commonly presented to veterinarians. This Italian study investigated the effectiveness of three dry, highly digestible veterinary GI diets fed for 60 days to control chronic inflammatory enteropathy (CIE). Adult dogs with a Canine Chronic Enteropathy Clinical Activity Index score &#x2265; 5, modified to exclude albumin concentration (mCCECAI), were assigned a GI high-fiber diet (n = 21) if GI signs were primarily large bowel, a GI moderate-calori",
-      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -539,14 +517,14 @@
       "summary_ko": ""
     },
     {
-      "id": "42935475",
-      "title": "Feline viral infections: current perspectives on diagnosis, treatment and prevention.",
-      "authors": "Hosie MJ",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Oct",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42935475/",
-      "abstract": "",
-      "category": "other",
+      "id": "42998873",
+      "title": "A blinded, non-inferiority randomised clinical trial comparing the efficacy and safety of low-dose methotrexate and ciclosporin for the control of moderate to severe canine atopic dermatitis.",
+      "authors": "Rostang A, Mosca M, Panzuti P, Pressanti C, Idee A",
+      "journal": "Vet J",
+      "date": "2026 Nov 7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998873/",
+      "abstract": "Canine atopic dermatitis (cAD) is a chronic, inflammatory skin disease that may require long-term systemic immunomodulatory treatment. Low-dose methotrexate (MTX) is an inexpensive immunomodulator used in human dermatology, but robust veterinary data are lacking. To determine whether weekly subcutaneous low-dose MTX is non-inferior to oral ciclosporin (CsA) in controlling moderate-to-severe cAD. Fifty-five client-owned dogs with non-seasonal moderate-to-severe cAD enrolled at nine dermatology ce",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -778,6 +756,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42968215/",
       "abstract": "Feline granulocytic anaplasmosis (FGA) is caused by Anaplasma (A.) phagocytophilum. Fever and thrombocytopenia are the most common clinicopathological abnormalities.ObjectivesThe aim was to investigate regionality, seasonality, clinicopathological parameters, treatment, and outcomes in cats with FGA.MethodsThe database of a commercial laboratory was retrospectively screened for A. phagocytophilum-polymerase chain (PCR)-results on EDTA-blood submitted by European veterinarians from 01/2022 to 12/",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42997318",
+      "title": "Assessing affective states in domestic dogs through judgment bias tasks: a systematic review of methods, influencing factors, and welfare applications.",
+      "authors": "Gazzano V, Ciurli L, Curadi MC, Baragli P, Gazzano A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997318/",
+      "abstract": "Judgment bias tasks (JBTs) have emerged as a promising approach for assessing affective states in animals, including domestic dogs, by measuring optimistic or pessimistic responses to ambiguous stimuli as proxies for underlying emotion. Despite growing use, the canine evidence base had not been systematically evaluated. We conducted a systematic review following PRISMA 2020 guidelines, searching Scopus and PubMed, with a supplementary search of Web of Science Core Collection. Thirty-two studies ",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "42997306",
+      "title": "Establishment of canine nasal carcinoma organoids for drug sensitivity testing and functional characterization of S100A2.",
+      "authors": "Yamamoto H, Elbadawy M, Abugomaa A, Tsunedomi R, Kaneda M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997306/",
+      "abstract": "Canine nasal carcinoma (NC) is highly malignant and progressive, with metastasis. Radiation therapy is a common treatment; however, it has various drawbacks, including cost and anesthetic risks in elderly patients. Therefore, the development of alternative anti-cancer drug therapies has been required. In this study, we established an NC organoid culture method as an experimental model and explored more effective therapeutic targets. NC organoids were generated from patient-derived tissues from d",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42997290",
+      "title": "Whippets have larger abdominal caudal vena cava to aorta ratios than other dogs on computed tomography.",
+      "authors": "Esmieu SL, Ma MH, Mantis P, Biondo S, Constantinescu R",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997290/",
+      "abstract": "Whippets are sighthounds with distinct cardiovascular adaptations associated with athletic performance. The caudal vena cava to aorta ratio (CVC/Ao) is an established index of intravascular volume status, assessed ultrasonographically and on computed tomography (CT) at thoracic and abdominal sites, but breed-specific differences remain unreported. We compared thoracic and abdominal CVC/Ao in whippets and non-whippet controls, and with published reference values, and hypothesised that whippets wo",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42996192",
+      "title": "Effects of rifaximin on the fecal microbiota of healthy dogs: a pilot study.",
+      "authors": "Harada H, Tamura M, Kawabata M, Sakatani A, Deguchi T",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42996192/",
+      "abstract": "Rifaximin is a poorly absorbed antibiotic that is used for the treatment of hepatic encephalopathy in humans. However, it is important to evaluate the effects of antibiotics on the gut microbiota because antibiotics may alter gut microbial composition. This study aimed to investigate the effects of 28&#x202f;days rifaximin administration on the gut microbiota of healthy dogs. Five healthy dogs were administered rifaximin (25&#x202f;mg/kg q12h) for 28&#x202f;days. Fecal samples were collected fro",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -1086,28 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42948017/",
       "abstract": "Studies of the ultrasound-guided thoracic erector spinae plane (ESP) blocks in dogs are limited. This study aimed to describe a transverse (TV) ultrasound-guided ESP approach at the dorsolateral edge of the transverse process (DLETP) of T9, compare its distribution with a longitudinal (LNG) approach, and analyze the thoracic transverse process anatomy. Twenty-three canine cadavers were used in this double-blinded experimental study. An ESP injection using 0.6 mL/kg of dye/contrast was performed ",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42936481",
-      "title": "Fibrostenotic intestinal stenosis associated with chronic enteropathy in two cats: case report.",
-      "authors": "Choi J, Yang S, Lee Y, Sung Y, Chae Y",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42936481/",
-      "abstract": "Two cats presented with acute progressive vomiting. One cat (Case 1) received prednisolone for suspected chronic inflammatory enteropathy for 14&#x202f;months. The cat showed hypoalbuminemia, hypocobalaminemia, small intestinal thickening, and focal jejunal stricture with severe proximal dilation on ultrasonography. Exploratory laparotomy confirmed the stricture, and histopathology revealed submucosal fibroplasia with mild lymphoplasmacytic enteritis. The cat died on postoperative day 12. Anothe",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42936201",
-      "title": "A comparative study of diet choice and feeding management among UK pet and child caregivers.",
-      "authors": "Lumbis RH, Yam PS, Reilly JJ, Fontaine SJ",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42936201/",
-      "abstract": "Caregivers play a central role in shaping the dietary habits and nutritional health of dependents. However, the diversity of available diets and feeding advice can complicate everyday food decisions. This qualitative study explored how caregivers make feeding decisions for their children and pets, focusing on factors influencing diet choice, feeding practices, perceptions of nutrition, and emotional attachment to dependents. UK-based caregivers aged 18 years or older, responsible for at least on",
-      "category": "other",
       "summary_ko": ""
     }
   ]
