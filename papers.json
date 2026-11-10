@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09 01:35 UTC",
+  "updated": "2026-11-10 04:01 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -495,25 +495,25 @@
       "summary_ko": ""
     },
     {
-      "id": "42939116",
-      "title": "Clinical Reasoning in Veterinary Ophthalmology: A Pathophysiology-Centered Framework for Canine and Feline Clinical Practice.",
-      "authors": "Kanemaki N",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939116/",
-      "abstract": "Clinical reasoning enables veterinarians to make clinical decisions for individual patients by integrating clinical information with scientific evidence, knowledge of underlying disease processes, and case-specific circumstances. This review aimed to clarify clinical reasoning in canine and feline ophthalmology, with particular emphasis on pathophysiological interpretation, and to organize major theoretical frameworks of clinical reasoning in relation to the ophthalmic diagnostic process. A narr",
-      "category": "other",
+      "id": "43001339",
+      "title": "Laparoscopic-assisted treatment of giant urachal cyst in a female Dachshund.",
+      "authors": "Park J, Lee WJ, Jeong J, Lee H, Jeong SM",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43001339/",
+      "abstract": "To describe the clinical features and successful surgical management of a giant, symptomatic urachal cyst (UC) in a dog using a laparoscopic-assisted approach without partial cystectomy. Case report. A 10-year-old, 4.6&#x2009;kg, spayed female Dachshund. The dog presented with urinary incontinence, pollakiuria, and abdominal distension. Computed tomography (CT) and cystography identified a 13-cm cystic lesion at the bladder apex without luminal communication. A laparoscopic exploration was initi",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
-      "id": "42939113",
-      "title": "Pediococcus acidilactici Long21 Alleviates Intestinal Sensitivity and Improves Gut Health in German Shepherd Dogs by Regulating Intestinal Metabolic Profiles.",
-      "authors": "Zhang X, Ma Y, Liu H, Yang Y, Wu Z",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939113/",
-      "abstract": "Background: Canine intestinal sensitivity is a multifactorial functional gastrointestinal disorder characterized by recurrent soft feces, impaired nutrient utilization, and low-grade intestinal inflammation, and it acts as a major trigger for chronic gastrointestinal discomfort in dogs. Conventional antibiotic therapy causes side effects and drug resistance. Probiotics modulate host physiology, immunity, and metabolism, serving as promising alternatives for improving canine intestinal health. Th",
-      "category": "internal",
+      "id": "43000681",
+      "title": "Comparative Immunoreactivity of iNOS, PCNA and p53 in Stable and Progressive Canine Transmissible Venereal Tumours.",
+      "authors": "Dincel GC, Yıldırım S, Anteplioğlu T, İlhan F, Karasu A",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Nov 8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000681/",
+      "abstract": "Canine transmissible venereal tumour (CTVT) is a naturally occurring transmissible neoplasm with variable biological behaviour, including progressive growth, stationary behaviour and spontaneous regression. However, the marker-expression patterns associated with these clinicopathological phenotypes remain incompletely characterised. The present study investigated iNOS, PCNA and p53 expression in CTVT and evaluated their association with the operational clinicopathological phenotype. Sixteen geni",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
