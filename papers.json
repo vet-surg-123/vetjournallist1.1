@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 04:01 UTC",
+  "updated": "2026-11-11 01:48 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -330,83 +330,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42939163",
-      "title": "Use of Encapsulated and Raw Organic Acids for Inhibition of Salmonella in a Refrigerated Raw Meat-Based Diet (RMBD) Matrix for Dogs.",
-      "authors": "Kiprotich S, Rivera JL, Doddabematti Prakash S, Koulicoff LA, Mason R",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939163/",
-      "abstract": "The rising demand for using raw meat diets (RMBDs) for feeding companion animals requires improvement in their food safety. Organic acids could be a promising anti-microbial ingredient for mitigating pathogen contamination. This study investigated the effects of encapsulated (E) and raw (R) acids (citric-CE and CR; lactic-LE and LR) on Salmonella survival in RMBDs during refrigerated storage. The acidulants (1.0% LE, 1.0% CE, 0.5% LE + 0.5% CE, 0.5% CE + 0.5% LR, 0.5% LE + 0.5% CR, and 0.5% LR +",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939161",
-      "title": "Quantification of Fecal Glucocorticoid Metabolites in Shelter Cats Using LC/MS/MS: Potential Biomarkers of Stress Associated with Shelter Admission.",
-      "authors": "Mashimo Y, Yohannes YB, Nakayama SMM, Ikenaka Y, Ishizuka M",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939161/",
-      "abstract": "Cats can experience physiological stress during transitions to unfamiliar environments, such as shelter admission. To enable non-invasive stress assessment in cats, fecal glucocorticoid metabolites were quantified by liquid chromatography-tandem mass spectrometry (LC/MS/MS) with Girard's reagent T derivatization. Five analytes were targeted: three glucocorticoids (cortisol, cortisone, and corticosterone) and their fecal metabolites, 11&#x3b2;-hydroxyetiocholanolone and 11-oxoetiocholanolone. Thi",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939158",
-      "title": "Comparative Veterinary Psychopharmacology in Dogs and Cats: Neurotransmitter Targets, Translational Boundaries, and Species-Specific Pharmacokinetics.",
-      "authors": "Kim I, Yun JH",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939158/",
-      "abstract": "Behavioral disorders in companion animals are increasingly being managed with pharmacotherapy. However, prescription practices often rely on extrapolation from human psychiatry without considering species-specific phenotypes, diagnostic frameworks, or pharmacokinetic variability. A structured translational approach is required to align mechanistic plausibility with clinical evidence and interspecies constraints. This review consolidates the current information on the pharmacological modulation o",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939157",
-      "title": "Short-Term Associations Between a Government-Funded Sterilization Program for Owned Outdoor Dogs and Abandonment-Related Shelter Admissions in the Republic of Korea: A Nationwide Municipality-Level Panel Study.",
-      "authors": "Rah H",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939157/",
-      "abstract": "Sterilization programs for owned outdoor dogs aim to reduce uncontrolled breeding and subsequent abandonment, but population-level evidence remains limited. This study examined short-term associations between the Korean government-funded sterilization program introduced in 2022 and shelter-recorded abandoned-dog admissions using annual data from 229 municipalities from 2019 to 2024 (1374 municipality-year observations). The outcome was shelter-recorded abandoned-dog admissions per 100,000 reside",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939154",
-      "title": "Juvenile Spontaneous Mediastinal Hemorrhage with Suspect Trauma.",
-      "authors": "Uhrinek AG, Peper KE, Stern AW, Vilaplana Grosso FR",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939154/",
-      "abstract": "A 6-month-old intact female American Pitbull (Canis lupus familiaris) underwent forensic evaluation for suspected blunt force trauma. Postmortem computed tomography (PMCT) identified pleural hyperattenuating soft tissue attenuating material, consistent with clotted blood, pleural effusion, a large thymus, and moderate to severe cranial mediastinal expansion with mixed fluid and lower-attenuation, soft tissue attenuating material. Histology confirmed thymic hemorrhage, while autopsy identified he",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939148",
-      "title": "Detection and Phylogenetic Characterization of Canine Distemper Virus (Morbillivirus canis) in Wild Foxes and Badgers from Northern Italy in 2021-2026.",
-      "authors": "Filippi A, Lauzi S, Garbarino C, Reggiani A, Rossi R",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939148/",
-      "abstract": "Canine distemper virus (CDV) is a highly contagious multisystemic pathogen posing severe threats to wild carnivores and domestic animals. To investigate CDV circulation and lineage diversity in Piacenza Province, Northern Italy, wildlife surveillance was conducted under the Regional Wildlife Monitoring Plan between 2021 and June 2026. Forty-three wild carnivores-comprising red foxes (Vulpes vulpes), European badgers (Meles meles), wolves (Canis lupus), stone martens (Martes foina), and one jacka",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939146",
-      "title": "Comparison of Selected Therapies Within the Step-Up Therapeutic Approach in Canine Chronic Inflammatory Enteropathy.",
-      "authors": "Kunay L, Fialkovičová M, Benková M, Tóthová C, Kořená N",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939146/",
-      "abstract": "Canine chronic inflammatory enteropathy (CIE) frequently requires a sequential therapeutic approach in which treatment is escalated according to clinical response. This prospective, open-label clinical study evaluates selected dietary, antimicrobial, microbiome-directed, and corticosteroid interventions used within a step-up treatment strategy in dogs with CIE under routine clinical conditions. Fifty-six dogs were enrolled. Clinical response was assessed using the Canine Chronic Enteropathy Clin",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "42970993",
       "title": "Multicenter, retrospective study of balloon valvuloplasty-associated pulmonary artery dissection in dogs with pulmonary valve stenosis.",
       "authors": "Wesselowski S, Saunders AB, Scansen BA, Potter BM, Abbott-Johnson K",
@@ -440,50 +363,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42939141",
-      "title": "Baicalein and Neohesperidin Dihydrochalcone Improve Post-Thaw Sperm Quality and Modulate the Semen Supernatant Metabolome in Qinchuan Bulls.",
-      "authors": "Yang B, Zhang Z, Gao S, Zheng R, Zan L",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939141/",
-      "abstract": "Oxidative stress during cryopreservation compromises post-thaw sperm quality in bulls. This study evaluated the effects of baicalein (BAI), neohesperidin dihydrochalcone (NHDC) and their combined supplementation on Qinchuan bull sperm cryopreservation and the associated metabolic responses. Concentration screening identified 40 &#x3bc;g/mL BAI and 30 &#x3bc;g/mL NHDC for subsequent experiments. Compared with the control, BAI, NHDC and BAI + NHDC increased post-thaw sperm motility, plasma membran",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939134",
-      "title": "Superior MAP-EtCO(2) Target Attainment with Rocuronium-Facilitated Controlled Ventilation in Geriatric Small Dogs: A Retrospective Cohort Study.",
-      "authors": "Kim SH, Baek EJ, Bae CS",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939134/",
-      "abstract": "Comparative evidence for integrated ventilation-neuromuscular blockade-reversal strategies is limited in geriatric small dogs. This single-center retrospective cohort included 288 dogs aged &#x2265;12 years and weighing &#x2264;7 kg undergoing orthopedic surgery or thoracolumbar hemilaminectomy. Initially planned strategies were spontaneous ventilation without neuromuscular blockade (A), controlled ventilation without blockade (B), rocuronium-controlled ventilation-sugammadex (C), vecuronium-con",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939121",
-      "title": "Computed Tomography Findings in Three Cases of Suspected Lymphovenous Communications in Cats.",
-      "authors": "Librán-Ferreira L, Rodríguez-Armas I, Zamora-Perarnau C, Israeliantz N, Cervera-Castellanos V",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939121/",
-      "abstract": "Pathological lymphovenous communications are poorly characterized in veterinary medicine, and their computed tomographic features and clinical significance remain unknown. This retrospective case series aimed to describe contrast-enhanced computed tomography findings of suspected spontaneous lymphovenous communications in three cats. All cats had dilated, tortuous vessels arising from portal venous tributaries and extending to the cisterna chyli, originating from the splenic vein in two cats and",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939117",
-      "title": "Pregabalin Monotherapy for Chronic Pain Associated with Osteoarthritis in Working Dogs: A Retrospective Study of 21 Cases.",
-      "authors": "Lee J, Park G, Yoo J, Ahn DG, Lee I",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939117/",
-      "abstract": "Degenerative joint disease, including osteoarthritis (OA), is frequently diagnosed in working dogs and is a major cause of retirement or euthanasia. Pregabalin is a gabapentinoid used mainly for neuropathic pain, but evidence for pregabalin monotherapy in canine OA-related chronic pain is limited. Of 702 cases screened, this retrospective study included 21 working dogs with radiographically confirmed OA and chronic pain of at least three months' duration that received pregabalin monotherapy (4 m",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
       "id": "42995017",
       "title": "Pitfalls of M-mode echocardiography end-diastolic and end-systolic measurements: a study of 154 dogs with myxomatous mitral valve disease.",
       "authors": "Lobo L, Pereira GGCM, Pires MJ",
@@ -492,6 +371,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42995017/",
       "abstract": "Echocardiographic assessment of myxomatous mitral valve disease (MMVD) includes measurement of the left ventricular internal dimension at the end-diastole (LVIDd) and at the end-systole (LVIDs), using established cardiac cycle markers. The LVIDd is measured at the QRS onset, which may not coincide with the maximal internal dimension. The LVIDs is obtained at maximum septal contraction, which in dogs with non-synchronous contraction (NSC) between the septal and free wall, may not correspond to th",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43003383",
+      "title": "BIOMECHANICAL CHARACTERIZATION OF THE IGP SCALING WALL IN GERMAN SHEPHERD WORKING DOGS: IMPLICATIONS FOR LANDING MECHANICS AND JOINT LOADING.",
+      "authors": "Vilar JM, Lopedote M, Valentini S, Marrero I, Spinella G",
+      "journal": "Vet J",
+      "date": "2026 Nov 9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003383/",
+      "abstract": "The scaling wall represents one of the most technically demanding exercises within the IGP working dog program, as it combines successive phases of acceleration, vertical jumping, support at the apex, and descent to the ground, imposing high kinematic and mechanical demands on the locomotor system. However, the biomechanics of this exercise remain poorly documented. The aim of this study was to describe the kinematic and energetic characteristics of the first phase of the exercise on scaling wal",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -693,6 +583,61 @@
       "summary_ko": ""
     },
     {
+      "id": "43008074",
+      "title": "Esophageal strictures associated with prolonged nasoesophageal tube placement in three cats.",
+      "authors": "Cho J, Kim M, Kim S, Lee J, Chae HK",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
+      "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained &lt;&#x2009;25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37&#xa0;days. Regurgitation or retching developed within 1-3&#xa0;days after tube removal, and esophagoscopy ident",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43008073",
+      "title": "Use of a novel low-fat hydrolyzed diet in the management of dogs with chronic enteropathy.",
+      "authors": "Hernández-Anllo C, Feo L, Hervera M, Puig J",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008073/",
+      "abstract": "Dietary management plays a central role in the diagnosis and treatment of chronic enteropathy (CE) in dogs. Although hydrolyzed-protein diets are commonly used in patients with CE, and dietary fat restriction is recommended in selected gastrointestinal disorders, the combined effect of low fat and hydrolyzed protein has not been specifically evaluated. Assess clinical response and acceptability of a low-fat, hydrolyzed diet in dogs with CE. Thirty-one client-owned dogs. Prospective clinical stud",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43008072",
+      "title": "Ultrasound-measured renal length and corticomedullary thickness for the diagnosis and staging of chronic kidney disease in cats.",
+      "authors": "Brans M, Stock E, Duchateau L, Paepe D",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008072/",
+      "abstract": "Ultrasonography is well established in veterinary practice, and renal dimensions may aid in diagnosing chronic kidney disease (CKD) in cats. Assess whether renal length, cortical and medullary thickness, and derived ratios identify CKD, reflect CKD severity, and are changed by hyperthyroidism. Evaluate effects of age, body weight, sex, laterality, and observer variability on renal dimensions. Two hundred fifty-nine client-owned cats: healthy (n&#xa0;=&#xa0;179), CKD-affected (n&#xa0;=&#xa0;38), ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43008071",
+      "title": "Comparative cytokine profiling in cerebrospinal fluid and serum of dogs with meningoencephalitis of unknown origin.",
+      "authors": "Gasser A, Démoulins T, Stein VM",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008071/",
+      "abstract": "Meningoencephalitis of unknown origin (MUO) is a common inflammatory central nervous system (CNS) disease in dogs with unclear etiology, complicating diagnosis. Dogs with MUO exhibit distinct cytokine profiles in cerebrospinal fluid (CSF) compared to other CNS diseases and controls. The study included 23 dogs diagnosed with MUO based on clinical signs, supportive CSF, and imaging findings. For comparison, 110 dogs were included, comprising dogs with CNS disorders, neurological diseases not invol",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43006832",
+      "title": "Correction to: Single Enema Fecal Microbiota Transplantation in Cats With Chronic Enteropathy.",
+      "authors": "",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43006832/",
+      "abstract": "",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42993774",
       "title": "Blood serotonin, ionized magnesium, cardiac troponin I, N-terminal pro-brain natriuretic peptide concentrations, and mitral valve billowing in horses with mitral valve regurgitation.",
       "authors": "Demeyere M, Dufourni A, Verhaeghe LM, Paulussen E, Heirman L",
@@ -726,6 +671,17 @@
       "summary_ko": ""
     },
     {
+      "id": "43004420",
+      "title": "Correction: Direct quantitative PCR detects genetic biomarkers of antileishmanial drug resistance in clinical samples from dogs with leishmaniosis.",
+      "authors": "Carrasco-Martin M, Viñeta C, Martí-Carreras J, Roura X, Ferrer L",
+      "journal": "BMC Vet Res",
+      "date": "2026 Nov 10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004420/",
+      "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "42968222",
       "title": "EXPRESS: Hyperammonemia in cats with acute (on chronic) kidney disease: associations with urea cycle amino acids, azotemia and acid-base status.",
       "authors": "McFadden K, Labato MA, Linder DE, Webster CR",
@@ -756,6 +712,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42968215/",
       "abstract": "Feline granulocytic anaplasmosis (FGA) is caused by Anaplasma (A.) phagocytophilum. Fever and thrombocytopenia are the most common clinicopathological abnormalities.ObjectivesThe aim was to investigate regionality, seasonality, clinicopathological parameters, treatment, and outcomes in cats with FGA.MethodsThe database of a commercial laboratory was retrospectively screened for A. phagocytophilum-polymerase chain (PCR)-results on EDTA-blood submitted by European veterinarians from 01/2022 to 12/",
       "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43004843",
+      "title": "Age-Related Renal Hemodynamic Changes in Dogs: A Doppler Ultrasonographic Study.",
+      "authors": "García Álvarez F, Molina E, Pessina P, Cazzuli G",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004843/",
+      "abstract": "The physiological effects of aging on renal hemodynamics in dogs are not yet well defined. This prospective analytical study aimed to evaluate renal aging using Doppler ultrasonography by comparing renal hemodynamic parameters between healthy young adult and healthy geriatric small-breed dogs. Fifty-eight healthy small-breed dogs (&#x2264;10&#xa0;kg) were divided into two groups (young adult and geriatric) and underwent renal Doppler ultrasonography to compare renal hemodynamic parameters betwee",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43005152",
+      "title": "A personalized three-dimensional printed knee splint for mechanical mitigation of canine knee osteoarthritis and adjunctive nonsteroidal anti-inflammatory drug therapy.",
+      "authors": "Li XT, Xiong ZH, Ye JM, Qiu WT, Sun JF",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43005152/",
+      "abstract": "Canine knee osteoarthritis (OA) involves pain, inflammation, altered joint loading, and restricted motor function. Because nonsteroidal anti-inflammatory drugs (NSAIDs) do not directly correct abnormal joint mechanics, this study evaluated a personalized three-dimensional (3D)-printed polylactic acid knee splint, used alone or with short-term NSAID treatment, in a monosodium iodoacetate-induced beagle knee OA model. Twelve dogs were assigned to four groups (n = 3 per group): OA without continued",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43005087",
+      "title": "Thermal response to moderate exercise in dogs of different biotypes and brachycephalic obstructive airway syndrome severity assessed using infrared thermography.",
+      "authors": "Reyes-Sotelo B, Martínez-Burnes J, Hernández-Avalos I, Olmos-Hernández A, Mora-Medina P",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43005087/",
+      "abstract": "The aim of this study was to evaluate dogs of different skull conformations (cephalic biotypes) and Brachycephalic Obstructive Airway Syndrome (BOAS) grades subjected to two standardized moderate exercise tests, in order to determine their effects on infrared thermal responses in facial and appendicular thermal windows. A total of 80 dogs were evaluated: dolichocephalic (n = 20), mesocephalic (n = 20), and brachycephalic (n = 40), with the latter classified according to BOAS severity as G1 (n = ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43005072",
+      "title": "Pedicle screw and rod fixation in three cats with caudal lumbar vertebral fracture and luxation: a case report.",
+      "authors": "Aartsen SAM, van Stee LL, Meij BP",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43005072/",
+      "abstract": "Pedicle Screw and Rod Fixation (PSRF) is used for spinal stabilization of human and, more recently, in dogs. The use of bilateral PSRF in cats at the caudal lumbar and lumbosacral regions has not been reported. To describe the outcomes of cats with caudal lumbar vertebral fractures and luxation treated with bilateral monoaxial PSRF surgery. Three cats with traumatic caudal lumbar vertebral fractures and luxation treated with bilateral PSRF (2016-2018). Short case series. A retrospective analysis",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
