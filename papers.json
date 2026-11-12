@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 01:48 UTC",
+  "updated": "2026-11-12 02:48 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -319,17 +319,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42939165",
-      "title": "Primary Erythrophagocytic Low-Grade Splenic T-Cell Lymphoma in a Cat: Clinical Case and Literature Review.",
-      "authors": "Barbetta A, Cremonini V, Antognoni MT, Birettoni F, Porcellato I",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939165/",
-      "abstract": "Lymphoma is a common hematopoietic neoplasm in cats; yet hepatosplenic forms remain rare. This report describes a unique case of low-grade erythrophagocytic splenic T-cell lymphoma with suspected peripheral blood involvement in a six-year-old neutered male domestic shorthair cat. The patient presented with severe non-regenerative macrocytic normochromic anemia and moderate splenomegaly. Blood smears revealed mononucleated cells exhibiting erythrophagocytosis. Splenic cytology and flow cytometry ",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "42970993",
       "title": "Multicenter, retrospective study of balloon valvuloplasty-associated pulmonary artery dissection in dogs with pulmonary valve stenosis.",
       "authors": "Wesselowski S, Saunders AB, Scansen BA, Potter BM, Abbott-Johnson K",
@@ -375,7 +364,7 @@
     },
     {
       "id": "43003383",
-      "title": "BIOMECHANICAL CHARACTERIZATION OF THE IGP SCALING WALL IN GERMAN SHEPHERD WORKING DOGS: IMPLICATIONS FOR LANDING MECHANICS AND JOINT LOADING.",
+      "title": "Biomechanical characterization of the IGP scaling wall in German Shepherd working dogs: Implications for landing mechanics and joint loading.",
       "authors": "Vilar JM, Lopedote M, Valentini S, Marrero I, Spinella G",
       "journal": "Vet J",
       "date": "2026 Nov 9",
@@ -723,6 +712,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43004843/",
       "abstract": "The physiological effects of aging on renal hemodynamics in dogs are not yet well defined. This prospective analytical study aimed to evaluate renal aging using Doppler ultrasonography by comparing renal hemodynamic parameters between healthy young adult and healthy geriatric small-breed dogs. Fifty-eight healthy small-breed dogs (&#x2264;10&#xa0;kg) were divided into two groups (young adult and geriatric) and underwent renal Doppler ultrasonography to compare renal hemodynamic parameters betwee",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43010915",
+      "title": "The impacts of dog sterilization campaigns in Thailand: understanding changes in dog population dynamics.",
+      "authors": "Slote B, Lau A, Dower M, Rees EM, Virhia J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43010915/",
+      "abstract": "Of the estimated near 10 million dogs in Thailand, most are free roaming, raising concerns about nuisance behaviors, dog welfare, and the transmission of diseases such as rabies. Minimal research examines dog population management in Thailand, particularly beyond the Bangkok area. We examine the impact of dog population management (DPM), particularly sterilization campaigns in the form of Catch-Neuter-Vaccinate-Return (CNVR), by the non-governmental organization Jai Dog Rescue in the Thai provin",
+      "category": "other",
       "summary_ko": ""
     },
     {
