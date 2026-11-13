@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 02:48 UTC",
+  "updated": "2026-11-13 02:30 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -217,105 +217,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42939205/",
       "abstract": "In domestic animals, chromosomal aberrations are well-documented causes of disorders that result in impaired fertility, malformations, and economic losses. The chromosomes of an alleged sub-fertile bitch of the Entlebucher mountain dog breed should be checked for such aberrations. Metaphase chromosomes were prepared from short-term lymphocyte cultures and microscopically analyzed for numeric or gross structural abnormalities using chromosome banding and chromosome painting probes. The analyses s",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939203",
-      "title": "Bupivacaine Liposomal Injectable Suspension (Nocita(®)) via Transversus Abdominis Plane (TAP) Block for Management of Pain in Dogs with Acute Pancreatitis: A Pilot Study.",
-      "authors": "Angst M, Thibault CJ, Wang S, Cridge H",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939203/",
-      "abstract": "Abdominal pain is one of the most salient features of acute pancreatitis (AP) in dogs. While traditional opioids provide excellent analgesia, they are also associated with significant adverse effects, including ileus. The transversus abdominis plane (TAP) block has been shown to manage pain associated with AP in humans. Ten client-owned dogs with naturally occurring AP were enrolled in a blinded placebo-controlled clinical trial, receiving either a TAP block with bupivacaine liposome injectable ",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939197",
-      "title": "The Most Effective Molnupiravir Dosage for Eliminating Feline Calicivirus from Cats With and Without Chronic Gingivostomatitis.",
-      "authors": "Macaulay K, Tebeau C, Green S, McSporran S, Addie DD",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939197/",
-      "abstract": "Feline chronic gingivostomatitis (FCGS) and gingival hyperplasia are extremely painful conditions for which there is no universally recognised cause or cure. Feline calicivirus (FCV) was detected by RT-qPCR in two pet Domestic Shorthair cats with FCGS and isolated from mouth swabs of 14 cats following a gingivitis and fading kitten outbreak in a British Shorthair and Maine Coon breeding cattery. Oral inflammation was graded 0 (healthy) to 4 (FCGS). Nine of 16 gingivitis cases presented with FCGS",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939195",
-      "title": "Multimodal Postmortem Investigation of Fatal Thoracic Metallic Projectile Trauma in a Jindo Dog: Radiographic, Computed Tomographic, Necropsy, and Histopathological Findings.",
-      "authors": "Kim AY, Kim J, Joo H, Cheon S, Ku B",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939195/",
-      "abstract": "Metallic projectile injuries in companion animals present complex diagnostic and evidentiary challenges, especially when comprehensive crime scene data and intact projectiles are absent. This report describes the forensic postmortem investigation of an adult male Jindo dog submitted by law enforcement authorities following fatal penetrating trauma in South Korea. Digital radiography identified multiple radiopaque metallic opacities in the left thoracic region, accompanied by severe pleural effus",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939193",
-      "title": "Mineral Composition and Adequacy of Mineral Concentrations in Dog and Cat Diets: A Systematic Review.",
-      "authors": "López-Alonso M, Larrán B, Flores N, Orjales I, Miranda M",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939193/",
-      "abstract": "Minerals are essential for numerous physiological functions in dogs and cats; however, concerns remain regarding the adequacy and safety of mineral supply across an increasingly diverse range of diets. This systematic review synthesised evidence on mineral composition and adequacy in companion-animal diets, with emphasis on dietary factors influencing mineral variability. A systematic search identified studies published between 2005 and 2025 that evaluated mineral composition, intake or adequacy",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939188",
-      "title": "Comparative Pharmacokinetics of Subcutaneous Tolfenamic Acid Under Two Different Anesthetic Protocols in Cats Undergoing Ovariohysterectomy.",
-      "authors": "Akin F, Corum O, Marín P, Koc OY, Coskun D",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939188/",
-      "abstract": "The aim of this research was to determine the effect of different anesthesia protocols on the pharmacokinetics of tolfenamic acid in cats undergoing ovariohysterectomy. The research involved 12 cats that underwent ovariohysterectomy. The cats were randomly divided into two equal groups: one (n = 6) receiving xylazine-ketamine and the other (n = 6) receiving propofol-isoflurane anesthesia. Tolfenamic acid was administered subcutaneously at a dose of 4 mg/kg 30 min prior to ovariohysterectomy in b",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939183",
-      "title": "Association Between Body Condition Score and Early Radiographic Osteotomy Healing Following Tibial Plateau Leveling Osteotomy in Dogs: A Retrospective Study.",
-      "authors": "Ryu Y, Seo J, Song K, Bae CS",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939183/",
-      "abstract": "Body condition may be associated with postoperative orthopedic outcomes, but its relationship with early radiographic osteotomy healing following tibial plateau leveling osteotomy (TPLO) remains unclear. This retrospective study evaluated the association between preoperative body condition score (BCS) and early radiographic outcomes after TPLO for canine cranial cruciate ligament disease. Seventy-six stifles from 68 dogs with eligible radiographs obtained 42-70 days postoperatively were included",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939175",
-      "title": "Dietary Chitosan Oligosaccharides Modulate Oxidative Status, Inflammatory and Apoptosis-Related Markers in Immune Organs of Heat-Stressed Broilers.",
-      "authors": "Cai H, Liu H, Wang Y, Cao X, Yu X",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939175/",
-      "abstract": "Chitosan oligosaccharides (COS) have antioxidant and immunomodulatory activities. This study characterized immune-organ responses associated with dietary COS in broilers exposed to cyclic heat stress (HS). A total of 192 birds were assigned to four groups (six cages/group; eight birds/cage): control (CON; 24 &#xb1; 1 &#xb0;C), HS (34 &#xb1; 1 &#xb0;C for 10 h/day), HS + 200 mg/kg COS, and HS + 400 mg/kg COS. Each treatment was replicated in three rooms, with two cages per room. One bird per cage",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939169",
-      "title": "Diagnostic Value of the Vertebral Right Heart Index (VRHi) for Identifying Pulmonary Hypertension in Dogs with Heartworm Disease.",
-      "authors": "Matos JI, Díaz-Rocio C, García-Rodríguez SN, Caro-Vadillo A, García-Guasch L",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939169/",
-      "abstract": "Pulmonary hypertension (PH) is a common complication of canine heartworm disease caused by Dirofilaria immitis and is associated with right-sided cardiac remodelling. This study evaluated the diagnostic value of the Right Vertebral Heart Index (VRHi) for identifying dogs with a high echocardiographic probability of PH and its association with echocardiographic indices of right-sided cardiac remodelling. Fifty-four dogs from Gran Canaria were included: 20 healthy controls and 34 dogs naturally in",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939168",
-      "title": "Dynamics of Gut Microbial Community and Function in Growing Male Raccoon Dogs.",
-      "authors": "Yu S, Nan W, Xu C, Sun L, Yuan C",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939168/",
-      "abstract": "Background: Raccoon dogs have short breeding cycles and strong adaptability, and their fur is economically valuable. Although the gut microbiota, a key regulator of animal health, has been extensively studied in livestock, its composition and function in raccoon dogs remain poorly understood. Methods: In this study, the gut microbiota structure and functional profiles of ten raccoon dogs were analyzed during their growth period, including 2 (M2), 3 (M3), 4 (M4), 6 (M6), and 8 (M8) months after b",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -572,6 +473,17 @@
       "summary_ko": ""
     },
     {
+      "id": "43016161",
+      "title": "In vitro susceptibility of antimicrobial resistant strains of Escherichia coli isolated from the urine of dogs to pivmecillinam and fosfomycin.",
+      "authors": "Pohlmann M, LeCuyer TE, Woerde D, Palm C, Westropp JL",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016161/",
+      "abstract": "Multidrug resistant (MDR) and extended spectrum beta-lactamase-producing (ESBL) uropathogenic Escherichia coli are a cause of urinary tract infection (UTI) in dogs. Limited antimicrobial options are available for these infections. Determine the in vitro susceptibility of MDR and ESBL urinary E. coli isolates to pivmecillinam and fosfomycin using isolates collected from dogs with either UTI or subclinical bacteriuria. The secondary aim was to compare 2 susceptibility test methods for pivmecillina",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "43008074",
       "title": "Esophageal strictures associated with prolonged nasoesophageal tube placement in three cats.",
       "authors": "Cho J, Kim M, Kim S, Lee J, Chae HK",
@@ -660,6 +572,39 @@
       "summary_ko": ""
     },
     {
+      "id": "43013985",
+      "title": "Effect of gabapentin on blood pressure and sedation scores in healthy dogs.",
+      "authors": "Leung K, Wood MW",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013985/",
+      "abstract": "To evaluate gabapentin's effect on blood pressure and sedation scores in healthy dogs. It was hypothesized gabapentin administration would decrease blood pressure and increase sedation scores compared to placebo administration. A randomized, blinded, placebo-controlled crossover study was performed from July 1, 2024, to July 30, 2025. Fifteen apparently healthy dogs presented for 3 paired (gabapentin and control) evaluations for a total of 6 visits. At each visit, dogs were administered either a",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43013978",
+      "title": "Frequency of occurrence, signalment, clinicopathologic and imaging findings, and outcomes with nontraumatic spontaneous intracranial hemorrhagic stroke in dogs.",
+      "authors": "Thibodeaux LA, Kent M, Bennett M, Barber R",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013978/",
+      "abstract": "To describe the frequency, clinicopathologic and imaging findings, and outcomes in dogs with spontaneous intra-parenchymal hemorrhagic stroke (sIHS). Retrospective study involving 25 dogs. Medical records were reviewed for signalment; neurological, clinicopathologic, and imaging findings; anatomic localization; comorbidities; therapy; and outcome in dogs with sIHS (2010 to 2024). Lesion number, location, and volume were recorded. Outcome was defined as excellent, good, or poor. Frequency was def",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43013973",
+      "title": "Soft tissue sarcoma grade does not differ between extremity and nonextremity locations.",
+      "authors": "Patel MH, Selmic LE, Lapsley JM, Piegols HJ",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013973/",
+      "abstract": "To evaluate whether canine soft tissue sarcomas (STSs) located on the extremities are of lower histologic grade than those on nonextremity locations. The hypothesis was that the frequency of grade I and grade II/III tumors would be similar between extremity and nonextremity locations. This retrospective cohort study evaluated canines undergoing surgical resection of an STS and subsequent histopathologic assessment during the period of November 20, 2018, to April 8, 2025, at a single institution.",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
       "id": "43004420",
       "title": "Correction: Direct quantitative PCR detects genetic biomarkers of antileishmanial drug resistance in clinical samples from dogs with leishmaniosis.",
       "authors": "Carrasco-Martin M, Viñeta C, Martí-Carreras J, Roura X, Ferrer L",
@@ -677,7 +622,7 @@
       "journal": "J Feline Med Surg",
       "date": "2026 Nov 1",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42968222/",
-      "abstract": "ObjectivesHyperammonemia occurs in cats with kidney disease although the pathophysiology is poorly understood. The objective of this study was to determine if hyperammonemia in cats with kidney disease is associated with decreased concentrations of plasma amino acids involved in the urea cycle and more severe acid-base derangements.MethodsTwenty cats presenting with acute kidney injury (AKI) and acute on chronic kidney disease (AoCKD) were prospectively enrolled. Fasting blood samples were analy",
+      "abstract": "An incorrect version of this manuscript was published online and has been temporarily removed.",
       "category": "internal",
       "summary_ko": ""
     },
@@ -712,6 +657,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43004843/",
       "abstract": "The physiological effects of aging on renal hemodynamics in dogs are not yet well defined. This prospective analytical study aimed to evaluate renal aging using Doppler ultrasonography by comparing renal hemodynamic parameters between healthy young adult and healthy geriatric small-breed dogs. Fifty-eight healthy small-breed dogs (&#x2264;10&#xa0;kg) were divided into two groups (young adult and geriatric) and underwent renal Doppler ultrasonography to compare renal hemodynamic parameters betwee",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43017553",
+      "title": "Case Report: Delayed epirubicin extravasation-induced ulceration in a dog managed without surgical intervention using adjunctive hyperbaric gaseous cryotherapy.",
+      "authors": "Kim CG, Park JH, Jeong SW",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017553/",
+      "abstract": "Extravasation of anthracyclines can result in progressive tissue injury, ulceration, and necrosis, and may ultimately require surgical intervention. Management of delayed presentations remains challenging, as recommended treatments, including dexrazoxane, dimethyl sulfoxide (DMSO), and cold compresses, are most effective when initiated promptly after the extravasation event. A 9-year-old spayed female Poodle with suspected stage IV multicentric lymphoma developed a progressive ulcerative lesion ",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43017463",
+      "title": "Body condition-linked alterations in dog owners' visual prosody.",
+      "authors": "Gergely A, Filep LA, Kukovič T, Kis A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017463/",
+      "abstract": "Visual prosody, the facial component accompanying speech, plays an important role in human social communication and is also a characteristic feature of dog-directed communication. Previous studies have shown that dog-directed visual prosody shares several features with infant-directed communication, although it also exhibits characteristics that differ between dogs and infants. Obesity has been associated with altered emotional processing and expression in humans, yet its potential effects on vi",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43017042",
+      "title": "Beyond the ventricle: the atrial contribution to feline hypertrophic cardiomyopathy and implications for diagnosis, prognosis, and emerging therapy.",
+      "authors": "Kongchatree S, Rattanasrisomporn J",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017042/",
+      "abstract": "Hypertrophic cardiomyopathy is the most common heart disease of cats and is conventionally characterised by its ventricular phenotype. The clinical events that determine quality and duration of life in affected cats, however, are atrial in their proximate pathophysiology. Congestive heart failure arises from elevated left atrial pressure transmitted to the pulmonary venous bed, arterial thromboembolism arises from blood stasis in a remodelled and dysfunctional left atrial appendage, and survival",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43016731",
+      "title": "Will a trans-articular external fixator placed across the canine stifle allow normal motion if the hinge is centered over the femoral condyle?",
+      "authors": "Baldeon MA, Roe S, Knazovicky D",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016731/",
+      "abstract": "Traumatic ligamentous stifle injuries are often immobilized with hinged transarticular external skeletal fixation (htaESF), with the hinge placed over the center of the joint. Range of motion (ROM) in htaESF can protect cartilage, however during ROM the stifle center changes. We hypothesized that a hinge placed over the center of the femoral condyles would not allow normal femoro-tibial positioning during ROM. Eight canine pelvic limbs were harvested. Femurs were immobilized and tibias pinned to",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43016486",
+      "title": "Beyond the lungs and heart: a possible association between digestive disease and exercise intolerance in 10 dogs.",
+      "authors": "Corsaletti A, Martineau M, Etien H, Le Boedec K",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016486/",
+      "abstract": "Exercise intolerance and panting are classically attributed to cardiac, respiratory, or other diseases. In some cases, the underlying etiology remains undetermined despite a comprehensive diagnostic workup. While fatigue is one of the most common symptoms in humans with inflammatory bowel disease (IBD), chronic enteropathy is not currently recognized as a primary cause of exercise intolerance in dogs. A retrospective review was conducted on the medical records of 10 dogs presenting with exercise",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
