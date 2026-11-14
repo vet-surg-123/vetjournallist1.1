@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13 02:30 UTC",
+  "updated": "2026-11-14 02:10 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -139,83 +139,6 @@
       "date": "2026 Oct 28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42950421/",
       "abstract": "In recent years, morphology-driven welfare issues in the domestic dog have moved from the periphery to the center of public and professional attention, driven by breed-specific legislation and bans, dedicated sessions at major welfare conferences, and sustained scrutiny on social media. While these concerns are supported by a growing body of evidence linking extreme traits to chronic disease and compromised welfare, most research has asked only whether 1 breed or trait extreme differs from anoth",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42947482",
-      "title": "Factors associated with the development of gastrointestinal adverse events in dogs with multicentric lymphoma treated with CHOP- or CEOP-based protocols: a multi-institutional, retrospective study.",
-      "authors": "Treggiari E, Catania E, Valenti P, Boyd K, Finotello R",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Oct 27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42947482/",
-      "abstract": "Canine multicentric lymphoma is treated with multidrug protocols that include an anthracycline, namely doxorubicin, epirubicin or mitoxantrone. Both epirubicin and doxorubicin are known to cause gastrointestinal adverse events; however, very few reports have focused on comparing adverse events of the two drugs. The aim of this study was to report the frequency and severity of gastrointestinal adverse events in dogs with lymphoma treated with a multi-agent protocol including either doxorubicin or",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42947187",
-      "title": "Pyelonephritis in cats and dogs - a scoping review.",
-      "authors": "Pelander L, Ekstrand C, Scahill K",
-      "journal": "BMC Vet Res",
-      "date": "2026 Oct 26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42947187/",
-      "abstract": "There is a lack of consensus regarding the diagnosis and treatment of bacterial pyelonephritis (PN) in dogs and cats. The aim of this scoping review was to increase knowledge by describing published scientific literature on the subject, specifically to collate definitions and diagnostic criteria, antimicrobial regimens, reported outcomes, and to identify knowledge gaps. A structured search was performed of the bibliographic databases Biosis, CAB Abstracts, Medline, Web of Science Core Collection",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939252",
-      "title": "Free-Ranging Cat Predation on Wildlife in East Asia: A Scoping Review of Ecological Evidence and Knowledge Gaps.",
-      "authors": "Zhou MZ, Wright CS",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939252/",
-      "abstract": "Free-ranging domestic cats (Felis catus) interact with wildlife through predation and other ecological pathways, yet evidence of their associated effects has not been comprehensively synthesized in East Asia. This scoping review mapped empirical evidence on free-ranging cat predation and associated ecological effects in East Asia, characterized its geographic distribution and inferential strength, and identified knowledge gaps. Five databases, including region-specific databases, were searched t",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939247",
-      "title": "Age-Related Decrease in Interthalamic Adhesion Thickness in Cats Without Apparent Cognitive Dysfunction.",
-      "authors": "Kerbrat-Copy R, Thérier O, Fusellier M",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939247/",
-      "abstract": "Feline cognitive dysfunction syndrome (FCDS) is an age-associated disorder for which objective imaging markers remain limited. This study evaluated the association between age and interthalamic adhesion thickness (IAT) in cats without apparent cognitive dysfunction and described IAT across feline life stages. MRI examinations from 112 client-owned cats aged 4 months to 18 years were retrospectively reviewed. Cats were classified as kittens (&lt;1 year), young (1 to &lt; 7 years), mature (7 to &l",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939246",
-      "title": "Effects of Salinity on Growth, Muscle Biochemical Components and Antioxidant Resistance of Planiliza haematocheilus.",
-      "authors": "Wang Y, Wang X, Liu Z, Yang J, Yan P",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 21",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939246/",
-      "abstract": "This study evaluated the effects of different water salinities (0, 10, 20 [control], 30, and 40; Practical Salinity Scale, dimensionless) over 56 days on growth performance, muscle biochemical composition, and antioxidant responses in serum and liver of Planiliza haematocheilus. After one-week pre-acclimation at 20, juveniles were directly transferred to the experimental salinities; thus, all groups except the 20 control experienced acute salinity transfer followed by 56-day exposure. Therefore,",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939218",
-      "title": "Association Between Pre-Transfusion Systemic Inflammatory Response Syndrome and Transfusion-Associated Adverse Events in Dogs: A Retrospective Study.",
-      "authors": "Lee KM, Jeong YK, Jung JY, Sung HJ, Sohn JH",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 18",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939218/",
-      "abstract": "Blood transfusion is an important supportive therapy in critically ill dogs, but transfusion reactions (TRs) remain a clinically relevant complication. This retrospective study evaluated whether pre-transfusion systemic inflammatory response syndrome (SIRS) was associated with transfusion-associated adverse events in dogs. Medical records of dogs receiving red-cell-containing blood products at a veterinary referral hospital in the Republic of Korea between December 2023 and May 2026 were reviewe",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42939205",
-      "title": "Familial Robertsonian Translocation Involving Two Autosomes in Swiss Entlebucher Mountain Dogs.",
-      "authors": "Pieńkowska-Schelling A, Schelling C",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 17",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42939205/",
-      "abstract": "In domestic animals, chromosomal aberrations are well-documented causes of disorders that result in impaired fertility, malformations, and economic losses. The chromosomes of an alleged sub-fertile bitch of the Entlebucher mountain dog breed should be checked for such aberrations. Metaphase chromosomes were prepared from short-term lymphocyte cultures and microscopically analyzed for numeric or gross structural abnormalities using chromosome banding and chromosome painting probes. The analyses s",
       "category": "other",
       "summary_ko": ""
     },
@@ -473,6 +396,50 @@
       "summary_ko": ""
     },
     {
+      "id": "43021594",
+      "title": "Evaluation of intrarenal hypoperfusion and renal congestion assessed by intrarenal Doppler ultrasonography in dogs with myxomatous mitral valve disease.",
+      "authors": "Iwai Y, Morita T, Terukina H, Yamasaki M",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021594/",
+      "abstract": "While the predictive value of venous impedance index (VII) for evaluating renal congestion is reported in dogs with myxomatous mitral valve disease (MMVD), an ultrasonographic index of renal perfusion has not been reported. Low renal perfusion assessed by interlobar renal artery velocity time integral (VTI) is associated with a worse prognosis in dogs with MMVD. Combining VTI and VII provides additional prognostic information. Sixty-two client-owned dogs without heart disease evaluated for prean",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43021593",
+      "title": "Abnormalities in cobalamin status in dogs with congenital portosystemic shunt before and after shunt closure.",
+      "authors": "Proksch AL, Kunath T, Heilmann RM, Schneider MA, Kaline M",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021593/",
+      "abstract": "Cobalamin dysvitaminosis occurs with congenital portosystemic shunt (cPSS). Limited data exist on the effects of cPSS-type, cPSS-closure, and association with hyperammonemia. Cobalamin and folate status differ between healthy and cPSS-dogs, before and after cPSS-closure, between complete and incomplete cPSS-closure, and cPSS-types. Cobalamin dysvitaminosis is associated with hyperammonemia, which ameliorates after cPSS-closure. Eighty-three dogs. Concentrations of cobalamin, transcobalamin (TCB)",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43021592",
+      "title": "Immunogenicity of half-dose versus full-dose Leptospira quadrivalent vaccine in dogs: a prospective randomized pilot study.",
+      "authors": "Craig C, Pastey MK",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021592/",
+      "abstract": "In clinical veterinary practice, incomplete vaccine administration can occur because of movement or partial injection loss; however, the immunologic consequences of reduced vaccine dosing are unknown. To compare antibody responses after administration of a half-dose versus a full-dose of a quadrivalent leptospirosis vaccine in dogs. Ten client-owned, healthy dogs (body weight range, 9-31&#xa0;kg) with no history of leptospirosis vaccination. Prospective randomized pilot study. Dogs were assigned",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43021591",
+      "title": "K-number-based selection in Danish dachshunds: offspring outcomes and implications for genetic diversity.",
+      "authors": "Sullivan S, Kutzler MA",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021591/",
+      "abstract": "In dachshunds, the number of calcified discs (K-number [KN]) is one heritable determinant of the risk of intervertebral disc disease and is used for breeding selection in some countries; however, there are no prior reports of offspring KN outcomes or the effect of KN selection on size of the effective breeding population (Ne). To determine whether progressively limiting breeding eligibility to dogs with lower KNs would: (1) improve offspring KN outcomes and (2) reduce the effective population si",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "43016161",
       "title": "In vitro susceptibility of antimicrobial resistant strains of Escherichia coli isolated from the urine of dogs to pivmecillinam and fosfomycin.",
       "authors": "Pohlmann M, LeCuyer TE, Woerde D, Palm C, Westropp JL",
@@ -572,6 +539,50 @@
       "summary_ko": ""
     },
     {
+      "id": "43023324",
+      "title": "Direct-to-consumer genetic testing in dogs: interpretation and comprehension by the public.",
+      "authors": "Adant L, Govaert E, Szymczak V, Peelman L, Broeckx BJG",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Nov 13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023324/",
+      "abstract": "The increasing popularity and widespread use of direct-to-consumer genetic tests in veterinary medicine has raised concerns similar to those previously reported in human medicine. In particular, limited access to genetic counselling and considerable variability in the tests offered, as well as how DNA test results are reported, have been identified as important challenges. As test results are only seldomly interpreted by qualified veterinarians/genetic counsellors, this study aimed to evaluate h",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43021523",
+      "title": "EXPRESS: Biomechanical evaluation of feline sacroiliac joint stabilization using a single short cannulated compression headless screw: A cadaveric study.",
+      "authors": "Kornmayer M, Wachsmuth L, Zablotski Y, Thorwaechter C, Wieser J",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Nov 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021523/",
+      "abstract": "The aim of this study was to compare interfragmentary compression and rotational stability achieved with a single short cannulated compression headless screw (CCHS) with those obtained using longer CCHSs and cortical lag screws in a feline sacroiliac luxation (SIL) model. In this experimental study, 12 cadavers of adult domestic short-haired cats with a simulated unilateral SIL were stabilized using a single 2.5 mm CCHSs engaging 40 % of the sacral width and mounted in a mechanical testing machi",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43020214",
+      "title": "Comparative sedative effects of subcutaneous injection at GV20 versus intramuscular opioid administration in dogs: a randomized clinical trial.",
+      "authors": "Pehar B, Maksimović A",
+      "journal": "Vet J",
+      "date": "2026 Nov 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020214/",
+      "abstract": "To compare sedation after butorphanol or methadone administered intramuscularly (IM) or subcutaneously (SC) at Governing Vessel 20 (GV20) in dogs. Twenty-four healthy client-owned dogs were randomized to four groups (n = 6) receiving either opioid (0.4mgkg-1) by IM injection or SC injection at GV20. Sedation was scored every 5min for 35min on a 21-point scale by three evaluators. Friedman and Kruskal-Wallis tests assessed changes over time and differences among groups; intraclass correlation coe",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43020213",
+      "title": "Association of ATP7A and ATP7B Variants with Treatment Response in Copper-Associated Hepatitis in the Labrador retriever.",
+      "authors": "den Boer ER, Nielen M, Spanjersberg TCF, Fieten H",
+      "journal": "Vet J",
+      "date": "2026 Nov 12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020213/",
+      "abstract": "Copper-associated hepatitis in Labrador retrievers is typically treated with copper-restricted diets and D-penicillamine (D-pen). Individual responses in necessary treatment duration and reaccumulation of copper after treatment vary. This exploratory study investigated whether genotype for ATP7B:c.4358G&gt;A and ATP7A:c.980C&gt;T, which are correlated with hepatic copper levels, is associated with this variation in treatment response. Three previously published studies were reanalysed. One retro",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "43013985",
       "title": "Effect of gabapentin on blood pressure and sedation scores in healthy dogs.",
       "authors": "Leung K, Wood MW",
@@ -657,6 +668,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43004843/",
       "abstract": "The physiological effects of aging on renal hemodynamics in dogs are not yet well defined. This prospective analytical study aimed to evaluate renal aging using Doppler ultrasonography by comparing renal hemodynamic parameters between healthy young adult and healthy geriatric small-breed dogs. Fifty-eight healthy small-breed dogs (&#x2264;10&#xa0;kg) were divided into two groups (young adult and geriatric) and underwent renal Doppler ultrasonography to compare renal hemodynamic parameters betwee",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43022916",
+      "title": "Primary hyperparathyroidism in a cat with synchronous bilateral parathyroid carcinomas: a case report.",
+      "authors": "Choi U, Kwon G, Lim JH, Oh SI, Ock S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022916/",
+      "abstract": "Primary hyperparathyroidism (PHPTH) is a rare endocrine disorder in cats, and bilateral parathyroid carcinoma is exceptionally uncommon. A 14-year-old neutered male Russian Blue cat presented with decreased appetite, reduced activity, vomiting, and persistent hypercalcemia. Hypercalcemia was documented by increased ionized calcium (iCa; 1.90&#x202f;mmol/L) and total calcium (14.3&#x202f;mg/dL), and an increased intact parathyroid hormone concentration (18.6&#x202f;pg/mL) supported a diagnosis of",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43022469",
+      "title": "Randomized comparative field clinical trial of hydrocortisone aceponate/gentamicin/miconazole otic suspension vs. mometasone furoate/florfenicol/terbinafine otic solution for the treatment of canine otitis externa.",
+      "authors": "Griffin J, von Simson C, Poincelot L, Jasmin P",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022469/",
+      "abstract": "This randomized, masked, multi-center field clinical trial compared two otic formulations: a gentamicin, miconazole, and hydrocortisone aceponate otic suspension (Easotic&#x2122;, Virbac) administered once daily for five days, and a single-dose florfenicol, terbinafine, and mometasone furoate otic solution (Claro&#x2122;, Elanco). Eighty-six client-owned dogs with acute otitis externa (OTIS3 score &#x2265; 5) were evaluated at 4 h post-application and on Days 2, 7, and 28. Based on the percentag",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43022460",
+      "title": "Pharmacokinetics of HDM7006, a high-potency balanced GLP-1/GIP dual agonist, in healthy domestic cats.",
+      "authors": "Zhang Z, Cui S, Jiang C, Teng L, Pan H",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022460/",
+      "abstract": "HDM7006 is a GLP-1R/GIPR dual agonist developed for body weight management in obese or overweight cats. To Investigate the pharmacokinetic (PK) characteristics of HDM7006 in cats. Forty-eight healthy adult cats were enrolled. In the single-dose PK study, 40 cats were divided into five groups receiving 0.1, 0.5, 1.0 or 2.0&#x202f;mg/kg (SC) or 1.0&#x202f;mg/kg (intravenous, IV) of HDM7006, respectively. In the multiple-dose PK study, 8 cats were received 0.5&#x202f;mg/kg of HDM7006 once weekly fo",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43021781",
+      "title": "Limitations of transmucosal ketamine administration for chronic pain in dogs with osteoarthritis.",
+      "authors": "Seabolt RA, Elam LH, Griffenhagen GM, Duerr FM",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021781/",
+      "abstract": "This prospective, open-label clinical trial aimed to evaluate the efficacy of low-dose keta-mine (0.5&#x202f;mg/kg) administered by oral transmucosal route every 8&#x202f;h in client-owned dogs with refractory, chronic osteoarthritis pain. Objective gait analysis was the primary outcome measure for orthopedic function relating to pain. Liquid chromatography-tandem mass spectrometry was used to quantify plasma ketamine and norketamine concentrations 30 and 60&#x202f;min after administration of an",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1053,61 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42948621/",
       "abstract": "Cardiac auscultation remains fundamental in dogs with suspected cardiac disease, but large prospective datasets describing clinician-recorded murmur localization and intensity across echocardiographic diagnoses are limited. This study aimed to characterize point of maximal intensity (PMI) patterns in dogs with echocardiographically diagnosed cardiac abnormalities and to evaluate the association between murmur grade and disease stage in dogs with myxomatous mitral valve disease (MMVD) and dilated",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42948389",
-      "title": "Case report: long-term clinical remission of food-responsive enteropathy in a dog fed a yellow mealworm-based diet.",
-      "authors": "Gałęcki R, Gałęcka I",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42948389/",
-      "abstract": "Food-responsive enteropathy (FRE) is the most common form of canine chronic inflammatory enteropathy. Novel protein diets constitute first-line therapy, and many dogs have already been exposed to \"novel\" meat alternatives. Edible insects are a novel, highly digestible, and sustainable protein source. In the present study, a five-year-old male York-shire Terrier with chronic FRE and gallbladder sludge was transitioned to a diet with a 35% inclusion level of Tenebrio molitor larvae meal. Clinical ",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42948248",
-      "title": "Application of a convolutional neural network for automatic cytological diagnosis of 7 common canine tumors on whole slide images: a proof-of-concept.",
-      "authors": "Attini M, Newing E, Oikonomidis IL, Tsouloufi TK, Ressel L",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42948248/",
-      "abstract": "Artificial intelligence may help improve speed and consistency of diagnostic veterinary cytology, but validated tools remain limited. To develop and evaluate a convolutional neural network (CNN) for automatic classification of 7 common canine tumors on cytology whole-slide images (WSIs). Ninety-one May-Gr&#xfc;nwald Giemsa-stained canine cytology cases were selected, representing carcinoma, histiocytoma, lymphoma, mast cell tumor, melanoma, plasma cell tumor, and soft tissue sarcoma, together wi",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42948224",
-      "title": "Phenotypic comparison of idiopathic epilepsy in English Springer Spaniels and Cocker Spaniels using a validated owner-completed questionnaire.",
-      "authors": "Dose JC, Matz MS, Harmas T, Hytönen M, Hakanen E",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42948224/",
-      "abstract": "In response to the recurring identification of medication-resistant idiopathic epilepsy (IE) in English Springer Spaniels (ESS), the objective of this retrospective questionnaire-based observational study was to delineate the phenotypic characteristics of IE in this breed in comparison to a cognate breed, the English Cocker Spaniel (ECS), employing a novel, validated, owner-completed multilingual online questionnaire. Owners of 49 ESS and ECS with seizures completed the questionnaire, of which 1",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42948200",
-      "title": "Prognostic significance of EGFR-1 and VEGF-A expression in feline cutaneous squamous cell carcinoma.",
-      "authors": "Linhares LCM, Rangel MMM, de Oliveira KD, Fonseca-Alves CE, de Moura FBC",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42948200/",
-      "abstract": "Cutaneous squamous cell carcinoma (cSCC) is a prevalent malignancy in cats, and advanced cases remain challenging to manage due to their high potential for local invasion and recurrence. Epidermal growth factor receptor 1 (EGFR-1) and vascular endothelial growth factor A (VEGF-A) have emerged as promis- ing prognostic biomarkers in epithelial tumors, given their roles in proliferation, invasion, and angiogenesis. This study aimed to evaluate EGFR-1 and VEGF-A immunoexpression in cats with cSCC t",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42948017",
-      "title": "Cadaveric study of the ultrasound-guided erector spinae plane block over the dorsolateral edge of the transverse process of the ninth thoracic vertebra in dogs: transverse vs. longitudinal approach.",
-      "authors": "Herrera-Linares ME, Sanchis-Mora S, Zamora-Perarnau C, Fernández-Salesa N, Rico-Pérez B",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42948017/",
-      "abstract": "Studies of the ultrasound-guided thoracic erector spinae plane (ESP) blocks in dogs are limited. This study aimed to describe a transverse (TV) ultrasound-guided ESP approach at the dorsolateral edge of the transverse process (DLETP) of T9, compare its distribution with a longitudinal (LNG) approach, and analyze the thoracic transverse process anatomy. Twenty-three canine cadavers were used in this double-blinded experimental study. An ESP injection using 0.6 mL/kg of dye/contrast was performed ",
-      "category": "neurosurgery",
       "summary_ko": ""
     }
   ]
