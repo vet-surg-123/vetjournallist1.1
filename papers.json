@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15 01:42 UTC",
+  "updated": "2026-11-16 01:46 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -288,7 +288,7 @@
     {
       "id": "42998873",
       "title": "A blinded, non-inferiority randomised clinical trial comparing the efficacy and safety of low-dose methotrexate and ciclosporin for the control of moderate to severe canine atopic dermatitis.",
-      "authors": "Rostang A, Mosca M, Panzuti P, Pressanti C, Idee A",
+      "authors": "Rostang A, Mosca M, Panzuti P, Pressanti C, Idée A",
       "journal": "Vet J",
       "date": "2026 Nov 7",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42998873/",
@@ -836,6 +836,17 @@
       "summary_ko": ""
     },
     {
+      "id": "43033022",
+      "title": "Ultrasound and CT Features of Isolated Gallbladder Torsion With a Suspected Congenital Anomaly in a Cat: An Imaging Diagnosis.",
+      "authors": "Moserová H, Dvořáková R, Lein F, Junášková M, Lorenzová J",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033022/",
+      "abstract": "An 8-month-old domestic short-haired cat was presented to the emergency room with an episode of peracute vomiting and abdominal pain. Ultrasound and computed tomography (CT) examination revealed an abnormally positioned and distended gallbladder with a thickened gallbladder wall. A presumptive diagnosis of gallbladder torsion was made and subsequently confirmed during laparotomy. Although uncommon, gallbladder torsion should be considered a differential diagnosis in feline patients with clinical",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "43004843",
       "title": "Age-Related Renal Hemodynamic Changes in Dogs: A Doppler Ultrasonographic Study.",
       "authors": "García Álvarez F, Molina E, Pessina P, Cazzuli G",
@@ -844,6 +855,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43004843/",
       "abstract": "The physiological effects of aging on renal hemodynamics in dogs are not yet well defined. This prospective analytical study aimed to evaluate renal aging using Doppler ultrasonography by comparing renal hemodynamic parameters between healthy young adult and healthy geriatric small-breed dogs. Fifty-eight healthy small-breed dogs (&#x2264;10&#xa0;kg) were divided into two groups (young adult and geriatric) and underwent renal Doppler ultrasonography to compare renal hemodynamic parameters betwee",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43032204",
+      "title": "Case Report: (18)F-FDG PET/CT for precision assessment of tumor aggressiveness in canine subcutaneous leiomyosarcoma.",
+      "authors": "Chae Y, Lee D, Koo Y, Yun T, Kim H",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032204/",
+      "abstract": "A 9-year-old intact male Alaskan Malamute was presented with a hemorrhagic, ulcerative skin lesion on the right elbow. Cytological examination revealed bacterial infection and atypical epithelioid-appearing cells exhibiting anisocytosis and anisokaryosis; however, mesenchymal neoplastic cells were not identified. Despite antimicrobial therapy, the lesion progressed rapidly. Histopathological examination of the biopsy specimen was consistent with a grade 2 soft tissue sarcoma; however, the clinic",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1086,28 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42991501/",
       "abstract": "Traditionally processed pet foods, including kibble (dry), and retorted or canned formats (wet), are manufactured using high-temperature thermal processing methods that drive the formation of Maillard reaction products (MRPs) and acrylamide (AA). Dogs and cats commonly consume the same traditionally processed food as a daily dietary staple over prolonged periods, resulting in chronic, sustained dietary exposure to these compounds. In humans and rodents, dietary advanced glycation end products (A",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42991092",
-      "title": "Baseline erythrocyte sedimentation rate is associated with mortality in dogs with chronic kidney disease.",
-      "authors": "Moon CH, Joo JB, Ro WB, Lee CM",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42991092/",
-      "abstract": "Chronic kidney disease (CKD) in dogs has variable survival outcomes and systemic complications not fully captured by renal excretory markers. Erythrocyte sedimentation rate (ESR) may reflect cumulative systemic disease burden, but its prognostic relevance in canine CKD remains unclear. To evaluate the prognostic value of baseline ESR in dogs with CKD and its contribution to mortality risk stratification with conventional clinical and renal variables. Animals: A total of 272 dogs were included: 1",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42991084",
-      "title": "Circulating osteocrin is associated with cardiac remodeling in canine myxomatous mitral valve disease and skeletal alterations in a rat pressure-overload model.",
-      "authors": "Komatsu M, Udagawa H, Araki R, Hamamoto Y, Nam E",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42991084/",
-      "abstract": "Myxomatous mitral valve disease (MMVD) is the most common acquired cardiac disease in dogs and is increasingly recognized as a systemic disorder associated with extracardiac remodeling. Osteocrin (OSTN), a secreted peptide implicated in natriuretic peptide biology and skeletal homeostasis, has emerged as a potential candidate biomarker of cardiovascular-skeletal interactions. However, circulating OSTN dynamics during cardiovascular disease progression remain incompletely characterized. We employ",
-      "category": "imaging",
       "summary_ko": ""
     }
   ]
