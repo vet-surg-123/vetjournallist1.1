@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16 01:46 UTC",
+  "updated": "2026-11-17 04:24 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -605,6 +605,50 @@
       "summary_ko": ""
     },
     {
+      "id": "43036113",
+      "title": "Membranous Ezrin Expression Is Associated With Regional Lymph Node Involvement in Canine Mast Cell Tumours.",
+      "authors": "Dos Santos MA, Siqueira PB, Maués T, Consalter A, de Freitas BA",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Nov 15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036113/",
+      "abstract": "Canine mast cell tumours (MCTs) show variable biological behaviour, ranging from localized tumours to aggressive disease with regional lymph node involvement. Understanding cellular features associated with this variability may help characterize their biological behaviour. Ezrin, a member of the ERM protein family involved in cell motility, has been associated with tumour progression in several neoplasms. However, its role in canine MCT remains unclear. This study aimed to evaluate ezrin immunor",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "43035210",
+      "title": "Analytical agreement of a multiparametric, fully quantitative fluorescent immunoassay analyser (Vcheck) with commercial laboratory assays for NT‑proBNP and cardiac troponin‑I in dogs and cats.",
+      "authors": "Ferasin L, Hudson E, Farminer J, Ferasin H",
+      "journal": "Vet J",
+      "date": "2026 Nov 15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035210/",
+      "abstract": "Cardiac biomarkers, such as N-terminal pro-B-type natriuretic peptide (NT-proBNP) and cardiac troponin-I (cTnI), are widely used in dogs and cats to assess myocardial stretch and injury, respectively. However, most measurements rely on external laboratories, resulting in turnaround times of 2-7 days. The Vcheck analyser is a fully quantitative, automated fluorescent immunoassay platform capable of providing rapid point-of-care results, but independent validation using robust statistical methodol",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43035208",
+      "title": "Comparison of Von Frey Filaments and Electronic Von Frey Device in Healthy dogs - a Prospective, randomized, experimental study.",
+      "authors": "Schütter A, Bennmann L, Brause S, Rupp V, Freise F",
+      "journal": "Vet J",
+      "date": "2026 Nov 15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035208/",
+      "abstract": "Quantitative sensory testing (QST) using Von Frey Monofilaments (VFM) is established for assessing mechanical sensitivity in dogs. Alternatively, an Electronic Von Frey device (EVF) is available. At present no direct method comparison with both devices has been conducted in dogs. Therefore, it was aimed to compare usage of EVF and VFM in healthy dogs in terms of inter-rater and inter-device reliability. Further the influence of clipping on results gained and a possible correlation between body w",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43035099",
+      "title": "Experiences Using a 1.7 mm Locking Bone Plate System for Stabilization of Appendicular Fractures in Dogs and Cats.",
+      "authors": "Martin KS, Johnson MD",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Nov 15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035099/",
+      "abstract": "To retrospectively evaluate the stabilization of appendicular fractures using the Fixin 1.7&#x2009;mm locking plate system in dogs and cats. A review of patient medical records with traumatic appendicular fractures stabilized with the Fixin 1.7&#x2009;mm locking plate was performed. Fractures were excluded due to lack of follow-up radiographs, prophylactic plating, or the use of additional plates. Data pertaining to the signalment, fracture classification, implants, evidence of radiographic heal",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
       "id": "43031315",
       "title": "Changing tonometers, changing intraocular pressure? Rethinking intraocular pressure interpretation in dogs.",
       "authors": "Yogo T",
@@ -1064,50 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42996192/",
       "abstract": "Rifaximin is a poorly absorbed antibiotic that is used for the treatment of hepatic encephalopathy in humans. However, it is important to evaluate the effects of antibiotics on the gut microbiota because antibiotics may alter gut microbial composition. This study aimed to investigate the effects of 28&#x202f;days rifaximin administration on the gut microbiota of healthy dogs. Five healthy dogs were administered rifaximin (25&#x202f;mg/kg q12h) for 28&#x202f;days. Fecal samples were collected fro",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42992355",
-      "title": "C-reactive protein concentrations, clinical presentation, and short-term outcome in dogs with acute vomiting: a retrospective primary care cohort.",
-      "authors": "Park SW, Baek SH, Oh MK, Do YJ, Ro WB",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42992355/",
-      "abstract": "Vomiting is a common reason for dogs to be presented to veterinary hospitals and may accompany disorders of widely varying severity. C-reactive protein (CRP) is a major acute-phase protein in dogs, but its clinical relevance in dogs with acute vomiting in primary care remains poorly defined. This study aimed to characterize initial plasma CRP concentrations, evaluate their associations with clinical presentation and short-term outcome, and describe their distribution across underlying diagnoses.",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42991649",
-      "title": "Blood-panel patterns across feline creatinine strata and shared baseline effects on ratio associations.",
-      "authors": "Shin H, Kim JY, Yun JE, Kang SR, Jang J",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42991649/",
-      "abstract": "Cats with similar creatinine (CRE) values can have different accompanying blood-panel findings, but the relevance of these patterns to subsequent change is uncertain. We examined routine blood panels across seven clinically proposed creatinine strata, refined through retrospective review. The dataset comprised 5,743 episode-anchored visits from 3,006 cats; chronic kidney disease (CKD) diagnoses were unavailable. A broad candidate review yielded 33 calculable markers for screening. The ratios of ",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "42991619",
-      "title": "Deep learning for diagnostic and clinical decision support in companion animals: a systematic review of CNN- and LSTM-based approaches.",
-      "authors": "Guevara-Flores JJ, López-Rojas J, Vásquez-Coronel JA",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42991619/",
-      "abstract": "Early disease detection prior to the onset of advanced clinical signs remains a critical imperative in veterinary medicine. This systematic review provides a methodological synthesis of Convolutional Neural Networks and Long Short-Term Memory networks applied to diagnostic and clinical decision support in canine and feline patients, evaluating both algorithmic performance and clinical feasibility. Adhering to the PICO-CS framework and PRISMA 2020 guidelines, we queried Scopus and Web of Science ",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42991501",
-      "title": "Dietary acrylamide and AGE products in processed pet food: a review of the evidence and implications for safety thresholds in dogs and cats.",
-      "authors": "Hopf A, Muir M, England A, Dehghani F",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42991501/",
-      "abstract": "Traditionally processed pet foods, including kibble (dry), and retorted or canned formats (wet), are manufactured using high-temperature thermal processing methods that drive the formation of Maillard reaction products (MRPs) and acrylamide (AA). Dogs and cats commonly consume the same traditionally processed food as a daily dietary staple over prolonged periods, resulting in chronic, sustained dietary exposure to these compounds. In humans and rodents, dietary advanced glycation end products (A",
-      "category": "neurosurgery",
       "summary_ko": ""
     }
   ]
