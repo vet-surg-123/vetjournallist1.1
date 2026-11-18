@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17 04:24 UTC",
+  "updated": "2026-11-18 03:34 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -341,61 +341,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42994409",
-      "title": "Tibial Anatomy and Functional Outcome in Growing Dogs with Tibial Tuberosity Avulsion Fracture Repair Followed by Implant Removal.",
-      "authors": "Hayes SN, Franklin AL, Franklin SP",
-      "journal": "Vet Comp Orthop Traumatol",
-      "date": "2026 Nov 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994409/",
-      "abstract": "The aims of this study were to compare tibial anatomy between a cohort of dogs that had implants removed following repair of tibial tuberosity avulsion fracture and a historical cohort that had implants left in situ, and to objectively quantify patient function to determine if deformity resulted in impaired function. Dogs that had open reduction and fixation of tibial tuberosity avulsion fracture with subsequent implant removal (Cohort A) had radiographs of both hindlimbs and objective gait anal",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42994099",
-      "title": "Surgical outcomes of congenital cleft palate repair in dogs: a scoping review.",
-      "authors": "Elazegui E, Wolfs E",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994099/",
-      "abstract": "Congenital cleft palate (CFP) is a common orofacial malformation in dogs associated with substantial morbidity and neonatal mortality. The objective of this scoping review was to map the current veterinary literature describing surgical approaches, reported outcomes, complications, and evidence gaps following surgical repair of canine CFPs. A scoping review was conducted and reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping R",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "42994090",
-      "title": "Pregabalin and gabapentin in fractious cats: an exploratory comparison of handling-related outcomes and adverse effect profiles.",
-      "authors": "Measson C, Fournier F, Sarcey G, Béata C",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994090/",
-      "abstract": "To compare pregabalin and gabapentin on manageability, ease of placing into a carrier, ease of transport, and adverse effects in cats exhibiting fractious behavior. An exploratory double-blind, randomized crossover study enrolled 32 cats with a history of fractious behavior. Each cat received pregabalin (5 mg/kg; Bonqat) or gabapentin (compounded, 20 mg/kg), administered 2 hours before examination, with treatments allocated in random order 15 days apart. Outcomes included manageability (veterina",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42994089",
-      "title": "Coagulopathic manifestations as a primary presentation of canine angiostrongylosis: a retrospective case series.",
-      "authors": "Van Heuckelom E, Biscop A, Bhatti SFM, Stammeleer L, Decorte B",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994089/",
-      "abstract": "To describe the clinical presentations, diagnostic findings, and treatment outcomes of 3 dogs with atypical, predominantly coagulopathic manifestations of Angiostrongylus vasorum infection and to highlight the associated diagnostic challenges. 3 client-owned dogs presented at a veterinary referral hospital in Flanders, Belgium, between March 2018 and April 2022. Cases were eligible for inclusion if coagulopathic manifestations were a predominant component of the clinical presentation and canine ",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42994086",
-      "title": "Premedication with medetomidine compared to acepromazine reduces the risk of hypotension and mild acute kidney injury in healthy dogs undergoing gonadectomy surgery: results of a randomized clinical trial.",
-      "authors": "Quinn CT, Walton AN",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 6",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994086/",
-      "abstract": "To compare premedication with medetomidine or acepromazine in regard to hypotension and acute kidney injury (AKI) in dogs undergoing elective gonadectomy. This randomized clinical trial included healthy dogs &#x2265; 6 months of age undergoing gonadectomy in a university teaching hospital. Exclusion criteria were weight &lt; 4 kg, American Society of Anesthesiologists risk &gt; 2, or cardiovascular/renal disease. Premedication consisted of methadone and medetomidine at 0.3 to 5 &#xb5;g/kg or ace",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "43027231",
       "title": "Wildlife Surveillance in North-Eastern Italy: Diagnostic Insights and Viral Detection in Gray Wolves and Golden Jackals.",
       "authors": "Campalto M, Assirelli G, Simonetto A, Mazzotta E, Brandimarti A",
@@ -594,14 +539,36 @@
       "summary_ko": ""
     },
     {
-      "id": "42993774",
-      "title": "Blood serotonin, ionized magnesium, cardiac troponin I, N-terminal pro-brain natriuretic peptide concentrations, and mitral valve billowing in horses with mitral valve regurgitation.",
-      "authors": "Demeyere M, Dufourni A, Verhaeghe LM, Paulussen E, Heirman L",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Nov 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42993774/",
-      "abstract": "Serotonin, ionized magnesium (iMg), cardiac biomarkers, and mitral valve prolapse are extensively investigated in humans and dogs with mitral valve regurgitation (MR), but not in horses. To investigate serotonin, iMg, cardiac troponin I (cTnI), and N-terminal pro-brain natriuretic peptide (NT-proBNP) concentrations and degree of mitral valve billowing (MVB) in horses with MR. Eighty controls (no/trivial MR), 122 horses with MR (92 mild, 24 moderate, 6 severe). Prospective cross-sectional observa",
-      "category": "neurosurgery",
+      "id": "43041144",
+      "title": "EXPRESS: Dysbiosis correlates with more severe changes in intestinal function in cats with chronic enteropathy.",
+      "authors": "Chen CC, Moraiti KT, Giordano MV, Blake AB, Pilla R",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Nov 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041144/",
+      "abstract": "BackgroundMultiple pathophysiological mechanisms have been reported in animals with chronic enteropathy, as reflected by altered serum and fecal metabolites indicative of mucosal damage (e.g., fecal cholesterol, nervonic acid, arachidonic acid), malabsorption (e.g., serum cobalamin, fecal glucose), and loss of microbial function (e.g., fecal bile acid conversion). Furthermore, in dogs, marked intestinal dysbiosis has been linked to more severe underlying intestinal dysfunction, but this relation",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43040794",
+      "title": "Intrametatarsal pad injection of indocyanine green for near-infrared fluorescence imaging of the thoracic duct in four dogs and two cats with chylothorax.",
+      "authors": "Composto K, Porter I, Griffin MA, Buote NJ",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040794/",
+      "abstract": "To assess the efficacy of direct near-infrared fluorescence (NIRF) using indocyanine green (ICG) via intrametatarsal pad injection in dogs and cats with idiopathic chylothorax. Retrospective case series of client-owned animals undergoing intrametatarsal ICG injection and thoracoscopic thoracic duct ligation between 2020 and 2025. A total of four dogs and two cats. Inclusion criteria consisted of cytologically confirmed chylothorax, preoperative computed tomography (CT) lymphangiogram (CTL), and ",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43039220",
+      "title": "Computed Tomography Lymphography for Sentinel Lymph Node Mapping in Cats.",
+      "authors": "Pérez AR, Escoda-Llorens X, Alonso-Fernandez I, Tobon M, Rodriguez-Piza I",
+      "journal": "Vet J",
+      "date": "2026 Nov 16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43039220/",
+      "abstract": "Sentinel lymph node (SLN) mapping improves nodal staging accuracy in veterinary oncology, but computed tomography (CT)-based SLN mapping has not been clinically described in cats with superficial tumours. This prospective study evaluated the feasibility and clinical applicability of indirect CT lymphography for SLN identification in feline superficial tumours. Seventeen client-owned cats with cytologically or histologically confirmed superficial tumours were prospectively enrolled. Following rou",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -899,6 +866,39 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43004843/",
       "abstract": "The physiological effects of aging on renal hemodynamics in dogs are not yet well defined. This prospective analytical study aimed to evaluate renal aging using Doppler ultrasonography by comparing renal hemodynamic parameters between healthy young adult and healthy geriatric small-breed dogs. Fifty-eight healthy small-breed dogs (&#x2264;10&#xa0;kg) were divided into two groups (young adult and geriatric) and underwent renal Doppler ultrasonography to compare renal hemodynamic parameters betwee",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43041395",
+      "title": "Approaching canine inflammatory myopathy by cluster analysis: an immunohistopathological observational study.",
+      "authors": "Alf V, Kolb N, Zablotski Y, Mandigers PJJ, Matiasek K",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041395/",
+      "abstract": "Immune-mediated inflammatory myopathies (IMs) in dogs represent a heterogeneous group of disorders with incompletely characterized histopathological and immunophenotypic characteristics. This study aimed to identify multiparametric histological and immunophenotypic patterns in canine IMs to support accurate diagnosis from formalin-fixed paraffin-embedded (FFPE) muscle biopsies. A cohort of 162 dogs was retrospectively analyzed using a standardized 91-variable histopathological grading scheme, im",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43041379",
+      "title": "Short-term clinical outcomes of feline maxillofacial trauma management.",
+      "authors": "Palmquist J, Rawlinson JE, Hoyer NK",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041379/",
+      "abstract": "Maxillary and mandibular fractures frequently occur in cats presenting with maxillofacial trauma, and prompt evaluation and management are essential for soft and hard tissue healing. The aim of this retrospective descriptive study was to evaluate the immediate outcomes and complications associated with emergent maxillofacial trauma management in cats. The study included 42 cats that presented to a tertiary animal hospital for maxillofacial trauma. All medical records and imaging were reviewed fo",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43041306",
+      "title": "Exclusive feeding of a highly hydrolyzed herring-protein diet is associated with reduced CIBDAI scores and body-weight gain in dogs with severe chronic enteropathy: a prospective open-label pilot study.",
+      "authors": "Malewska K, Jank M, Otto S, Kurosad A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041306/",
+      "abstract": "Chronic enteropathy (CE) is common in dogs, and hydrolyzed protein diets are a mainstay of management, particularly in food-responsive enteropathy. Evidence for exclusive feeding of highly hydrolyzed fish-protein diets in client-owned dogs with high clinical activity scores remains limited. This pilot study does not claim that enrolled dogs had failed a previous hydrolyzed-protein trial. Ten client-owned dogs with severe CE (Canine Inflammatory Bowel Disease Activity Index [CIBDAI]&#x202f;&#x226",
+      "category": "internal",
       "summary_ko": ""
     },
     {
