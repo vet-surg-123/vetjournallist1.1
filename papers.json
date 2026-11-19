@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18 03:34 UTC",
+  "updated": "2026-11-19 03:06 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -52,6 +52,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43027155/",
       "abstract": "To elucidate the genetic basis underlying chicken adaptation to diverse environmental selection pressures, this study performed a genome-wide analysis of copy number variations (CNVs) using publicly available whole-genome resequencing data from global chicken populations. Population differentiation (FST) and nucleotide diversity (&#x3c0; ratio) were integrated to identify signatures of selection associated with thermal adaptation, domestication, and high-altitude adaptation, followed by the iden",
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43044383",
+      "title": "Comparing traditional, strain and ellipsoid model indices of right ventricular function with real-time three-dimensional echocardiographic ejection fraction in dogs.",
+      "authors": "Tagg BE, Ciardullo R, Mintz SB, Pariaut R, Hsue W",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044383/",
+      "abstract": "Ejection fraction (EF) provides a global assessment of right ventricular (RV) function but is challenging to calculate because of complex geometry. The ellipsoid model enables estimation of EF from two-dimensional echocardiography using area-based or linear-based formulas (AEM-EF and LEM-EF). The objective of the present study was to compare AEM-EF, LEM-EF and other indices of RV function against real-time three-dimensional echocardiographic EF (RT3D-EF). Seventy-three dogs (23 healthy, 50 with ",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -198,17 +209,6 @@
       "summary_ko": ""
     },
     {
-      "id": "42995017",
-      "title": "Pitfalls of M-mode echocardiography end-diastolic and end-systolic measurements: a study of 154 dogs with myxomatous mitral valve disease.",
-      "authors": "Lobo L, Pereira GGCM, Pires MJ",
-      "journal": "J Vet Cardiol",
-      "date": "2026 Oct 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42995017/",
-      "abstract": "Echocardiographic assessment of myxomatous mitral valve disease (MMVD) includes measurement of the left ventricular internal dimension at the end-diastole (LVIDd) and at the end-systole (LVIDs), using established cardiac cycle markers. The LVIDd is measured at the QRS onset, which may not coincide with the maximal internal dimension. The LVIDs is obtained at maximum septal contraction, which in dogs with non-synchronous contraction (NSC) between the septal and free wall, may not correspond to th",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
       "id": "43027270",
       "title": "The Use of a Detection Dog to Discriminate Between Moss Species to Increase Coverage for Reporting the Presence of a Cryptic Species.",
       "authors": "Kerrigan P, Carmichael N, Karpela T, Moodey K, Weyl R",
@@ -231,39 +231,6 @@
       "summary_ko": ""
     },
     {
-      "id": "43003383",
-      "title": "Biomechanical characterization of the IGP scaling wall in German Shepherd working dogs: Implications for landing mechanics and joint loading.",
-      "authors": "Vilar JM, Lopedote M, Valentini S, Marrero I, Spinella G",
-      "journal": "Vet J",
-      "date": "2026 Nov 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43003383/",
-      "abstract": "The scaling wall represents one of the most technically demanding exercises within the IGP working dog program, as it combines successive phases of acceleration, vertical jumping, support at the apex, and descent to the ground, imposing high kinematic and mechanical demands on the locomotor system. However, the biomechanics of this exercise remain poorly documented. The aim of this study was to describe the kinematic and energetic characteristics of the first phase of the exercise on scaling wal",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43001339",
-      "title": "Laparoscopic-assisted treatment of giant urachal cyst in a female Dachshund.",
-      "authors": "Park J, Lee WJ, Jeong J, Lee H, Jeong SM",
-      "journal": "Vet Surg",
-      "date": "2026 Nov 9",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43001339/",
-      "abstract": "To describe the clinical features and successful surgical management of a giant, symptomatic urachal cyst (UC) in a dog using a laparoscopic-assisted approach without partial cystectomy. Case report. A 10-year-old, 4.6&#x2009;kg, spayed female Dachshund. The dog presented with urinary incontinence, pollakiuria, and abdominal distension. Computed tomography (CT) and cystography identified a 13-cm cystic lesion at the bladder apex without luminal communication. A laparoscopic exploration was initi",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "43000681",
-      "title": "Comparative Immunoreactivity of iNOS, PCNA and p53 in Stable and Progressive Canine Transmissible Venereal Tumours.",
-      "authors": "Dincel GC, Yıldırım S, Anteplioğlu T, İlhan F, Karasu A",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Nov 8",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43000681/",
-      "abstract": "Canine transmissible venereal tumour (CTVT) is a naturally occurring transmissible neoplasm with variable biological behaviour, including progressive growth, stationary behaviour and spontaneous regression. However, the marker-expression patterns associated with these clinicopathological phenotypes remain incompletely characterised. The present study investigated iNOS, PCNA and p53 expression in CTVT and evaluated their association with the operational clinicopathological phenotype. Sixteen geni",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "43027258",
       "title": "Utility of Bartonella henselae Recombinant Proteins ATP-β and GroEL for Serodiagnosis of Feline Bartonellosis.",
       "authors": "Neupane P, Bryant J, Kingston E, Maggi RG, André MR",
@@ -283,17 +250,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43027254/",
       "abstract": "Acute pancreatitis in dogs causes severe abdominal pain, typically managed with systemic opioids, which can impair gastrointestinal motility and delay recovery. This prospective clinical communication evaluated the opioid-sparing effect and clinical outcomes of an ultrasound-guided transversus abdominis plane block added to a multimodal analgesic protocol in dogs with acute pancreatitis. Twelve dogs were allocated into a locoregional block group (n = 6) and a control group managed with opioids (",
       "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42998873",
-      "title": "A blinded, non-inferiority randomised clinical trial comparing the efficacy and safety of low-dose methotrexate and ciclosporin for the control of moderate to severe canine atopic dermatitis.",
-      "authors": "Rostang A, Mosca M, Panzuti P, Pressanti C, Idée A",
-      "journal": "Vet J",
-      "date": "2026 Nov 7",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42998873/",
-      "abstract": "Canine atopic dermatitis (cAD) is a chronic, inflammatory skin disease that may require long-term systemic immunomodulatory treatment. Low-dose methotrexate (MTX) is an inexpensive immunomodulator used in human dermatology, but robust veterinary data are lacking. To determine whether weekly subcutaneous low-dose MTX is non-inferior to oral ciclosporin (CsA) in controlling moderate-to-severe cAD. Fifty-five client-owned dogs with non-seasonal moderate-to-severe cAD enrolled at nine dermatology ce",
-      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -539,6 +495,72 @@
       "summary_ko": ""
     },
     {
+      "id": "43049541",
+      "title": "A virtual reality-based test for assessing laparoscopic canine ovariectomy competency: A validity study.",
+      "authors": "Redander J, Brunius Enlund K, Ström L, Höglund O, Bjerrum F",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049541/",
+      "abstract": "Simulation-based training can be used to develop basic laparoscopic skills. Proficiency-based training is the gold standard but requires competency assessment. This study investigated validity evidence for a virtual reality simulator-based test assessing laparoscopic canine ovariectomy skills. Validity investigation study. Eleven surgeons with experience of at least 30 laparoscopic canine ovariectomies, and 16 novices with no laparoscopic experience. Participants completed three attempts on both",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43046768",
+      "title": "Diagnostic and Translational Challenges in Canine Endocrine and Neuroendocrine Neoplasms: A Comparative Pathology Perspective.",
+      "authors": "Mitze S, Williams J, Davison LJ, Xia D, Buishand FO",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Nov 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43046768/",
+      "abstract": "The recognition and detection of endocrine and neuroendocrine neoplasms (NENs) in dogs and humans is challenging. This is, in part, because some are non-functional, and where hormone hypersecretion occurs, it can lead to a great variety of clinical syndromes. Additionally, metastatic patterns vary according to the primary anatomical site, and the typically slow growth of many endocrine tumours/NENs may lead to underestimation of biological aggressiveness and misclassification as benign disease. ",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43045463",
+      "title": "Suspected Cullen's sign in a domestic shorthair cat with severe hepatopancreatobiliary disease.",
+      "authors": "Benages-Saura B, Girol-Piner AM",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Nov 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045463/",
+      "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43044243",
+      "title": "Azotemia does not clinically affect the interpretation of increased serum pancreatic lipase activity or pancreatic lipase immunoreactivity in dogs.",
+      "authors": "Niemann L, Vigani A, Torgerson PR, Kook PH",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044243/",
+      "abstract": "The objective was to compare paired pancreatic lipase immunoreactivity (PLI) concentrations and pancreatic lipase activity in serum samples in a population of azotemic dogs. This observational study included client-owned dogs with azotemia and serum lipase activity above the reference interval (17 to 156 U/L). Lipase activity (Roche LIPC lipase colorimetric assay, substrate 1,2-o-dilauryl-rac-glycero-3-glutaric acid-[60-methylresorufin] ester) and serum creatinine concentration were measured as ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43044240",
+      "title": "Cavitary effusion patterns are associated with different survival times in dogs with pulmonary hypertension and right-sided congestive heart failure.",
+      "authors": "Cho J, Kim M, Choi M, Lee J, Park C",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044240/",
+      "abstract": "To describe and compare clinical characteristics and survival among dogs with pulmonary hypertension-associated right-sided congestive heart failure (RCHF) according to cavitary effusion pattern. This retrospective multicenter observational study included client-owned dogs with pulmonary hypertension-associated RCHF presented to 3 referral hospitals from February 2021 through April 2025. Pulmonary hypertension was assessed echocardiographically, and RCHF was defined by ascites with caudal vena c",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43044231",
+      "title": "Distribution and clinical features of raccoon roundworm (Baylisascaris procyonis) infection in dogs and cats as detected by fecal quantitative polymerase chain reaction.",
+      "authors": "Teng E, Kimmerlein AK, Jimenez Castro PD, Kerl ME, Evason M",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044231/",
+      "abstract": "To describe the geographic distribution and clinical features of dogs and cats with Baylisascaris procyonis detected by fecal quantitative PCR (qPCR). Dogs and cats in the US and Canada that were diagnosed with B procyonis via fecal qPCR performed by a veterinary diagnostic laboratory from March 3, 2022, through November 1, 2023, were identified. Details about patient demographics, clinical signs, treatment, and outcome were retrospectively captured via questionnaires sent to each pet's primary ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "43041144",
       "title": "EXPRESS: Dysbiosis correlates with more severe changes in intestinal function in cats with chronic enteropathy.",
       "authors": "Chen CC, Moraiti KT, Giordano MV, Blake AB, Pilla R",
@@ -547,6 +569,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43041144/",
       "abstract": "BackgroundMultiple pathophysiological mechanisms have been reported in animals with chronic enteropathy, as reflected by altered serum and fecal metabolites indicative of mucosal damage (e.g., fecal cholesterol, nervonic acid, arachidonic acid), malabsorption (e.g., serum cobalamin, fecal glucose), and loss of microbial function (e.g., fecal bile acid conversion). Furthermore, in dogs, marked intestinal dysbiosis has been linked to more severe underlying intestinal dysfunction, but this relation",
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43044230",
+      "title": "Artificial intelligence-based dental screening using a cellular phone in dogs: a practical tool for detecting visible calculus and gingivitis.",
+      "authors": "Kim P, Kim SE, Lee E, Huh EA, Kim H",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044230/",
+      "abstract": "To train, validate, and evaluate a cellular phone-based AI system for image-level classification of visible dental calculus and gingivitis in conscious dogs. This multicenter retrospective study used dental photographs collected from 12 veterinary hospitals (2022 through 2024). Dental photographs were obtained from conscious dogs using cellular phone cameras. A single veterinarian assigned reference labels using standardized criteria. Separate binary datasets for dental calculus and gingivitis w",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43044229",
+      "title": "Characteristics of veterinary surgical patient safety events: a multicenter retrospective analysis.",
+      "authors": "Tobias JS, Frederick SW, Shaw SP, Kerl ME, Smith KC",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044229/",
+      "abstract": "To characterize voluntarily reported surgical patient safety events (SPSEs) occurring in primary care, specialty, and emergency veterinary facilities in North America and Europe. This retrospective study evaluated SPSE reports submitted to a single proprietary veterinary patient safety event recording platform in North America and Europe between March 1, 2023, and June 8, 2026. Facility type, patient species, event subtype, injury, severity, and reporter-perceived risk of recurrence were collect",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -595,8 +639,8 @@
     },
     {
       "id": "43035208",
-      "title": "Comparison of Von Frey Filaments and Electronic Von Frey Device in Healthy dogs - a Prospective, randomized, experimental study.",
-      "authors": "Schütter A, Bennmann L, Brause S, Rupp V, Freise F",
+      "title": "Comparison of Von Frey filaments and Electronic Von Frey device in healthy dogs - a prospective, randomized, experimental study.",
+      "authors": "Schütter AF, Bennmann L, Brause S, Rupp V, Freise F",
       "journal": "Vet J",
       "date": "2026 Nov 15",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43035208/",
@@ -825,17 +869,6 @@
       "summary_ko": ""
     },
     {
-      "id": "43004420",
-      "title": "Correction: Direct quantitative PCR detects genetic biomarkers of antileishmanial drug resistance in clinical samples from dogs with leishmaniosis.",
-      "authors": "Carrasco-Martin M, Viñeta C, Martí-Carreras J, Roura X, Ferrer L",
-      "journal": "BMC Vet Res",
-      "date": "2026 Nov 10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43004420/",
-      "abstract": "",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
       "id": "43027183",
       "title": "Adjuvant Interstitial Yttrium-90 Hydrogel (IsoPet(®)) Following Limb-Sparing Marginal Excision of Multifocal Distal Pelvic-Limb Neoplasia in a Dog.",
       "authors": "Isai GK, Drygas KA, Weeks B",
@@ -844,6 +877,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43027183/",
       "abstract": "Achieving complete surgical margins can be challenging for tumors involving the distal extremities due to limited surrounding soft tissue and the proximity of functionally important structures. Incompletely excised tumors may require adjuvant radiation therapy to treat suspected residual microscopic disease. Yttrium-90 phosphate hydrogel (IsoPet&#xae;) is an emerging injectable radiation modality that delivers localized beta radiation to a tumor bed or surgical margin. An eight-year-old neutered",
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43046498",
+      "title": "Enhancement of Lung Parenchyma and Pulmonary Lobar Vessels Following Iodinated Contrast Injection in Healthy Cats Undergoing Thoracic Computed Tomography.",
+      "authors": "Giron C, Benedetti IC, Juette T, Masseau I",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43046498/",
+      "abstract": "The pulmonary vasculature comprises large-, medium-, and small-caliber arteries and veins. Small pulmonary vessels (&lt;20-25&#xa0;&#xb5;m), expected to enhance following iodinated contrast administration, may contribute to lung parenchymal enhancement during postcontrast computed tomography (CT) acquisition. The primary objective was to evaluate lung parenchymal enhancement and pulmonary vessel enhancement and size in anesthetized healthy cats during postcontrast CT acquisition. Phase 1 compare",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -858,14 +902,14 @@
       "summary_ko": ""
     },
     {
-      "id": "43004843",
-      "title": "Age-Related Renal Hemodynamic Changes in Dogs: A Doppler Ultrasonographic Study.",
-      "authors": "García Álvarez F, Molina E, Pessina P, Cazzuli G",
-      "journal": "Vet Radiol Ultrasound",
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43004843/",
-      "abstract": "The physiological effects of aging on renal hemodynamics in dogs are not yet well defined. This prospective analytical study aimed to evaluate renal aging using Doppler ultrasonography by comparing renal hemodynamic parameters between healthy young adult and healthy geriatric small-breed dogs. Fifty-eight healthy small-breed dogs (&#x2264;10&#xa0;kg) were divided into two groups (young adult and geriatric) and underwent renal Doppler ultrasonography to compare renal hemodynamic parameters betwee",
-      "category": "imaging",
+      "id": "43047359",
+      "title": "Intratumoral STING agonist therapy as a potential bridge to surgery in canine sarcoma.",
+      "authors": "Hildebrand KM, Qiu RY, Salazar Arcila C, Park YJ, Hildebrand KN",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047359/",
+      "abstract": "Sarcomas are rare and aggressive malignancies in humans. Management of sarcoma primarily involves surgical intervention with neoadjuvant radiotherapy. Many sarcomas are refractory to existing immunotherapies. Recent studies in murine sarcoma have shown that activation of the stimulator of interferon genes pathway (STING) can induce tumor eradication. Although sarcomas are rare in humans, they occur frequently in dogs. Studying STING therapy in canine sarcoma patients provides a unique opportunit",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1064,50 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43005072/",
       "abstract": "Pedicle Screw and Rod Fixation (PSRF) is used for spinal stabilization of human and, more recently, in dogs. The use of bilateral PSRF in cats at the caudal lumbar and lumbosacral regions has not been reported. To describe the outcomes of cats with caudal lumbar vertebral fractures and luxation treated with bilateral monoaxial PSRF surgery. Three cats with traumatic caudal lumbar vertebral fractures and luxation treated with bilateral PSRF (2016-2018). Short case series. A retrospective analysis",
       "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "42997318",
-      "title": "Assessing affective states in domestic dogs through judgment bias tasks: a systematic review of methods, influencing factors, and welfare applications.",
-      "authors": "Gazzano V, Ciurli L, Curadi MC, Baragli P, Gazzano A",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42997318/",
-      "abstract": "Judgment bias tasks (JBTs) have emerged as a promising approach for assessing affective states in animals, including domestic dogs, by measuring optimistic or pessimistic responses to ambiguous stimuli as proxies for underlying emotion. Despite growing use, the canine evidence base had not been systematically evaluated. We conducted a systematic review following PRISMA 2020 guidelines, searching Scopus and PubMed, with a supplementary search of Web of Science Core Collection. Thirty-two studies ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "42997306",
-      "title": "Establishment of canine nasal carcinoma organoids for drug sensitivity testing and functional characterization of S100A2.",
-      "authors": "Yamamoto H, Elbadawy M, Abugomaa A, Tsunedomi R, Kaneda M",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42997306/",
-      "abstract": "Canine nasal carcinoma (NC) is highly malignant and progressive, with metastasis. Radiation therapy is a common treatment; however, it has various drawbacks, including cost and anesthetic risks in elderly patients. Therefore, the development of alternative anti-cancer drug therapies has been required. In this study, we established an NC organoid culture method as an experimental model and explored more effective therapeutic targets. NC organoids were generated from patient-derived tissues from d",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "42997290",
-      "title": "Whippets have larger abdominal caudal vena cava to aorta ratios than other dogs on computed tomography.",
-      "authors": "Esmieu SL, Ma MH, Mantis P, Biondo S, Constantinescu R",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42997290/",
-      "abstract": "Whippets are sighthounds with distinct cardiovascular adaptations associated with athletic performance. The caudal vena cava to aorta ratio (CVC/Ao) is an established index of intravascular volume status, assessed ultrasonographically and on computed tomography (CT) at thoracic and abdominal sites, but breed-specific differences remain unreported. We compared thoracic and abdominal CVC/Ao in whippets and non-whippet controls, and with published reference values, and hypothesised that whippets wo",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "42996192",
-      "title": "Effects of rifaximin on the fecal microbiota of healthy dogs: a pilot study.",
-      "authors": "Harada H, Tamura M, Kawabata M, Sakatani A, Deguchi T",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42996192/",
-      "abstract": "Rifaximin is a poorly absorbed antibiotic that is used for the treatment of hepatic encephalopathy in humans. However, it is important to evaluate the effects of antibiotics on the gut microbiota because antibiotics may alter gut microbial composition. This study aimed to investigate the effects of 28&#x202f;days rifaximin administration on the gut microbiota of healthy dogs. Five healthy dogs were administered rifaximin (25&#x202f;mg/kg q12h) for 28&#x202f;days. Fecal samples were collected fro",
-      "category": "internal",
       "summary_ko": ""
     }
   ]
