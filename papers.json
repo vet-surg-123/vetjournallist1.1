@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19 03:06 UTC",
+  "updated": "2026-11-20 02:56 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -363,6 +363,28 @@
       "summary_ko": ""
     },
     {
+      "id": "43055506",
+      "title": "Evaluation of urine clusterin and cystatin B concentrations in relation to histopathologic findings of renal disease in dogs.",
+      "authors": "Rivera C, Hines ES, Schultz D, Cianciolo RE, Jeffery N",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055506/",
+      "abstract": "Conventional markers of kidney disease detect altered kidney function but do not consistently identify active kidney injury. Urine clusterin (uClust) and cystatin B (uCysB) are renal injury biomarkers, but their evaluation is limited in dogs with biopsy-confirmed diagnoses. Determine the association of uClust and uCysB with conventional biomarkers, category of renal disease, severity of renal injury, and survival in dogs with biopsy-confirmed kidney disease. Urine from client-owned dogs (n&#xa0;",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43055505",
+      "title": "Reassessing outcome and adverse events associated with ventral slot decompression for cervical intervertebral disc disease in dogs: 241 cases (2021-2024).",
+      "authors": "Marocco P, Taylor AR",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055505/",
+      "abstract": "Cervical intervertebral disc herniations (IVDH) are a common cause of cervical myelopathy in dogs, with ventral slot decompression (VSD) often being the surgical treatment of choice. The contemporary United States breed population has changed since the large retrospective review on VSD outcomes in 2013, with French bulldogs increasing in popularity.4,8 A 2025 retrospective study evaluated outcomes in patients receiving VSD but it was a single institution United Kingdom based cohort that focused ",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "43027193",
       "title": "Analysis of Consumer Purchasing Behavior in Pet Food Industry: Marketing Mix Strategies Across Dog and Cat Owners.",
       "authors": "Danaj J, Liagka DV, Tousis K, Konstantinou A, Marinakos K",
@@ -440,57 +462,24 @@
       "summary_ko": ""
     },
     {
-      "id": "43008074",
-      "title": "Esophageal strictures associated with prolonged nasoesophageal tube placement in three cats.",
-      "authors": "Cho J, Kim M, Kim S, Lee J, Chae HK",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Nov 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
-      "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained &lt;&#x2009;25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37&#xa0;days. Regurgitation or retching developed within 1-3&#xa0;days after tube removal, and esophagoscopy ident",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "43008073",
-      "title": "Use of a novel low-fat hydrolyzed diet in the management of dogs with chronic enteropathy.",
-      "authors": "Hernández-Anllo C, Feo L, Hervera M, Puig J",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Nov 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43008073/",
-      "abstract": "Dietary management plays a central role in the diagnosis and treatment of chronic enteropathy (CE) in dogs. Although hydrolyzed-protein diets are commonly used in patients with CE, and dietary fat restriction is recommended in selected gastrointestinal disorders, the combined effect of low fat and hydrolyzed protein has not been specifically evaluated. Assess clinical response and acceptability of a low-fat, hydrolyzed diet in dogs with CE. Thirty-one client-owned dogs. Prospective clinical stud",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "43008072",
-      "title": "Ultrasound-measured renal length and corticomedullary thickness for the diagnosis and staging of chronic kidney disease in cats.",
-      "authors": "Brans M, Stock E, Duchateau L, Paepe D",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Nov 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43008072/",
-      "abstract": "Ultrasonography is well established in veterinary practice, and renal dimensions may aid in diagnosing chronic kidney disease (CKD) in cats. Assess whether renal length, cortical and medullary thickness, and derived ratios identify CKD, reflect CKD severity, and are changed by hyperthyroidism. Evaluate effects of age, body weight, sex, laterality, and observer variability on renal dimensions. Two hundred fifty-nine client-owned cats: healthy (n&#xa0;=&#xa0;179), CKD-affected (n&#xa0;=&#xa0;38), ",
+      "id": "43051407",
+      "title": "An ultra-low indocyanine green dose maximizes biliary-to-hepatic contrast in dogs: a prospective pilot study.",
+      "authors": "Lacitignola L, Guadalupi M, Cavalluzzo F, Belvito R, Magli PFP",
+      "journal": "Vet J",
+      "date": "2026 Nov 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051407/",
+      "abstract": "Indocyanine green fluorescence cholangiography (ICG-FC) may improve intraoperative visualization of the extrahepatic biliary tract in dogs, but the dose and timing that optimize biliary-to-hepatic contrast during the early intraoperative window remain undefined. This prospective randomized pilot study evaluated dose- and time-dependent fluorescence behavior in 18 healthy client-owned female dogs undergoing elective laparoscopic ovariectomy. Dogs received ultra-low-dose (0.0119mg/kg), low-dose (0",
       "category": "imaging",
       "summary_ko": ""
     },
     {
-      "id": "43008071",
-      "title": "Comparative cytokine profiling in cerebrospinal fluid and serum of dogs with meningoencephalitis of unknown origin.",
-      "authors": "Gasser A, Démoulins T, Stein VM",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Nov 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43008071/",
-      "abstract": "Meningoencephalitis of unknown origin (MUO) is a common inflammatory central nervous system (CNS) disease in dogs with unclear etiology, complicating diagnosis. Dogs with MUO exhibit distinct cytokine profiles in cerebrospinal fluid (CSF) compared to other CNS diseases and controls. The study included 23 dogs diagnosed with MUO based on clinical signs, supportive CSF, and imaging findings. For comparison, 110 dogs were included, comprising dogs with CNS disorders, neurological diseases not invol",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "43006832",
-      "title": "Correction to: Single Enema Fecal Microbiota Transplantation in Cats With Chronic Enteropathy.",
-      "authors": "",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Nov 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43006832/",
-      "abstract": "",
+      "id": "43050781",
+      "title": "Severe cytopenia in dogs treated with fenbendazole for Heterobilharzia americana.",
+      "authors": "Poellmann LJ, Fajt VR, Verocai GG, Aicher KM",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050781/",
+      "abstract": "To report the features and outcomes of dogs experiencing severe febrile cytopenia following treatment with fenbendazole for Heterobilharzia americana. 6 client-owned dogs that received fenbendazole for treatment of H americana and subsequently developed severe transient cytopenia with accompanying clinical illness were evaluated. In this observational retrospective multicenter case series, medical records of affected dogs reported by veterinarians through consultation with the Gastrointestinal L",
       "category": "internal",
       "summary_ko": ""
     },
@@ -826,46 +815,13 @@
     },
     {
       "id": "43020213",
-      "title": "Association of ATP7A and ATP7B Variants with Treatment Response in Copper-Associated Hepatitis in the Labrador retriever.",
+      "title": "Association of ATP7A and ATP7B variants with treatment response in copper-associated hepatitis in the Labrador retriever.",
       "authors": "den Boer ER, Nielen M, Spanjersberg TCF, Fieten H",
       "journal": "Vet J",
       "date": "2026 Nov 12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43020213/",
-      "abstract": "Copper-associated hepatitis in Labrador retrievers is typically treated with copper-restricted diets and D-penicillamine (D-pen). Individual responses in necessary treatment duration and reaccumulation of copper after treatment vary. This exploratory study investigated whether genotype for ATP7B:c.4358G&gt;A and ATP7A:c.980C&gt;T, which are correlated with hepatic copper levels, is associated with this variation in treatment response. Three previously published studies were reanalysed. One retro",
+      "abstract": "Copper-associated hepatitis in Labrador retrievers is typically treated with copper-restricted diets and D-penicillamine (D-pen). Individual responses in necessary treatment duration and reaccumulation of copper after treatment vary. This exploratory study investigated whether genotype for ATP7B:c.4358&#x202f;G&gt;A and ATP7A:c.980&#x202f;C&gt;T, which are correlated with hepatic copper levels, is associated with this variation in treatment response. Three previously published studies were reana",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "43013985",
-      "title": "Effect of gabapentin on blood pressure and sedation scores in healthy dogs.",
-      "authors": "Leung K, Wood MW",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013985/",
-      "abstract": "To evaluate gabapentin's effect on blood pressure and sedation scores in healthy dogs. It was hypothesized gabapentin administration would decrease blood pressure and increase sedation scores compared to placebo administration. A randomized, blinded, placebo-controlled crossover study was performed from July 1, 2024, to July 30, 2025. Fifteen apparently healthy dogs presented for 3 paired (gabapentin and control) evaluations for a total of 6 visits. At each visit, dogs were administered either a",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43013978",
-      "title": "Frequency of occurrence, signalment, clinicopathologic and imaging findings, and outcomes with nontraumatic spontaneous intracranial hemorrhagic stroke in dogs.",
-      "authors": "Thibodeaux LA, Kent M, Bennett M, Barber R",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013978/",
-      "abstract": "To describe the frequency, clinicopathologic and imaging findings, and outcomes in dogs with spontaneous intra-parenchymal hemorrhagic stroke (sIHS). Retrospective study involving 25 dogs. Medical records were reviewed for signalment; neurological, clinicopathologic, and imaging findings; anatomic localization; comorbidities; therapy; and outcome in dogs with sIHS (2010 to 2024). Lesion number, location, and volume were recorded. Outcome was defined as excellent, good, or poor. Frequency was def",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "43013973",
-      "title": "Soft tissue sarcoma grade does not differ between extremity and nonextremity locations.",
-      "authors": "Patel MH, Selmic LE, Lapsley JM, Piegols HJ",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 11",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43013973/",
-      "abstract": "To evaluate whether canine soft tissue sarcomas (STSs) located on the extremities are of lower histologic grade than those on nonextremity locations. The hypothesis was that the frequency of grade I and grade II/III tumors would be similar between extremity and nonextremity locations. This retrospective cohort study evaluated canines undergoing surgical resection of an STS and subsequent histopathologic assessment during the period of November 20, 2018, to April 8, 2025, at a single institution.",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -876,6 +832,28 @@
       "date": "2026 Nov 1",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43027183/",
       "abstract": "Achieving complete surgical margins can be challenging for tumors involving the distal extremities due to limited surrounding soft tissue and the proximity of functionally important structures. Incompletely excised tumors may require adjuvant radiation therapy to treat suspected residual microscopic disease. Yttrium-90 phosphate hydrogel (IsoPet&#xae;) is an emerging injectable radiation modality that delivers localized beta radiation to a tumor bed or surgical margin. An eight-year-old neutered",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43053573",
+      "title": "Computed Tomography and Magnetic Resonance Imaging Findings in Cats With Occipitoatlantoaxial Malformation: A Retrospective Study of 25 Cases.",
+      "authors": "Aoki K, Murakami M",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43053573/",
+      "abstract": "Occipitoatlantoaxial malformation (OAAM) is a congenital malformation of the craniocervical junction that is incompletely characterized in cats. This retrospective single-center study characterized CT and MRI findings in 25 cats with OAAM, operationally defined as an osseous malformation involving one or more structures of the occipital bone, atlas, or axis identified on CT. CT was performed in all 25 cats and MRI in 24. Neurologic signs were present in 24/25 cats. Abnormal gait was present in 2",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43053572",
+      "title": "Intraoperative Extracorporeal Irradiation of Craniotomy Bone Flap for Skull Reconstruction Following Brain Meningioma Resection in a Cat.",
+      "authors": "Pasierbińska M, Morris J, Chalmers AJ, Kaczmarska A, Gutierrez-Quintana R",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43053572/",
+      "abstract": "A 6-year-old male neutered domestic shorthair cat underwent rostro-tentorial biparietal craniotomy for meningioma resection. The bone flap was removed under sterile conditions and subjected to extracorporeal irradiation with 100&#xa0;Gy before reimplantation using nonabsorbable sutures. Postoperative MRI confirmed gross total resection of the mass. Seven-month follow-up with CT showed no evidence of tumor recurrence and successful integration of the bone flap. To our knowledge, this is the first",
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -899,6 +877,72 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43033022/",
       "abstract": "An 8-month-old domestic short-haired cat was presented to the emergency room with an episode of peracute vomiting and abdominal pain. Ultrasound and computed tomography (CT) examination revealed an abnormally positioned and distended gallbladder with a thickened gallbladder wall. A presumptive diagnosis of gallbladder torsion was made and subsequently confirmed during laparotomy. Although uncommon, gallbladder torsion should be considered a differential diagnosis in feline patients with clinical",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43054632",
+      "title": "Anesthesia for electrochemotherapy in dogs and cats: a mini-review of current practices and future considerations.",
+      "authors": "Seliškar A, Klasić M, Tomsič K",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054632/",
+      "abstract": "Electrochemotherapy (ECT) is a short, minimally invasive procedure that causes mild to moderate pain. In humans, ECT can often be performed under sedation and local anesthesia, whereas general anesthesia is generally preferred in veterinary medicine. Anesthesia of dogs and cats undergoing ECT can be challenging because of altered clinical status, paraneoplastic syndromes, and concurrent chronic comorbidities. Recent evidence suggests that anesthetic and analgesic agents, particularly opioids, ma",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "43054321",
+      "title": "Dynamics of salivary cortisol and oxytocin during standardized field training in search-and-rescue (SAR) dogs.",
+      "authors": "Bolechová P, Chmelíková E, Polónyiová A, Vostrá-Vydrová H, Dokoupilová A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054321/",
+      "abstract": "Search and rescue (SAR) dogs perform physically and cognitively demanding tasks under complex field conditions. The aim of this study was to characterize temporal changes in salivary cortisol and oxytocin concentrations during standardized simulated SAR field training and to explore their associations with selected dog- and training-related factors. Twenty-one working dogs participated in three standardized simulated field-training exercises. Saliva samples were collected at six sampling points ",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43054223",
+      "title": "Adapting human multidisciplinary tumor boards to veterinary oncology: a closed-loop framework for integrated decision-making and organizational learning.",
+      "authors": "Sebastián-López C",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054223/",
+      "abstract": "Multidisciplinary tumor boards are established in human oncology to integrate information and reasoning from several specialties around patient-level management decisions. Veterinary oncology already relies on multimodal care and specialist collaboration, but there is still limited standardization of how relevant clinical and contextual information should be prospectively integrated, how the reasoning supporting decisions should be documented, how decisions should be revisited as new information",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43054190",
+      "title": "Octreotide treatment improves multiple domains of cognitive performance in aged beagle dogs.",
+      "authors": "LaCroix-Fralish ML, Juarez-Salinas D, Marietti E, Silva E, Tovar A",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054190/",
+      "abstract": "Aging in dogs is accompanied by progressive cognitive decline and neuropathological changes that parallel key features of human brain aging and dementia, making canines a highly valuable naturally occurring model for studying aging and neurodegenerative disease. Across species, reduced growth hormone/insulin-like growth factor-1 (GH/IGF-1) signaling is associated with extended lifespan and preserved late-life cognition, whereas chronically elevated somatotropic activity is linked to deficits in ",
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43054163",
+      "title": "Daily supplementation with canine-isolated Limosilactobacillus reuteri ATCC PTA 6127 is well tolerated, improves stool consistency, and modulates gut microbiome in dogs.",
+      "authors": "Rendina DN, Commichaux S, Roos S, Axelsson J, Lundqvist C",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054163/",
+      "abstract": "Probiotics are increasingly incorporated into companion animal diets to support gastrointestinal function, yet strain-specific evidence in dogs remains limited. This study evaluated the safety, tolerability, and gastrointestinal effects of daily supplementation with Limosilactobacillus reuteri PureStrong&#x2122; (ATCC PTA 6127) in healthy adult dogs. Sixteen purpose-bred Beagle dogs (8/group; balanced by sex) were enrolled in a randomized, blinded, placebo-controlled trial and received either 1&",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43054081",
+      "title": "Retrospective analysis of feline heartworm disease (Dirofilaria immitis): diagnostic patterns in cats presenting with respiratory or vomiting signs (2013-2023, USA).",
+      "authors": "Whittle A, Ferguson B, Taylor-Rakocevic M, Poulsen Nautrup B, Topdijan K",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054081/",
+      "abstract": "Feline heartworm infection, caused by the mosquito-borne nematode Dirofilaria immitis, is a serious and potentially fatal disease in cats. The true prevalence of this infection is likely underestimated due to the nonspecific nature of clinical signs, such as coughing, vomiting, or respiratory distress, and the diagnostic limitations of current feline heartworm antigen (Ag) and antibody (Ab) assays. This study aimed to enhance understanding of its recognition and detection by linking diverse clin",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -1063,50 +1107,6 @@
       "date": "2026",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43016486/",
       "abstract": "Exercise intolerance and panting are classically attributed to cardiac, respiratory, or other diseases. In some cases, the underlying etiology remains undetermined despite a comprehensive diagnostic workup. While fatigue is one of the most common symptoms in humans with inflammatory bowel disease (IBD), chronic enteropathy is not currently recognized as a primary cause of exercise intolerance in dogs. A retrospective review was conducted on the medical records of 10 dogs presenting with exercise",
-      "category": "neurosurgery",
-      "summary_ko": ""
-    },
-    {
-      "id": "43010915",
-      "title": "The impacts of dog sterilization campaigns in Thailand: understanding changes in dog population dynamics.",
-      "authors": "Slote B, Lau A, Dower M, Rees EM, Virhia J",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43010915/",
-      "abstract": "Of the estimated near 10 million dogs in Thailand, most are free roaming, raising concerns about nuisance behaviors, dog welfare, and the transmission of diseases such as rabies. Minimal research examines dog population management in Thailand, particularly beyond the Bangkok area. We examine the impact of dog population management (DPM), particularly sterilization campaigns in the form of Catch-Neuter-Vaccinate-Return (CNVR), by the non-governmental organization Jai Dog Rescue in the Thai provin",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43005152",
-      "title": "A personalized three-dimensional printed knee splint for mechanical mitigation of canine knee osteoarthritis and adjunctive nonsteroidal anti-inflammatory drug therapy.",
-      "authors": "Li XT, Xiong ZH, Ye JM, Qiu WT, Sun JF",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43005152/",
-      "abstract": "Canine knee osteoarthritis (OA) involves pain, inflammation, altered joint loading, and restricted motor function. Because nonsteroidal anti-inflammatory drugs (NSAIDs) do not directly correct abnormal joint mechanics, this study evaluated a personalized three-dimensional (3D)-printed polylactic acid knee splint, used alone or with short-term NSAID treatment, in a monosodium iodoacetate-induced beagle knee OA model. Twelve dogs were assigned to four groups (n = 3 per group): OA without continued",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "43005087",
-      "title": "Thermal response to moderate exercise in dogs of different biotypes and brachycephalic obstructive airway syndrome severity assessed using infrared thermography.",
-      "authors": "Reyes-Sotelo B, Martínez-Burnes J, Hernández-Avalos I, Olmos-Hernández A, Mora-Medina P",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43005087/",
-      "abstract": "The aim of this study was to evaluate dogs of different skull conformations (cephalic biotypes) and Brachycephalic Obstructive Airway Syndrome (BOAS) grades subjected to two standardized moderate exercise tests, in order to determine their effects on infrared thermal responses in facial and appendicular thermal windows. A total of 80 dogs were evaluated: dolichocephalic (n = 20), mesocephalic (n = 20), and brachycephalic (n = 40), with the latter classified according to BOAS severity as G1 (n = ",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "43005072",
-      "title": "Pedicle screw and rod fixation in three cats with caudal lumbar vertebral fracture and luxation: a case report.",
-      "authors": "Aartsen SAM, van Stee LL, Meij BP",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43005072/",
-      "abstract": "Pedicle Screw and Rod Fixation (PSRF) is used for spinal stabilization of human and, more recently, in dogs. The use of bilateral PSRF in cats at the caudal lumbar and lumbosacral regions has not been reported. To describe the outcomes of cats with caudal lumbar vertebral fractures and luxation treated with bilateral monoaxial PSRF surgery. Three cats with traumatic caudal lumbar vertebral fractures and luxation treated with bilateral PSRF (2016-2018). Short case series. A retrospective analysis",
       "category": "neurosurgery",
       "summary_ko": ""
     }
