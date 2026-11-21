@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20 02:56 UTC",
+  "updated": "2026-11-21 03:04 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -363,6 +363,39 @@
       "summary_ko": ""
     },
     {
+      "id": "43062967",
+      "title": "Feasibility and clinical safety of cytokine-activated anti-tumor lymphocytes infusion in dogs with diffuse large B-cell lymphoma: a pilot study.",
+      "authors": "Capellero S, Maga I, Donini C, Galiazzo E, Sapino A",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062967/",
+      "abstract": "Diffuse large B-cell lymphoma (DLBCL) is the most common histologic subtype of lymphoma in dogs. Although using cyclophosphamide, doxorubicin, vincristine and prednisone (CHOP) chemotherapy is the standard treatment, outcomes remain suboptimal, emphasizing the need for novel therapeutic strategies. Evaluate the feasibility and potential therapeutic benefit of adoptive immunotherapy using ex vivo-expanded cytokine-activated anti-tumor lymphocytes (CATLs) in dogs with DLBCL treated using CHOP chem",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "43062029",
+      "title": "Correction to: Analytical and clinical agreement between the Siemens Immulite 2000 veterinary cortisol and standard cortisol assays in canine serum.",
+      "authors": "",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062029/",
+      "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43062028",
+      "title": "Correction to: ACVIM consensus statement on the treatment of immune thrombocytopenia in dogs and cats.",
+      "authors": "",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062028/",
+      "abstract": "",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "43055506",
       "title": "Evaluation of urine clusterin and cystatin B concentrations in relation to histopathologic findings of renal disease in dogs.",
       "authors": "Rivera C, Hines ES, Schultz D, Cianciolo RE, Jeffery N",
@@ -429,36 +462,80 @@
       "summary_ko": ""
     },
     {
-      "id": "43021592",
-      "title": "Immunogenicity of half-dose versus full-dose Leptospira quadrivalent vaccine in dogs: a prospective randomized pilot study.",
-      "authors": "Craig C, Pastey MK",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Nov 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43021592/",
-      "abstract": "In clinical veterinary practice, incomplete vaccine administration can occur because of movement or partial injection loss; however, the immunologic consequences of reduced vaccine dosing are unknown. To compare antibody responses after administration of a half-dose versus a full-dose of a quadrivalent leptospirosis vaccine in dogs. Ten client-owned, healthy dogs (body weight range, 9-31&#xa0;kg) with no history of leptospirosis vaccination. Prospective randomized pilot study. Dogs were assigned",
+      "id": "43059157",
+      "title": "Beating-heart pulmonary arteriotomy under cardiopulmonary bypass for heartworm extraction in three dogs without caval syndrome.",
+      "authors": "Vurucu M, Cokogullu A",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059157/",
+      "abstract": "To describe the clinical outcomes of beating-heart open-heart surgery under cardiopulmonary bypass (CPB) for surgical extraction of adult heartworms from the pulmonary arteries in dogs without caval syndrome. Animals Three client-owned dogs. Three client-owned dogs with heartworm disease, &#x2265;5 adult heartworms visualized within a single pulmonary arterial branch, and no evidence of caval syndrome were included. After establishment of CPB, the pulmonary artery was opened without cardioplegic",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43058768",
+      "title": "Occurrence of Toxocara spp. in companion animals and serological evidence of human exposure at the human-companion animal interface in Giza, Egypt.",
+      "authors": "Gouda MA, Shalaan FH, Seleem AA, Anwer AZ, Bakry NM",
+      "journal": "BMC Vet Res",
+      "date": "2026 Nov 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43058768/",
+      "abstract": "Toxocariasis, caused by Toxocara spp., is one of the most neglected zoonotic parasitic diseases worldwide. In Egypt, integrated One Health studies investigating human, animal, and occupational risk factors remain limited. This study aimed to determine the prevalence of zoonotic Toxocara spp. in companion animals and to identify associated risk factors within a One Health framework. A cross-sectional study was conducted in Giza, Egypt, including dogs (n&#x2009;=&#x2009;70) and cats (n&#x2009;=&#x",
       "category": "other",
       "summary_ko": ""
     },
     {
-      "id": "43021591",
-      "title": "K-number-based selection in Danish dachshunds: offspring outcomes and implications for genetic diversity.",
-      "authors": "Sullivan S, Kutzler MA",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Nov 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43021591/",
-      "abstract": "In dachshunds, the number of calcified discs (K-number [KN]) is one heritable determinant of the risk of intervertebral disc disease and is used for breeding selection in some countries; however, there are no prior reports of offspring KN outcomes or the effect of KN selection on size of the effective breeding population (Ne). To determine whether progressively limiting breeding eligibility to dogs with lower KNs would: (1) improve offspring KN outcomes and (2) reduce the effective population si",
+      "id": "43057461",
+      "title": "Computed tomography extracellular volume fraction in canine hepatic fibrosis: a retrospective preliminary study.",
+      "authors": "Goda Y, Seki A, Hanazono K, Tamura M, Yamamoto S",
+      "journal": "Vet J",
+      "date": "2026 Nov 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057461/",
+      "abstract": "Liver biopsy remains the gold standard for diagnosing hepatic fibrosis in dogs; however, its invasive nature limits suitability for repeated assessment. Computed tomography-extracellular volume fraction (CT-ECV) has been investigated as a quantitative imaging measure associated with hepatic fibrosis in humans; however, its characteristics in dogs with spontaneous hepatic fibrosis remain incompletely understood. This retrospective study aimed to compare hepatic CT-ECV between dogs with only histo",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43057293",
+      "title": "Symptom-Based Clinical Deterioration as a Patient-Centred Endpoint in Canine Urothelial Carcinoma.",
+      "authors": "Lim J, Kim JK, Hong YJ, Park JH, Kim SH",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Nov 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057293/",
+      "abstract": "This multicentre retrospective cohort study operationalized structured clinical deterioration endpoints in canine urothelial carcinoma (UC) and compared them with conventional outcomes. A total of 182 dogs with imaging-supported, cytologically and/or histopathologically confirmed UC from three referral institutions were included. Clinical signs were retrospectively mapped using prespecified grading rules anchored to VCOG-CTCAE v2 and symptom-based endpoints were defined from treatment initiation",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43057291",
+      "title": "Finite Element Comparison of Unilateral and Bilateral Polymethylmethacrylate Vertebral Fixation in the Canine Thoracolumbar Spine.",
+      "authors": "Kikuchi Y, Takahashi F, Yamaguchi S, Hara Y",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Nov 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057291/",
+      "abstract": "This study aimed to perform a theoretical finite element analysis comparing the biomechanical effects of unilateral (uni-VF) and bilateral vertebral fixation (bi-VF) using polymethylmethacrylate following individualized mini-hemilaminectomy-corpectomy (iMHC) of the canine thoracolumbar spine, focusing on range of motion and stress distribution. Using computed tomography data from a healthy Beagle dog, the following three-dimensional finite element models of the T12-L4 vertebrae were generated: (",
       "category": "neurosurgery",
       "summary_ko": ""
     },
     {
-      "id": "43016161",
-      "title": "In vitro susceptibility of antimicrobial resistant strains of Escherichia coli isolated from the urine of dogs to pivmecillinam and fosfomycin.",
-      "authors": "Pohlmann M, LeCuyer TE, Woerde D, Palm C, Westropp JL",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Nov 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43016161/",
-      "abstract": "Multidrug resistant (MDR) and extended spectrum beta-lactamase-producing (ESBL) uropathogenic Escherichia coli are a cause of urinary tract infection (UTI) in dogs. Limited antimicrobial options are available for these infections. Determine the in vitro susceptibility of MDR and ESBL urinary E. coli isolates to pivmecillinam and fosfomycin using isolates collected from dogs with either UTI or subclinical bacteriuria. The secondary aim was to compare 2 susceptibility test methods for pivmecillina",
-      "category": "other",
+      "id": "43056865",
+      "title": "Intracameral lidocaine-epinephrine has minimal effect on heart rate and blood pressure and is an effective sole mydriatic during phacoemulsification in dogs.",
+      "authors": "Pumphrey SA, Gibson LK, Maggio F, Lindsey J, Wetmore LA",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056865/",
+      "abstract": "To investigate heart rate (HR) and rhythm, blood pressure (BP), and pupil diameter in dogs that received intracameral (IC) preservative-free lidocaine-epinephrine (ILE) as a sole mydriatic agent during phacoemulsification. Records were retrospectively reviewed for HR and BP data and anesthesia concerns following administration of ILE during cataract surgery (IC group, 130 eyes from 83 dogs). Similar data were obtained for a control group undergoing phacoemulsification that received topical mydri",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43056857",
+      "title": "Evaluation of the efficacy of extended-release buprenorphine (Ethiqa XR) using objective gait analysis in dogs.",
+      "authors": "Tiffinger K, Benito de la Vibora J, Hall A, Hall N, Taylor R",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056857/",
+      "abstract": "To evaluate the efficacy of an extended-release formulation of buprenorphine HCl (XR-Bup) using objective gait analysis in a canine stifle arthrotomy model. We hypothesized that a single SC injection of XR-Bup would reduce postoperative pain and improve limb function. In a randomized, blinded, placebo-controlled crossover study design, 8 purpose-bred Beagles underwent 2 unilateral stifle arthrotomies, randomized to XR-Bup for 1 procedure and placebo for the other, separated by a washout period. ",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -792,39 +869,6 @@
       "summary_ko": ""
     },
     {
-      "id": "43021523",
-      "title": "EXPRESS: Biomechanical evaluation of feline sacroiliac joint stabilization using a single short cannulated compression headless screw: A cadaveric study.",
-      "authors": "Kornmayer M, Wachsmuth L, Zablotski Y, Thorwaechter C, Wieser J",
-      "journal": "J Feline Med Surg",
-      "date": "2026 Nov 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43021523/",
-      "abstract": "The aim of this study was to compare interfragmentary compression and rotational stability achieved with a single short cannulated compression headless screw (CCHS) with those obtained using longer CCHSs and cortical lag screws in a feline sacroiliac luxation (SIL) model. In this experimental study, 12 cadavers of adult domestic short-haired cats with a simulated unilateral SIL were stabilized using a single 2.5 mm CCHSs engaging 40 % of the sacral width and mounted in a mechanical testing machi",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "43020214",
-      "title": "Comparative sedative effects of subcutaneous injection at GV20 versus intramuscular opioid administration in dogs: A randomized clinical trial.",
-      "authors": "Pehar B, Maksimović A",
-      "journal": "Vet J",
-      "date": "2026 Nov 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43020214/",
-      "abstract": "To compare sedation after butorphanol or methadone administered intramuscularly (IM) or subcutaneously (SC) at Governing Vessel 20 (GV20) in dogs. Twenty-four healthy client-owned dogs were randomized to four groups (n&#x202f;=&#x202f;6) receiving either opioid (0.4&#x202f;mg&#x202f;kg-1) by IM injection or SC injection at GV20. Sedation was scored every 5&#x202f;min for 35&#x202f;min on a 21-point scale by three evaluators. Friedman and Kruskal-Wallis tests assessed changes over time and differ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43020213",
-      "title": "Association of ATP7A and ATP7B variants with treatment response in copper-associated hepatitis in the Labrador retriever.",
-      "authors": "den Boer ER, Nielen M, Spanjersberg TCF, Fieten H",
-      "journal": "Vet J",
-      "date": "2026 Nov 12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43020213/",
-      "abstract": "Copper-associated hepatitis in Labrador retrievers is typically treated with copper-restricted diets and D-penicillamine (D-pen). Individual responses in necessary treatment duration and reaccumulation of copper after treatment vary. This exploratory study investigated whether genotype for ATP7B:c.4358&#x202f;G&gt;A and ATP7A:c.980&#x202f;C&gt;T, which are correlated with hepatic copper levels, is associated with this variation in treatment response. Three previously published studies were reana",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "43027183",
       "title": "Adjuvant Interstitial Yttrium-90 Hydrogel (IsoPet(®)) Following Limb-Sparing Marginal Excision of Multifocal Distal Pelvic-Limb Neoplasia in a Dog.",
       "authors": "Isai GK, Drygas KA, Weeks B",
@@ -877,6 +921,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43033022/",
       "abstract": "An 8-month-old domestic short-haired cat was presented to the emergency room with an episode of peracute vomiting and abdominal pain. Ultrasound and computed tomography (CT) examination revealed an abnormally positioned and distended gallbladder with a thickened gallbladder wall. A presumptive diagnosis of gallbladder torsion was made and subsequently confirmed during laparotomy. Although uncommon, gallbladder torsion should be considered a differential diagnosis in feline patients with clinical",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43061543",
+      "title": "Ventral approach for ultrasound-guided perineural injection of the canine L7 spinal nerve: a cadaveric feasibility study.",
+      "authors": "Dittmann R, Haenssgen K, Kaessmeyer S, Schweizer D, Barge-Carmona P",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43061543/",
+      "abstract": "Neuropathy of the L7 spinal nerve is common in dogs with degenerative lumbosacral disease, yet description of targeted perineural injection therapy in this region is scarce. This study introduces a novel ventral ultrasound-guided approach to the canine L7 spinal nerve and evaluates its feasibility for guiding perineural injections. Using cadavers of medium- to large-breed dogs, ultrasound-guided injections of a methylene blue and contrast agent solution were performed bilaterally. The technique ",
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -1053,61 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43021781/",
       "abstract": "This prospective, open-label clinical trial aimed to evaluate the efficacy of low-dose keta-mine (0.5&#x202f;mg/kg) administered by oral transmucosal route every 8&#x202f;h in client-owned dogs with refractory, chronic osteoarthritis pain. Objective gait analysis was the primary outcome measure for orthopedic function relating to pain. Liquid chromatography-tandem mass spectrometry was used to quantify plasma ketamine and norketamine concentrations 30 and 60&#x202f;min after administration of an",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "43017553",
-      "title": "Case Report: Delayed epirubicin extravasation-induced ulceration in a dog managed without surgical intervention using adjunctive hyperbaric gaseous cryotherapy.",
-      "authors": "Kim CG, Park JH, Jeong SW",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43017553/",
-      "abstract": "Extravasation of anthracyclines can result in progressive tissue injury, ulceration, and necrosis, and may ultimately require surgical intervention. Management of delayed presentations remains challenging, as recommended treatments, including dexrazoxane, dimethyl sulfoxide (DMSO), and cold compresses, are most effective when initiated promptly after the extravasation event. A 9-year-old spayed female Poodle with suspected stage IV multicentric lymphoma developed a progressive ulcerative lesion ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "43017463",
-      "title": "Body condition-linked alterations in dog owners' visual prosody.",
-      "authors": "Gergely A, Filep LA, Kukovič T, Kis A",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43017463/",
-      "abstract": "Visual prosody, the facial component accompanying speech, plays an important role in human social communication and is also a characteristic feature of dog-directed communication. Previous studies have shown that dog-directed visual prosody shares several features with infant-directed communication, although it also exhibits characteristics that differ between dogs and infants. Obesity has been associated with altered emotional processing and expression in humans, yet its potential effects on vi",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43017042",
-      "title": "Beyond the ventricle: the atrial contribution to feline hypertrophic cardiomyopathy and implications for diagnosis, prognosis, and emerging therapy.",
-      "authors": "Kongchatree S, Rattanasrisomporn J",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43017042/",
-      "abstract": "Hypertrophic cardiomyopathy is the most common heart disease of cats and is conventionally characterised by its ventricular phenotype. The clinical events that determine quality and duration of life in affected cats, however, are atrial in their proximate pathophysiology. Congestive heart failure arises from elevated left atrial pressure transmitted to the pulmonary venous bed, arterial thromboembolism arises from blood stasis in a remodelled and dysfunctional left atrial appendage, and survival",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "43016731",
-      "title": "Will a trans-articular external fixator placed across the canine stifle allow normal motion if the hinge is centered over the femoral condyle?",
-      "authors": "Baldeon MA, Roe S, Knazovicky D",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43016731/",
-      "abstract": "Traumatic ligamentous stifle injuries are often immobilized with hinged transarticular external skeletal fixation (htaESF), with the hinge placed over the center of the joint. Range of motion (ROM) in htaESF can protect cartilage, however during ROM the stifle center changes. We hypothesized that a hinge placed over the center of the femoral condyles would not allow normal femoro-tibial positioning during ROM. Eight canine pelvic limbs were harvested. Femurs were immobilized and tibias pinned to",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "43016486",
-      "title": "Beyond the lungs and heart: a possible association between digestive disease and exercise intolerance in 10 dogs.",
-      "authors": "Corsaletti A, Martineau M, Etien H, Le Boedec K",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43016486/",
-      "abstract": "Exercise intolerance and panting are classically attributed to cardiac, respiratory, or other diseases. In some cases, the underlying etiology remains undetermined despite a comprehensive diagnostic workup. While fatigue is one of the most common symptoms in humans with inflammatory bowel disease (IBD), chronic enteropathy is not currently recognized as a primary cause of exercise intolerance in dogs. A retrospective review was conducted on the medical records of 10 dogs presenting with exercise",
-      "category": "neurosurgery",
       "summary_ko": ""
     }
   ]
