@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21 03:04 UTC",
+  "updated": "2026-11-22 02:01 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -363,6 +363,28 @@
       "summary_ko": ""
     },
     {
+      "id": "43064105",
+      "title": "Serum aldosterone concentrations in Cavalier King Charles Spaniels across ACVIM stages of myxomatous mitral valve disease and their associations with echocardiographic indices.",
+      "authors": "Lewicki M, Kumiega E, Wojtczak Z, Noszczyk-Nowak A",
+      "journal": "Vet J",
+      "date": "2026 Nov 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064105/",
+      "abstract": "Myxomatous mitral valve disease (MMVD) is common in Cavalier King Charles Spaniels (CKCS) and may involve activation of the renin-angiotensin-aldosterone system (RAAS). This study evaluated serum aldosterone concentrations across ACVIM MMVD stages in CKCS and its association with selected echocardiographic indices. Eighty-four client-owned CKCS were staged according to ACVIM guidelines (A, n = 11; B1, n = 58; B2, n = 7; C, n = 8), and serum aldosterone was measured using the LIAISON&#xae; Aldost",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43063984",
+      "title": "Proximal Femoral Diaphyseal Bone Changes after Femoral Head and Neck Ostectomy in Dogs with Legg-Calvé-Perthes Disease.",
+      "authors": "Nam E, Murakami H, Kondo S, Hamamoto Y, Udagawa H",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Nov 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063984/",
+      "abstract": "The objective of this study is to compare time-dependent radiographic changes in the femoral bone and soft tissue thickness after femoral head and neck ostectomy (FHNO) in dogs with Legg-Calv&#xe9;-Perthes disease (LCPD; n&#x2009;=&#x2009;7) and dogs undergoing FHNO for non-LCPD hip joint luxation/subluxation (non-LCPD HJL/S; n&#x2009;=&#x2009;9). Radiographic proximal and mid-diaphyseal femoral bone thickness and mid-diaphyseal soft tissue thickness were measured on hip-extended ventrodorsal pe",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
       "id": "43062967",
       "title": "Feasibility and clinical safety of cytokine-activated anti-tumor lymphocytes infusion in dogs with diffuse large B-cell lymphoma: a pilot study.",
       "authors": "Capellero S, Maga I, Donini C, Galiazzo E, Sapino A",
@@ -437,28 +459,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43027188/",
       "abstract": "Decisions regarding neutering in athletic sled dogs involve a complex balance between health, behaviour, performance, breeding objectives, and management considerations. However, evidence regarding neutering practices and their relationship with health outcomes in actively competing sled dogs remains limited. To identify factors associated with neutering status and musher-reported motivations for neutering or maintaining dogs intact, and to evaluate the occurrence and distribution of clinical fi",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43021594",
-      "title": "Evaluation of intrarenal hypoperfusion and renal congestion assessed by intrarenal Doppler ultrasonography in dogs with myxomatous mitral valve disease.",
-      "authors": "Iwai Y, Morita T, Terukina H, Yamasaki M",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Nov 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43021594/",
-      "abstract": "While the predictive value of venous impedance index (VII) for evaluating renal congestion is reported in dogs with myxomatous mitral valve disease (MMVD), an ultrasonographic index of renal perfusion has not been reported. Low renal perfusion assessed by interlobar renal artery velocity time integral (VTI) is associated with a worse prognosis in dogs with MMVD. Combining VTI and VII provides additional prognostic information. Sixty-two client-owned dogs without heart disease evaluated for prean",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "43021593",
-      "title": "Abnormalities in cobalamin status in dogs with congenital portosystemic shunt before and after shunt closure.",
-      "authors": "Proksch AL, Kunath T, Heilmann RM, Schneider MA, Kaline M",
-      "journal": "J Vet Intern Med",
-      "date": "2026 Nov 2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43021593/",
-      "abstract": "Cobalamin dysvitaminosis occurs with congenital portosystemic shunt (cPSS). Limited data exist on the effects of cPSS-type, cPSS-closure, and association with hyperammonemia. Cobalamin and folate status differ between healthy and cPSS-dogs, before and after cPSS-closure, between complete and incomplete cPSS-closure, and cPSS-types. Cobalamin dysvitaminosis is associated with hyperammonemia, which ameliorates after cPSS-closure. Eighty-three dogs. Concentrations of cobalamin, transcobalamin (TCB)",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -540,12 +540,12 @@
     },
     {
       "id": "43051407",
-      "title": "An ultra-low indocyanine green dose maximizes biliary-to-hepatic contrast in dogs: a prospective pilot study.",
+      "title": "An ultra-low indocyanine green dose maximizes biliary-to-hepatic contrast in dogs: A prospective pilot study.",
       "authors": "Lacitignola L, Guadalupi M, Cavalluzzo F, Belvito R, Magli PFP",
       "journal": "Vet J",
       "date": "2026 Nov 18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43051407/",
-      "abstract": "Indocyanine green fluorescence cholangiography (ICG-FC) may improve intraoperative visualization of the extrahepatic biliary tract in dogs, but the dose and timing that optimize biliary-to-hepatic contrast during the early intraoperative window remain undefined. This prospective randomized pilot study evaluated dose- and time-dependent fluorescence behavior in 18 healthy client-owned female dogs undergoing elective laparoscopic ovariectomy. Dogs received ultra-low-dose (0.0119mg/kg), low-dose (0",
+      "abstract": "Indocyanine green fluorescence cholangiography (ICG-FC) may improve intraoperative visualization of the extrahepatic biliary tract in dogs, but the dose and timing that optimize biliary-to-hepatic contrast during the early intraoperative window remain undefined. This prospective randomized pilot study evaluated dose- and time-dependent fluorescence behavior in 18 healthy client-owned female dogs undergoing elective laparoscopic ovariectomy. Dogs received ultra-low-dose (0.0119&#x202f;mg/kg), low",
       "category": "imaging",
       "summary_ko": ""
     },
