@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22 02:01 UTC",
+  "updated": "2026-11-23 02:26 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -360,6 +360,50 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43027214/",
       "abstract": "The tolerability and efficacy of treatment with allogeneic adipose-derived mesenchymal stem cells (aAMSCs) were evaluated in dogs with kidney disease secondary to canine leishmaniosis (CanL). In this non-blinded, single-center, 3-month study, twenty dogs received either conventional treatment (CT; n = 10) or conventional treatment plus an intravenous dose of aAMSCs (CT + aAMSCs; n = 10). Efficacy was assessed at days 0, 30, and 90 using plasma and urinary biomarkers. In both groups (CT, n = 6; C",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43067100",
+      "title": "Prophylactic paracostal gastropexy in a canine.",
+      "authors": "Garland M, Grimes JA",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067100/",
+      "abstract": "To demonstrate a paracostal approach for prophylactic gastropexy in a dog. A healthy client-owned canine was used for demonstration, with informed client consent. The surgical site is clipped and aseptically prepared from cranial to the last rib to mid-abdomen on the right ventrolateral side. The skin is incised caudal and parallel to the 13th rib. The abdominal musculature is identified and transected to open the abdominal cavity. The pyloric antrum is identified, and stay sutures are placed at",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43067099",
+      "title": "Intra-arterial vinblastine is well tolerated for the treatment of urothelial cell carcinomas and prostatic carcinomas in dogs.",
+      "authors": "Vigouroux O, Horton A, O'Keeffe J, Letwin L, McLauchlan G",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067099/",
+      "abstract": "To describe the treatment and outcome for dogs with lower urinary tract carcinoma or prostatic carcinoma treated with intra-arterial vinblastine. 14 client-owned dogs from a single private referral center identified through a search of the medical records as having either urothelial cell carcinoma (n = 8) or prostatic carcinoma (6) treated with intra-arterial vinblastine from September 1, 2016, through September 30, 2023. The most commonly reported clinical signs were pollakiuria, stranguria, an",
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "43067098",
+      "title": "Infections following dental extractions in dogs are rare both with and without antimicrobial therapy based on a 10-year retrospective study.",
+      "authors": "Volk A, Goldschmidt S, Park L, Soltero-Rivera M, Blandino A",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067098/",
+      "abstract": "To report postoperative local infection rates in dogs undergoing dental extractions with versus without antimicrobial treatment. Medical records were reviewed for dogs undergoing dental extractions at a single institution between 2014 and 2024. Use of prophylactic antimicrobials and presence of postoperative infection were recorded. The impact of different risk factors on the presence of infection was assessed with logistic regression. The number needed to treat to prevent infection in 1 dog was",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43067097",
+      "title": "Diamond burr debridement with bandage contact lens placement may be a minimally invasive treatment option for selected cats with superficial corneal sequestra.",
+      "authors": "Ahn J, Kim G, Seo K, Kang S",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067097/",
+      "abstract": "To evaluate the clinical outcomes of diamond burr debridement (DBD) combined with bandage contact lens (BCL) placement for treatment of feline corneal sequestra (FCS). Medical records of client-owned cats diagnosed with superficial FCS and treated with DBD and BCL between October 1, 2022, and April 1, 2026, were retrospectively reviewed. Diamond burr debridement was performed under topical anesthesia using a handheld diamond burr, followed by BCL placement. Clinical assessments included lesion w",
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1064,50 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43031650/",
       "abstract": "This study aimed to determine the genomic characteristics and genotype of a CPV isolate (MDC-CPV) recovered from a vaccinated dog, and to investigate its in vitro infectivity and replication features in A72 and CRFK cell lines. Clinical samples were subjected to nucleic acid detection for common canine pathogens and CPV antigen testing. Sequencing was performed using the Illumina NovaSeq PE150 platform. Following quality control, assembly, and annotation, the near-complete genome sequence of MDC",
       "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43022916",
-      "title": "Primary hyperparathyroidism in a cat with synchronous bilateral parathyroid carcinomas: a case report.",
-      "authors": "Choi U, Kwon G, Lim JH, Oh SI, Ock S",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43022916/",
-      "abstract": "Primary hyperparathyroidism (PHPTH) is a rare endocrine disorder in cats, and bilateral parathyroid carcinoma is exceptionally uncommon. A 14-year-old neutered male Russian Blue cat presented with decreased appetite, reduced activity, vomiting, and persistent hypercalcemia. Hypercalcemia was documented by increased ionized calcium (iCa; 1.90&#x202f;mmol/L) and total calcium (14.3&#x202f;mg/dL), and an increased intact parathyroid hormone concentration (18.6&#x202f;pg/mL) supported a diagnosis of",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "43022469",
-      "title": "Randomized comparative field clinical trial of hydrocortisone aceponate/gentamicin/miconazole otic suspension vs. mometasone furoate/florfenicol/terbinafine otic solution for the treatment of canine otitis externa.",
-      "authors": "Griffin J, von Simson C, Poincelot L, Jasmin P",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43022469/",
-      "abstract": "This randomized, masked, multi-center field clinical trial compared two otic formulations: a gentamicin, miconazole, and hydrocortisone aceponate otic suspension (Easotic&#x2122;, Virbac) administered once daily for five days, and a single-dose florfenicol, terbinafine, and mometasone furoate otic solution (Claro&#x2122;, Elanco). Eighty-six client-owned dogs with acute otitis externa (OTIS3 score &#x2265; 5) were evaluated at 4 h post-application and on Days 2, 7, and 28. Based on the percentag",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43022460",
-      "title": "Pharmacokinetics of HDM7006, a high-potency balanced GLP-1/GIP dual agonist, in healthy domestic cats.",
-      "authors": "Zhang Z, Cui S, Jiang C, Teng L, Pan H",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43022460/",
-      "abstract": "HDM7006 is a GLP-1R/GIPR dual agonist developed for body weight management in obese or overweight cats. To Investigate the pharmacokinetic (PK) characteristics of HDM7006 in cats. Forty-eight healthy adult cats were enrolled. In the single-dose PK study, 40 cats were divided into five groups receiving 0.1, 0.5, 1.0 or 2.0&#x202f;mg/kg (SC) or 1.0&#x202f;mg/kg (intravenous, IV) of HDM7006, respectively. In the multiple-dose PK study, 8 cats were received 0.5&#x202f;mg/kg of HDM7006 once weekly fo",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43021781",
-      "title": "Limitations of transmucosal ketamine administration for chronic pain in dogs with osteoarthritis.",
-      "authors": "Seabolt RA, Elam LH, Griffenhagen GM, Duerr FM",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43021781/",
-      "abstract": "This prospective, open-label clinical trial aimed to evaluate the efficacy of low-dose keta-mine (0.5&#x202f;mg/kg) administered by oral transmucosal route every 8&#x202f;h in client-owned dogs with refractory, chronic osteoarthritis pain. Objective gait analysis was the primary outcome measure for orthopedic function relating to pain. Liquid chromatography-tandem mass spectrometry was used to quantify plasma ketamine and norketamine concentrations 30 and 60&#x202f;min after administration of an",
-      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
