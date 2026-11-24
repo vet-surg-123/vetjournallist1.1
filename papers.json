@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23 02:26 UTC",
+  "updated": "2026-11-24 05:51 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -360,6 +360,61 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43027214/",
       "abstract": "The tolerability and efficacy of treatment with allogeneic adipose-derived mesenchymal stem cells (aAMSCs) were evaluated in dogs with kidney disease secondary to canine leishmaniosis (CanL). In this non-blinded, single-center, 3-month study, twenty dogs received either conventional treatment (CT; n = 10) or conventional treatment plus an intravenous dose of aAMSCs (CT + aAMSCs; n = 10). Efficacy was assessed at days 0, 30, and 90 using plasma and urinary biomarkers. In both groups (CT, n = 6; C",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43073020",
+      "title": "Description of a transtemporal surgical approach to the mandibular coronoid process region in two dogs with oral pain.",
+      "authors": "Pang YY, Hertel B, Logothetou V",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Nov 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43073020/",
+      "abstract": "Conditions affecting the mandibular coronoid process and surgical approaches to it are rarely described in veterinary medicine. We describe and illustrate an alternative surgical approach to the mandibular coronoid process in two dogs. Two dogs presented with a chronic history of pain while opening the mouth. Computed tomography identified unilateral contrast-enhancing soft tissues around the proximal mandibular coronoid process. The mandibular coronoid process in each dog was approached via a t",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43072603",
+      "title": "Evaluation of the association of serum paraoxonase-1 and butyrylcholinesterase activities with ultrasonographic gastrointestinal changes in dogs with acute pancreatitis.",
+      "authors": "Cordon B, Tvarijonaviciute A, Soler M, Agut A",
+      "journal": "Vet J",
+      "date": "2026 Nov 23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43072603/",
+      "abstract": "Gastrointestinal ultrasonographic (USGI) abnormalities are frequently detected in dogs with acute pancreatitis (AP), but their relationship with systemic biochemical changes has not been well studied. This retrospective study evaluated the association between serum paraoxonase-1 (PON1) and butyrylcholinesterase (BChE) activities and the presence and severity of USGI abnormalities in dogs with AP. The medical records of dogs diagnosed with AP between January 1, 2017, and January 1, 2026, were rev",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43069691",
+      "title": "Effects of laparoscopic vertical sleeve gastrectomy on weight and glucose regulation in a feline obesity model.",
+      "authors": "Buote NJ, Loftus JP, Reuter MA, Dakin G, Cummings BP",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43069691/",
+      "abstract": "To determine the safety and impact of laparoscopic vertical sleeve gastrectomy (LVSG) on bodyweight and glucose regulation in an obese feline model. Prospective experimental study. Seven adult cats. After obesity induction, an oral glucose tolerance test (OGTT) was performed, with blood glucose, insulin, and glucagon-like peptide-1 (GLP-1) measured before surgery, at 1&#x2009;and 6&#x2009;months postoperatively. A LVSG was performed, and surgical data were recorded. After LVSG, bodyweight was mo",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43069688",
+      "title": "Evaluation of post-occlusion hepatofugal blood flow on surgeon decision making during ligation of portosystemic shunts in 53 dogs.",
+      "authors": "Ray SE, Folk CA, Bechtold MA, Center SA, Flanders JA",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43069688/",
+      "abstract": "To determine whether hepatofugal contrast flow or caudal vena cava (CdVC) contrast filling during post-occlusion intraoperative mesenteric portovenography (PO-IOMP) were associated with the degree of extrahepatic portosystemic shunt (EHPSS) ligation performed. Retrospective observational cohort study. A total of 53 dogs. Data were collected retrospectively for dogs that underwent suture ligation of a single EHPSS with concurrent intraoperative mesenteric portovenography (IOMP). Review of IOMP st",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43068792",
+      "title": "Clinical Efficacy of Cordycepin in Feline Upper Respiratory Infection: A Randomized Trial.",
+      "authors": "Li J, Xu G, Zhang K, Zhang J, Guo Z",
+      "journal": "Vet J",
+      "date": "2026 Nov 22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068792/",
+      "abstract": "Presenting predominantly with upper airway, oral, and ocular anomalies, feline upper respiratory infection (FURI) is highly pervasive among cat populations. Given its substantial morbidity and tendency to trigger severe secondary conditions like pneumonia, it persists as a formidable hurdle in feline medicine. We investigated the therapeutic impact of cordycepin, a major active component of Cordyceps militaris, on the clinical progression and physiological recovery of cats with FURI. Our data re",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -855,61 +910,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43025058/",
       "abstract": "To determine whether the timing of surgery affects morbidity and/or mortality of dogs with hemoperitoneum secondary to a ruptured splenic mass. In this retrospective cohort study, medical records of dogs diagnosed with hemoperitoneum due to a ruptured splenic mass between 2010 and 2023 were reviewed for clinical data. Dogs were classified in the early group (early) if surgery occurred &lt; 6 hours and the delayed group (delayed) if surgery occurred &#x2265; 6 hours after presentation. A total of",
       "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "43025057",
-      "title": "Timed Up and Go test predicts survival but not hospitalization or mobility concerns at the end of life in a population of geriatric dogs.",
-      "authors": "Woods AE, Rishniw M, Ellis KM, McMullin KM, Juran IG",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025057/",
-      "abstract": "To examine the Timed Up and Go (TUG) test in geriatric dogs as a predictive measure of survival, hospitalization, and owner concern regarding end-of-life mobility. The owners of 83 geriatric dogs that had successfully completed a TUG test between April and September of 2023 were solicited to answer a survey regarding their dog, administered in June of 2025. Surveys recorded the dates (rounded to the nearest month) of deaths and hospitalizations and ranked owner mobility concerns at end of life. ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43025056",
-      "title": "Hypertension was common and associated with serum cholesterol concentrations in dogs with Cushing syndrome.",
-      "authors": "McKinley G, McAtee R, Lashnits E",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025056/",
-      "abstract": "To estimate the prevalence of systemic hypertension in dogs with newly diagnosed Cushing syndrome (CS) and evaluate associations with hypothesized hypertension-associated variables. A retrospective observational study was performed with dogs diagnosed with CS by ACTH stimulation or low-dose dexamethasone suppression testing at University of Wisconsin Veterinary Care from 2005 to 2025. Dogs with systolic blood pressure (SBP) measured within 8 weeks of diagnosis and before CS or antihypertensive t",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43025055",
-      "title": "Fluorescein sodium-guided resection of cervical peripheral nerve sheath tumors in 3 dogs.",
-      "authors": "Jeong N, Hasegawa D, Jung J",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025055/",
-      "abstract": "To describe the intraoperative findings and outcomes of fluorescein sodium-guided resection of cervical peripheral nerve sheath tumors (PNSTs) in dogs, including in the re-operative setting. 3 client-owned dogs with cervical PNST. Two dogs underwent a second resection of progressive malignant PNST (MPNST) after subtotal resection and stereotactic radiation therapy performed elsewhere. One dog underwent primary resection of a previously untreated PNST identified as a schwannoma. Affected dogs wer",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "43025054",
-      "title": "A simple algorithm allows triaging of dogs with mitral valve disease into cardiac or noncardiac causes of dyspnea.",
-      "authors": "Rishniw M, Dickson D, Caivano D, Vatne L, Harris J",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025054/",
-      "abstract": "To create a simple algorithm for diagnosis of congestive heart failure (CHF) in dogs with myxomatous mitral valve disease (MMVD). Data were collected between November 2, 2015, and December 7, 2017, from dogs presented to investigators after a tentative diagnosis of CHF by first-opinion clinicians. Investigators completed a data-submission form and provided a final diagnosis of CHF or subclinical MMVD. Data included each of the 8 variables of the original algorithm. Variables that did not change ",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43023324",
-      "title": "Direct-to-consumer genetic testing in dogs: interpretation and comprehension by the public.",
-      "authors": "Adant L, Govaert E, Szymczak V, Peelman L, Broeckx BJG",
-      "journal": "J Small Anim Pract",
-      "date": "2026 Nov 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43023324/",
-      "abstract": "The increasing popularity and widespread use of direct-to-consumer genetic tests in veterinary medicine has raised concerns similar to those previously reported in human medicine. In particular, limited access to genetic counselling and considerable variability in the tests offered, as well as how DNA test results are reported, have been identified as important challenges. As test results are only seldomly interpreted by qualified veterinarians/genetic counsellors, this study aimed to evaluate h",
-      "category": "other",
       "summary_ko": ""
     },
     {
