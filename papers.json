@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24 05:51 UTC",
+  "updated": "2026-11-25 04:50 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -418,6 +418,17 @@
       "summary_ko": ""
     },
     {
+      "id": "43073872",
+      "title": "Efficacy and safety of atinvicitinib and oclacitinib in the control of pruritus in canine allergic dermatitis: a randomized, examiner-masked, positive-controlled multicenter clinical trial.",
+      "authors": "Heinau LK, Zschiesche E, Hakala M, Kavrik D, Hala P",
+      "journal": "BMC Vet Res",
+      "date": "2026 Nov 20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43073872/",
+      "abstract": "Atinvicitinib is a Janus kinase 1-selective-inhibitor approved for the treatment of pruritus associated with allergic dermatitis, including canine atopic dermatitis (cAD). An examiner-masked, randomized study assessed safety and clinical improvement in pruritus and dermatitis severity in dogs with allergic dermatitis following treatment with atinvicitinib (Numelvi&#xae; tablets, MSD Animal Health) or oclacitinib (Apoquel&#xae; chewable tablets, Zoetis). Client-owned dogs (n&#x2009;=&#x2009;69) w",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "43067100",
       "title": "Prophylactic paracostal gastropexy in a canine.",
       "authors": "Garland M, Grimes JA",
@@ -557,6 +568,17 @@
       "date": "2026 Nov 2",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43027188/",
       "abstract": "Decisions regarding neutering in athletic sled dogs involve a complex balance between health, behaviour, performance, breeding objectives, and management considerations. However, evidence regarding neutering practices and their relationship with health outcomes in actively competing sled dogs remains limited. To identify factors associated with neutering status and musher-reported motivations for neutering or maintaining dogs intact, and to evaluate the occurrence and distribution of clinical fi",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43074425",
+      "title": "Correction: Wolovelsky et al. Owned House Cats Show No Preference for Specific Land Cover Types When Roaming Outdoors. Animals 2026, 16, 864.",
+      "authors": "Wolovelsky L, Kadosh N, Gish M",
+      "journal": "Animals (Basel)",
+      "date": "2026 Nov 19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43074425/",
+      "abstract": "There was an error in the original publication [...].",
       "category": "other",
       "summary_ko": ""
     },
@@ -888,28 +910,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43025542/",
       "abstract": "This study represents the first comparison of biochemical analysis of amniotic fluid (AF) from bitches undergoing therapeutic c-section for resolution of dystocia (TC) versus elective cesarean sections (EC). A total of 104 samples were analyzed, and significant differences in AF composition were identified. Biochemical evaluations from the EC aligned with reference values while in the TC group it revealed elevated liver and kidney enzyme levels, suggesting early signs of damage even with short d",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "43025060",
-      "title": "Antimicrobial use exceeds culture-confirmed urinary tract infections in cats with feline idiopathic cystitis with and without urethral obstruction.",
-      "authors": "Chang M, Myrick S, Wilson-Robles H, Stewart SD",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025060/",
-      "abstract": "To compare antimicrobial use and signalment in cats with feline idiopathic cystitis (FIC) with and without active urethral obstruction (UO) and determine whether antimicrobial use was supported by urinalysis and urine culture results. This multicenter prospective observational study compared client-owned male cats with FIC with and without obstruction from 40 referral hospitals in the US and Canada between January 2025 and September 2025. Cats weighing &gt; 2 kg that completed screening diagnost",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "43025058",
-      "title": "Delayed surgery can be considered for cardiovascularly stable dogs with hemoperitoneum due to a ruptured splenic mass.",
-      "authors": "Park JE, Grimes JA, Harris JD, Koenig A",
-      "journal": "J Am Vet Med Assoc",
-      "date": "2026 Nov 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025058/",
-      "abstract": "To determine whether the timing of surgery affects morbidity and/or mortality of dogs with hemoperitoneum secondary to a ruptured splenic mass. In this retrospective cohort study, medical records of dogs diagnosed with hemoperitoneum due to a ruptured splenic mass between 2010 and 2023 were reviewed for clinical data. Dogs were classified in the early group (early) if surgery occurred &lt; 6 hours and the delayed group (delayed) if surgery occurred &#x2265; 6 hours after presentation. A total of",
-      "category": "orthopedics",
       "summary_ko": ""
     },
     {
