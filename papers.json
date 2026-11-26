@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 04:50 UTC",
+  "updated": "2026-11-26 04:03 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -165,50 +165,6 @@
       "summary_ko": ""
     },
     {
-      "id": "43027084",
-      "title": "Clinical Veterinarian Perspectives on Euthanasia for Pets.",
-      "authors": "Danış EM, Yaşar A",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43027084/",
-      "abstract": "The euthanasia of pets is a frequent discussion topic in veterinary practice. This study aimed to determine the levels of agreement with euthanasia decisions for pet animals by clinical veterinarians in different clinical scenarios; evaluate the differences in agreement levels according to species (including cats, dogs, and small mammals); and investigate the correlation between these decisions and demographic variables. The study sample consisted of 374 veterinarians actively practicing in clin",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43027080",
-      "title": "Improving Femoral Tunnel Placement in Canine Cranial Cruciate Ligament Reconstruction Using a Novel Adjustable Aiming Device: Evaluation Through Simulated Surgical Trials.",
-      "authors": "Lee TY, Lin CC, Yang SY, Wang YC, Wu CH",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43027080/",
-      "abstract": "Accurate femoral tunnel placement in canine cranial cruciate ligament (CrCL) reconstruction is challenging because of small joint anatomy and limited dedicated instrumentation. This study evaluated an adjustable femoral tunnel aiming device combined with patient-specific preoperative planning. Thirteen surgeons (six experienced and seven novices) performed simulated tunnel positioning using the device and a freehand technique. Outcomes included aperture positional error, measured as Euclidean di",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "43027073",
-      "title": "Dose-Response Evaluation of Dietary Curcumin Supplementation on Ileal Morphology and Antioxidant Status in Broiler Chickens.",
-      "authors": "Hu Y, Li C, Wu Z, Huang Z, Zhao Z",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43027073/",
-      "abstract": "This study aimed to evaluate suitable dietary curcumin supplementation levels for improving intestinal morphology and antioxidant status in medium-growing broiler chickens fed a practical corn-soybean meal diet from 57 to 84 d of age. A total of 252 male broilers (57 d of age; 1092.86 &#xb1; 8.91 g) were randomly assigned to six dietary treatments with seven replicate cages of six birds each. Broilers were fed diets supplemented with 0, 80, 160, 240, 320, or 400 mg/kg curcumin for 28 d. Asymptot",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43027063",
-      "title": "Slipped Capital Femoral Epiphysis in Two Neutered Male Maine Coon Cats: A Case Report.",
-      "authors": "Vaduva C, Zaha C, Casalean T, Morar D, Simiz F",
-      "journal": "Animals (Basel)",
-      "date": "2026 Oct 22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43027063/",
-      "abstract": "Slipped capital femoral epiphysis (SCFE), also referred to as spontaneous femoral capital physeal fracture, is an uncommon orthopedic disorder in cats characterized by separation of the femoral capital epiphysis through the proximal femoral physis in the absence of significant trauma. Maine Coon cats, particularly males, appear to be predisposed to this condition. This report describes two neutered male Maine Coon cats, aged 21 and 16 months, presenting with pelvic limb lameness without a known ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "43027270",
       "title": "The Use of a Detection Dog to Discriminate Between Moss Species to Increase Coverage for Reporting the Presence of a Cryptic Species.",
       "authors": "Kerrigan P, Carmichael N, Karpela T, Moodey K, Weyl R",
@@ -363,6 +319,39 @@
       "summary_ko": ""
     },
     {
+      "id": "43082252",
+      "title": "Canine Hypercalcaemia: part 1, Pathophysiology and Causes.",
+      "authors": "Cardoso M, Ward PM, Ramsey IK",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Nov 25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43082252/",
+      "abstract": "Hypercalcaemia is an important metabolic abnormality that has been associated with a wide range of conditions in the dog. This paper reviews calcium regulation, the pathophysiological mechanisms leading to increased calcium concentrations and the clinical consequences. It then provides a narrative review of all reported causes of canine hypercalcaemia. Although neoplasia, particularly lymphoma, is the most frequently recognised cause, there are also important endocrine (hyperparathyroidism and h",
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43078452",
+      "title": "Variation in Specialist Treatment Choice for Feline Cranial Cruciate Ligament Disease Is Associated with Recent Exposure to Adverse Clinical Scenarios.",
+      "authors": "Farrell M, Adams RJ, Jones SC, Ruixue Porcher T, Kieves N",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Nov 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078452/",
+      "abstract": "To investigate variation in specialist treatment choice for feline cranial cruciate ligament disease (CCLD) and determine whether recent exposure to adverse clinical scenarios influences decision-making. An online survey was distributed to veterinary specialists. Participants were randomised either to receive a priming vignette describing an adverse outcome after tibial plateau levelling osteotomy or lateral fabellotibial suture, or no priming. Respondents were subsequently presented with a scen",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43078422",
+      "title": "Cysteinyl leukotriene profiles in obstructive and non-obstructive feline lower urinary tract disease.",
+      "authors": "Bayendur SH, Tunç AC, Dinçer PFP, Saraçlı S, Acar A",
+      "journal": "Vet J",
+      "date": "2026 Nov 24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078422/",
+      "abstract": "Feline lower urinary tract disease is a complex syndrome characterized by high recurrence rates, and standard treatments targeting the cyclooxygenase pathway often lack efficacy. This suggests that alternative inflammatory mechanisms are involved in the pathology. This study aimed to investigate the role of the 5-lipoxygenase pathway and its byproducts, cysteinyl leukotrienes, along with the pro-inflammatory cytokine interleukin-18, in the pathophysiology of obstructive and non-obstructive felin",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
       "id": "43073020",
       "title": "Description of a transtemporal surgical approach to the mandibular coronoid process region in two dogs with oral pain.",
       "authors": "Pang YY, Hertel B, Logothetou V",
@@ -479,7 +468,7 @@
       "journal": "Vet J",
       "date": "2026 Nov 20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43064105/",
-      "abstract": "Myxomatous mitral valve disease (MMVD) is common in Cavalier King Charles Spaniels (CKCS) and may involve activation of the renin-angiotensin-aldosterone system (RAAS). This study evaluated serum aldosterone concentrations across ACVIM MMVD stages in CKCS and its association with selected echocardiographic indices. Eighty-four client-owned CKCS were staged according to ACVIM guidelines (A, n = 11; B1, n = 58; B2, n = 7; C, n = 8), and serum aldosterone was measured using the LIAISON&#xae; Aldost",
+      "abstract": "Myxomatous mitral valve disease (MMVD) is common in Cavalier King Charles Spaniels (CKCS) and may involve activation of the renin-angiotensin-aldosterone system (RAAS). This study evaluated serum aldosterone concentrations across ACVIM MMVD stages in CKCS and its association with selected echocardiographic indices. Eighty-four client-owned CKCS were staged according to ACVIM guidelines (A, n&#x202f;=&#x202f;11; B1, n&#x202f;=&#x202f;58; B2, n&#x202f;=&#x202f;7; C, n&#x202f;=&#x202f;8), and serum",
       "category": "imaging",
       "summary_ko": ""
     },
@@ -902,17 +891,6 @@
       "summary_ko": ""
     },
     {
-      "id": "43025542",
-      "title": "Comparative biochemical analysis of amniotic fluid in canine fetuses delivered through elective and therapeutic cesarean sections.",
-      "authors": "Bonavina JT, Estevam MV, Bianchini M, Rocha-Júnior JD, Araújo RA",
-      "journal": "Vet J",
-      "date": "2026 Nov 13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025542/",
-      "abstract": "This study represents the first comparison of biochemical analysis of amniotic fluid (AF) from bitches undergoing therapeutic c-section for resolution of dystocia (TC) versus elective cesarean sections (EC). A total of 104 samples were analyzed, and significant differences in AF composition were identified. Biochemical evaluations from the EC aligned with reference values while in the TC group it revealed elevated liver and kidney enzyme levels, suggesting early signs of damage even with short d",
-      "category": "internal",
-      "summary_ko": ""
-    },
-    {
       "id": "43027183",
       "title": "Adjuvant Interstitial Yttrium-90 Hydrogel (IsoPet(®)) Following Limb-Sparing Marginal Excision of Multifocal Distal Pelvic-Limb Neoplasia in a Dog.",
       "authors": "Isai GK, Drygas KA, Weeks B",
@@ -965,6 +943,28 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43033022/",
       "abstract": "An 8-month-old domestic short-haired cat was presented to the emergency room with an episode of peracute vomiting and abdominal pain. Ultrasound and computed tomography (CT) examination revealed an abnormally positioned and distended gallbladder with a thickened gallbladder wall. A presumptive diagnosis of gallbladder torsion was made and subsequently confirmed during laparotomy. Although uncommon, gallbladder torsion should be considered a differential diagnosis in feline patients with clinical",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43080578",
+      "title": "Effect of pimobendan on right-heart remodeling in dogs with tricuspid valve dysplasia: an exploratory study.",
+      "authors": "Abbott-Johnson K, Potter B, Visser L, Scansen BA, Arai S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080578/",
+      "abstract": "Tricuspid valve dysplasia (TVD) is a rare congenital heart defect in dogs often resulting in severe tricuspid valve regurgitation (TR). No guidelines for medical therapy have been established for dogs with severe TR. Tricuspid valve repair surgery is available for dogs but carries a moderate risk and high cost. This exploratory study evaluated the effect of oral pimobendan on chamber sizes and remodeling of the right side of the heart in dogs with TVD. Retrospective echocardiographic data from t",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43080372",
+      "title": "Association between lipid profile alterations and azotemia severity in dogs: a cross-sectional study.",
+      "authors": "Bhardwaj H, Behera A, Kumar A, Singh VK, Bhatt S",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080372/",
+      "abstract": "Renal dysfunction in dogs is accompanied by metabolic and biochemical disturbances, including dyslipidemia. However, information on the relationship between lipid abnormalities and azotemia severity remains limited. This study evaluated lipid profile alterations and their association with biochemical and hematological parameters in azotemic dogs. Clinical and laboratory records of 100 dogs presented to the Teaching Veterinary Clinical Complex, Bihar Veterinary College, Patna, India, between Apri",
+      "category": "internal",
       "summary_ko": ""
     },
     {
