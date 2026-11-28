@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27 04:01 UTC",
+  "updated": "2026-11-28 03:48 UTC",
   "total": 100,
   "categories": {
     "neurosurgery": "신경외과",
@@ -29,6 +29,72 @@
       "date": "2026 Oct 28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43044383/",
       "abstract": "Ejection fraction (EF) provides a global assessment of right ventricular (RV) function but is challenging to calculate because of complex geometry. The ellipsoid model enables estimation of EF from two-dimensional echocardiography using area-based or linear-based formulas (AEM-EF and LEM-EF). The objective of the present study was to compare AEM-EF, LEM-EF and other indices of RV function against real-time three-dimensional echocardiographic EF (RT3D-EF). Seventy-three dogs (23 healthy, 50 with ",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43102283",
+      "title": "Risk factors for complications in dogs treated with transpalpebral or transconjunctival enucleation.",
+      "authors": "Kakuta S, Vlachomitrou E, Dawson C, Everson R, Kulendra N",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Nov 27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102283/",
+      "abstract": "To determine the prevalence and risk factors of complications in a dog population in the United Kingdom, following transpalpebral or transconjunctival enucleation. Medical records of 333 client-owned dogs that underwent 351 enucleations, from two specialist veterinary referral centres, met the inclusion criteria. Preoperative, intraoperative and postoperative variables (including signalment, indication for enucleation, comorbidities, surgical technique, intraorbital prosthesis, duration of surge",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43099923",
+      "title": "Surgical repair of an ostium secundum atrial septal defect with absent dorsal rim in a dog.",
+      "authors": "Lee WJ, Park J, Park J, Choi HJ, Yu JH",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099923/",
+      "abstract": "To describe the anatomical characteristics and surgical practicality of repairing an ostium secundum atrial septal defect (ASD), lacking a dorsal rim, in a dog. Case report. A 1-year-old, 4.7&#x2009;kg spayed female Bichon Frise dog presenting with exercise intolerance and cough. Clinical data, including diagnostic imaging studies, surgical records, and postoperative follow-up findings, were reviewed. The dog underwent open-heart repair under cardiopulmonary bypass using a glutaraldehyde-fixed a",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43099914",
+      "title": "Development and preliminary in silico and three-dimensional model assessment of a feline universal sacroiliac guide (FUSIG): An exploratory morphometric study.",
+      "authors": "Reinaldos IQ, Danielski A, Solano MA",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099914/",
+      "abstract": "To characterize feline sacral morphometry and to develop and perform a preliminary internal assessment of a feline universal sacroiliac guide (FUSIG) intended to assist screw placement within the feline sacral safe corridor. Retrospective, exploratory morphometric study with in silico and three-dimensional (3D)-printed model assessment. A total of 34 client-owned cats. Computed tomography studies of the sacrum were segmented, and multiplanar morphometric analysis identified a corridor-derived ge",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43099831",
+      "title": "Do canine elbow arthroplasty implants demonstrate morphological conformity for use in companion pigs with osteoarthritis?",
+      "authors": "Matassa G, Biedrzycki AH, Guiot LP, McOnie RC, Mulon PY",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099831/",
+      "abstract": "To identify whether the largest commercially available canine cementless total elbow arthroplasty system (TATE size 19&#x2009;mm) demonstrates morphological conformity with the elbows of companion miniature pig elbows with osteoarthritis (OA). Retrospective, cross-sectional, comparative morphometric study. Computed tomography (CT) scans from university veterinary hospitals were retrospectively evaluated in groups according to the presence or absence of OA. Companion pig elbows without OA (n&#x20",
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43098659",
+      "title": "Computed tomographic features and clinical outcome of a presumed subconjunctival hibernoma in a dog.",
+      "authors": "Maloney SM, Walker MA, Wustefeld-Janssens BG",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Nov 26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098659/",
+      "abstract": "An 11-year-old male neutered German shepherd dog was presented for evaluation of a left subconjunctival mass associated with mild exophthalmos and ventral globe deviation. CT identified a well-defined, contrast-enhancing, soft tissue attenuating mass within the dorsal subconjunctival region. The mass was removed via globe-sparing excisional biopsy after it was found intraoperatively to be discrete and readily separable from surrounding tissues. Histopathology identified an adipocytic neoplasm mo",
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43098316",
+      "title": "Urinary extracellular vesicle microRNA profile in dogs with visceral leishmaniasis: differential expression and exploratory associations with renal Doppler indices and proteinuria.",
+      "authors": "Guimarães MA, Rebech GT, Ito LTS, Umino GM, Boas JSV",
+      "journal": "Vet J",
+      "date": "2026 Nov 26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098316/",
+      "abstract": "Canine visceral leishmaniasis (CVL) is a systemic zoonosis caused by Leishmania infantum, for which dogs are the main urban reservoir. Infected dogs may present non-specific clinical signs and, in advanced cases, die of chronic kidney disease. This study evaluated urinary microRNAs (miRNAs) as candidate biomarkers of renal injury in naturally infected dogs. Fifteen dogs were included: five healthy controls and ten untreated dogs at the moderate stage of disease according to the LeishVet guidelin",
       "category": "imaging",
       "summary_ko": ""
     },
@@ -419,7 +485,7 @@
     },
     {
       "id": "43057461",
-      "title": "Computed tomography extracellular volume fraction in canine hepatic fibrosis: a retrospective preliminary study.",
+      "title": "Computed tomography extracellular volume fraction in canine hepatic fibrosis: A retrospective preliminary study.",
       "authors": "Goda Y, Seki A, Hanazono K, Tamura M, Yamamoto S",
       "journal": "Vet J",
       "date": "2026 Nov 19",
@@ -627,72 +693,6 @@
       "summary_ko": ""
     },
     {
-      "id": "43040794",
-      "title": "Intrametatarsal pad injection of indocyanine green for near-infrared fluorescence imaging of the thoracic duct in four dogs and two cats with chylothorax.",
-      "authors": "Composto K, Porter I, Griffin MA, Buote NJ",
-      "journal": "Vet Surg",
-      "date": "2026 Nov 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43040794/",
-      "abstract": "To assess the efficacy of direct near-infrared fluorescence (NIRF) using indocyanine green (ICG) via intrametatarsal pad injection in dogs and cats with idiopathic chylothorax. Retrospective case series of client-owned animals undergoing intrametatarsal ICG injection and thoracoscopic thoracic duct ligation between 2020 and 2025. A total of four dogs and two cats. Inclusion criteria consisted of cytologically confirmed chylothorax, preoperative computed tomography (CT) lymphangiogram (CTL), and ",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
-      "id": "43039220",
-      "title": "Computed Tomography Lymphography for Sentinel Lymph Node Mapping in Cats.",
-      "authors": "Pérez AR, Escoda-Llorens X, Alonso-Fernandez I, Tobon M, Rodriguez-Piza I",
-      "journal": "Vet J",
-      "date": "2026 Nov 16",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43039220/",
-      "abstract": "Sentinel lymph node (SLN) mapping improves nodal staging accuracy in veterinary oncology, but computed tomography (CT)-based SLN mapping has not been clinically described in cats with superficial tumours. This prospective study evaluated the feasibility and clinical applicability of indirect CT lymphography for SLN identification in feline superficial tumours. Seventeen client-owned cats with cytologically or histologically confirmed superficial tumours were prospectively enrolled. Following rou",
-      "category": "imaging",
-      "summary_ko": ""
-    },
-    {
-      "id": "43036113",
-      "title": "Membranous Ezrin Expression Is Associated With Regional Lymph Node Involvement in Canine Mast Cell Tumours.",
-      "authors": "Dos Santos MA, Siqueira PB, Maués T, Consalter A, de Freitas BA",
-      "journal": "Vet Comp Oncol",
-      "date": "2026 Nov 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43036113/",
-      "abstract": "Canine mast cell tumours (MCTs) show variable biological behaviour, ranging from localized tumours to aggressive disease with regional lymph node involvement. Understanding cellular features associated with this variability may help characterize their biological behaviour. Ezrin, a member of the ERM protein family involved in cell motility, has been associated with tumour progression in several neoplasms. However, its role in canine MCT remains unclear. This study aimed to evaluate ezrin immunor",
-      "category": "oncology",
-      "summary_ko": ""
-    },
-    {
-      "id": "43035210",
-      "title": "Analytical agreement of a multiparametric, fully quantitative fluorescent immunoassay analyser (Vcheck) with commercial laboratory assays for NT‑proBNP and cardiac troponin‑I in dogs and cats.",
-      "authors": "Ferasin L, Hudson E, Farminer J, Ferasin H",
-      "journal": "Vet J",
-      "date": "2026 Nov 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43035210/",
-      "abstract": "Cardiac biomarkers, such as N-terminal pro-B-type natriuretic peptide (NT-proBNP) and cardiac troponin-I (cTnI), are widely used in dogs and cats to assess myocardial stretch and injury, respectively. However, most measurements rely on external laboratories, resulting in turnaround times of 2-7 days. The Vcheck analyser is a fully quantitative, automated fluorescent immunoassay platform capable of providing rapid point-of-care results, but independent validation using robust statistical methodol",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43035208",
-      "title": "Comparison of Von Frey filaments and Electronic Von Frey device in healthy dogs - a prospective, randomized, experimental study.",
-      "authors": "Schütter AF, Bennmann L, Brause S, Rupp V, Freise F",
-      "journal": "Vet J",
-      "date": "2026 Nov 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43035208/",
-      "abstract": "Quantitative sensory testing (QST) using Von Frey Monofilaments (VFM) is established for assessing mechanical sensitivity in dogs. Alternatively, an Electronic Von Frey device (EVF) is available. At present no direct method comparison with both devices has been conducted in dogs. Therefore, it was aimed to compare usage of EVF and VFM in healthy dogs in terms of inter-rater and inter-device reliability. Further the influence of clipping on results gained and a possible correlation between body w",
-      "category": "other",
-      "summary_ko": ""
-    },
-    {
-      "id": "43035099",
-      "title": "Experiences Using a 1.7 mm Locking Bone Plate System for Stabilization of Appendicular Fractures in Dogs and Cats.",
-      "authors": "Martin KS, Johnson MD",
-      "journal": "Vet Comp Orthop Traumatol",
-      "date": "2026 Nov 15",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43035099/",
-      "abstract": "To retrospectively evaluate the stabilization of appendicular fractures using the Fixin 1.7&#x2009;mm locking plate system in dogs and cats. A review of patient medical records with traumatic appendicular fractures stabilized with the Fixin 1.7&#x2009;mm locking plate was performed. Fractures were excluded due to lack of follow-up radiographs, prophylactic plating, or the use of additional plates. Data pertaining to the signalment, fracture classification, implants, evidence of radiographic heal",
-      "category": "orthopedics",
-      "summary_ko": ""
-    },
-    {
       "id": "43087581",
       "title": "From Anatomical Representation to Quantitative Measurement: A Deep Learning-Based Multi-View Framework for Automated Cardiac Size Assessment in Canine Thoracic Radiographs.",
       "authors": "Qin R, Chang J, Ze X, Jiang H, Wang T",
@@ -880,14 +880,25 @@
       "summary_ko": ""
     },
     {
-      "id": "43033022",
-      "title": "Ultrasound and CT Features of Isolated Gallbladder Torsion With a Suspected Congenital Anomaly in a Cat: An Imaging Diagnosis.",
-      "authors": "Moserová H, Dvořáková R, Lein F, Junášková M, Lorenzová J",
-      "journal": "Vet Radiol Ultrasound",
-      "date": "2026 Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033022/",
-      "abstract": "An 8-month-old domestic short-haired cat was presented to the emergency room with an episode of peracute vomiting and abdominal pain. Ultrasound and computed tomography (CT) examination revealed an abnormally positioned and distended gallbladder with a thickened gallbladder wall. A presumptive diagnosis of gallbladder torsion was made and subsequently confirmed during laparotomy. Although uncommon, gallbladder torsion should be considered a differential diagnosis in feline patients with clinical",
-      "category": "imaging",
+      "id": "43100950",
+      "title": "Development and application of a quadruplex nanoplate-based RT-dPCR assay for the simultaneous detection of canine parvovirus, canine coronavirus, canine distemper virus, and giant panda rotavirus in captive giant pandas.",
+      "authors": "Wang H, Zheng J, Zhang J, Ling S, Wang M",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100950/",
+      "abstract": "Infection with canine coronavirus (CCoV), canine distemper virus (CDV), canine parvovirus (CPV), and giant panda rotavirus (GPRV) poses important threats to the conservation of giant pandas, especially in juveniles. Given that mixed infections of these viruses are common in giant panda populations, early and accurate differential diagnosis is essential. To detect these four viruses simultaneously, we developed a one-step quadruplex reverse transcription digital PCR (RT-dPCR) assay and compared i",
+      "category": "other",
+      "summary_ko": ""
+    },
+    {
+      "id": "43100903",
+      "title": "Caring for those who care: a scoping review of existing welfare assessment tools for assistance dogs.",
+      "authors": "Bassan E, De Santis M, Contalbrigo L, Weissenbacher K, Huber L",
+      "journal": "Front Vet Sci",
+      "date": "2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43100903/",
+      "abstract": "Assistance dogs (ADs) perform trained tasks that improve the independence of people with disabilities, yet their own welfare has received comparatively little scientific attention. These dogs live and work across highly variable environments and face demands that companion dogs do not, making their welfare strongly context-dependent and potentially subject to change throughout different stages of training and working life. Reliable, context-sensitive assessment tools are therefore needed, but th",
+      "category": "other",
       "summary_ko": ""
     },
     {
@@ -1097,17 +1108,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43041306/",
       "abstract": "Chronic enteropathy (CE) is common in dogs, and hydrolyzed protein diets are a mainstay of management, particularly in food-responsive enteropathy. Evidence for exclusive feeding of highly hydrolyzed fish-protein diets in client-owned dogs with high clinical activity scores remains limited. This pilot study does not claim that enrolled dogs had failed a previous hydrolyzed-protein trial. Ten client-owned dogs with severe CE (Canine Inflammatory Bowel Disease Activity Index [CIBDAI]&#x202f;&#x226",
       "category": "internal",
-      "summary_ko": ""
-    },
-    {
-      "id": "43032204",
-      "title": "Case Report: (18)F-FDG PET/CT for precision assessment of tumor aggressiveness in canine subcutaneous leiomyosarcoma.",
-      "authors": "Chae Y, Lee D, Koo Y, Yun T, Kim H",
-      "journal": "Front Vet Sci",
-      "date": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43032204/",
-      "abstract": "A 9-year-old intact male Alaskan Malamute was presented with a hemorrhagic, ulcerative skin lesion on the right elbow. Cytological examination revealed bacterial infection and atypical epithelioid-appearing cells exhibiting anisocytosis and anisokaryosis; however, mesenchymal neoplastic cells were not identified. Despite antimicrobial therapy, the lesion progressed rapidly. Histopathological examination of the biopsy specimen was consistent with a grade 2 soft tissue sarcoma; however, the clinic",
-      "category": "orthopedics",
       "summary_ko": ""
     }
   ]
